@@ -1,0 +1,6 @@
+#--------------------------------------------------------------
+# Configuration overrides for JEKYLL_ENV=docker
+#--------------------------------------------------------------
+# Work around a known issue with broken URLs:
+# See https://stackoverflow.com/questions/57933583/broken-urls-in-jekyll-in-docker
+url: ""

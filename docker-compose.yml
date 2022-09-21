@@ -1,0 +1,16 @@
+---
+#-------------------------------------------------------------------------------
+# Docker development environment composition for the ereefs.github.io website
+#-------------------------------------------------------------------------------
+version: "3.8"
+
+services:
+  ereefs-github-io:
+    build: .
+    image: ereefs/ereefs-github-io
+    container_name: ereefs-github-io
+    volumes:
+      - ./docs/:/srv/jekyll/
+      - ./start-jekyll-server.sh:/start-jekyll-server.sh
+    ports:
+      - "4000:4000"

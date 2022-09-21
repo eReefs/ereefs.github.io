@@ -1,0 +1,13 @@
+aux_links_new_tab: true
+aux_links: {}
+back_to_top: true
+back_to_top_text: "Back to top"
+description: "Landing page for the eReefs Collaboration"
+exclude: []
+heading_anchors: true
+last_edit_timestamp: false
+markdown: kramdown
+plugins: []
+theme: minima
+search_enabled: true
+title: eReefs
