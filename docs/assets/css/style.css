@@ -1,1 +1,11 @@
-@import "{{ site.theme }}";
+/*@import "{{ site.theme }}";*/
+main {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   font-style: normal;
+}
+h1, h2, h3 {
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-weight: 700;
+   font-style: normal;
+}
