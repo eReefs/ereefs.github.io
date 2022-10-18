@@ -5,7 +5,10 @@ WORKDIR /srv/jekyll
 
 # Add the additional gems we depend on.
 RUN gem install \
+    github-pages \
     jekyll-include-cache \
+    jekyll-remote-theme \
+    minimal-mistakes-jekyll \
     webrick
 
 # Copy in all the content files

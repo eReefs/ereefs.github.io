@@ -7,7 +7,9 @@ exclude: []
 heading_anchors: true
 last_edit_timestamp: false
 markdown: kramdown
-plugins: []
-theme: minima
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 search_enabled: true
 title: eReefs
