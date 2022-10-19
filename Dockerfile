@@ -22,4 +22,5 @@ COPY ./start-jekyll-server.sh /
 RUN chmod 0755 /start-jekyll-server.sh
 
 ENV JEKYLL_ENV="docker"
-CMD /start-jekyll-server.sh
+CMD jekyll server --config "_config.yml,_config_docker.yml" --port "4000" --livereload
+
