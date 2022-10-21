@@ -13,6 +13,4 @@ eReefs, which commenced in January 2012, is a six year $30 million collaborative
 
 Using the latest technologies to collate data, and new and integrated modelling, eReefs will produce powerful visualisation, communication and reporting tools. It will provide for the Reef information akin to that provided by the Bureau of Meteorology for weather. This information will benefit government agencies, Reef managers, policy makers, researchers, industry and local communities.
 
-![Figure 1. Snapshot from near real-time hydrodynamic model of the Great Barrier Reef showing sea-surface salinity and surface currents.][model]
-
-[model]: /assets/model-salinity-currents.jpg "Figure 1. Snapshot from near real-time hydrodynamic model of the Great Barrier Reef showing sea-surface salinity and surface currents."
+{% include figure image_path="/assets/images/model-salinity-currents.jpg" alt="Figure 1. Snapshot from near real-time hydrodynamic model of the Great Barrier Reef showing sea-surface salinity and surface currents." caption="Figure 1. Snapshot from near real-time hydrodynamic model of the Great Barrier Reef showing sea-surface salinity and surface currents." %}

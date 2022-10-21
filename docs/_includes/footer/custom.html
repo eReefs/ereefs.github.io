@@ -1,0 +1,10 @@
+<div class="ereefs-footer page__content">
+	<h2>eReefs is a collaboration between</h2>
+	<div class="logo-container">{% for collaborator in site.collaborators %}
+      <img src="{{ collaborator.small_logo_url }}">{% endfor %}
+   </div>
+	<h2>Supported by funding from</h2>
+	<div class="logo-container">{% for supporter in site.funding %}
+      <img src="{{ supporter.small_logo_url }}">{% endfor %}
+   </div>
+</div>

@@ -15,4 +15,4 @@ Building on and integrating a variety of critical data inputs, the eReefs tools 
 
 Ultimately, through the selective mobilisation of eReefs tools and specific interrogation of eReefs data, a range of services tailored to the specific needs of users, managers and policy makers can be delivered covering incident response, forecasting, scenario modelling as well as reporting and communication.
 
-![overview.](/assets/images/platform/image5-680x668.png "overview")
+{% include figure image_path="/assets/images/platform/image5-680x668.png" alt="overview" caption="overview" %}
