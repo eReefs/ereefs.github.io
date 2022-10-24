@@ -8,7 +8,7 @@ main:
   - title: "Research"
     url: /platform/
   - title: "Contact"
-    url: /contact/
+    url: https://research.csiro.au/ereefs/contact/
 
 platform:
   - title: "Overview"

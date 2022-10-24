@@ -9,6 +9,13 @@ p {
    font-weight: 700;
    font-style: normal;
 }
+/* ereefs colors
+- Dark (primary): `#0F528C`
+- Light (secondary): `#55A6D9`
+} */
+.page__footer {
+   background-color: #0F528C;
+}
 .ereefs-footer {
     clear: both;
     color: #FFFFFF;
