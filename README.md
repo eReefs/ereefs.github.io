@@ -4,10 +4,11 @@ This repository holds the content for the shared eReefs Platform website with ov
 
 ## Website Content
 
-All files related to the content and styling of this website are in the [./docs](./docs/) folder of this repository.
+All files related to the content and styling of this website are in the [./docs](./docs/) folder of this repository.  These pages also uses a remote-theme: Minimal Mistakes.  Please refer to the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for more information about using this Jekyll theme.
 
 We use [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and [kramdown-style MarkDown](https://kramdown.gettalong.org/documentation.html) for the content of this website.
 
+---
 
 ## Dockerised Local Development Environment setup
 

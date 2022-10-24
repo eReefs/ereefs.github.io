@@ -16,8 +16,6 @@ atom_feed:
   hide: true
 title: eReefs
 logo: "/assets/images/ereefs_logo.png"
-include: ["_pages"]
 collections:
   - collaborators
   - funding
-  - products

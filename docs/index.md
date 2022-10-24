@@ -24,15 +24,8 @@ gallery:
     alt: "AIMS eReefs Visualisation Portal"
 ---
 {% include video id="CpNlev-YFDE" provider="youtube" type="half" %}
-<!-- <iframe class="grid__item" width="667" height="420" src="https://www.youtube-nocookie.com/embed/CpNlev-YFDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 {% include video id="_L99gaUPdhg" provider="youtube" type="half" %}
-<!-- <iframe class="grid__item" width="667" height="420" src="https://www.youtube-nocookie.com/embed/_L99gaUPdhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
 # Powered by eReefs
 {: .text-center}
 {% include gallery id="gallery" %}
-
-<!-- 
-## Powered by eReefs
-{% for product in site.products %}
-  {{ product.content }}
-{% endfor %} -->
