@@ -4,9 +4,11 @@ This repository holds the content for the shared eReefs Platform website with ov
 
 ## Website Content
 
-All files related to the content and styling of this website are in the [./docs](./docs/) folder of this repository.  These pages also uses a remote-theme: Minimal Mistakes.  Please refer to the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for more information about using this Jekyll theme.
+All files related to the content and styling of this website are in the [./docs](./docs/) folder of this repository.  We use [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and [kramdown-style MarkDown](https://kramdown.gettalong.org/documentation.html) for the content of this website.
 
-We use [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and [kramdown-style MarkDown](https://kramdown.gettalong.org/documentation.html) for the content of this website.
+These pages also makes use of the remote-theme: Minimal Mistakes.  Please refer to the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for more information about using this theme.
+
+MarkDown pages created in the ./docs folder will be converted to .html files by Jekyll and published in the ./docs/_site/ folder.  Changes to navigation bar and side bars can be done by modifying the [navigation.yml](./docs/_data/navigation.yml) file where navigation structures are stored.
 
 ---
 
