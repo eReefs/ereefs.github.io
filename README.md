@@ -8,7 +8,9 @@ All files related to the content and styling of this website are in the [./docs]
 
 These pages also makes use of the remote-theme: Minimal Mistakes.  Please refer to the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for more information about using this theme.
 
-MarkDown pages created in the ./docs folder will be converted to .html files by Jekyll and published in the ./docs/_site/ folder.  Changes to navigation bar and side bars can be done by modifying the [navigation.yml](./docs/_data/navigation.yml) file where navigation structures are stored.
+MarkDown pages created in the ./docs folder will be converted to .html files by Jekyll and published in the ./docs/_site/ folder.  All folders without an underscore prefix will be copied with MarkDown files within these converted to /_site/folder/filename.html.  For example [./docs/platform/catchment-flow-and-wq-forecasting.md](/docs/platform/catchment-flow-and-wq-forecasting.md) will be converted to /_site/platform/catchment-flow-and-wq-forecasting.html
+
+Changes to navigation bar and side bars can be done by modifying the [navigation.yml](./docs/_data/navigation.yml) file where navigation structures are stored.
 
 ---
 
