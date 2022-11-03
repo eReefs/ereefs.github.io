@@ -10,6 +10,7 @@ markdown: kramdown
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-redirect-from
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air" #, "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 atom_feed:
