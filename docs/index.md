@@ -23,8 +23,8 @@ gallery:
     image_path: /assets/images/products/aims-ereefs.png
     alt: "AIMS eReefs Visualisation Portal"
 ---
-{% include video id="CpNlev-YFDE" provider="youtube" type="half" %}
-{% include video id="_L99gaUPdhg" provider="youtube" type="half" %}
+{% include video id="CpNlev-YFDE?rel=0" provider="youtube" type="half" %}
+{% include video id="_L99gaUPdhg?rel=0" provider="youtube" type="half" %}
 
 # Powered by eReefs
 {: .text-center}
