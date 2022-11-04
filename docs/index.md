@@ -8,7 +8,8 @@ header:
   overlay_image: /assets/images/ereefs_header_0937_q60.jpg
   caption: "Photography by Gary Cranitch, Queensland Museum"
 excerpt: "a world-first delivering vital information about the entire Great Barrier Reef from catchment to ocean"
-
+redirect_from: 
+  - /ereefs/
 gallery:
   - url: https://research.csiro.au/ereefs/
     image_path: /assets/images/products/CSIRO-eReefs-Research-2016-400x360.jpg

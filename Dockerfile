@@ -7,6 +7,7 @@ WORKDIR /srv/jekyll
 RUN gem install \
     github-pages \
     jekyll-include-cache \
+    jekyll-redirect-from \
     jekyll-remote-theme \
     minimal-mistakes-jekyll \
     webrick
