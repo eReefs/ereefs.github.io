@@ -2,6 +2,7 @@
 name: Bureau of Meteorology
 logo_url: /assets/images/partners/BoM_0-412x100.png
 small_logo_url: /assets/images/logos/BoM-210x51.png
+link_url: http://www.bom.gov.au/
 ---
 The Bureau of Meteorology is developing real time catchment and marine forecast models to simulate a range of physical and water quality processes across the Great Barrier Reef. These systems will provide short term forecasts of water conditions to support tactical decision making of a range of stakeholders. The first eReefs product known as the Marine Water Quality Dashboard is live on our website and provides ready access to the most up to date water quality monitoring across the Great Barrier Reef.
 

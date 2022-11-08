@@ -11,13 +11,22 @@ header:
 # Collaborators
 {% for collaborator in site.collaborators %}
 ## {{ collaborator.name }}
+  {% if collaborator.link_url %}
+  [![image-left]({{ collaborator.logo_url }})]({{ collaborator.link_url }}){: .align-left}
+  {% else %}
+  ### hello
   ![image-left]({{ collaborator.logo_url }}){: .align-left}
+  {% endif %}
   {{ collaborator.content }}
 {% endfor %}
 
 # Supported by funding from
 {% for supporter in site.funding %}
 ## {{ supporter.name }}
+  {% if supporter.link_url %}
+  [![image-left]({{ supporter.logo_url }})]({{ supporter.link_url }}){: .align-left}
+  {% else %}
   ![image-left]({{ supporter.logo_url }}){: .align-left}
-  {{ supporter.content }}
+  {% endif %}
+{{ supporter.content }}
 {% endfor %}
