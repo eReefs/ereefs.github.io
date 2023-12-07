@@ -1,7 +1,7 @@
 ---
 name: Australian Government
 logo_url: /assets/images/partners/Aus-Gov_0-199x100.png
-small_logo_url: /assets/images/logos/Aus-Gov-159x80.png
+small_logo_url: /assets/images/partners/Aus-Gov-159x80.png
 ---
 The management and protection of the Great Barrier Reef is an ongoing priority of the Australian Government. Considerable investment has been made to advance our knowledge of the Reef ecosystem, which has informed the targeting of decades of investment on actions to address key pressures and risks.
 
