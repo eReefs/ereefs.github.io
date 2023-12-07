@@ -133,8 +133,8 @@ blockquote {
 
 body {
   background-color:#cfdce8;
-  color: #212529;  /* ereefs very dark */
-  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  color: #212529;  /* ereefs-dark-text */
+  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
   font-size: 1rem;
   font-weight: normal;
   max-width: 1500px;
@@ -160,7 +160,7 @@ code,
 kbd,
 samp,
 var {
-  font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif;
+  font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif !important;
   font-size: 1em;
 }
 
@@ -197,8 +197,8 @@ form {
 
 h1,h2,h3,h4,h5,h6 {
   color: inherit;
-  font-family: 'Open Sans Condensed','Open Sans',sans-serif;
-  font-weight: 400;
+  font-family: 'Open Sans Condensed','Open Sans',sans-serif !important;
+  font-weight: bold;
   font-style: normal;
   letter-spacing: -.23px;
   line-height: 1.4;
@@ -249,7 +249,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   background-color: #cfdce8;  /* ereefs-grey-light */
-  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
   font-weight: 400;
   font-size: 75%;   /* Of the browser-default size, usually 16px => 12px */
   line-height: 1.5em;
