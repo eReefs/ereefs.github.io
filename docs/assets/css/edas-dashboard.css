@@ -1,0 +1,63 @@
+/**
+ * edas-dashboard.css
+ *
+ * eReefs visual identity for CSIRO's Environmental Data Application Stack (EDAS) Dashboards
+ *
+ */
+
+:root {
+    --primary: #55A6D9;
+    --secondary: #0F528C;
+    --dark: #0F528C;
+    --bg-dark: #0F528C !important;
+    --info: #CBFDFF;
+}
+
+.bg-dark,
+.FooterBarSticky___2HjXX {
+    background-color: #0F528C !important;
+}
+
+.btn-secondary {
+    background-color: #0F528C !important;
+    border-color: #0F528C !important;
+}
+
+.btn-primary {
+    background-color: #55A6D9;
+    border-color: #55A6D9;
+}
+
+.alert-secondary, .alert-info {
+    color: #163a59;
+    background-color: #cfdce8;
+    border-color: #bccfdf;
+}
+
+.alert-secondary a, .alert-info a {
+    color: #55A6D9;
+}
+
+body {
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.HomePage {
+    background-image: url(../images/backgrounds/hardy-reef.jpg);
+}
+
+.bg-dark {
+    color: #FFF;
+}
+
+.btn {
+    font-weight: 400 !important;
+}
+
+.leaflet-draw-toolbar a, .leaflet-draw-toolbar a:hover, .leaflet-control-zoom a, .leaflet-control-zoom a:hover, .leaflet-draw-actions a, .leaflet-draw-actions a:hover {
+    color: #FFF !important;
+}

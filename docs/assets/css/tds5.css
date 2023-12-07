@@ -1,0 +1,195 @@
+/**
+ * tds5.css
+ *
+ * eReefs visual identity for the THREDDS Data Server v5.x Catalog and Dataset pages.
+ *
+ */
+
+@import "./ereefs-reset.css";
+
+
+html, body {
+    height:100%;
+    margin: 0;
+    padding: 0;
+}
+
+div#header, div#footer {
+    border-style: none;
+    box-sizing: border-box;
+    background-color: #0F528C;   /* ereefs dark */
+    color: #FFFFFF;
+    left: 0px;
+    overflow: hidden;
+    padding: 3px 20px;
+    position: absolute;
+    right: 0px;
+}
+
+div#header {
+    top: 0px;
+    margin-bottom: 8px;
+}
+
+div#footer {
+    bottom: 0px;
+}
+
+.header-logo {
+   display: none;
+}
+
+.header-info {
+   margin-left: 75px;
+   padding-top: 3px;
+}
+.header-info a {
+   background-image: url(../images/logos/ereefs_logo.svg);
+   background-repeat: no-repeat;
+   background-size: 80px 80px;
+   background-position: 10px 10px;
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 2rem;
+   height: 100px;
+   line-height: 100px;
+   padding-left: 100px;
+   text-decoration: none;
+}
+
+#footer-buffer, #header-buffer {
+    background-color:  transparent;
+    margin-top: 4px;
+}
+
+#footer a.static,
+#footer a.static:visited,
+.banner a.static,
+.banner a.static:visited
+{
+    color: #cbfdff; /*ereefs light */
+}
+
+div.container {
+    background-color: #cfdce8;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+    padding: 10px 50px;
+    box-sizing: border-box;
+}
+
+div.container > div.button {
+   background-color: transparent;
+}
+
+.banner {
+  padding: 10px 20px;
+  background-color: #cbfdff;  /* eReefs light */
+  border: 1px solid #0F528C;  /* ereefs secondary */
+}
+
+.banner a.static,
+.banner a.static:visited {
+   color: #0F528C;  /* ereefs secondary */
+ }
+
+div.section-header {
+   background-color: #0F528C;  /* ereefs secondary */
+   border: 1px solid #0F528C;  /* ereefs secondary */
+   padding: 5px;
+   color: #FFFFFF;
+   font-size: 14pt;
+   font-weight: bold;
+}
+
+div.section-content {
+   background-color: #FFFFFF;
+   border: 1px solid #0F528C;  /* ereefs secondary */
+   padding: 5px 10px;
+}
+
+div.content {
+   margin-top: 8px;
+   border: 1px solid #CFCFCF;
+   background-color: #FFFFFF;
+}
+
+div.button {
+   text-align: right;
+   padding: 5px;
+}
+
+.button-pane {
+   margin-top: 10px;
+   overflow: hidden;
+   background-color: #0F528C;  /* ereefs secondary */
+}
+
+.tab-button {
+   background-color: #0F528C;  /* ereefs secondary */
+   padding: 8px;
+   font-size: 14pt;
+   font-weight: bold;
+   float:left;
+   color: #FFFFFF;
+}
+
+.tab-button:hover {
+   cursor: pointer;
+   background-color: #55A6D9;  /* ereefs-primary */
+   border: 1px solid #0F528C;  /* ereefs secondary */
+}
+
+.tab-button.active {
+   background-color: #55A6D9;  /* ereefs-primary */
+   border: 1px solid #0F528C;  /* ereefs secondary */
+}
+
+.tab-content {
+   background-color: #FFFFFF;
+   display: none;
+   padding: 5px 10px;
+   border: 1px solid #0F528C;  /* ereefs secondary */
+   min-height: 120px;
+}
+
+.tab-container {
+   background-color: #55A6D9;  /* ereefs-primary */
+}
+
+table.property-table {
+   padding: 10px;
+}
+
+table.property-table > tbody > tr > td {
+   border: 1px solid #0F528C;   /* ereefs dark */;
+   padding: 2px 5px;
+}
+
+tr.subset > td:first-child:hover {
+   background-color: #cfdce8;
+}
+
+
+tr.subset > td:first-child > img {
+   display: none;
+}
+
+tr.subset > td:first-child > img[src="/thredds/folder.png"] + a {
+   background-image: url(../images/icons/folder.png);
+   background-repeat: no-repeat;
+   background-size: 32px 32px;
+   display: inline-block;
+   line-height: 32px;
+   padding-left: 40px;
+}
+
+tr.subset > td:first-child > img[src="/thredds/scan_folder.png"] + a {
+   background-image: url(../images/icons/scan_folder.png);
+   background-repeat: no-repeat;
+   background-size: 32px 32px;
+   display: inline-block;
+   line-height: 32px;
+   padding-left: 40px;
+}

@@ -1,3 +1,7 @@
+/*
+  Top-level stylesheet for the ereefs.org.au website
+*/
+
 /*@import "{{ site.theme }}";*/
 p {
    font-family: 'Roboto', sans-serif;

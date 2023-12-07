@@ -16,7 +16,7 @@ minimal_mistakes_skin: "air" #, "default", "aqua", "contrast", "dark", "dirt", "
 atom_feed:
   hide: true
 title: eReefs
-logo: "/assets/images/ereefs_logo.png"
+logo: "/assets/images/logos/ereefs_logo.svg"
 collections:
   - collaborators
   - funding

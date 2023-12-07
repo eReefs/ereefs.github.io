@@ -1,0 +1,30 @@
+/*
+  eReefs visual identity for Grafana Dashboards
+*/
+
+div.css-1peyh2t {
+    background-color: #0F528C;
+    color: #ffffff;
+	height: 39px;
+	line-height: 39px;
+	padding-left: 16px;
+	width: 100%;
+}
+
+div[data-testid="wrapper"] a[href="/"]:before{
+	background-image: url(../images/logos/ereefs_logo.svg);
+	background-repeat: no-repeat;
+	background-size: 30px 30px;
+	background-position: 0px 5px;
+    color: #ffffff;
+	content: 'eReefs Monitoring';
+	display: inline-block;
+	font-size: 1.25rem;
+	height: 39px;
+	line-height: 39px;
+    padding-left: 52px
+}
+
+a[href="/"] img{
+    display: none;
+}
