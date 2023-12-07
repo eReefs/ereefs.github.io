@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Relocatable fine scale coastal models (RECOM)
 header:
-  overlay_image: /assets/images/ereefs_header_8243_q60.jpg
+  overlay_image: /assets/images/backgrounds/ereefs_header_8243_q60.jpg
   caption: "Photography by Gary Cranitch, Queensland Museum"
 sidebar:
    nav: "platform"

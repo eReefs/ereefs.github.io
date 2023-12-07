@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Remote Sensing and Water Quality
 header:
-  overlay_image: /assets/images/ereefs_header_8243_q60.jpg
+  overlay_image: /assets/images/backgrounds/ereefs_header_8243_q60.jpg
   caption: "Photography by Gary Cranitch, Queensland Museum"
 sidebar:
    nav: "platform"
@@ -17,4 +17,3 @@ The Dashboard enables access to near real-time data on sea surface temperatures,
 [Marine Water Quality Dashboard brochure](../e-reefs_marine_water_quality_info_sheet.pdf)
 
 {% include figure image_path="/assets/images/platform/chlorophyll-2013-wet-season.jpg" alt="An example image from the Dashboard showing chlorophyll concentration values for the 2013 wet season." caption="An example image from the Dashboard showing chlorophyll concentration values for the 2013 wet season." %}
-

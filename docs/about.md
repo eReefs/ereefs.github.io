@@ -3,7 +3,7 @@ layout: single
 title: About eReefs
 permalink: /about/
 header:
-  overlay_image: /assets/images/ereefs_header_2688_q60.jpg
+  overlay_image: /assets/images/backgrounds/ereefs_header_2688_q60.jpg
   caption: "Photography by Gary Cranitch, Queensland Museum"
 ---
 

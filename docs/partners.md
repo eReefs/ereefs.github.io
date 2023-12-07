@@ -5,7 +5,7 @@ toc_sticky: true
 title: Partners
 permalink: /partners/
 header:
-  overlay_image: /assets/images/ereefs_header_2253_q75.jpg
+  overlay_image: /assets/images/backgrounds/ereefs_header_2253_q75.jpg
   caption: "Photography by Gary Cranitch, Queensland Museum"
 ---
 # Collaborators
