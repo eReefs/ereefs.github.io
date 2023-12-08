@@ -10199,7 +10199,7 @@
 }
 
 .swagger-ui .expand-methods svg {
-  fill: #707070;
+  fill: #707070;  /* ereefs-dark-grey */
   transition: all .3s
 }
 
@@ -10710,7 +10710,7 @@
 }
 
 .swagger-ui section.models h5 {
-  color: #707070;
+  color: #707070;  /* ereefs-dark-grey */
   font-family: sans-serif;
   font-size: 16px;
   margin: 0 0 10px
@@ -11379,18 +11379,18 @@
 /* -------------- START STYLES OVERRIDE ----------- */
 
 a {
-  color: #0f528c !important;
+  color: #0f528c !important;  /* ereefs-dark-blue */
 }
 .swagger-ui .opblock.opblock-get,
 .swagger-ui .opblock.opblock-get .opblock-summary {
-  border-color: #0f528c;
+  border-color: #0f528c;  /* ereefs-dark-blue */
 }
 .swagger-ui .opblock.opblock-get .opblock-summary-method {
-  background: #0f528c;
+  background: #0f528c;  /* ereefs-dark-blue */
 }
 .swagger-ui .btn.execute {
-  border-color: #0f528c;
-  background: #0f528c;
+  border-color: #0f528c;  /* ereefs-dark-blue */
+  background: #0f528c;    /* ereefs-dark-blue */
 }
 .swagger-ui .markdown code, .swagger-ui .renderedMarkdown code {
   color: #008A94;

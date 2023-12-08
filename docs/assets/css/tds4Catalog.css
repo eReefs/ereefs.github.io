@@ -13,7 +13,7 @@
 
 /* Banner */
 body > h1:first-child {
-    background-color: #0F528C;   /* ereefs dark */
+    background-color: #0F528C;   /* ereefs-dark-blue */
     background-image: url(../images/logos/ereefs_logo.svg);
     background-repeat: no-repeat;
     background-size: 80px 80px;
@@ -44,7 +44,7 @@ body > h1:first-child:before {
 
 /* Footer */
 body > h3:last-child {
-    background-color: #0F528C;   /* ereefs dark */
+    background-color: #0F528C;   /* ereefs-dark-blue */
     color: #FFFFFF;
     margin : 0;
     padding: 1em;
@@ -52,7 +52,7 @@ body > h3:last-child {
 
 body > h3:last-child a,
 body > h3:last-child a:visited {
-    color: #cbfdff; /*ereefs light */
+    color: #cbfdff;  /* ereefs-lightest-blue */
 }
 
 /* folder icons */
@@ -74,5 +74,5 @@ tr > td:first-child > img[src="/thredds/folder.gif"] + a {
  }
 
  tr > td:first-child:hover {
-    background-color: #cfdce8;
+    background-color: #cfdce8;  /* ereefs-light-grey */
  }

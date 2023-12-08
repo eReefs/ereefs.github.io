@@ -18,7 +18,7 @@ body > p:first-child {
 
 body > h2 {
     box-sizing: border-box;
-    background-color: #0F528C;   /* ereefs dark */
+    background-color: #0F528C;   /* ereefs-dark-blue */
     color: #FFFFFF;
     margin: 0 -1rem;
     overflow: hidden;

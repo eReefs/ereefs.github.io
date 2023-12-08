@@ -138,7 +138,7 @@ body > * {
 }
 
 body:before {
-	background-color: #0F528C;
+	background-color: #0F528C;  /* ereefs-dark-blue */
 	background-image: url(../images/logos/ereefs_logo.svg);
 	background-repeat: no-repeat;
 	background-size: 40px 40px;
@@ -159,7 +159,7 @@ body > img:first-child {
 
 body > h1:first-of-type {
     color: #163a59;
-    background-color: #cfdce8;
+    background-color: #cfdce8;  /* ereefs-light-grey */
     padding: 1rem 1.5rem;
 }
 
@@ -179,7 +179,7 @@ body > ul {
 
 body > h3:last-of-type,
 body > xhtml > h3:last-of-type {
-    background-color: #0F528C;
+    background-color: #0F528C;  /* ereefs-dark-blue */
     color:white;
     padding: 1rem 1.5rem;
 }

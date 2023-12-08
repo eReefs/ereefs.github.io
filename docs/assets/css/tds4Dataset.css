@@ -23,7 +23,7 @@ body > table:first-child {
    width: 100%
 }
 body > table:first-child td {
-   background-color: #0F528C;   /* ereefs dark */
+   background-color: #0F528C;   /* ereefs-dark-blue */
    border-spacing: 0px;
    color: #FFFFFF;
    height: 100px;

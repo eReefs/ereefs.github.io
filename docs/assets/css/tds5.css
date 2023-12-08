@@ -17,7 +17,7 @@ html, body {
 div#header, div#footer {
     border-style: none;
     box-sizing: border-box;
-    background-color: #0F528C;   /* ereefs dark */
+    background-color: #0F528C;   /* ereefs-dark-blue */
     color: #FFFFFF;
     left: 0px;
     overflow: hidden;
@@ -67,11 +67,11 @@ div#footer {
 .banner a.static,
 .banner a.static:visited
 {
-    color: #cbfdff; /*ereefs light */
+    color: #cbfdff; /* ereefs-lightest-blue */
 }
 
 div.container {
-    background-color: #cfdce8;
+    background-color: #cfdce8;  /* ereefs-light-grey */
     min-height: 100%;
     width: 100%;
     position: relative;
@@ -85,18 +85,18 @@ div.container > div.button {
 
 .banner {
   padding: 10px 20px;
-  background-color: #cbfdff;  /* eReefs light */
-  border: 1px solid #0F528C;  /* ereefs secondary */
+  background-color: #cbfdff;  /* ereefs-lightest-blue */
+  border: 1px solid #0F528C;  /* ereefs-dark-blue */
 }
 
 .banner a.static,
 .banner a.static:visited {
-   color: #0F528C;  /* ereefs secondary */
+   color: #0F528C;  /* ereefs-dark-blue */
  }
 
 div.section-header {
-   background-color: #0F528C;  /* ereefs secondary */
-   border: 1px solid #0F528C;  /* ereefs secondary */
+   background-color: #0F528C;  /* ereefs-dark-blue */
+   border: 1px solid #0F528C;  /* ereefs-dark-blue */
    padding: 5px;
    color: #FFFFFF;
    font-size: 14pt;
@@ -105,7 +105,7 @@ div.section-header {
 
 div.section-content {
    background-color: #FFFFFF;
-   border: 1px solid #0F528C;  /* ereefs secondary */
+   border: 1px solid #0F528C;  /* ereefs-dark-blue */
    padding: 5px 10px;
 }
 
@@ -123,11 +123,11 @@ div.button {
 .button-pane {
    margin-top: 10px;
    overflow: hidden;
-   background-color: #0F528C;  /* ereefs secondary */
+   background-color: #0F528C;  /* ereefs-dark-blue */
 }
 
 .tab-button {
-   background-color: #0F528C;  /* ereefs secondary */
+   background-color: #0F528C;  /* ereefs-dark-blue */
    padding: 8px;
    font-size: 14pt;
    font-weight: bold;
@@ -137,25 +137,25 @@ div.button {
 
 .tab-button:hover {
    cursor: pointer;
-   background-color: #55A6D9;  /* ereefs-primary */
-   border: 1px solid #0F528C;  /* ereefs secondary */
+   background-color: #55A6D9;  /* ereefs-light-blue */
+   border: 1px solid #0F528C;  /* ereefs-dark-blue */
 }
 
 .tab-button.active {
-   background-color: #55A6D9;  /* ereefs-primary */
-   border: 1px solid #0F528C;  /* ereefs secondary */
+   background-color: #55A6D9;  /* ereefs-light-blue */
+   border: 1px solid #0F528C;  /* ereefs-dark-blue */
 }
 
 .tab-content {
    background-color: #FFFFFF;
    display: none;
    padding: 5px 10px;
-   border: 1px solid #0F528C;  /* ereefs secondary */
+   border: 1px solid #0F528C;  /* ereefs-dark-blue */
    min-height: 120px;
 }
 
 .tab-container {
-   background-color: #55A6D9;  /* ereefs-primary */
+   background-color: #55A6D9;  /* ereefs-light-blue */
 }
 
 table.property-table {
@@ -163,12 +163,12 @@ table.property-table {
 }
 
 table.property-table > tbody > tr > td {
-   border: 1px solid #0F528C;   /* ereefs dark */;
+   border: 1px solid #0F528C;   /* ereefs-dark-blue */
    padding: 2px 5px;
 }
 
 tr.subset > td:first-child:hover {
-   background-color: #cfdce8;
+   background-color: #cfdce8;  /* ereefs-light-grey */
 }
 
 

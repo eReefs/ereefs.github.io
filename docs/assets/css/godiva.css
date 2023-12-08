@@ -212,7 +212,7 @@ table td {
 
 /* Inject a custom header row */
 #godiva3-main:before {
-	background-color: #0F528C;
+	background-color: #0F528C;  /* ereefs-dark-blue */
 	background-image: url(../images/logos/ereefs_logo.svg);
 	background-repeat: no-repeat;
 	background-size: 40px 40px;
@@ -234,7 +234,7 @@ table td {
 /* left-hand column */
 #godiva3-main > div > div > table > tbody > tr:first-child > td:first-child {
 	color: #163a59;
-	background-color: #cfdce8;
+	background-color: #cfdce8;  /* ereefs-light-grey */
 	border-color: #bccfdf;
 }
 

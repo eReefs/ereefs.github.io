@@ -60,7 +60,7 @@ template,
 a,
 a:link,
 a:visited {
-  color: #0F528C;   /* ereefs-secondary */
+  color: #0F528C;   /* ereefs-dark-blue */
   font-family: inherit;
   text-decoration: none;
   -webkit-text-decoration-skip: objects;
@@ -68,13 +68,13 @@ a:visited {
 
 a:hover,
 a:focus {
-  color: #55A6D9; /* ereefs-primary */
+  color: #55A6D9; /* ereefs-light-blue */
   font-family: inherit;
   text-decoration: underline;
 }
 
 a:active {
-  color: #55A6D9; /* ereefs-primary */
+  color: #55A6D9; /* ereefs-light-blue */
   font-family: inherit;
   text-decoration: none;
 }
@@ -133,10 +133,10 @@ blockquote {
 
 body {
   background-color:#cfdce8;
-  color: #212529;  /* ereefs very dark */
-  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  color: #212529;  /* ereefs-darkest-blue */
+  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
   font-size: 1rem;
-  font-weight: normal;
+  font-weight: 400;
   max-width: 1500px;
   margin: 0 auto;
   padding: 0 1rem 1rem;
@@ -160,7 +160,7 @@ code,
 kbd,
 samp,
 var {
-  font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif;
+  font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif !important;
   font-size: 1em;
 }
 
@@ -182,7 +182,7 @@ dfn {
 
 fieldset {
   padding: 0.525rem 0.9375rem 0.975rem;
-  border: 1px solid #0F528C;  /* ereefs-secondary */
+  border: 1px solid #0F528C;  /* ereefs-dark-blue */
   margin: 0 2px;
   padding: .5em .625em 1em;
 }
@@ -197,43 +197,41 @@ form {
 
 h1,h2,h3,h4,h5,h6 {
   color: inherit;
-  font-family: 'Open Sans Condensed','Open Sans',sans-serif;
-  font-weight: 400;
+  font-family: 'Open Sans Condensed','Open Sans',sans-serif !important;
+  font-weight: bold;
   font-style: normal;
-  letter-spacing: -.23px;
   line-height: 1.4;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 1.5rem;    /* 18px */
+  font-size: 1.5rem;    /* 24px */
 }
 
 h2 {
-
-  font-size: 1.33333rem; /* 16px */
+  font-size: 1.25rem;   /* 20px */
 }
 
 h3 {
-  font-size: 1.16667rem;  /* 14px */
+  font-size: 1.125rem;  /* 18px */
 }
 
 h4 {
-  font-size: 1rem;        /* 12 px */
+  font-size: 1rem;      /* 16 px */
 }
 
 h5 {
-  font-size: 0.83333rem;  /* 10px */
+  font-size: 0.875rem;  /* 14px */
 }
 
 h6 {
-  font-size: 0.66667rem;  /* 8px */
+  font-size: 0.75rem;  /* 12px */
 }
 
 hr,
 .divider {
   border-bottom-style: none;
-  border-top: 1px solid #707070; /* ereefs-grey-dark */
+  border-top: 1px solid #707070; /* ereefs-dark-grey */
   box-sizing: content-box;
   height: 0;
   margin: 1.5rem 0;
@@ -248,10 +246,10 @@ hr,
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background-color: #cfdce8;  /* ereefs-grey-light */
-  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  background-color: #cfdce8;  /* ereefs-light-grey */
+  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
   font-weight: 400;
-  font-size: 75%;   /* Of the browser-default size, usually 16px => 12px */
+  font-size: 100%;   /* Of the browser-default size, usually 16px */
   line-height: 1.5em;
   margin: 0;
   min-height: 100%;
@@ -322,7 +320,7 @@ legend {
   display: table;
   max-width: 100%;
   white-space: normal;
-  color: #0F528C;  /* ereefs-secondary */
+  color: #0F528C;  /* ereefs-dark-blue */
   margin-left: -5px;
   padding: 0 5px;
 }
@@ -449,7 +447,7 @@ button,
   -moz-appearance: button;
   -webkit-appearance: button;
   border: 1px solid transparent;
-  background-color: #0F528C;  /* ereefs-secondary */
+  background-color: #0F528C;  /* ereefs-dark-blue */
   box-sizing: border-box;
   color: #FFFFFF;
   cursor: pointer;
@@ -497,7 +495,7 @@ button:active,
 [type='submit']:hover,
 [type='submit']:focus,
 [type='submit']:active {
-  background-color: #55A6D9;  /* ereefs-primary */
+  background-color: #55A6D9;  /* ereefs-light-blue */
   text-decoration: none;
   color: #FFFFFF;
 }
@@ -522,7 +520,7 @@ button[disabled]:hover,
 [disabled][type='submit']:active
 [disabled][type='submit']:focus,
 [disabled][type='submit']:hover {
-  background-color: #707070; /* ereefs-grey-dark */
+  background-color: #707070; /* ereefs-dark-grey */
   cursor: default;
-  color: #cfdce8; /* ereefs-grey-light */
+  color: #cfdce8; /* ereefs-light-grey */
 }
