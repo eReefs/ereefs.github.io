@@ -1,0 +1,145 @@
+/*
+  Top-level stylesheet for the ereefs.org.au website
+*/
+
+@import "ereefs-reset.css";
+
+.masthead {
+   background-color: #0F528C;    /* ereefs-dark-blue */
+   border-bottom: none;
+   color: #ffffff;               /* ereefs-light-text */
+}
+.masthead .greedy-nav {
+   background-color: inherit;
+}
+.masthead__inner-wrap {
+   font-family: inherit;
+}
+.masthead a, .masthead a:active, .masthead a:hover, .masthead a:visited {
+   color: #ffffff;         /* ereefs-light-text */
+   font-size: 1rem;          /* 16px */
+   text-decoration: none;
+}
+.masthead a.site-title {
+   font-family: Roboto,sans-serif;
+   font-size: 1.5rem;  /* match h1 size */
+   font-weight: 400;
+}
+.masthead a.site-logo img {
+   height: 50px;
+   max-height: 50px;
+}
+.masthead .greedy-nav__toggle.hidden {
+   display: none;
+}
+.masthead .greedy-nav .hidden-links {
+   background-color: #0F528C;    /* ereefs-dark-blue */
+}
+.masthead .greedy-nav .hidden-links a:hover {
+   background-color: #55A6D9;    /* ereefs-light-blue */
+}
+
+
+@media (min-width: 64em) {
+   .layout--single .page__hero--overlay .page__title {
+      margin-left: 200px;
+   }
+}
+@media (min-width: 80em) {
+   .masthead__inner-wrap {
+      max-width: 100%;
+   }
+   .layout--single .page__hero--overlay .page__title {
+      margin-left: 300px;
+   }
+   .page__hero--overlay .wrapper {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 1280px;
+   }
+}
+
+.page__hero--overlay::after {
+   content: '';
+   position: absolute;
+   width: 100%;
+   height: 1px;
+   top: 0;
+   left: 0;
+   box-shadow: 0px 0px 4em 1em #ffffff;
+}
+
+
+.page__footer {
+   background-color: #0F528C;    /* ereefs-dark-blue */
+   color: #ffffff;               /* ereefs-light-text */
+   margin-top: 0;
+}
+.page__footer a, .page__footer a:hover {
+   color: inherit;
+}
+
+.ereefs-footer {
+   clear: both;
+   font-size: 0.5em;
+   padding-bottom: 2em;
+}
+.ereefs-footer img {
+   margin: 1em 2em;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+figure.third {
+   text-align: center;
+}
+figure.third > a {
+   display: inline-block;
+   max-width: 400px;
+   min-width: 300px;
+   width: 32%;
+   padding: 0 1em;
+}
+
+@media screen and (max-width:480px) {
+   /* mobile */
+   figure.third > a {
+      display: block;
+      min-width: 50px;
+      padding: 0;
+      width: 100%;
+   }
+}
+
+.toc {
+   background-color: #cfdce8;    /* ereefs-light-grey */
+   border-color: #0F528C;        /* ereefs-dark-blue */
+   border-radius: 0;
+   color: inherit;
+   font-family: inherit;
+}
+.toc .nav__title {
+   background-color: #0F528C;    /* ereefs-dark-blue */
+   border-radius: 0;
+   color: #ffffff;               
+}
+.toc a {
+   background-color: inherit;    
+   color: inherit;
+}
+.toc .active a {
+   background-color: #CBFDFF;    /* ereefs-lightest-blue */
+}
+
+.nav__list .nav__items,
+.sidebar p,
+.sidebar li,
+.toc__menu {
+   font-size: inherit;
+}
+
+.nav__list .nav__items li {
+   margin: 0.5em 0;
+}
