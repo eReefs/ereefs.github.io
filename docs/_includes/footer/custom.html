@@ -1,10 +1,20 @@
 <div class="ereefs-footer page__content">
-	<h2>eReefs is a collaboration between</h2>
-	<div class="logo-container">{% for collaborator in site.collaborators %}
-      <img src="{{ collaborator.small_logo_url }}">{% endfor %}
+	<h2>eReefs is a collaboration between:</h2>
+	<div class="logo-container">
+      {% for collaborator in site.collaborators %}
+
+      {% endfor %}
    </div>
-	<h2>Supported by funding from</h2>
-	<div class="logo-container">{% for supporter in site.funding %}
-      <img src="{{ supporter.small_logo_url }}">{% endfor %}
+	<h2>Supported by funding from:</h2>
+	<div class="logo-container">
+      {% for supporter in site.funding %}
+      {% if suppoerter.link_url %}
+      <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
+         <img src="{{supporter.small_logo_url }}" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+      </a>
+      {% else %}
+      <img src="{{supporter.small_logo_url }}" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+      {% endif %}
+      {% endfor %}
    </div>
 </div>

@@ -3,12 +3,21 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Partners"
-    url: /partners/
   - title: "Research"
     url: /platform/
   - title: "Contact"
     url: https://research.csiro.au/ereefs/contact/
+
+about:
+  - title: "About eReefs"
+    url: "/about/"
+    children:
+    - title: "Overview"
+      url: "/about/"
+    - title: "Collaborators"
+      url: /about/collaborators.html
+    - title: "Funders"
+      url: /about/funders.html
 
 platform:
   - title: "Overview"
