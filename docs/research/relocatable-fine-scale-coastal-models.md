@@ -23,4 +23,4 @@ allows local models to be one-way or two-way nested within the large scale eReef
 allows refinement of a fully customised local model where additional modelling capability, resources and data are available.
 RECOM achieves these goals through a combination of user-friendly and computationally robust modelling tools, automated grid generation, asynchronous nesting, and evidence-based default biogeochemical parameter values.
 
-{% include figure image_path="/assets/images/platform/image7.gif" alt="overview" caption="overview" %}
+{% include figure image_path="/assets/images/research/image7.gif" alt="overview" caption="overview" %}

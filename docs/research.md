@@ -3,10 +3,10 @@ header:
   caption: "Photography by Gary Cranitch, Queensland Museum"
   overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
 layout: single
-permalink: /platform/
+permalink: /research/
 sidebar:
-   nav: "platform"
-title: eReefs Platform
+   nav: "research"
+title: eReefs Research
 ---
 # Overview
 
@@ -16,4 +16,4 @@ Building on and integrating a variety of critical data inputs, the eReefs tools 
 
 Ultimately, through the selective mobilisation of eReefs tools and specific interrogation of eReefs data, a range of services tailored to the specific needs of users, managers and policy makers can be delivered covering incident response, forecasting, scenario modelling as well as reporting and communication.
 
-{% include figure image_path="/assets/images/platform/image5-680x668.png" alt="Conceptual diagram of the eReefs platform" caption="Conceptual diagram of the eReefs platform" %}
+{% include figure image_path="/assets/images/research/image5-680x668.png" alt="Conceptual diagram of the eReefs platform" caption="Conceptual diagram of the eReefs platform" %}

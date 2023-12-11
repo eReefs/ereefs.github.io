@@ -33,7 +33,7 @@ The EMS biogeochemical (BGC) – ecological model has been developed through 20 
 
 Ecological processes are organised into the three zones with pelagic processes including phytoplankton and zooplankton growth and mortality, detritus remineralisation and fluxes of dissolved oxygen, nitrogen and phosphorus. Macroalgae and seagrass growth and mortality are included in the epibenthic zone whilst further phytoplankton mortality, microphytobenthos (benthic diatom) growth, detrital remineralisation and fluxes of dissolved substances are included in the sediment layer.
 
-{% include figure image_path="/assets/images/platform/image9-680x530.jpeg" alt="Biogeochemical Model" caption="Biogeochemical Model" %}
+{% include figure image_path="/assets/images/research/image9-680x530.jpeg" alt="Biogeochemical Model" caption="Biogeochemical Model" %}
 
 The ecological model code is processed in columns equating to the model grid. At the start of each time step total mass of carbon, nitrogen and phosphorus in the water column, epibenthos and sediment across all ecological model tracers is summed. Computations then proceed for the uptake and transformation of substances within the ecological model. At the end of the ecological model time step the mass of all tracers is summed and checked against the initial value. Should a difference occur, the model stops and the offending algorithm must be corrected in order to proceed.
 

@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /platform/
+    url: /research/
   - title: "Tools"
     url: /tools/
   - title: "Contact"
@@ -21,19 +21,19 @@ about:
     - title: "Funders"
       url: /about/funders.html
 
-platform:
-  - title: "Overview"
-    url: /platform/
+research:
+  - title: "eReefs Research"
+    url: /research/
     children:
+    - title: "Overview"
+      url: /research/
     - title: "Remote Sensing and Water Quality"
-      url: /platform/remote-sensing-and-wq.html
+      url: /research/remote-sensing-and-wq.html
     - title: "Catchment flow and water quality forecasting"
-      url: /platform/catchment-flow-and-wq-forecasting.html
+      url: /research/catchment-flow-and-wq-forecasting.html
     - title: "Regional hydrodynamic, sediment and water quality modeling"
-      url: /platform/regional-hydrodynamic-sediment-and-wq-modeling.html
-    - title: "Operational hydrodynamic coastal ocean forecasting"
-      url: /platform/hydrodynamic-marine-short-term-forecasting.html
+      url: /research/regional-hydrodynamic-sediment-and-wq-modeling.html
     - title: "Relocatable fine scale coastal models (RECOM)"
-      url: /platform/relocatable-fine-scale-coastal-models.html
+      url: /research/relocatable-fine-scale-coastal-models.html
     - title: "eReefs Regional Models Workshop Presentations - April 2016"
-      url: /platform/regional-models-workshop-2016.html
+      url: /research/regional-models-workshop-2016.html
