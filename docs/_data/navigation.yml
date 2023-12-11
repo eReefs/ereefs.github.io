@@ -6,7 +6,7 @@ main:
   - title: "Research"
     url: /platform/
   - title: "Contact"
-    url: https://research.csiro.au/ereefs/contact/
+    url: /contact/
 
 about:
   - title: "About eReefs"
