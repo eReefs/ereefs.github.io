@@ -1,13 +1,14 @@
 ---
-layout: single
 classes: wide
-title: Relocatable fine scale coastal models (RECOM)
 header:
-  overlay_image: /assets/images/backgrounds/ereefs_header_8243_q60.jpg
   caption: "Photography by Gary Cranitch, Queensland Museum"
+  overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
+layout: single
 sidebar:
-   nav: "platform"
+   nav: "research"
+title: eReefs Research
 ---
+# Relocatable fine scale coastal models (RECOM)
 eReefs provides large-scale, three-dimensional hydrodynamic, sediment dynamic and biogeochemical models for the entire Great Barrier Reef region, but there is often a need to focus in more detail on local areas, such as particular estuaries or reef assets. RECOM provides a tool to quickly and easily build higher-resolution local models.
 
 Modelling large areas present a variety of computational, technical and observational challenges. Nesting local models within regional models and regional models within global models is a common solution, providing the focus required at finer scales alongside the coverage and reliable open boundary conditions made possible by modelling at a larger scale.

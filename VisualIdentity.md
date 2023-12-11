@@ -119,13 +119,13 @@ These are available in the [docs/assets/images/backgrounds/](./docs/assets/image
 
 Please ensure you properly attribute the photographer in a caption if you use any of these!
 
-| MIME Type | Preview & URL | Size | Attribution |
-|-----------|---------------|------|-------------|
-|`image/jpeg` | ![Hardy Reef](./docs/assets/images/backgrounds/hardy-reef-small.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/hardy-reef.jpg> <https://www.ereefs.org.au/assets/images/backgrounds/hardy-reef-small.jpg> | **Full Size:** w=1500px, h=1001px<br/><br/>**Small:** w=385px, h=256px, 96 DPI | Aerial view of Hardy Reef, Jumbo Aerial Photography, © [Commonwealth of Australia (GBRMPA)](http://www.gbrmpa.gov.au/) |
-|`image/jpeg` | ![Header 0937](./docs/assets/images/backgrounds/ereefs_header_0937_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_header_0937_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) |
-|`image/jpeg` | ![Header 2253](./docs/assets/images/backgrounds/ereefs_header_2253_q75.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_header_2253_q75.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) |
-|`image/jpeg` | ![Header 2688](./docs/assets/images/backgrounds/ereefs_header_2688_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_header_2688_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) |
-|`image/jpeg` | ![Header 8243](./docs/assets/images/backgrounds/ereefs_header_8243_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_header_8243_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) |
+| MIME Type | Preview & URL | Size | Attribution | Used on |
+|-----------|---------------|------|-------------|---------|
+|`image/jpeg` | ![Hardy Reef](./docs/assets/images/backgrounds/hardy-reef-small.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/hardy-reef.jpg> <https://www.ereefs.org.au/assets/images/backgrounds/hardy-reef-small.jpg> | **Full Size:** w=1500px, h=1001px<br/><br/>**Small:** w=385px, h=256px, 96 DPI | Aerial view of Hardy Reef, Jumbo Aerial Photography, © [Commonwealth of Australia (GBRMPA)](http://www.gbrmpa.gov.au/) | eReefs platform tools |
+|`image/jpeg` | ![Home Header 0937](./docs/assets/images/backgrounds/ereefs_home_header_0937_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_home_header_0937_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | eReefs home page, contacts page, error page(s) |
+|`image/jpeg` | ![About Header 2253](./docs/assets/images/backgrounds/ereefs_about_header_2253_q75.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_about_header_2253_q75.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "About eReefs" pages |
+|`image/jpeg` | ![Research Header 2688](./docs/assets/images/backgrounds/ereefs_research_header_2688_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_research_header_2688_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "eReefs Research" pages |
+|`image/jpeg` | ![Tools Header 8243](./docs/assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "eReefs Tools" pages |
 
 &nbsp;
 

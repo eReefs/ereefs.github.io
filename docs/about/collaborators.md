@@ -1,7 +1,7 @@
 ---
 header:
   caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_header_2253_q75.jpg
+  overlay_image: /assets/images/backgrounds/ereefs_about_header_2253_q75.jpg
 layout: single
 permalink: /about/collaborators.html
 sidebar:
