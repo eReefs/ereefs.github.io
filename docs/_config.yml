@@ -20,3 +20,4 @@ logo: "/assets/images/logos/ereefs_logo.png"
 collections:
   - collaborators
   - funding
+  - tools

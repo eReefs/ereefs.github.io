@@ -5,6 +5,8 @@ main:
     url: /about/
   - title: "Research"
     url: /platform/
+  - title: "Tools"
+    url: /tools/
   - title: "Contact"
     url: /contact/
 

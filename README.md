@@ -49,8 +49,9 @@ Collection files are not rendered as individual pages on the site, but can be re
 
 The site defines the following collections:
 
-- [collaborators](./docs/_collaborators/): information about eReefs collaboration partners.
+- [collaborators](./docs/_collaborators/): information about eReefs collaboration partners
 - [funding](./docs/_funding): one snippet for each funding agency
+- [tools](./docs/_tools): one snippet for each eReefs platform component that has its own URL
 
 &nbsp;
 
