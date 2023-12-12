@@ -1,0 +1,174 @@
+/**
+ * edas-dashboard.css
+ *
+ * eReefs visual identity for CSIRO's Environmental Data Application Stack (EDAS) Dashboards
+ *
+ */
+
+ @import "ereefs-reset.css";
+
+ :root {
+     --font-family-sans-serif: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+     --primary: #55A6D9;             /* ereefs-light-blue */
+     --secondary: #0F528C;           /* ereefs-dark-blue */
+     --dark: #0F528C;                /* ereefs-dark-blue */
+     --bg-dark: #0F528C !important;  /* ereefs-dark-blue */
+     --info: #CBFDFF;                /* ereefs-lightest-blue */
+ }
+ 
+ html, body {
+     margin: 0;
+     padding: 0;
+     max-width: 100%;
+ }
+
+button.fa {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    line-height: 1;
+}
+
+h5, h6 {
+    font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+    line-height:  1rem !important;
+}
+
+svg {
+    max-height: auto;
+}
+ 
+ .Nav .brand,
+ .Nav .brand img {
+     font-size: 1.5rem;
+     height: 50px !important;
+     line-height: 50px;
+     min-height: 50px !important;
+     padding-bottom: 0;
+     padding-top: 0;
+ }
+ 
+ .Body {
+     margin-top: 0;
+     padding-top: 66px;
+ }
+ 
+ .btn-secondary, .btn-primary {
+     border: 1px solid transparent !important;
+ }
+ 
+ .bg-dark,
+ .btn-primary:not(:disabled):not(.disabled),
+ .Nav .btn-secondary:not(:disabled):not(.disabled),
+ .dropdown-menu,
+ .leaflet-control-zoom a,
+ .leaflet-control-layers,
+ .leaflet-draw-toolbar a,
+ .WizardAccordion .card-header,
+ .FooterBarSticky___2HjXX {
+     background-color: #0F528C !important;  /* ereefs-dark-blue */
+     color: #ffffff;
+ }
+ 
+ .btn-secondary:not(:disabled):not(.disabled),
+ .Nav .btn-secondary:not(:disabled):not(.disabled).active,
+ .Nav .btn-secondary:not(:disabled):not(.disabled):active,
+ .Nav .btn-secondary:not(:disabled):not(.disabled):hover
+ .btn-primary:not(:disabled):not(.disabled).active,
+ .btn-primary:not(:disabled):not(.disabled):active,
+ .btn-primary:not(:disabled):not(.disabled):hover,
+ .card-body .btn-primary:not(:disabled):not(.disabled),
+ .Nav .btn-primary:not(:disabled):not(.disabled),
+ .leaflet-control-zoom a:hover,
+ .leaflet-draw-toolbar a:hover {
+     background-color: #55A6D9 !important;  /* ereefs-light-blue */
+     color: #ffffff;
+ }
+
+ .card-body .btn-primary:not(:disabled):not(.disabled).active,
+ .card-body .btn-primary:not(:disabled):not(.disabled):active,
+ .card-body .btn-primary:not(:disabled):not(.disabled):hover,
+ .Nav .btn-primary:not(:disabled):not(.disabled).active,
+ .Nav .btn-primary:not(:disabled):not(.disabled):active,
+ .Nav .btn-primary:not(:disabled):not(.disabled):hover,
+ .btn-secondary:not(:disabled):not(.disabled).active,
+ .btn-secondary:not(:disabled):not(.disabled):active,
+ .btn-secondary:not(:disabled):not(.disabled):hover {
+     background-color: #CBFDFF !important;  /* ereefs-lightest-blue */
+     color:  #0F528C;  /* ereefs-dark-blue */
+ }
+
+.Nav .btn-secondary:not(:disabled):not(.disabled).active,
+.Nav .btn-secondary:not(:disabled):not(.disabled):active,
+.Nav .btn-secondary:not(:disabled):not(.disabled):hover {
+     background-color: #55A6D9 !important;  /* ereefs-light-blue */
+     color: #ffffff;
+ }
+ 
+ .dropdown-header,
+ .FooterBarSticky___2HjXX,
+ .FooterBarSticky___2HjXX a,
+.LayerManager .layerControl .controls a,
+.LayerManager .layerControl .controls button {
+     color: #ffffff;
+ }
+ 
+ 
+ .alert-secondary, .alert-info {
+     color: #163a59;
+     background-color: #cfdce8;  /* ereefs-light-grey */
+     border-color: #bccfdf;
+ }
+ 
+ .alert-secondary a, .alert-info a {
+     color: #55A6D9;  /* ereefs-light-blue */
+ }
+ 
+ .Nav .offcanvas-collapse.open,
+ .HomePage {
+     background-image: url(../images/backgrounds/hardy-reef.jpg);
+ }
+ 
+ .bg-dark {
+     color: #FFF;
+ }
+ 
+ .btn {
+     font-weight: 400 !important;
+ }
+ 
+ .leaflet-draw-toolbar a, .leaflet-draw-toolbar a:hover, .leaflet-control-zoom a, .leaflet-control-zoom a:hover, .leaflet-draw-actions a, .leaflet-draw-actions a:hover {
+     color: #FFF !important;
+ }
+
+.LayerManager .container {
+    top: auto;
+    margin-top: 20px;
+}
+.LayerManager .toggleButton {
+    font-size: inherit;
+}
+.LayerManager .layerControl .controls button,
+.LayerManager .layerControl .legend button {
+    background-color: transparent;
+    color: #212529 !important;
+}
+.LayerManager .layerControl .layerContent .legendDimensions button,
+.LayerManager .layerControl .layerContent .legendDimensions .tiny-button:not(.timeWarning) {
+  background-color: #0F528C;  /* ereefs-dark-blue */
+  color: #ffffff !important;
+  font-size: 78% !important;
+  padding: 1px 4px;
+  margin-right: 2px;
+}
+.NodeExplorer button,
+.NodeExplorer button:active,
+.NodeExplorer button:hover {
+    background-color: transparent;
+    color: inherit;
+}
+.dataset-control-row button {
+    font-size: 0.875rem;
+}
+
+
+ 

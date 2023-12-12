@@ -1,0 +1,78 @@
+/**
+ * tds4Catalog.css
+ *
+ * eReefs visual identity for THREDDS Data Server v4.x Catalog Pages
+ *
+ */
+
+ @import "./ereefs-reset.css";
+
+ body {
+    background-color: white;
+}
+
+/* Banner */
+body > h1:first-child {
+    background-color: #0F528C;   /* ereefs-dark-blue */
+    background-image: url(../images/logos/ereefs_logo.svg);
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    background-position: 10px 10px;
+    color: #FFFFFF;
+    height: 100px;
+    margin: 0 -1rem 0 -1rem;
+    padding: 0 0 0 100px;
+    white-space: no-wrap;
+    width: auto;
+}
+
+/* Banner logo */
+body > h1:first-child > img {
+    display: none;
+}
+
+/* Banner text injection */
+body > h1:first-child:before {
+    content: "eReefs THREDDS";
+    display: block;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 50px;
+    padding: 0;
+    text-decoration: none;
+}
+
+/* Footer */
+body > h3:last-child {
+    background-color: #0F528C;   /* ereefs-dark-blue */
+    color: #FFFFFF;
+    margin : 0;
+    padding: 1em;
+}
+
+body > h3:last-child a,
+body > h3:last-child a:visited {
+    color: #cbfdff;  /* ereefs-lightest-blue */
+}
+
+/* folder icons */
+tr > td:first-child > img[src="/thredds/folder.gif"] {
+    display: none;
+ }
+
+tr > td:first-child > img[src="/thredds/folder.gif"] + a {
+    background-image: url(../images/icons/folder.png);
+    background-repeat: no-repeat;
+    background-size: 32px 32px;
+    display: inline-block;
+    line-height: 32px;
+    padding-left: 40px;
+ }
+
+ tr > td:first-child > img[src="/thredds/folder.gif"] + a[href^='/thredds'] {
+    background-image: url(../images/icons/scan_folder.png);
+ }
+
+ tr > td:first-child:hover {
+    background-color: #cfdce8;  /* ereefs-light-grey */
+ }

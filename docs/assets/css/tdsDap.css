@@ -1,0 +1,40 @@
+/**
+ * tdsDap.css
+ *
+ * eReefs Visual Identity for THREDDS Data Server v4.x and v5.x OPeNDAP GUI
+ *
+ */
+
+ @import "./ereefs-reset.css";
+
+body {
+    background-color: #FFFFFF;
+    padding: 0 1rem;
+}
+
+body > p:first-child {
+    display: none;
+}
+
+body > h2 {
+    box-sizing: border-box;
+    background-color: #0F528C;   /* ereefs-dark-blue */
+    color: #FFFFFF;
+    margin: 0 -1rem;
+    overflow: hidden;
+    padding: 3px 20px;
+}
+
+body > h2:first-of-type {
+   background-image: url(../images/logos/ereefs_logo.svg);
+   background-repeat: no-repeat;
+   background-size: 80px 80px;
+   background-position: 10px 10px;
+   font-size: 2rem;
+   height: 100px;
+   line-height: 100px;
+}
+
+input[type="button"] {
+    font-size: 1.5rem;
+}

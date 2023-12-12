@@ -1,14 +1,7 @@
 ---
-layout: single
 classes: wide
-title: Regional hydrodynamic, sediment and water quality modeling
-header:
-  overlay_image: /assets/images/ereefs_header_8243_q60.jpg
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-sidebar:
-   nav: "platform"
 ---
-### Overview
+# Regional hydrodynamic, sediment and water quality modeling
 A modelling framework which links the management of agricultural activities in catchments to water quality and ecological responses in receiving waters has been recommended as an approach to support the design and implementation of water quality improvement plans (Webster et al., 2008). Such a framework would link models of land use and contaminant supply to the transport of these contaminants down rivers and through estuaries and ultimately to the transport and transformation of this material in marine systems.
 
 Material transport and transformations
@@ -33,7 +26,7 @@ The EMS biogeochemical (BGC) – ecological model has been developed through 20 
 
 Ecological processes are organised into the three zones with pelagic processes including phytoplankton and zooplankton growth and mortality, detritus remineralisation and fluxes of dissolved oxygen, nitrogen and phosphorus. Macroalgae and seagrass growth and mortality are included in the epibenthic zone whilst further phytoplankton mortality, microphytobenthos (benthic diatom) growth, detrital remineralisation and fluxes of dissolved substances are included in the sediment layer.
 
-{% include figure image_path="/assets/images/platform/image9-680x530.jpeg" alt="Biogeochemical Model" caption="Biogeochemical Model" %}
+{% include figure image_path="/assets/images/research/image9-680x530.jpeg" alt="Biogeochemical Model" caption="Biogeochemical Model" %}
 
 The ecological model code is processed in columns equating to the model grid. At the start of each time step total mass of carbon, nitrogen and phosphorus in the water column, epibenthos and sediment across all ecological model tracers is summed. Computations then proceed for the uptake and transformation of substances within the ecological model. At the end of the ecological model time step the mass of all tracers is summed and checked against the initial value. Should a difference occur, the model stops and the offending algorithm must be corrected in order to proceed.
 

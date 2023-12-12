@@ -1,0 +1,58 @@
+/**
+ * tds4Dataset.css
+ *
+ * eReefs visual identity for THREDDS Data Server v4.x Dataset Pages
+ *
+ */
+
+@import "./ereefs-reset.css";
+
+body {
+   background-color: white;
+   padding: 0 0 2rem 0;
+}
+
+body > * {
+   margin-left: 2rem;
+   margin-right: 2rem;
+}
+
+/* Banner */
+body > table:first-child {
+   margin: 0;
+   width: 100%
+}
+body > table:first-child td {
+   background-color: #0F528C;   /* ereefs-dark-blue */
+   border-spacing: 0px;
+   color: #FFFFFF;
+   height: 100px;
+   margin: 0 !important;
+   padding: 0 !important;
+   white-space: no-wrap;
+   width: 100%;
+}
+
+/* Banner logo */
+body > table:first-child td > img {
+   float: left;
+   height: 80px;
+   padding: 0 !important; /* allow for 2px vspace on the img */
+   margin: 10px !important;     /* override the vspace and hspace settings on the img */
+   width: 80px;
+}
+
+/* Banner text */
+body > table:first-child td > h3 {
+   color: #FFFFFF;
+   font-size: 2rem;
+   line-height: 100px;
+   margin: 0;
+}
+body > table:first-child td > h3 a {
+   color: #FFFFFF;
+}
+
+body > table:first-child td > h3:last-child {
+   display: none;
+}

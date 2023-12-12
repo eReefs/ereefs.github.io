@@ -1,11 +1,9 @@
 ---
-layout: single
-title: About eReefs
+classes: wide
 permalink: /about/
-header:
-  overlay_image: /assets/images/ereefs_header_2688_q60.jpg
-  caption: "Photography by Gary Cranitch, Queensland Museum"
 ---
+
+# Overview
 
 A number of threats including water quality, climate change, shipping, fishing and coastal development have the potential to detract from the Reef’s natural, cultural and economic value. Preventing a loss of value requires improved decision support, and communication tools for all who interact with, manage and depend on the Reef.
 

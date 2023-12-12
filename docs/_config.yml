@@ -3,6 +3,48 @@ aux_links: {}
 back_to_top: true
 back_to_top_text: "Back to top"
 description: "Landing page for the eReefs Collaboration"
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        caption: "Photography by Gary Cranitch, Queensland Museum"
+        overlay_color: "#000"
+        overlay_image: /assets/images/backgrounds/ereefs_home_header_0937_q60.jpg
+        overlay_filter: "0.5"
+      layout: single
+      sidebar:
+        nav: sidebar
+      title: eReefs
+  - scope:
+      path: "about"
+      type: pages
+    values:
+      header:
+        caption: "Photography by Gary Cranitch, Queensland Museum"
+        overlay_image: /assets/images/backgrounds/ereefs_about_header_2253_q75.jpg
+        overlay_filter: "0"
+      title: About eReefs
+  - scope:
+      path: "research"
+      type: pages
+    values:
+      header:
+        caption: "Photography by Gary Cranitch, Queensland Museum"
+        overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
+        overlay_filter: "0"
+      title: eReefs Research
+  - scope:
+      path: "tools"
+      type: pages
+    values:
+      header:
+        caption: "Photography by Gary Cranitch, Queensland Museum"
+        overlay_image: /assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg
+        overlay_filter: "0"
+      title: eReefs Tools
+
 exclude: []
 heading_anchors: true
 last_edit_timestamp: false
@@ -16,7 +58,8 @@ minimal_mistakes_skin: "air" #, "default", "aqua", "contrast", "dark", "dirt", "
 atom_feed:
   hide: true
 title: eReefs
-logo: "/assets/images/ereefs_logo.png"
+logo: "/assets/images/logos/ereefs_logo.png"
 collections:
   - collaborators
   - funding
+  - tools

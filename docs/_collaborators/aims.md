@@ -1,7 +1,7 @@
 ---
 name: AIMS
 logo_url: /assets/images/partners/AIMS_0-426x100.png
-small_logo_url: /assets/images/logos/AIMS-210x49.png
+small_logo_url: /assets/images/partners/AIMS-210x49.png
 link_url: https://www.aims.gov.au/
 ---
 The Australian Institute of Marine Science (AIMS), Australia's tropical marine research agency, brings significant research expertise in monitoring and ecological responses, deep data stores and modelling knowledge to the eReefs partnership.
