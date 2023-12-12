@@ -1,18 +1,27 @@
 main:
-  - title: "Home"
+  # This menu is shown in the top titlebar of every page.
+  # It should be duplicated in other eReefs website layouts.
+  - description: Back to the eReefs landing page
+    title: "Home"
     url: /
-  - title: "About"
+  - description: About the eReefs collaboration and platform
+    title: "About"
     url: /about/
-  - title: "Research"
+  - description: Information about eReefs research projects and results
+    title: "Research"
     url: /research/
-  - title: "Tools"
+  - description: Links to eReefs platform websites, tools and software
+    title: "Tools"
     url: /tools/
-  - title: "Contact"
+  - description: Ways to get in touch with the eReefs teams
+    title: "Contact"
     url: /contact/
 
-about:
+sidebar:
+  # This menu is shown in the left-hand sidebar of every page
+  # in this website that uses a layout which includes it.
+  # In needs to include and extend the main menu links.
   - title: "About eReefs"
-    url: "/about/"
     children:
     - title: "Overview"
       url: "/about/"
@@ -20,10 +29,7 @@ about:
       url: /about/collaborators.html
     - title: "Funders"
       url: /about/funders.html
-
-research:
   - title: "eReefs Research"
-    url: /research/
     children:
     - title: "Overview"
       url: /research/
@@ -37,3 +43,11 @@ research:
       url: /research/relocatable-fine-scale-coastal-models.html
     - title: "eReefs Regional Models Workshop Presentations - April 2016"
       url: /research/regional-models-workshop-2016.html
+  - title: "eReefs Tools"
+    children:
+    - title: "Overview"
+      url: "/tools/"
+  - title: "Contact"
+    children:
+    - title: "Contact Us"
+      url: "/contact/"

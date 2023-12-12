@@ -1,13 +1,6 @@
 ---
 classes: wide
-header:
-  overlay_image: /assets/images/backgrounds/ereefs_about_header_2253_q75.jpg
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-layout: single
 permalink: /about/
-sidebar:
-   nav: "about"
-title: About eReefs
 ---
 
 # Overview

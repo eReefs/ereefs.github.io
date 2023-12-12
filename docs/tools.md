@@ -1,13 +1,5 @@
 ---
-classes: 
-- wide
-- toc-only
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg
-layout: single
 permalink: /tools/
-title: eReefs Tools
 toc: true
 tick_sticky: true
 ---

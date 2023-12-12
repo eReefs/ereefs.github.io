@@ -1,17 +1,10 @@
 ---
-layout: single
-title: eReefs Contacts
 permalink: /contact/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/backgrounds/ereefs_home_header_0937_q60.jpg
-  caption: "Photography by Gary Cranitch, Queensland Museum"
 toc: true
 toc_sticky: true
 ---
 
-# Overview
+# Trying to contact us?
 
 As eReefs is a long-term research collaboration, there are several different points of contact depending on which information you are looking for:
 

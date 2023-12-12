@@ -1,13 +1,8 @@
 ---
-layout: splash
-title: eReefs
-permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/backgrounds/ereefs_home_header_0937_q60.jpg
-  caption: "Photography by Gary Cranitch, Queensland Museum"
 excerpt: "a world-first delivering vital information about the entire Great Barrier Reef from catchment to ocean"
+layout: splash
+permalink: /
+title: eReefs
 redirect_from: 
   - /ereefs/
 ---

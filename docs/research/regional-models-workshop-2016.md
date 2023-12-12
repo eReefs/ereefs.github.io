@@ -1,12 +1,6 @@
 ---
-classes: wide
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
-layout: single
-sidebar:
-   nav: "research"
-title: eReefs Research
+toc: true
+toc_sticky: true
 ---
 # eReefs Regional Models Workshop Presentations - April 2016
 The eReefs Regional Models Workshop organised in Townsville on 12-14 April 2016 aimed to introduce the marine modelling suite delivered collaboratively by CSIRO and AIMS to a broad audience of expert scientists and users. This modelling package includes the SHOC hydrodynamic (4 km and 1 km resolutions), sediment transport and biogeochemistry models.

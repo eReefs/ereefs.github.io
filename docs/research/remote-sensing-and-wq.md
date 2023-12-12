@@ -1,12 +1,5 @@
 ---
 classes: wide
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
-layout: single
-sidebar:
-   nav: "research"
-title: eReefs Research
 ---
 # Remote Sensing and Water Quality
 Remote sensing is now recognised as a suitable and cost-effective technique for describing and quantifying aspects of water quality on the Great Barrier Reef. Satellites provide time series from November 2002 to present of water quality estimates (Ocean Colour) with spatial coverage at 1 km resolution for the whole-of-GBR lagoon, nominally on a daily basis. Coastal waters are optically complex and global algorithms have been found to be of limited use. CSIRO have developed regionally valid algorithms that incorporate the regional and seasonal knowledge of optical properties of GBR waters.

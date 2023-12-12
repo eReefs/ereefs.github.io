@@ -2,13 +2,19 @@
 	<h2>eReefs is a collaboration between:</h2>
 	<div class="logo-container">
       {% for collaborator in site.collaborators %}
-
+      {% if collaborator.link_url %}
+      <a href="{{collaborator.link_url}}" title="{{collaborator.name}}" target="_window">
+         <img src="{{collaborator.small_logo_url }}" alt="Logo for {{collaborator.name}}" title="{{collaborator.name}}"/>
+      </a>
+      {% else %}
+      <img src="{{collaborator.small_logo_url }}" alt="Logo for {{collaborator.name}}" title="{{collaborator.name}}"/>
+      {% endif %}
       {% endfor %}
    </div>
 	<h2>Supported by funding from:</h2>
 	<div class="logo-container">
       {% for supporter in site.funding %}
-      {% if suppoerter.link_url %}
+      {% if supporter.link_url %}
       <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
          <img src="{{supporter.small_logo_url }}" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
       </a>

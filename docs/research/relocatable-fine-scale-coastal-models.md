@@ -1,12 +1,5 @@
 ---
 classes: wide
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
-layout: single
-sidebar:
-   nav: "research"
-title: eReefs Research
 ---
 # Relocatable fine scale coastal models (RECOM)
 eReefs provides large-scale, three-dimensional hydrodynamic, sediment dynamic and biogeochemical models for the entire Great Barrier Reef region, but there is often a need to focus in more detail on local areas, such as particular estuaries or reef assets. RECOM provides a tool to quickly and easily build higher-resolution local models.

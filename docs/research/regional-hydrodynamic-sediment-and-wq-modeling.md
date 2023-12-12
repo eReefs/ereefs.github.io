@@ -1,12 +1,5 @@
 ---
 classes: wide
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
-layout: single
-sidebar:
-   nav: "research"
-title: eReefs Research
 ---
 # Regional hydrodynamic, sediment and water quality modeling
 A modelling framework which links the management of agricultural activities in catchments to water quality and ecological responses in receiving waters has been recommended as an approach to support the design and implementation of water quality improvement plans (Webster et al., 2008). Such a framework would link models of land use and contaminant supply to the transport of these contaminants down rivers and through estuaries and ultimately to the transport and transformation of this material in marine systems.

@@ -1,16 +1,7 @@
 ---
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_about_header_2253_q75.jpg
-layout: single
-permalink: /about/funders.html
-sidebar:
-   nav: "about"
-title: About eReefs
 toc: true
 toc_sticky: true
 ---
-
 # Funders
 
 The eReefs platform and associated research has been supported by funding from:

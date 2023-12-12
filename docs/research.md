@@ -1,12 +1,6 @@
 ---
-header:
-  caption: "Photography by Gary Cranitch, Queensland Museum"
-  overlay_image: /assets/images/backgrounds/ereefs_research_header_2688_q60.jpg
-layout: single
+classes: wide
 permalink: /research/
-sidebar:
-   nav: "research"
-title: eReefs Research
 ---
 # Overview
 

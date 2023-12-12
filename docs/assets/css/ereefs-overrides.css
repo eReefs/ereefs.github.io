@@ -144,6 +144,13 @@ figure.third > a {
    margin: 0.5em 0;
 }
 
+.nav__list .nav__items .nav__sub-title {
+   font-family: 'Open Sans Condensed','Open Sans',sans-serif !important;
+   font-size: inherit;
+   margin-top: 1.5em;
+   text-transform: none;
+}
+
 
 .tile {
    display: inline-block;
