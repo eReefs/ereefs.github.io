@@ -21,6 +21,7 @@ sidebar:
   # This menu is shown in the left-hand sidebar of every page
   # in this website that uses a layout which includes it.
   # In needs to include and extend the main menu links.
+  # Only two levels are permitted: no sub-sub-menus allowed :(
   - title: "About eReefs"
     children:
     - title: "Overview"
@@ -29,7 +30,7 @@ sidebar:
       url: /about/collaborators.html
     - title: "Funders"
       url: /about/funders.html
-  - title: "eReefs Research"
+  - title: "eReefs Research Services"
     children:
     - title: "Overview"
       url: /research/
@@ -43,6 +44,12 @@ sidebar:
       url: /research/relocatable-fine-scale-coastal-models.html
     - title: "eReefs Regional Models Workshop Presentations - April 2016"
       url: /research/regional-models-workshop-2016.html
+  - title: "eReefs Research Publications"
+    children:
+    - title: Case Studies
+      url: /research/publications/case-studies.html
+    - title: Media
+      url: /research/publications/media.html
   - title: "eReefs Tools"
     children:
     - title: "Overview"

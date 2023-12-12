@@ -2,6 +2,7 @@
 agency: bom
 caption: Sea-surface temperatures, chlorophyll, sediments and light
 category: website
+fa-icon: map
 preview_image: /assets/images/products/bom-mwq.png
 status: decommissioned
 target_url: http://www.bom.gov.au/marinewaterquality/

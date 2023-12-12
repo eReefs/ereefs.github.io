@@ -183,12 +183,12 @@ figure.third > a {
    color: #CBFDFF;    /* ereefs-lightest-blue */
 }
 
-.tile.website a:before {
-   content: "\f03e";
+.tile i.fas {
+   display: inline;
    float: right;
    font-family: "Font Awesome 5 Free" !important;
-   font-size: 1.5em;
-   margin-top: -0.8em;
+   font-size: 1em;
+   margin-top: -0.5em;
    margin-right: -0.5em;
 }
 .tile h2 {
