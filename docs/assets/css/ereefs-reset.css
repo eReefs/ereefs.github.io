@@ -16,6 +16,37 @@
 /* Roboto: Font for body text */
 @import "https://fonts.googleapis.com/css2?family=Roboto";
 
+/* Global variables for visual identity entities */
+:root {
+  /* eReefs Colours */
+  --ereefs-darkest-blue: #212529; 
+  --ereefs-dark-blue: #0F528C;        
+  --ereefs-light-blue: #55A6D9;        
+  --ereefs-lightest-blue: #CBFDFF; 
+  --ereefs-light-grey: #CFDCE8;     
+  --ereefs-dark-grey:   #707070;
+  
+  --ereefs-status-info: var(--ereefs-lightest-blue);
+  --ereefs-text-light: #FFFFFF;
+  --ereefs-text-dark: var(--ereefs-darkest-blue);
+
+  /* eReefs Images */
+  --ereefs-bg-img: url("http://localhost:4000/assets/images/backgrounds/hardy-reef.jpg");
+  --ereefs-logo-favicon-ico: url("../images/logos/ereefs_logo_favicon.ico");
+  --ereefs-logo-favicon-png: url("../images/logos/ereefs_logo_favicon.png");
+  --ereefs-logo-favicon-svg: url("../images/logos/ereefs_logo_favicon.svg");
+  --ereefs-logo-img-png: url("../images/logos/ereefs_logo.png");
+  --ereefs-logo-img-svg: url("../images/logos/ereefs_logo.svg");
+  --ereefs-logo-min-height: 50px;
+
+  /* eReefs fonts */
+  --ereefs-brand-font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  --ereefs-code-font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif;
+  --ereefs-headings-font-family: 'Open Sans Condensed','Open Sans',sans-serif;
+  --ereefs-text-font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+/* HTML Reset Styles (classless styles for standard HTML elements) */
 * {
   box-sizing: border-box;
   word-wrap: break-word;
@@ -60,36 +91,30 @@ template,
 a,
 a:link,
 a:visited {
-  color: #0F528C;   /* ereefs-dark-blue */
+  background-color: transparent;
+  color: var(--ereefs-dark-blue);
   font-family: inherit;
   text-decoration: none;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover,
-a:focus {
-  color: #55A6D9; /* ereefs-light-blue */
+a:focus,
+a:focus-within {
   font-family: inherit;
   text-decoration: underline;
 }
 
-a:active {
-  color: #55A6D9; /* ereefs-light-blue */
-  font-family: inherit;
-  text-decoration: none;
-}
-
-a:active:not(.button) {
-  background-color: transparent;
-}
-
-a:focus {
-  outline: thin dotted;
-}
-
+a.active,
 a:active,
+a:focus,
+a:focus-within,
 a:hover {
-  outline-width: 0;
+  color: var(--ereefs-darkest-blue);
+}
+
+a:focus-visible {
+  outline: invert thin dotted;
 }
 
 @media print {
@@ -100,7 +125,7 @@ a:hover {
   a[href]:after {
     content: " (" attr(href) ")";
     font-weight: normal;
-    font-size: 12px;
+    font-size: 0.8em;
     text-decoration: none;
   }
   a[href^='javascript:']:after,
@@ -132,12 +157,12 @@ blockquote {
 }
 
 body {
-  background-color:#cfdce8;
-  color: #212529;  /* ereefs-darkest-blue */
-  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+  background-color:var(--ereefs-light-grey);
+  color: var(--ereefs-darkest-blue);
+  font-family: var(--ereefs-text-font-family) !important;
   font-size: 1rem;
   font-weight: 400;
-  max-width: 1500px;
+  max-width: 1400px;  /* xl -> xxl responsive screensize breakpoint */
   margin: 0 auto;
   padding: 0 1rem 1rem;
 }
@@ -160,7 +185,7 @@ code,
 kbd,
 samp,
 var {
-  font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif !important;
+  font-family: var(--ereefs-code-font-family) !important;
   font-size: 1em;
 }
 
@@ -181,10 +206,10 @@ dfn {
 }
 
 fieldset {
-  padding: 0.525rem 0.9375rem 0.975rem;
-  border: 1px solid #0F528C;  /* ereefs-dark-blue */
+  padding: 0.5rem 1rem 1rem;
+  border: 1px solid var(--ereefs-dark-grey);
   margin: 0 2px;
-  padding: .5em .625em 1em;
+  padding: 0.5em 0.5em 1em;
 }
 
 figure {
@@ -197,41 +222,41 @@ form {
 
 h1,h2,h3,h4,h5,h6 {
   color: inherit;
-  font-family: 'Open Sans Condensed','Open Sans',sans-serif !important;
-  font-weight: bold;
+  font-family: var(--ereefs-headings-font-family) !important;
+  font-weight: bold !important;
   font-style: normal;
   line-height: 1.4;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 1.5rem;    /* 24px */
+  font-size: 1.5em !important;    /* 24px */
 }
 
 h2 {
-  font-size: 1.25rem;   /* 20px */
+  font-size: 1.25em !important;   /* 20px */
 }
 
 h3 {
-  font-size: 1.125rem;  /* 18px */
+  font-size: 1.125em !important;  /* 18px */
 }
 
 h4 {
-  font-size: 1rem;      /* 16 px */
+  font-size: 1em !important;      /* 16 px */
 }
 
 h5 {
-  font-size: 0.875rem;  /* 14px */
+  font-size: 0.875em !important;  /* 14px */
 }
 
 h6 {
-  font-size: 0.75rem;  /* 12px */
+  font-size: 0.75em !important;  /* 12px */
 }
 
 hr,
 .divider {
   border-bottom-style: none;
-  border-top: 1px solid #707070; /* ereefs-dark-grey */
+  border-top: 1px solid var(--ereefs-dark-grey);
   box-sizing: content-box;
   height: 0;
   margin: 1.5rem 0;
@@ -246,14 +271,14 @@ hr,
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background-color: #cfdce8;  /* ereefs-light-grey */
-  font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+  background-color: var(--ereefs-light-grey);  
+  font-family: var(--ereefs-font-family);
   font-weight: 400;
-  font-size: 100%;   /* Of the browser-default size, usually 16px */
+  font-size: 100%;   /* Of the browser-default size, usually 16px. This defines 1rem */
   line-height: 1.5em;
   margin: 0;
   min-height: 100%;
-  padding: 0 1rem;
+  padding: 0;
 }
 
 @media print {
@@ -262,7 +287,8 @@ html {
   }
 }
 
-i {
+/* Note: i.fa is a common class for font-awesome glyphs. Don't reset it to be italic */
+i:not(.fa) {
   font-style: italic;
   font-family: inherit;
 }
@@ -297,10 +323,12 @@ input {
   height: auto;
 }
 [type='search'] {
+  appearance: textfield;
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
-[type='search']::-webkit-search-cancel-button, [type='search']::-webkit-search-decoration {
+[type='search']::-webkit-search-cancel-button,
+[type='search']::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 ::-webkit-input-placeholder {
@@ -308,25 +336,19 @@ input {
   opacity: .54;
 }
 
-label {
-  display: block;
-  font-weight: bold;
-}
-
 legend {
   border: 0;
-  /* 1 */
   box-sizing: border-box;
   display: table;
   max-width: 100%;
   white-space: normal;
-  color: #0F528C;  /* ereefs-dark-blue */
+  color: var(--ereefs-dark-blue);
   margin-left: -5px;
   padding: 0 5px;
 }
 
 mark {
-  background-color: #ffc107;  /* ereefs-warning */
+  background-color: var(--ereefs-status-warning);
   color: black;
 }
 
@@ -380,12 +402,12 @@ select {
 small {
   color: inherit;
   font-family: inherit;
-  font-size: 0.83333rem;  /* 10px */
+  font-size: 0.625rem;  /* 10px */
 }
 
 sub,
 sup {
-  font-size: 0.66667rem;  /* 8px */
+  font-size: 0.5rem;  /* 8px */
   line-height: 0;
   position: relative;
   vertical-align: baseline;
@@ -400,11 +422,12 @@ sup {
 }
 
 svg {
-  max-width: 100%;
+  width: auto;
   height: auto;
 }
 
 svg :not(:root) {
+  max-width: 100%;
   overflow: hidden;
 }
 
@@ -415,15 +438,21 @@ table {
   width: 100%;
 }
 
+table tr:nth-child(event) {
+  background-color: var(--ereefs-light-grey);
+}
+
 table td {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: inherit;
+  font-weight: inherit;
   padding: .3rem .5rem;
 }
 
 table th {
   font-family: inherit;
-  font-size: 1.5rem;
+  font-size: inherit;
+  font-weight: bold;
   padding: .3rem .5rem;
 }
 
@@ -438,18 +467,21 @@ textarea {
 }
 
 /* button definitions, which need to override input element settings: */
+.btn,
 .button,
-button,
+button:not([class]),
 [type='button'],
 [type='reset'],
 [type='submit'],
 ::-webkit-file-upload-button {
+  appearance: button;
   -moz-appearance: button;
   -webkit-appearance: button;
-  border: 1px solid transparent;
-  background-color: #0F528C;  /* ereefs-dark-blue */
+  background-color: var(--ereefs-dark-blue);
+  border: 1px solid color-mix(in srgb, var(--ereefs-dark-blue) 90%, #000);  /* 10% darker than the background*/
+  box-shadow: inset 0 1px 0 rgba(#FFFFFF, .15), 0 1px 1px rgba(#000000, .075);
   box-sizing: border-box;
-  color: #FFFFFF;
+  color: var(--ereefs-text-light);
   cursor: pointer;
   display: inline-block;
   font: inherit;
@@ -465,62 +497,106 @@ button,
   vertical-align: baseline;
 }
 
-.button::-moz-focus-inner,
-button::-moz-focus-inner,
-[type='button']::-moz-focus-inner,
-[type='reset']::-moz-focus-inner,
-[type='submit']::-moz-focus-inner {
-  border-style: none;
-  padding: 0;
-}
-
-.button:-moz-focusring,
-button:-moz-focusring,
-[type='button']:-moz-focusring,
-[type='reset']:-moz-focusring,
-[type='submit']:-moz-focusring {
-  outline: 1px dotted ButtonText;
-}
-
-.button:hover, .button:focus, .button:active,
-button:hover,
-button:focus,
+/* Active, focused and hovered buttons can change colour */
+/* See: https://developer.mozilla.org/en-US/docs/Web/CSS/:active */
+/* See: https://developer.mozilla.org/en-US/docs/Web/CSS/:focus */
+/* See: https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within */
+/* See: https://developer.mozilla.org/en-US/docs/Web/CSS/:hover */
+.btn.active,
+.button.active,
+button.active,
+[type='button'].active,
+[type='reset'].active,
+[type='submit'].active,
+.btn:active,
+.button:active,
 button:active,
-[type='button']:hover,
-[type='button']:focus,
 [type='button']:active,
-[type='reset']:hover,
-[type='reset']:focus,
 [type='reset']:active,
-[type='submit']:hover,
+[type='submit']:active,
+.btn:focus,
+.button:focus,
+button:focus,
+[type='button']:focus,
+[type='reset']:focus,
 [type='submit']:focus,
-[type='submit']:active {
-  background-color: #55A6D9;  /* ereefs-light-blue */
+.btn:focus-within,
+.button:focus-within,
+button:focus-within,
+[type='button']:focus-within,
+[type='reset']:focus-within,
+[type='submit']:focus-within,
+.btn:hover,
+.button:hover,
+button:hover,
+[type='button']:hover,
+[type='reset']:hover,
+[type='submit']:hover {
+  background-color: color-mix(in srgb, var(--ereefs-dark-blue) 90%, #000);  /* matches the unhovered border colour */
+  box-shadow: inset 0 3px 5px rgba(#000000, .125);
+  color: var(--ereefs-text-light);
   text-decoration: none;
-  color: #FFFFFF;
 }
 
-button[disabled],
-button[disabled]:active,
-button[disabled]:focus,
-button[disabled]:hover,
+/* Prevent dotted outlines from appearing on buttons with focus unless needed for accessibility */
+/* See: https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-focus-inner */
+/* See: https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible */
+.btn:not(:focus-visible)::-moz-focus-inner,
+.button:not(:focus-visible)::-moz-focus-inner,
+button:not(:focus-visible)::-moz-focus-inner,
+[type='button']:not(:focus-visible)::-moz-focus-inner,
+[type='reset']:not(:focus-visible)::-moz-focus-inner,
+[type='submit']:not(:focus-visible)::-moz-focus-inner {
+  border-style: none;
+}
+.btn:focus-visible,
+.button:focus-visible,
+button:focus-visible,
+[type='button']:focus-visible,
+[type='reset']:focus-visible,
+[type='submit']:focus-visible {
+  outline-color: invert;
+}
+
+/* Disabled buttons should be greyed out, with no active/focus/hover changes */
+[disabled].btn,
 [disabled].button,
-[disabled].button:active
-[disabled].button:focus
-[disabled].button:hover,
+button[disabled],
 [disabled][type='button'],
+[disabled][disabled][type='reset'],
+[type='submit'],
+[disabled].btn.active,
+[disabled].button.active,
+button[disabled].active,
+[disabled][type='button'].active,
+[disabled][type='reset'].active,
+[disabled][type='submit'].active,
+[disabled].btn:active,
+[disabled].button:active,
+button[disabled]:active,
 [disabled][type='button']:active,
-[disabled][type='button']:focus,
-[disabled][type='button']:hover,
-[disabled][type='reset'],
 [disabled][type='reset']:active,
+[disabled][type='submit']:active,
+[disabled].btn:focus,
+[disabled].button:focus,
+button[disabled]:focus,
+[disabled][type='button']:focus,
 [disabled][type='reset']:focus,
-[disabled][type='reset']:hover,
-[disabled][type='submit'],
-[disabled][type='submit']:active
 [disabled][type='submit']:focus,
+[disabled].btn:focus-within,
+[disabled].button:focus-within,
+button[disabled]:focus-within,
+[disabled][type='button']:focus-within,
+[disabled][type='reset']:focus-within,
+[disabled][type='submit']:focus-within,
+[disabled].btn:hover,
+[disabled].button:hover,
+button[disabled]:hover,
+[disabled][type='button']:hover,
+[disabled][type='reset']:hover,
 [disabled][type='submit']:hover {
-  background-color: #707070; /* ereefs-dark-grey */
+  background-color: var(--ereefs-dark-grey);
+  border: 1px solid color-mix(in srgb, var(--ereefs-dark-grey) 90%, #000);  /* 10% darker than the background*/
   cursor: default;
-  color: #cfdce8; /* ereefs-light-grey */
+  color: var(--ereefs-light-grey);
 }
