@@ -2,223 +2,60 @@
  * edas-dashboard.css
  *
  * eReefs visual identity for CSIRO's Environmental Data Application Stack (EDAS) Dashboards
+ * these styles are designed to override the default EDAS dashboard theme styles.
  *
  */
+:root {
+  /* EDAS Theme variables */
+  --home-bg-img-url: none;  /* because the relative URL causes issues when used by the EDAS stylesheet */
+  --logo-height: var(--ereefs-logo-min-height);
+  --text-light: var(--ereefs-text-light);
+  --text-dark: var(--ereefs-text-dark);
 
- @import "ereefs-reset.css";
+  /* EDAS and Bootstrap Theme fonts */
+  --font-family-brand: var(--ereefs-brand-font-family);
+  --font-size-brand: var(--ereefs-brand-font-size);
+  --font-weight-brand: var(--ereefs-brand-font-weight);
+  --font-family-headings: var(--ereefs-headings-font-family);
+  --font-family-monospace: var(--ereefs-code-font-family);
+  --font-family-sans-serif: var(--ereefs-text-font-family);
 
- :root {
-     --font-family-sans-serif: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
-     --primary: #55A6D9;             /* ereefs-light-blue */
-     --secondary: #0F528C;           /* ereefs-dark-blue */
-     --dark: #0F528C;                /* ereefs-dark-blue */
-     --bg-dark: #0F528C !important;  /* ereefs-dark-blue */
-     --info: #CBFDFF;                /* ereefs-lightest-blue */
- }
- 
- html, body {
-     margin: 0;
-     padding: 0;
-     max-width: 100%;
- }
+  /* Bootstrap Theme Colors */
+  --primary: var(--ereefs-dark-blue);
+  --secondary: var(--ereefs-darkest-blue);
+  --light: var(--ereefs-light-blue);
+  --dark: var(--ereefs-dark-blue);
+  --info: var(--cyan);
+  --gray-400: var(--ereefs-light-grey);
+  --gray-600: var(--ereefs-dark-grey);
 
-button.fa {
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    line-height: 1;
-}
-
-h5, h6 {
-    font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
-    line-height:  1rem !important;
-}
-
-svg {
-    max-height: auto;
-}
- 
-.Nav .brand,
-.Nav .brand img {
-    font-size: 1.5rem;
-    height: 50px !important;
-    line-height: 50px;
-    min-height: 50px !important;
-    padding-bottom: 0;
-    padding-top: 0;
-}
- 
-.Body {
-    margin-top: 0;
-    padding-top: 66px;
+  /* Derive the other greys... */
+  --gray-100: color-mix(in srgb, var(--gray-400) 25%, #fff);
+  --gray-200: color-mix(in srgb, var(--gray-400) 50%, #fff);
+  --gray-300: color-mix(in srgb, var(--gray-400) 75%, #fff);
+  --gray-500: color-mix(in srgb, var(--gray-400) 50%, var(--gray-600));
+  --gray-700: color-mix(in srgb, var(--gray-500) 75%, #000);
+  --gray-800: color-mix(in srgb, var(--gray-500) 50%, #000);
+  --gray-900: color-mix(in srgb, var(--gray-500) 25%, #000);
 }
 
-.bg-dark,
-.dropdown-menu,
-.leaflet-control-layers,
-.leaflet-control-zoom a,
-.leaflet-draw-toolbar a,
-.WizardAccordion .card-header,
-.FooterBarSticky___2HjXX {
-  background-color: #0F528C !important;  /* ereefs-dark-blue */
-  border-color: #0F528C !important;  /* ereefs-dark-blue */
-  color: #ffffff;
+/* Try to make the navbar logo not flash huge as the page renders */
+.Nav .brand {
+  max-height: var(--ereefs-logo-min-height);
+  overflow: hidden;
+}
+.Nav .navbar .brand img {
+  width: var(--ereefs-logo-min-height);
+  height: var(--ereefs-logo-min-height);
 }
 
-.leaflet-control-zoom a:hover,
-.leaflet-draw-toolbar a:hover,
-.WizardAccordion .card-header:hover {
-  background-color: #55A6D9 !important;  /* ereefs-light-blue */
-  border-color: #55A6D9 !important;      /* ereefs-light-blue */
+/* hide external icon in nav links */
+.Nav .offcanvas-collapse .nav-link i.fa {
+    display: none !important;
 }
 
-.btn-primary.disabled, 
-.btn-primary:disabled,
-.btn-secondary.disabled, 
-.btn-secondary:disabled {
-    border-color: #707070;  /* ereefs-dark-grey */
+/* Make the relative background image work by using the relative URL in-situ */
+.HomePage,
+.Nav .offcanvas-collapse.open .navCardsContainer {
+  background-image: var(--ereefs-bg-img);
 }
-
-.btn-primary:not(:disabled):not(.disabled) {
-  background-color: #55A6D9 !important;  /* ereefs-light-blue */
-  border-color: #55A6D9 !important;  /* ereefs-light-blue */
-  border-style: solid;
-  border-width: 1px;
-  box-shadow: none;
-}
-
-.btn-outline-light:not(:disabled):not(.disabled),
-.btn-primary:not(:disabled):not(.disabled).active,
-.btn-primary:not(:disabled):not(.disabled):active,
-.btn-primary:not(:disabled):not(.disabled):hover,
-.btn-primary:not(:disabled):not(.disabled):focus,
-.btn-primary:not(:disabled):not(.disabled)::-moz-focus-inner {
-  border-color: #ffffff !important;
-}
-
-.modal-body .btn-primary:not(:disabled):not(.disabled),
-.SwitchablePane .btn-primary:not(:disabled):not(.disabled),
-.btn-secondary:not(:disabled):not(.disabled) {
-  background-color: #0F528C !important;  /* ereefs-dark-blue */
-  border-color: #0F528C !important;      /* ereefs-dark-blue */
-  border-style: solid;
-  border-width: 1px;
-  color: #ffffff;
-}
-
-.btn-outline-light:not(:disabled):not(.disabled).active,
-.btn-outline-light:not(:disabled):not(.disabled):active,
-.modal-body .btn-primary:not(:disabled):not(.disabled).active,
-.modal-body .btn-primary:not(:disabled):not(.disabled):active,
-.modal-body .btn-primary:not(:disabled):not(.disabled):hover,
-.SwitchablePane .btn-primary:not(:disabled):not(.disabled).active,
-.SwitchablePane .btn-primary:not(:disabled):not(.disabled):active,
-.SwitchablePane .btn-primary:not(:disabled):not(.disabled):hover,
-.btn-secondary:not(:disabled):not(.disabled).active,
-.btn-secondary:not(:disabled):not(.disabled):active,
-.btn-secondary:not(:disabled):not(.disabled):hover {
-  background-color: #55A6D9 !important;  /* ereefs-light-blue */
-  border-color:     #55A6D9 !important;  /* ereefs-light-blue */
-}
- 
-.modal-body .btn-outline-secondary:not(:disabled):not(.disabled) {
-  border-color: #0F528C !important;      /* ereefs-dark-blue */
-}
-
-table button,
-table .btn-secondary {
-    margin: 0 0.5em 0 0 !important;
-    padding: 0.375rem 0.75rem;
-}
-button.btn-danger {
-    background-color: #dc3545 !important ;
-}
-button.btn-success {
-    background-color: #00855b !important ;
-}
-
- .dropdown-header,
- .FooterBarSticky___2HjXX,
- .FooterBarSticky___2HjXX a,
-.LayerManager .layerControl .controls a,
-.LayerManager .layerControl .controls button {
-     color: #ffffff;
- }
- 
- 
- .alert-secondary, .alert-info {
-     color: #163a59;
-     background-color: #cfdce8;  /* ereefs-light-grey */
-     border-color: #bccfdf;
- }
- 
- .alert-secondary a, .alert-info a {
-     color: #55A6D9;  /* ereefs-light-blue */
- }
-
-.SearchControls {
- line-height: 50px;
-}
-@media screen and (min-width: 1700px){
-  .SearchControls button {
-    top: -1px;
-  }
-}
-.ShareButton.btn-secondary:not(:disabled):not(.disabled) {
-  height: 34px;
-  margin-top: -2px;
-  padding: 0 0.5em !important;
-  vertical-align: middle;
-}
-.ShareButton.btn-secondary:not(:disabled):not(.disabled):hover {
-    border-color: #ffffff !important;
-}
-
- .Nav .offcanvas-collapse.open,
- .HomePage {
-     background-image: url(../images/backgrounds/hardy-reef.jpg);
- }
- 
- .bg-dark {
-     color: #FFF;
- }
- 
- .btn {
-     font-weight: 400 !important;
- }
- 
- .leaflet-draw-toolbar a, .leaflet-draw-toolbar a:hover, .leaflet-control-zoom a, .leaflet-control-zoom a:hover, .leaflet-draw-actions a, .leaflet-draw-actions a:hover {
-     color: #FFF !important;
- }
-
-.LayerManager .container {
-    top: auto;
-    margin-top: 20px;
-}
-.LayerManager .toggleButton {
-    font-size: inherit;
-}
-.LayerManager .layerControl .controls button,
-.LayerManager .layerControl .legend button {
-    background-color: transparent;
-    color: #212529 !important;
-}
-.LayerManager .layerControl .layerContent .legendDimensions button,
-.LayerManager .layerControl .layerContent .legendDimensions .tiny-button:not(.timeWarning) {
-  background-color: #0F528C;  /* ereefs-dark-blue */
-  color: #ffffff !important;
-  font-size: 78% !important;
-  padding: 1px 4px;
-  margin-right: 2px;
-}
-.NodeExplorer button,
-.NodeExplorer button:active,
-.NodeExplorer button:hover {
-    background-color: transparent;
-    color: inherit;
-}
-.dataset-control-row button {
-    font-size: 0.875rem;
-}
-
-
- 
