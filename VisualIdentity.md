@@ -27,16 +27,18 @@ So that the many and varied components of the eReefs Platform appear to be relat
 eReefs websites should prefer the following HTML colours:
 
 
-| Label | Hex Code | Use for |
-|-------|----------|---------|
-| white | `#ffffff` <span style="background-color:#ffffff;">&nbsp;&nbsp;&nbsp;</span> |  <ul><li>**backgrounds:**<ul><li>page content</li><li>odd-numbered table rows</li></ul><li>**text**: body text over dark backgrounds</li></ul> |
-| ereefs-darkest-blue | `#212529` <span style="background-color: #212529;">&nbsp;&nbsp;&nbsp;</span> |  <ul><li>**text**: body text over light backgrounds</li></ul> |
-| ereefs-dark-blue | `#0F528C` <span style="background-color: #0F528C;">&nbsp;&nbsp;&nbsp;</span> |     <ul><li>**backgrounds:** <ul><li>header / titlebar</li><li>footer</li><li>navigation tiles</li><li>normal/visited buttons over light backgrounds</li><li>coral in logo</li></ul><li>**borders:** logo, table, legend, content</li><li>**text**: normal/visited links</li></ul> |
-| ereefs-light-blue | `#55A6D9`  <span style="background-color: #55A6D9;">&nbsp;&nbsp;&nbsp;</span> | <ul><li>**backgrounds:** <ul><li>normal/visited buttons over dark backgrounds</li><li>active/hover/focus buttons over light backgrounds</li><li>deepest wave in logo</li></ul><li>**text:** active/hover/focus link text</li></ul> |
-| ereefs-lightest-blue | `#CBFDFF` <span style="background-color: #CBFDFF;">&nbsp;&nbsp;&nbsp;</span> | <ul><li>**backgrounds:** message zone</li><li>**logo:** background</li></ul> |
-| ereefs-dark-grey | `#707070` <span style="background-color: #707070;">&nbsp;&nbsp;&nbsp;</span> | <ul><li>**backgrounds:** disabled buttons</li><li>**borders:** horizontal rules</li><li>**text:** non-emphasised table/legend content</li></ul> |
-| ereefs-light-grey | `#CFDCE8` <span style="background-color: #CFDCE8;">&nbsp;&nbsp;&nbsp;</span> | <ul><li>**backgrounds:**<ul><li>page background behind white content backgrounds</li><li>even-numbered table rows</li></ul></ul> |
+| Label | Hex Code / CSS Global<sup>*</sup> | Use for |
+|-------|-----------------------------------|---------|
+| white | `#ffffff` <span style="background-color:#ffffff;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-white)`<sup>*</sup> | <ul><li>**backgrounds:**<ul><li>page content</li><li>odd-numbered table rows</li></ul><li>**text**: body text over dark backgrounds</li></ul> |
+| ereefs-darkest-blue | `#212529` <span style="background-color: #212529;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-darkest-blue)`<sup>*</sup> | <ul><li>**text**: body text over light backgrounds</li></ul> |
+| ereefs-dark-blue | `#0F528C` <span style="background-color: #0F528C;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-dark-blue)`<sup>*</sup> | <ul><li>**backgrounds:** <ul><li>header / titlebar</li><li>footer</li><li>navigation tiles</li><li>normal/visited buttons over light backgrounds</li><li>coral in logo</li></ul><li>**borders:** logo, table, legend, content</li><li>**text**: normal/visited links</li></ul> |
+| ereefs-light-blue | `#55A6D9`  <span style="background-color: #55A6D9;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-light-blue)`<sup>*</sup> | <ul><li>**backgrounds:** <ul><li>normal/visited buttons over dark backgrounds</li><li>active/hover/focus buttons over light backgrounds</li><li>deepest wave in logo</li></ul><li>**text:** active/hover/focus link text</li></ul> |
+| ereefs-lightest-blue | `#CBFDFF` <span style="background-color: #CBFDFF;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-lightest-blue)`<sup>*</sup> | <ul><li>**backgrounds:** message zone</li><li>**logo:** background</li></ul> |
+| ereefs-dark-grey | `#707070` <span style="background-color: #707070;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-dark-grey)`<sup>*</sup> | <ul><li>**backgrounds:** disabled buttons</li><li>**borders:** horizontal rules</li><li>**text:** non-emphasised table/legend content</li></ul> |
+| ereefs-light-grey | `#CFDCE8` <span style="background-color: #CFDCE8;">&nbsp;&nbsp;&nbsp;</span><br/>`var(--ereefs-dark-grey)`<sup>*</sup> | <ul><li>**backgrounds:**<ul><li>page background behind white content backgrounds</li><li>even-numbered table rows</li></ul></ul> |
 &nbsp;
+
+<sup>*</sup> <small>The CSS global variables are defined on the `:root` element of the [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet (see below) and can be used in any CSS file where that has been imported earlier.</small>
 
 ## Fonts
 
@@ -54,6 +56,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 ``` 
 
+The [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet includes this rule, and you can use `font-family: var(--ereefs-headings-font-family)` for any other CSS rule after that stylesheet has been imported.
+
 &nbsp;
 
 ### Text Font (and also site-banner)
@@ -63,12 +67,12 @@ h1, h2, h3, h4, h5, h6 {
 ```css
 @import "https://fonts.googleapis.com/css2?family=Roboto";
 
-body,
-.banner h1 {
+body {
   font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 ```
-&nbsp;
+
+The [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet includes the body font-family rule, and you can use `font-family: var(--ereefs-text-font-family)` for any other CSS rule after that stylesheet has been imported.
 
 ### Code Font
 
@@ -80,6 +84,8 @@ code, pre, var {
 }
 ```
 
+The [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet includes this rule, and you can use `font-family: var(--ereefs-code-font-family)` for any other CSS rule after that stylesheet has been imported.
+
 ## Logos
 
 The official eReefs Logo image files can be found in this repository at [docs/assets/images/logos/](./docs/assets/images/logos/),  and referenced at runtime at <https://www.ereefs.org.au/assets/images/logos/>.
@@ -90,12 +96,13 @@ The main logo should be used in website titlebars and anywhere else that eReefs 
 
 The 'banner' variant includes white 'eReefs' text, and can be used in cases where it is not possible to inject both an image and text into an existing web page.  Keeping the image and banner-text seperate is much more accessible for users with screen readers, so only use this if it's truly necessary.
 
-| MIME Type | Preview	| URL | Size |
-|-----------|-----------|-----|------|
-| `image/svg+xml` | ![Main Logo SVG](./docs/assets/images/logos/ereefs_logo.svg) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo.svg> | N/A: should autoscale as needed. Works very large (e.g. t-shirt scale) |
-|`image/png` | ![Main Logo PNG](./docs/assets/images/logos/ereefs_logo.png) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo.png> | width=250px, height=250px, 300DPI |
-| `image/png` | ![Banner Logo PNG](./docs/assets/images/logos/ereefs_banner.png) | <https://www.ereefs.org.au/assets/images/logos/ereefs_banner.png> | width=401px, height=120px, 300DPI |
+| MIME Type | Preview	| URL / CSS Variable<sup>*</sup> | Size |
+|-----------|---------|--------------------------------|------|
+| `image/svg+xml` | ![Main Logo SVG](./docs/assets/images/logos/ereefs_logo.svg) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo.svg><br>`var(--ereefs-logo-img-svg)`<sup>*</sup> | N/A: should autoscale as needed. Works very large (e.g. t-shirt scale) |
+|`image/png` | ![Main Logo PNG](./docs/assets/images/logos/ereefs_logo.png) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo.png><br>`var(--ereefs-logo-img-png)`<sup>*</sup> | width=250px, height=250px, 300DPI |
+| `image/png` | ![Banner Logo PNG](./docs/assets/images/logos/ereefs_banner.png) | <https://www.ereefs.org.au/assets/images/logos/ereefs_banner.png><br>`var(--ereefs-banner-img)`<sup>*</sup> | width=401px, height=120px, 300DPI |
 
+<sup>*</sup> <small>The CSS global variables are defined on the `:root` element of the [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet (see below) and can be used in any CSS file where that has been imported earlier.</small>
 
 ### Favicon Logo
 
@@ -103,12 +110,14 @@ This logo variant is designed to work better at small image sizes than the main 
 
 Prefer the .svg (vector) variant where possible, or use the .png if your application can only handle raster image formats, or the .ico if your application really wants an old-school icon file.
 
-| MIME Type | Preview	| URL | Size |
-|-----------|-----------|-----|------|
-| `image/svg+xml` | ![Favicon Logo SVG](./docs/assets/images/logos/ereefs_logo_favicon.svg) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo_favicon.svg> |  N/A: should autoscale as needed |
-| `image/png` | ![Favicon Logo PNG](./docs/assets/images/logos/ereefs_logo_favicon.png) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo_favicon.png> |  w=32px, h=32px, 300DPI |
-| `image/x-icon` | ![Favicon Logo ICO](./docs/assets/images/logos/ereefs_logo_favicon.ico) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo_favicon.ico> |  w=32px, h=32px, 300DPI |
+| MIME Type | Preview	| URL / CSS Variable<sup>*</sup> | Size |
+|-----------|---------|--------------------------------|------|
+| `image/svg+xml` | ![Favicon Logo SVG](./docs/assets/images/logos/ereefs_logo_favicon.svg) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo_favicon.svg><br/>`var(--ereefs-logo-favicon-svg)`<sup>*</sup> |  N/A: should autoscale as needed |
+| `image/png` | ![Favicon Logo PNG](./docs/assets/images/logos/ereefs_logo_favicon.png) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo_favicon.png><br/>`var(--ereefs-logo-favicon-png)`<sup>*</sup> |  w=32px, h=32px, 300DPI |
+| `image/x-icon` | ![Favicon Logo ICO](./docs/assets/images/logos/ereefs_logo_favicon.ico) | <https://www.ereefs.org.au/assets/images/logos/ereefs_logo_favicon.ico><br/>`var(--ereefs-logo-favicon-ico)`<sup>*</sup> |  w=32px, h=32px, 300DPI |
 
+
+<sup>*</sup><small>The CSS global variables are defined on the `:root` element of the [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet (see below) and can be used in any CSS file where that has been imported earlier.</small>
 &nbsp;
 
 ## Background Images
@@ -150,7 +159,7 @@ The following stylesheets are available for reference and re-use:
 
 | Stylesheet | Purpose | 
 |------------|---------|
-| [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) | This is a [HTML Reset stylesheet](https://www.webfx.com/blog/web-design/css-reset-stylesheets/).  It configures fonts, text sizes and colours for standard HTML elements so that they fit the eReefs visual identity and appear consistently in most major browsers.  It does NOT assume any particular page layout, but does tweak the box-model, so may not be suitable to use in combination with all legacy web pages. |
+| [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) | This is a [HTML Reset stylesheet](https://www.webfx.com/blog/web-design/css-reset-stylesheets/).  It defines global CSS variables and configures fonts, text sizes and colours for standard HTML elements so that they fit the eReefs visual identity and appear consistently in most major browsers.  It does NOT assume any particular page layout, but does tweak the box-model, so may not be suitable to use in combination with all legacy web pages. |
 | [ereefs-overrides.css](./docs/assets/css/ereefs-overrides.css) | Override styles for a GitHub Pages website that uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) theme (i.e. the website from this repository) |
 | [edas-dashboard.css](./docs/assets/css/edas-dashboard.css) | Applies the eReefs Visual Identity to a website derived from CSIRO's Environmental Data Application Stack (EDAS) dashboard software. |
 | [flask-rest-swagger.css](./docs/assets/css/flask-rest-swagger.css) | Applies the eReefs Visual Identity to swagger documentation autogenerated for a [Flask-RESTful API](https://flask-restful.readthedocs.io/en/latest/) |
@@ -176,19 +185,67 @@ All eReefs websites should use the [eReefs favicon logo](./docs/assets/images/lo
 
 ### Header / Titlebar
 
-A titlebar should be displayed at the top of the page that has white text on an `ereefs-dark`-coloured background.
+A titlebar should be displayed at the top of the page that has white text on an `ereefs-dark`-coloured background. 
 
 ### Banner Logo
 
-The eReefs Logo and the word 'eReefs' in bold, white text should be displayed on the left-hand end of the titlebar.   The logo may link either to the main eReefs homepage (<https://www.ereefs.org.au>) or to the landing page of that particular website.
+The eReefs Logo and the word 'eReefs' in bold, white text should be displayed together on the left-hand end of the titlebar.   
+
+The banner may link either to the main eReefs homepage (<https://www.ereefs.org.au>) or to the landing page of that particular website. It should not have any obvious hover-hehaviour if linked.
 
 The logo should be a minimum of 50px high.
 
+The text should be white, and should use the eReefs *text* font rather than the *heading* font, and should have a font-size of `1.5em`. It should be aligned with the middle of the logo.
+
+If you have imported the [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet, you can style your banner logo using:
+
+```css
+.banner {
+  background-color: var(--ereefs-dark);
+  color: var(--ereefs-text-light);
+  font-family: var(--ereefs-brand-font-family);
+  font-size: var(--ereefs-brand-font-size);
+  font-weight: var(--ereefs-brand-font-weight);
+  padding: 0.5em 1em;
+}
+
+.banner a {
+  color: inherit !important;
+  line-height: var(--ereefs-logo-min-height);
+  text-decoration: none;
+}
+.banner img {
+  height: var(--ereefs-logo-min-height);
+  margin-right: 0.5em;
+}
+```
+
 ### Primary Navigation Links
 
-All eReefs websites should include a set of common navigation links to allow users to return to this main eReefs website from any other page in the eReefs platform.
+All eReefs websites should include a set of common navigation links to allow users to return to this main eReefs website from any other page in the eReefs platform. 
 
 If the layout permits, these should be displayed on the righthand side of the titlebar at the very top of the page, and should collapse to a drop-down list for mobile devices.
+
+Navigation bar links should be white on an `ereefs-dark` background, and may change colour to `ereefs-light` on hover. They should have no underline.
+
+If you have imported the [ereefs-reset.css](./docs/assets/css/ereefs-reset.css) HTML reset stylesheet, you can style your banner logo using:
+
+```css
+.nav-links {
+  background-color: var(--ereefs-dark);
+  color: var(--ereefs-text-light);
+}
+.nav-links a {
+  color: inherit;
+  text-decoration: none;
+}
+.nav-links a:active,
+.nav-links a:focus,
+.nav-links a:hover {
+  color: var(--ereefs-light);
+}
+
+```
 
 For the title and URL of each of these primary / common navigation links, please refer to the `main` entry in the navigation definition for this website: [docs/_data/navigation.yml](./docs/_data/navigation.yml)
 

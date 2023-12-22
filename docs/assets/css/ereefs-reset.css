@@ -19,6 +19,7 @@
 /* Global variables for visual identity entities */
 :root {
   /* eReefs Colours */
+  --ereefs-white: #FFFFFF;
   --ereefs-darkest-blue: #212529; 
   --ereefs-dark-blue: #0F528C;        
   --ereefs-light-blue: #55A6D9;        
@@ -31,6 +32,7 @@
   --ereefs-text-dark: var(--ereefs-darkest-blue);
 
   /* eReefs Images */
+  --ereefs-banner-img: url("../images/logos/ereefs_banner.png");
   --ereefs-bg-img: url("../images/backgrounds/hardy-reef.jpg");
   --ereefs-logo-favicon-ico: url("../images/logos/ereefs_logo_favicon.ico");
   --ereefs-logo-favicon-png: url("../images/logos/ereefs_logo_favicon.png");
