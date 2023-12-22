@@ -7,14 +7,15 @@
  */
 :root {
   /* EDAS Theme variables */
-  --home-bg-img-url: var(--ereefs-bg-img);
+  --home-bg-img-url: none;  /* because the relative URL causes issues when used by the EDAS stylesheet */
   --logo-height: var(--ereefs-logo-min-height);
   --text-light: var(--ereefs-text-light);
   --text-dark: var(--ereefs-text-dark);
 
   /* EDAS and Bootstrap Theme fonts */
   --font-family-brand: var(--ereefs-brand-font-family);
-  --font-size-brand: 1.5rem;
+  --font-size-brand: var(--ereefs-brand-font-size);
+  --font-weight-brand: var(--ereefs-brand-font-weight);
   --font-family-headings: var(--ereefs-headings-font-family);
   --font-family-monospace: var(--ereefs-code-font-family);
   --font-family-sans-serif: var(--ereefs-text-font-family);
@@ -51,4 +52,10 @@
 /* hide external icon in nav links */
 .Nav .offcanvas-collapse .nav-link i.fa {
     display: none !important;
+}
+
+/* Make the relative background image work by using the relative URL in-situ */
+.HomePage,
+.Nav .offcanvas-collapse.open .navCardsContainer {
+  background-image: var(--ereefs-bg-img);
 }

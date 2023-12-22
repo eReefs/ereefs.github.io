@@ -31,7 +31,7 @@
   --ereefs-text-dark: var(--ereefs-darkest-blue);
 
   /* eReefs Images */
-  --ereefs-bg-img: url("http://localhost:4000/assets/images/backgrounds/hardy-reef.jpg");
+  --ereefs-bg-img: url("../images/backgrounds/hardy-reef.jpg");
   --ereefs-logo-favicon-ico: url("../images/logos/ereefs_logo_favicon.ico");
   --ereefs-logo-favicon-png: url("../images/logos/ereefs_logo_favicon.png");
   --ereefs-logo-favicon-svg: url("../images/logos/ereefs_logo_favicon.svg");
@@ -41,6 +41,8 @@
 
   /* eReefs fonts */
   --ereefs-brand-font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  --ereefs-brand-font-size: 1.5rem;
+  --ereefs-brand-font-weight: 400;
   --ereefs-code-font-family: Menlo, "DejaVu Sans Mono", "Ubuntu Mono", Courier, "Courier New", monospace, sans-serif;
   --ereefs-headings-font-family: 'Open Sans Condensed','Open Sans',sans-serif;
   --ereefs-text-font-family: Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif;
@@ -438,7 +440,7 @@ table {
   width: 100%;
 }
 
-table tr:nth-child(event) {
+table tr:nth-child(even) {
   background-color: var(--ereefs-light-grey);
 }
 
