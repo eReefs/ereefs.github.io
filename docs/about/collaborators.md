@@ -12,7 +12,6 @@ eReefs is a research collaboration between the following agencies:
   {% if collaborator.link_url %}
   [![image-left]({{ collaborator.logo_url }})]({{ collaborator.link_url }}){: .align-left}
   {% else %}
-  ### hello
   ![image-left]({{ collaborator.logo_url }}){: .align-left}
   {% endif %}
   {{ collaborator.content }}
