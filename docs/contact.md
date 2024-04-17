@@ -22,7 +22,7 @@ If you have a question about CSIRO's eReefs Research, you can use [the contact f
 
 ### Contact the AIMS eReefs Research Team:
 
-If you have a question about eReefs Research produced by the team at the Australian Institute of Marine Science (AIMS), please refer to the [contact information on the main AIMS website](https://www.aims.gov.au/docs/about/contacts.html).
+If you have a question about eReefs Research produced by the team at the Australian Institute of Marine Science (AIMS), please contact the AIMS eReefs team at [e&#8209;atlas+ereefs@aims.gov.au](mailto:e-atlas+ereefs@aims.gov.au).
 
 ## Report a problem with an eReefs website
 
