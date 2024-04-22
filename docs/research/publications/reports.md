@@ -12,7 +12,7 @@ Reports and publications about the eReefs collaboration, platform and/or data pr
 {% for year in reportPublishedYear reversed %}
 ### {{ year.name }}
   {% for report in year.items %}
-**[{{ report.title }}]({{ report.link_url }})**
+**[{{ report.title }}]({{ report.link_url }})** ({{ report.publisher }})
   {{ report.content }}
   {% endfor %}
 {% endfor %}
