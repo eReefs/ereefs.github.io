@@ -14,3 +14,8 @@ services:
       - ./start-jekyll-server.sh:/start-jekyll-server.sh
     ports:
       - "4000:4000"
+      - "35729:35729"
+    entrypoint:
+      bash
+    command:
+      /start-jekyll-server.sh
