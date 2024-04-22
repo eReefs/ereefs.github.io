@@ -8,12 +8,11 @@ Reports and publications about the eReefs collaboration, platform and/or data pr
 
 ## Reports that incorporate eReefs data  
 
-{% assign reportPublishedYear = site.reports | group_by:"published" %}
-{% for year in reportPublishedYear %}
+{% assign reportPublishedYear = site.reports | group_by:"year" | sort: "year" %}
+{% for year in reportPublishedYear reversed %}
 ### {{ year.name }}
   {% for report in year.items %}
-#### {{ report.title }}
-  [{{ report.link_url }}]({{ report.link_url }})
+**[{{ report.title }}]({{ report.link_url }})**
   {{ report.content }}
   {% endfor %}
 {% endfor %}
