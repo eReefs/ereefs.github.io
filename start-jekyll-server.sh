@@ -7,5 +7,5 @@ PORT="${PORT:-4000}"
 # in addition to the standard configuration needed for github pages
 CONFIG="${CONFIG:-_config.yml,_config_docker.yml}"
 
-# Launch the jeckyll server in a development-friendly configuration
-jekyll server --config "${CONFIG}" --port "${PORT}" --livereload
+# Launch the jekyll server in a development-friendly configuration
+jekyll server --config "${CONFIG}" --port "${PORT}" --livereload --livereload-port 35729 --watch --force_polling --livereload-min-delay 5

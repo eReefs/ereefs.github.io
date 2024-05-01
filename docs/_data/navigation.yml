@@ -50,6 +50,8 @@ sidebar:
       url: /research/publications/case-studies.html
     - title: Media
       url: /research/publications/media.html
+    - title: Reports
+      url: /research/publications/reports.html
   - title: "eReefs Tools"
     children:
     - title: "Overview"
