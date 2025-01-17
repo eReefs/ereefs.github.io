@@ -1,0 +1,490 @@
+cff-version: 1.2.0
+message: "2016"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Albright
+        given-names: Rebecca
+        orcid: https://orcid.org/0000-0002-1690-9097
+      - family-names: Anthony
+        given-names: Kenneth R.N.
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Beeden
+        given-names: Roger
+      - family-names: Byrne
+        given-names: Maria
+      - family-names: Collier
+        given-names: Catherine
+      - family-names: Dove
+        given-names: Sophie
+      - family-names: Fabricius
+        given-names: Katharina
+      - family-names: Hoegh-Guldberg
+        given-names: Ove
+      - family-names: Kelly
+        given-names: Ryan P.
+      - family-names: Lough
+        given-names: Janice
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Munday
+        given-names: Philip L.
+      - family-names: Pears
+        given-names: Rachel J.
+      - family-names: Russell
+        given-names: Bayden D.
+      - family-names: Tilbrook
+        given-names: Bronte
+      - family-names: Abal
+        given-names: Eva
+    doi: 10.1016/j.jenvman.2016.07.038
+    identifiers:
+      - type: doi
+        value: 10.1016/j.jenvman.2016.07.038
+      - type: url
+        value: https://dx.doi.org/10.1016/j.jenvman.2016.07.038
+      - type: other
+        value: urn:issn:0301-4797
+    title: >-
+      Ocean acidification: Linking science to management solutions using the Great
+      Barrier Reef as a case study
+    url: https://dx.doi.org/10.1016/j.jenvman.2016.07.038
+    database: Crossref
+    date-published: 2016-11-01
+    year: 2016
+    month: 11
+    issn: 0301-4797
+    journal: Journal of Environmental Management
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '641'
+    end: '650'
+    type: article
+    volume: '182'
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Adams
+        given-names: Matthew P.
+        orcid: https://orcid.org/0000-0003-4875-0225
+      - family-names: Babcock
+        given-names: Russell C.
+      - family-names: Oubelkheir
+        given-names: Kadija
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Wild-Allen
+        given-names: Karen A.
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Robson
+        given-names: Barbara J.
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Petrou
+        given-names: Katherina
+      - family-names: Ralph
+        given-names: Peter J.
+      - family-names: O’Brien
+        given-names: Katherine R.
+      - family-names: Carter
+        given-names: Alex B.
+      - family-names: Jarvis
+        given-names: Jessie C.
+      - family-names: Rasheed
+        given-names: Michael A.
+    doi: 10.1016/j.ecolmodel.2015.12.011
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecolmodel.2015.12.011
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecolmodel.2015.12.011
+      - type: other
+        value: urn:issn:0304-3800
+    title: >-
+      A biophysical representation of seagrass growth for application in a complex
+      shallow-water biogeochemical model
+    url: https://dx.doi.org/10.1016/j.ecolmodel.2015.12.011
+    database: Crossref
+    date-published: 2016-04-01
+    year: 2016
+    month: 4
+    issn: 0304-3800
+    journal: Ecological Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '13'
+    end: '27'
+    type: article
+    volume: '325'
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Cherukuru
+        given-names: Nagur
+      - family-names: Jones
+        given-names: Emlyn
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Oubelkheir
+        given-names: Kadija
+      - family-names: Ralph
+        given-names: Peter J.
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Robson
+        given-names: Barbara J.
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Steven
+        given-names: Andrew D.L.
+      - family-names: Wild-Allen
+        given-names: Karen A.
+    doi: 10.1016/j.envsoft.2015.11.025
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2015.11.025
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2015.11.025
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Remote-sensing reflectance and true colour produced by a coupled
+      hydrodynamic, optical, sediment, biogeochemical model of the Great Barrier
+      Reef, Australia: Comparison with satellite data
+    url: https://dx.doi.org/10.1016/j.envsoft.2015.11.025
+    database: Crossref
+    date-published: 2016-04-01
+    year: 2016
+    month: 4
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '79'
+    end: '96'
+    type: article
+    volume: '78'
+
+  - authors:
+      - family-names: Benthuysen
+        given-names: Jessica A.
+        orcid: https://orcid.org/0000-0001-7615-6587
+      - family-names: Tonin
+        given-names: Hemerson
+        orcid: https://orcid.org/0000-0002-0078-033X
+      - family-names: Brinkman
+        given-names: Richard
+        orcid: https://orcid.org/0000-0002-2938-9473
+      - family-names: Herzfeld
+        given-names: Michael
+      - family-names: Steinberg
+        given-names: Craig
+        orcid: https://orcid.org/0000-0001-5009-5894
+    doi: 10.1002/2016jc012294
+    identifiers:
+      - type: doi
+        value: 10.1002/2016jc012294
+      - type: url
+        value: https://dx.doi.org/10.1002/2016JC012294
+      - type: other
+        value: urn:issn:2169-9275
+    title: Intrusive upwelling in the Central Great Barrier Reef
+    url: https://dx.doi.org/10.1002/2016JC012294
+    database: Crossref
+    date-published: 2016-11-01
+    year: 2016
+    month: 11
+    issn: 2169-9275
+    issue: '11'
+    journal: 'Journal of Geophysical Research: Oceans'
+    languages:
+      - en
+    publisher:
+      name: American Geophysical Union (AGU)
+    start: '8395'
+    end: '8416'
+    type: article
+    volume: '121'
+
+  - authors:
+      - family-names: Jones
+        given-names: Emlyn M.
+      - family-names: Baird
+        given-names: Mark E.
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Parslow
+        given-names: John
+      - family-names: Skerratt
+        given-names: Jenny
+      - family-names: Lovell
+        given-names: Jenny
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Matear
+        given-names: Richard J.
+      - family-names: Wild-Allen
+        given-names: Karen
+      - family-names: Robson
+        given-names: Barbara
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Oke
+        given-names: Peter
+      - family-names: King
+        given-names: Edward
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Steven
+        given-names: Andy
+      - family-names: Taylor
+        given-names: John
+    doi: 10.5194/bg-13-6441-2016
+    identifiers:
+      - type: doi
+        value: 10.5194/bg-13-6441-2016
+      - type: url
+        value: https://dx.doi.org/10.5194/bg-13-6441-2016
+      - type: other
+        value: urn:issn:1726-4189
+    title: >-
+      Use of remote-sensing reflectance to constrain a data assimilating marine
+      biogeochemical model of the Great Barrier Reef
+    url: https://dx.doi.org/10.5194/bg-13-6441-2016
+    database: Crossref
+    date-published: 2016-12-07
+    year: 2016
+    month: 12
+    issn: 1726-4189
+    issue: '23'
+    journal: Biogeosciences
+    languages:
+      - en
+    publisher:
+      name: Copernicus GmbH
+    start: '6441'
+    end: '6469'
+    type: article
+    volume: '13'
+
+  - authors:
+      - family-names: Gillibrand
+        given-names: P.A.
+        orcid: https://orcid.org/0000-0002-6226-4680
+      - family-names: Herzfeld
+        given-names: M.
+    doi: 10.1016/j.ocemod.2016.02.008
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ocemod.2016.02.008
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ocemod.2016.02.008
+      - type: other
+        value: urn:issn:1463-5003
+    title: >-
+      A mass-conserving advection scheme for offline simulation of scalar
+      transport in coastal ocean models
+    url: https://dx.doi.org/10.1016/j.ocemod.2016.02.008
+    database: Crossref
+    date-published: 2016-05-01
+    year: 2016
+    month: 5
+    issn: 1463-5003
+    journal: Ocean Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '1'
+    end: '16'
+    type: article
+    volume: '101'
+
+  - authors:
+      - family-names: Margvelashvili
+        given-names: Nugzar Yu
+        orcid: https://orcid.org/0000-0003-2045-9946
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Jones
+        given-names: Emlyn
+      - family-names: Schaffelke
+        given-names: Britta
+      - family-names: King
+        given-names: Edward
+      - family-names: Schroeder
+        given-names: Thomas
+    doi: 10.1007/s10236-016-0973-8
+    identifiers:
+      - type: doi
+        value: 10.1007/s10236-016-0973-8
+      - type: url
+        value: https://dx.doi.org/10.1007/s10236-016-0973-8
+      - type: other
+        value: urn:issn:1616-7341
+    title: Emulator-assisted data assimilation in complex models
+    url: https://dx.doi.org/10.1007/s10236-016-0973-8
+    database: Crossref
+    date-published: 2016-08-04
+    year: 2016
+    month: 8
+    issn: 1616-7341
+    issue: '9'
+    journal: Ocean Dynamics
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    start: '1109'
+    end: '1124'
+    type: article
+    volume: '66'
+
+  - authors:
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Tilbrook
+        given-names: Bronte
+      - family-names: Matear
+        given-names: Richard J.
+      - family-names: Lenton
+        given-names: Andrew
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Wild-Allen
+        given-names: Karen
+      - family-names: Skerratt
+        given-names: Jenny
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Robson
+        given-names: Barbara J.
+      - family-names: Duarte
+        given-names: Carlos M.
+      - family-names: Gustafsson
+        given-names: Malin S. M.
+      - family-names: Ralph
+        given-names: Peter J.
+      - family-names: Steven
+        given-names: Andrew D. L.
+    doi: 10.1038/ncomms10732
+    identifiers:
+      - type: doi
+        value: 10.1038/ncomms10732
+      - type: url
+        value: https://dx.doi.org/10.1038/ncomms10732
+      - type: other
+        value: urn:issn:2041-1723
+    title: The exposure of the Great Barrier Reef to ocean acidification
+    url: https://dx.doi.org/10.1038/ncomms10732
+    database: Crossref
+    date-published: 2016-02-23
+    year: 2016
+    month: 2
+    issn: 2041-1723
+    issue: '1'
+    journal: Nature Communications
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
+    volume: '7'
+
+  - authors:
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark E
+      - family-names: Hadley
+        given-names: Scott
+      - family-names: Lenton
+        given-names: Andrew
+    doi: 10.1088/1748-9326/11/3/034023
+    identifiers:
+      - type: doi
+        value: 10.1088/1748-9326/11/3/034023
+      - type: url
+        value: https://dx.doi.org/10.1088/1748-9326/11/3/034023
+      - type: other
+        value: urn:issn:1748-9326
+    title: |-
+      Optimising reef-scale CO
+                          <sub>2</sub>
+                          removal by seaweed to buffer ocean acidification
+    url: https://dx.doi.org/10.1088/1748-9326/11/3/034023
+    database: Crossref
+    date-published: 2016-03-01
+    year: 2016
+    month: 3
+    issn: 1748-9326
+    issue: '3'
+    journal: Environmental Research Letters
+    publisher:
+      name: IOP Publishing
+    start: '034023'
+    type: article
+    volume: '11'
+
+  - authors:
+      - family-names: Yu
+        given-names: Jonathan
+      - family-names: Leighton
+        given-names: Benjamin
+      - family-names: Car
+        given-names: Nicholas
+      - family-names: Seaton
+        given-names: Shane
+      - family-names: Hodge
+        given-names: Jonathan
+    doi: 10.2166/hydro.2015.165
+    identifiers:
+      - type: doi
+        value: 10.2166/hydro.2015.165
+      - type: url
+        value: https://dx.doi.org/10.2166/hydro.2015.165
+      - type: other
+        value: urn:issn:1464-7141
+    title: The eReefs data brokering layer for hydrological and environmental data
+    url: https://hdl.handle.net/102.100.100/155820?index=1
+    database: Crossref
+    date-published: 2015-10-28
+    year: 2015
+    month: 10
+    issn: 1464-7141
+    issue: '2'
+    journal: Journal of Hydroinformatics
+    languages:
+      - en
+    publisher:
+      name: IWA Publishing
+    start: '152'
+    end: '167'
+    type: article
+    volume: '18'

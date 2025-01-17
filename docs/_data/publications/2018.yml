@@ -1,0 +1,270 @@
+cff-version: 1.2.0
+message: "2018"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Bay
+        given-names: Line K.
+      - family-names: Cantin
+        given-names: Neal E.
+      - family-names: Soja-Woźniak
+        given-names: Monika
+      - family-names: Skerratt
+        given-names: Jennifer
+    doi: 10.1016/j.ecolmodel.2018.07.013
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecolmodel.2018.07.013
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecolmodel.2018.07.013
+      - type: other
+        value: urn:issn:0304-3800
+    title: >-
+      A mechanistic model of coral bleaching due to temperature-mediated
+      light-driven reactive oxygen build-up in zooxanthellae
+    url: https://dx.doi.org/10.1016/j.ecolmodel.2018.07.013
+    database: Crossref
+    date-published: 2018-10-01
+    year: 2018
+    month: 10
+    issn: 0304-3800
+    journal: Ecological Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '20'
+    end: '37'
+    type: article
+    volume: '386'
+
+  - authors:
+      - family-names: Condie
+        given-names: S.A.
+      - family-names: Herzfeld
+        given-names: M.
+      - family-names: Hock
+        given-names: K.
+      - family-names: Andrewartha
+        given-names: J.R.
+      - family-names: Gorton
+        given-names: R.
+      - family-names: Brinkman
+        given-names: R.
+      - family-names: Schultz
+        given-names: M.
+    doi: 10.1016/j.ecolind.2018.04.036
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecolind.2018.04.036
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecolind.2018.04.036
+      - type: other
+        value: urn:issn:1470-160X
+    title: System level indicators of changing marine connectivity
+    url: https://dx.doi.org/10.1016/j.ecolind.2018.04.036
+    database: Crossref
+    date-published: 2018-08-01
+    year: 2018
+    month: 8
+    issn: 1470-160X
+    journal: Ecological Indicators
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '531'
+    end: '541'
+    type: article
+    volume: '91'
+
+  - authors:
+      - family-names: Margvelashvili
+        given-names: N.
+      - family-names: Andrewartha
+        given-names: J.
+      - family-names: Baird
+        given-names: M.
+      - family-names: Herzfeld
+        given-names: M.
+      - family-names: Jones
+        given-names: E.
+      - family-names: Mongin
+        given-names: M.
+      - family-names: Rizwi
+        given-names: F.
+      - family-names: Robson
+        given-names: B.J.
+      - family-names: Skerratt
+        given-names: J.
+      - family-names: Wild-Allen
+        given-names: K.
+      - family-names: Steven
+        given-names: A.
+    doi: 10.1016/j.marpolbul.2018.08.018
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2018.08.018
+      - type: url
+        value: https://dx.doi.org/10.1016/j.marpolbul.2018.08.018
+      - type: other
+        value: urn:issn:0025-326X
+    title: Simulated fate of catchment-derived sediment on the Great Barrier Reef shelf
+    url: https://dx.doi.org/10.1016/j.marpolbul.2018.08.018
+    database: Crossref
+    date-published: 2018-10-01
+    year: 2018
+    month: 10
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '954'
+    end: '962'
+    type: article
+    volume: '135'
+
+  - authors:
+      - family-names: Robillot
+        given-names:  C
+      - family-names: Logan
+        given-names:  M
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Waterhouse 
+        given-names:  J
+      - family-names: Martin
+        given-names:  K
+      - family-names: Schaffelke
+        given-names:  B
+    title: >-
+      Testing and implementation of an improved water quality index
+      for the 2016 and 2017 Great Barrier Reef Report Cards
+    url: https://nesptropical.edu.au/wp-content/uploads/2018/08/NESP-TWQ-Project-3.2.5-Final-Report.pdf
+    date-published: 2018-01-01
+    year: 2018
+    month: 01
+    languages:
+      - en
+    publisher:
+      name: AIMS
+    type: report
+
+  - authors:
+      - family-names: Robson
+        given-names: Barbara J.
+      - family-names: Arhonditsis
+        given-names: George B.
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Brebion
+        given-names: Jerome
+      - family-names: Edwards
+        given-names: Kyle F.
+      - family-names: Geoffroy
+        given-names: Leonie
+      - family-names: Hébert
+        given-names: Marie-Pier
+      - family-names: van Dongen-Vogels
+        given-names: Virginie
+      - family-names: Jones
+        given-names: Emlyn M.
+      - family-names: Kruk
+        given-names: Carla
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Shimoda
+        given-names: Yuko
+      - family-names: Skerratt
+        given-names: Jennifer H.
+      - family-names: Trevathan-Tackett
+        given-names: Stacey M.
+      - family-names: Wild-Allen
+        given-names: Karen
+      - family-names: Kong
+        given-names: Xiangzhen
+      - family-names: Steven
+        given-names: Andy
+    doi: 10.1016/j.envsoft.2017.11.018
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2017.11.018
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2017.11.018
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Towards evidence-based parameter values and priors for aquatic ecosystem
+      modelling
+    url: https://dx.doi.org/10.1016/j.envsoft.2017.11.018
+    database: Crossref
+    date-published: 2018-02-01
+    year: 2018
+    month: 2
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '74'
+    end: '81'
+    type: article
+    volume: '100'
+
+  - authors:
+      - family-names: Wolff
+        given-names: Nicholas H.
+      - family-names: da Silva
+        given-names: Eduardo Teixeira
+      - family-names: Devlin
+        given-names: Michelle
+        orcid: https://orcid.org/0000-0003-2194-2534
+      - family-names: Anthony
+        given-names: Kenneth R.N.
+      - family-names: Lewis
+        given-names: Stephen
+      - family-names: Tonin
+        given-names: Hemerson
+      - family-names: Brinkman
+        given-names: Richard
+      - family-names: Mumby
+        given-names: Peter J.
+    doi: 10.1016/j.marpolbul.2018.04.069
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2018.04.069
+      - type: url
+        value: https://dx.doi.org/10.1016/j.marpolbul.2018.04.069
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      Contribution of individual rivers to Great Barrier Reef nitrogen exposure
+      with implications for management prioritization
+    url: https://dx.doi.org/10.1016/j.marpolbul.2018.04.069
+    database: Crossref
+    date-published: 2018-08-01
+    year: 2018
+    month: 8
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '30'
+    end: '43'
+    type: article
+    volume: '133'

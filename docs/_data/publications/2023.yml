@@ -1,0 +1,450 @@
+cff-version: 1.2.0
+message: "2023"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Mentzel
+        given-names: Sophie
+      - family-names: Nathan
+        given-names: Rory
+      - family-names: Noyes
+        given-names: Pamela
+      - family-names: Brix
+        given-names: Kevin V.
+      - family-names: Moe
+        given-names: S. Jannicke
+      - family-names: Rohr
+        given-names: Jason R.
+      - family-names: Verheyen
+        given-names: Julie
+      - family-names: Van den Brink
+        given-names: Paul J.
+      - family-names: Stauber
+        given-names: Jennifer
+    doi: 10.1002/ieam.4871
+    identifiers:
+      - type: doi
+        value: 10.1002/ieam.4871
+      - type: url
+        value: http://dx.doi.org/10.1002/ieam.4871
+      - type: other
+        value: urn:issn:1551-3777
+    title: >-
+      Evaluating the effects of climate change and chemical, physical, and
+      biological stressors on nearshore coral reefs: A case study in the Great
+      Barrier Reef, Australia
+    url: http://dx.doi.org/10.1002/ieam.4871
+    database: Crossref
+    date-published: 2023-11-29
+    year: 2023
+    month: 11
+    issn: 1551-3777
+    issue: '2'
+    journal: Integrated Environmental Assessment and Management
+    languages:
+      - en
+    publisher:
+      name: Oxford University Press (OUP)
+    start: '401'
+    end: '418'
+    type: article
+    volume: '20'
+
+  - authors:
+      - family-names: Ani
+        given-names: Chinenye Jane
+    doi: 10.25903/CZAT-0D72
+    identifiers:
+      - type: doi
+        value: 10.25903/CZAT-0D72
+      - type: url
+        value: https://researchonline.jcu.edu.au/81266/
+    title: >-
+      Biogeochemical modelling of tropical marine ecosystems in the context of
+      climate change
+    url: https://researchonline.jcu.edu.au/81266/
+    date-published: 2023-01-01
+    year: 2023
+    institution:
+      name: James Cook University
+    type: thesis
+
+  - authors:
+      - family-names: Xiao
+        given-names: Ziyu
+      - family-names: Carlin
+        given-names: Geoffrey
+      - family-names: Steven
+        given-names: Andrew D. L.
+      - family-names: Livsey
+        given-names: Daniel N.
+      - family-names: Song
+        given-names: Dehai
+      - family-names: Crosswell
+        given-names: Joseph R.
+    doi: 10.3389/fmars.2023.1215161
+    identifiers:
+      - type: doi
+        value: 10.3389/fmars.2023.1215161
+      - type: url
+        value: http://dx.doi.org/10.3389/fmars.2023.1215161
+      - type: other
+        value: urn:issn:2296-7745
+    title: >-
+      A measurement-to-modelling approach to understand catchment-to-reef
+      processes: sediment transport in a highly turbid estuary
+    url: http://dx.doi.org/10.3389/fmars.2023.1215161
+    database: Crossref
+    date-published: 2023-10-18
+    year: 2023
+    month: 10
+    issn: 2296-7745
+    journal: Frontiers in Marine Science
+    publisher:
+      name: Frontiers Media SA
+    type: article
+    volume: '10'
+
+  - authors:
+      - family-names: Kroon
+        given-names: Frederieke J.
+      - family-names: Crosswell
+        given-names: Joseph R.
+      - family-names: Robson
+        given-names: Barbara J.
+    doi: 10.1016/j.marpolbul.2023.115255
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2023.115255
+      - type: url
+        value: http://dx.doi.org/10.1016/j.marpolbul.2023.115255
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      The effect of catchment load reductions on water quality in the
+      crown-of-thorn starfish outbreak initiation zone
+    url: http://dx.doi.org/10.1016/j.marpolbul.2023.115255
+    database: Crossref
+    date-published: 2023-10-01
+    year: 2023
+    month: 10
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '115255'
+    type: article
+    volume: '195'
+
+  - authors:
+      - family-names: Castro‐Sanguino
+        given-names: Carolina
+      - family-names: Bozec
+        given-names: Yves‐Marie
+      - family-names: Condie
+        given-names: Scott A.
+      - family-names: Fletcher
+        given-names: Cameron S.
+      - family-names: Hock
+        given-names: Karlo
+      - family-names: Roelfsema
+        given-names: Chris
+      - family-names: Westcott
+        given-names: David A.
+      - family-names: Mumby
+        given-names: Peter J.
+    doi: 10.1002/ecs2.4580
+    identifiers:
+      - type: doi
+        value: 10.1002/ecs2.4580
+      - type: url
+        value: http://dx.doi.org/10.1002/ecs2.4580
+      - type: other
+        value: urn:issn:2150-8925
+    title: >-
+      Control efforts of crown‐of‐thorns starfish outbreaks to limit future coral
+      decline across the Great Barrier Reef
+    url: http://dx.doi.org/10.1002/ecs2.4580
+    database: Crossref
+    date-published: 2023-06-01
+    year: 2023
+    month: 6
+    issn: 2150-8925
+    issue: '6'
+    journal: Ecosphere
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    type: article
+    volume: '14'
+
+  - authors:
+      - family-names: Patricio-Valerio
+        given-names: Larissa
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Devlin
+        given-names: Michelle J.
+      - family-names: Qin
+        given-names: Yi
+      - family-names: Smithers
+        given-names: Scott
+    doi: 10.3390/rs15092335
+    identifiers:
+      - type: doi
+        value: 10.3390/rs15092335
+      - type: url
+        value: http://dx.doi.org/10.3390/rs15092335
+      - type: other
+        value: urn:issn:2072-4292
+    title: >-
+      Meteorological Satellite Observations Reveal Diurnal Exceedance of Water
+      Quality Guideline Thresholds in the Coastal Great Barrier Reef
+    url: http://dx.doi.org/10.3390/rs15092335
+    database: Crossref
+    date-published: 2023-04-28
+    year: 2023
+    month: 4
+    issn: 2072-4292
+    issue: '9'
+    journal: Remote Sensing
+    languages:
+      - en
+    publisher:
+      name: MDPI AG
+    start: '2335'
+    type: article
+    volume: '15'
+
+  - authors:
+      - family-names: McGowan
+        given-names: Hamish
+      - family-names: Theobald
+        given-names: Alison
+    doi: 10.1038/s41598-023-33613-1
+    identifiers:
+      - type: doi
+        value: 10.1038/s41598-023-33613-1
+      - type: url
+        value: http://dx.doi.org/10.1038/s41598-023-33613-1
+      - type: other
+        value: urn:issn:2045-2322
+    title: >-
+      Atypical weather patterns cause coral bleaching on the Great Barrier Reef,
+      Australia during the 2021–2022 La Niña
+    url: http://dx.doi.org/10.1038/s41598-023-33613-1
+    database: Crossref
+    date-published: 2023-04-19
+    year: 2023
+    month: 4
+    issn: 2045-2322
+    issue: '1'
+    journal: Scientific Reports
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
+    volume: '13'
+
+  - authors:
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Ellis
+        given-names: Robin
+      - family-names: Smith
+        given-names: Rachael A.
+      - family-names: Shaw
+        given-names: Melanie
+      - family-names: Steven
+        given-names: Andy D.L.
+    doi: 10.1016/j.scitotenv.2023.163041
+    identifiers:
+      - type: doi
+        value: 10.1016/j.scitotenv.2023.163041
+      - type: url
+        value: http://dx.doi.org/10.1016/j.scitotenv.2023.163041
+      - type: other
+        value: urn:issn:0048-9697
+    title: Dispersal of the pesticide diuron in the Great Barrier Reef
+    url: http://dx.doi.org/10.1016/j.scitotenv.2023.163041
+    database: Crossref
+    date-published: 2023-06-01
+    year: 2023
+    month: 6
+    issn: 0048-9697
+    journal: Science of The Total Environment
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '163041'
+    type: article
+    volume: '879'
+
+  - authors:
+      - family-names: Ani
+        given-names: Chinenye J.
+      - family-names: Smithers
+        given-names: Scott G.
+      - family-names: Lewis
+        given-names: Stephen
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Robson
+        given-names: Barbara
+    doi: 10.1016/j.ecss.2023.108306
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecss.2023.108306
+      - type: url
+        value: http://dx.doi.org/10.1016/j.ecss.2023.108306
+      - type: other
+        value: urn:issn:0272-7714
+    title: >-
+      eReefs modelling suggests Trichodesmium may be a major nitrogen source in
+      the Great Barrier Reef
+    url: http://dx.doi.org/10.1016/j.ecss.2023.108306
+    database: Crossref
+    date-published: 2023-05-01
+    year: 2023
+    month: 5
+    issn: 0272-7714
+    journal: Estuarine, Coastal and Shelf Science
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '108306'
+    type: article
+    volume: '285'
+
+  - authors:
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Suresh
+        given-names: Gopika
+      - family-names: Li
+        given-names: Zhibin
+      - family-names: Diakogiannis
+        given-names: Foivos I.
+      - family-names: Irving
+        given-names: Paul
+      - family-names: Witte
+        given-names: Christian
+      - family-names: Steven
+        given-names: Andrew D.L.
+    doi: 10.1016/j.marpolbul.2023.114598
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2023.114598
+      - type: url
+        value: http://dx.doi.org/10.1016/j.marpolbul.2023.114598
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      Detection of marine oil-like features in Sentinel-1 SAR images by
+      supplementary use of deep learning and empirical methods: Performance
+      assessment for the Great Barrier Reef marine park
+    url: http://dx.doi.org/10.1016/j.marpolbul.2023.114598
+    database: Crossref
+    date-published: 2023-03-01
+    year: 2023
+    month: 3
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '114598'
+    type: article
+    volume: '188'
+
+  - authors:
+      - family-names: Page
+        given-names: Cathie A.
+      - family-names: Giuliano
+        given-names: Christine
+      - family-names: Bay
+        given-names: Line K.
+      - family-names: Randall
+        given-names: Carly J.
+    doi: 10.1002/ecs2.4280
+    identifiers:
+      - type: doi
+        value: 10.1002/ecs2.4280
+      - type: url
+        value: http://dx.doi.org/10.1002/ecs2.4280
+      - type: other
+        value: urn:issn:2150-8925
+    title: >-
+      High survival following bleaching underscores the resilience of a frequently
+      disturbed region of the Great Barrier Reef
+    url: http://dx.doi.org/10.1002/ecs2.4280
+    database: Crossref
+    date-published: 2023-02-01
+    year: 2023
+    month: 2
+    issn: 2150-8925
+    issue: '2'
+    journal: Ecosphere
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    type: article
+    volume: '14'
+
+  - authors:
+      - family-names: Fabricius
+        given-names: Katharina E.
+      - family-names: Crossman
+        given-names: Kerryn
+      - family-names: Jonker
+        given-names: Michelle
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Thompson
+        given-names: Angus
+    doi: 10.1371/journal.pone.0279699
+    identifiers:
+      - type: doi
+        value: 10.1371/journal.pone.0279699
+      - type: url
+        value: http://dx.doi.org/10.1371/journal.pone.0279699
+      - type: other
+        value: urn:issn:1932-6203
+    title: >-
+      Macroalgal cover on coral reefs: Spatial and environmental predictors, and
+      decadal trends in the Great Barrier Reef
+    url: http://dx.doi.org/10.1371/journal.pone.0279699
+    database: Crossref
+    date-published: 2023-01-20
+    year: 2023
+    month: 1
+    editors:
+      - family-names: Camp
+        given-names: Emma F.
+    issn: 1932-6203
+    issue: '1'
+    journal: PLOS ONE
+    languages:
+      - en
+    publisher:
+      name: Public Library of Science (PLoS)
+    start: e0279699
+    type: article
+    volume: '18'

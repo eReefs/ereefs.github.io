@@ -1,0 +1,143 @@
+cff-version: 1.2.0
+message: "2017"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Andrewartha
+        given-names: J
+      - family-names: Herzfeld
+        given-names: M
+      - family-names: Jones
+        given-names: E
+      - family-names: Margvelashvili
+        given-names: N
+      - family-names: Mongin
+        given-names: M
+      - family-names: Rizwi
+        given-names: F
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Soja-Woźniak
+        given-names: Monika
+      - family-names: Wild-Allen
+        given-names: K
+      - family-names: Schroeder
+        given-names: T
+      - family-names: Robson
+        given-names: B
+      - family-names: da Silva
+        given-names: E
+      - family-names: Devlin 
+        given-names: M
+    doi: 10.36334/modsim.2017.l22.bairn
+    identifiers:
+      - type: doi
+        value: 10.36334/modsim.2017.l22.bairn
+      - type: url
+        value: http://dx.doi.org/10.36334/modsim.2017.l22.bairn
+      - type: other
+        value: urn:issn:2205-5061
+    title: >-
+      River plumes of the Great Barrier Reef: freshwater, sediment and optical
+      footprints quantified by the eReefs modelling system
+    url: http://dx.doi.org/10.36334/modsim.2017.l22.bairn
+    conference:
+      name: 22nd International Congress on Modelling and Simulation
+    database: Crossref
+    date-published: 2017-12-03
+    year: 2017
+    month: 12
+    issn: 2205-5061
+    journal: International Congress on Modelling and Simulation
+    publisher:
+      name: >-
+        Modelling and Simulation Society of Australia and New Zealand (MSSANZ),
+        Inc.
+    type: conference-paper
+
+  - authors:
+      - family-names: Brodie
+        given-names: Jon
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Waterhouse
+        given-names: Jane
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Skerratt
+        given-names: Jenny
+      - family-names: Robillot
+        given-names: Cedric
+      - family-names: Smith
+        given-names: Rachael
+      - family-names: Mann
+        given-names: Reinier
+      - family-names: Warne
+        given-names: Michael
+    doi: 10.13140/RG.2.2.36754.35526
+    identifiers:
+      - type: doi
+        value: 10.13140/RG.2.2.36754.35526
+      - type: url
+        value: http://rgdoi.net/10.13140/RG.2.2.36754.35526
+    title: >-
+      Development of basin-specific ecologically relevant water quality targets
+      for the Great Barrier Reef.
+    url: https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0025/46096/gbr-water-quality-targets-june2017.pdf
+    date-published: 2017-06-01
+    year: 2017
+    publisher:
+      name: James Cook University
+    type: article
+
+  - authors:
+      - family-names: Robson
+        given-names: B
+      - family-names: Andrewartha
+        given-names: J
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Herzfeld
+        given-names: M
+      - family-names: Jones
+        given-names: E
+      - family-names: Margvelashvili
+        given-names: N
+      - family-names: Mongin
+        given-names: M
+      - family-names: Rizwi
+        given-names: F
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Wild-Allen
+        given-names: K
+    doi: 10.36334/modsim.2017.l22.robson
+    identifiers:
+      - type: doi
+        value: 10.36334/modsim.2017.l22.robson
+      - type: url
+        value: http://dx.doi.org/10.36334/modsim.2017.l22.robson
+      - type: other
+        value: urn:issn:2205-5061
+    title: >-
+      Evaluating the eReefs Great Barrier Reef marine model against observed
+      emergent properties
+    url: http://dx.doi.org/10.36334/modsim.2017.l22.robson
+    conference:
+      name: 22nd International Congress on Modelling and Simulation
+    database: Crossref
+    date-published: 2017-12-03
+    year: 2017
+    month: 12
+    issn: 2205-5061
+    journal: International Congress on Modelling and Simulation
+    publisher:
+      name: >-
+        Modelling and Simulation Society of Australia and New Zealand (MSSANZ),
+        Inc.
+    type: conference-paper

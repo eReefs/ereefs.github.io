@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Maggiorano
+        given-names: Anna
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Langlais
+        given-names: Clothilde
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Skerratt
+        given-names: Jennifer
+    doi: 10.1016/j.ocemod.2024.102465
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ocemod.2024.102465
+      - type: url
+        value: http://dx.doi.org/10.1016/j.ocemod.2024.102465
+      - type: other
+        value: urn:issn:1463-5003
+    title: >-
+      Impact of phytoplankton, CDOM, and suspended sediments on the vertical
+      attenuation of light, changing heat content and circulation on a continental
+      shelf: A modelling study of the Great Barrier Reef
+    url: http://dx.doi.org/10.1016/j.ocemod.2024.102465
+    database: Crossref
+    date-published: 2025-02-01
+    year: 2025
+    month: 2
+    issn: 1463-5003
+    journal: Ocean Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '102465'
+    type: article
+    volume: '193'

@@ -1,0 +1,351 @@
+cff-version: 1.2.0
+message: "2020"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Green
+        given-names: Rebecca
+      - family-names: Lowe
+        given-names: Ryan
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Bougeot
+        given-names: Elodie
+    doi: 10.1371/journal.pone.0239978
+    identifiers:
+      - type: doi
+        value: 10.1371/journal.pone.0239978
+      - type: url
+        value: https://dx.doi.org/10.1371/journal.pone.0239978
+      - type: other
+        value: urn:issn:1932-6203
+    title: >-
+      Optimising cool-water injections to reduce thermal stress on coral reefs of
+      the Great Barrier Reef
+    url: https://dx.doi.org/10.1371/journal.pone.0239978
+    database: Crossref
+    date-published: 2020-10-20
+    year: 2020
+    month: 10
+    editors:
+      - family-names: Mayfield
+        given-names: Anderson B.
+    issn: 1932-6203
+    issue: '10'
+    journal: PLOS ONE
+    languages:
+      - en
+    publisher:
+      name: Public Library of Science (PLoS)
+    start: e0239978
+    type: article
+    volume: '15'
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Wild-Allen
+        given-names: Karen A.
+      - family-names: Parslow
+        given-names: John
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Robson
+        given-names: Barbara
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Soja-Woźniak
+        given-names: Monika
+        orcid: https://orcid.org/0000-0003-3901-8999
+      - family-names: Jones
+        given-names: Emlyn
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Andrewartha
+        given-names: John
+      - family-names: Langlais
+        given-names: Clothilde
+        orcid: https://orcid.org/0000-0002-6423-7678
+      - family-names: Adams
+        given-names: Matthew P.
+        orcid: https://orcid.org/0000-0003-4875-0225
+      - family-names: Cherukuru
+        given-names: Nagur
+        orcid: https://orcid.org/0000-0002-3617-5852
+      - family-names: Gustafsson
+        given-names: Malin
+      - family-names: Hadley
+        given-names: Scott
+      - family-names: Ralph
+        given-names: Peter J.
+      - family-names: Rosebrock
+        given-names: Uwe
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Laiolo
+        given-names: Leonardo
+      - family-names: Harrison
+        given-names: Daniel
+      - family-names: Steven
+        given-names: Andrew D. L.
+    doi: 10.5194/gmd-13-4503-2020
+    identifiers:
+      - type: doi
+        value: 10.5194/gmd-13-4503-2020
+      - type: url
+        value: https://dx.doi.org/10.5194/gmd-13-4503-2020
+      - type: other
+        value: urn:issn:1991-9603
+    title: >-
+      CSIRO Environmental Modelling Suite (EMS): scientific description of the
+      optical and biogeochemical models (vB3p0)
+    url: https://dx.doi.org/10.5194/gmd-13-4503-2020
+    database: Crossref
+    date-published: 2020-09-25
+    year: 2020
+    month: 9
+    issn: 1991-9603
+    issue: '9'
+    journal: Geoscientific Model Development
+    languages:
+      - en
+    publisher:
+      name: Copernicus GmbH
+    start: '4503'
+    end: '4553'
+    type: article
+    volume: '13'
+
+  - authors:
+      - family-names: Frade
+        given-names: Pedro R.
+        orcid: https://orcid.org/0000-0002-4010-255X
+      - family-names: Glasl
+        given-names: Bettina
+      - family-names: Matthews
+        given-names: Samuel A.
+      - family-names: Mellin
+        given-names: Camille
+        orcid: https://orcid.org/0000-0002-7369-2349
+      - family-names: Serrão
+        given-names: Ester A.
+        orcid: https://orcid.org/0000-0003-1316-658X
+      - family-names: Wolfe
+        given-names: Kennedy
+      - family-names: Mumby
+        given-names: Peter J.
+      - family-names: Webster
+        given-names: Nicole S.
+        orcid: https://orcid.org/0000-0002-4753-5278
+      - family-names: Bourne
+        given-names: David G.
+    doi: 10.1038/s42003-020-01166-y
+    identifiers:
+      - type: doi
+        value: 10.1038/s42003-020-01166-y
+      - type: url
+        value: https://dx.doi.org/10.1038/s42003-020-01166-y
+      - type: other
+        value: urn:issn:2399-3642
+    title: >-
+      Spatial patterns of microbial communities across surface waters of the Great
+      Barrier Reef
+    url: https://dx.doi.org/10.1038/s42003-020-01166-y
+    database: Crossref
+    date-published: 2020-08-14
+    year: 2020
+    month: 8
+    issn: 2399-3642
+    issue: '1'
+    journal: Communications Biology
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
+    volume: '3'
+
+  - authors:
+      - family-names: Khan
+        given-names: Urooj
+      - family-names: Cook
+        given-names: Freeman J.
+      - family-names: Laugesen
+        given-names: Richard
+      - family-names: Hasan
+        given-names: Mohammad M.
+      - family-names: Plastow
+        given-names: Kevin
+      - family-names: Amirthanathan
+        given-names: Gnanathikkam E.
+      - family-names: Bari
+        given-names: Mohammed A.
+      - family-names: Tuteja
+        given-names: Narendra K.
+    doi: 10.1016/j.envsoft.2020.104790
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2020.104790
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2020.104790
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Development of catchment water quality models within a realtime status and
+      forecast system for the Great Barrier Reef
+    url: https://dx.doi.org/10.1016/j.envsoft.2020.104790
+    database: Crossref
+    date-published: 2020-10-01
+    year: 2020
+    month: 10
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '104790'
+    type: article
+    volume: '132'
+
+  - authors:
+      - family-names: Smith
+        given-names: Joy N.
+        orcid: https://orcid.org/0000-0001-9923-3290
+      - family-names: Mongin
+        given-names: Mathieu
+        orcid: https://orcid.org/0000-0001-9647-0530
+      - family-names: Thompson
+        given-names: Angus
+      - family-names: Jonker
+        given-names: Michelle J.
+        orcid: https://orcid.org/0000-0002-0876-6081
+      - family-names: De'ath
+        given-names: Glenn
+      - family-names: Fabricius
+        given-names: Katharina E.
+        orcid: https://orcid.org/0000-0001-7671-4358
+    doi: 10.1111/gcb.14985
+    identifiers:
+      - type: doi
+        value: 10.1111/gcb.14985
+      - type: url
+        value: https://dx.doi.org/10.1111/gcb.14985
+      - type: other
+        value: urn:issn:1354-1013
+    title: >-
+      Shifts in coralline algae, macroalgae, and coral juveniles in the Great
+      Barrier Reef associated with present‐day ocean acidification
+    url: https://dx.doi.org/10.1111/gcb.14985
+    database: Crossref
+    date-published: 2020-02-12
+    year: 2020
+    month: 2
+    issn: 1354-1013
+    issue: '4'
+    journal: Global Change Biology
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    start: '2149'
+    end: '2160'
+    type: article
+    volume: '26'
+
+  - authors:
+      - family-names: Robson
+        given-names: B.J.
+      - family-names: Skerratt
+        given-names: J.
+      - family-names: Baird
+        given-names: M.E.
+      - family-names: Davies
+        given-names: C.
+      - family-names: Herzfeld
+        given-names: M.
+      - family-names: Jones
+        given-names: E.M.
+      - family-names: Mongin
+        given-names: M.
+      - family-names: Richardson
+        given-names: A.J.
+      - family-names: Rizwi
+        given-names: F.
+      - family-names: Wild-Allen
+        given-names: K.
+      - family-names: Steven
+        given-names: A.D.L.
+    doi: 10.1016/j.envsoft.2020.104707
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2020.104707
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2020.104707
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Enhanced assessment of the eReefs biogeochemical model for the Great Barrier
+      Reef using the Concept/State/Process/System model evaluation framework
+    url: https://dx.doi.org/10.1016/j.envsoft.2020.104707
+    database: Crossref
+    date-published: 2020-07-01
+    year: 2020
+    month: 7
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '104707'
+    type: article
+    volume: '129'
+
+  - authors:
+      - family-names: Steven
+        given-names: Andy
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Carlin
+        given-names: Geoffrey
+      - family-names: Crosswell
+        given-names: Joey
+      - family-names: Kenna
+        given-names: Erin
+      - family-names: Rochester
+        given-names: Wayne
+      - family-names: Skerratt
+        given-names: Jenny
+      - family-names: Tickell
+        given-names: Sharon
+      - family-names: Wild
+        given-names: Dan
+    doi: 10.25919/JBN1-QJ76
+    identifiers:
+      - type: doi
+        value: 10.25919/JBN1-QJ76
+      - type: url
+        value: https://publications.csiro.au/publications/publication/PIcsiro:EP205540
+    title: >-
+      Continuous Monitoring and Model Parameterisation of Estuarine Water Quality
+      entering the Great Barrier Reef
+    url: https://publications.csiro.au/publications/publication/PIcsiro:EP205540
+    date-published: 2020-01-01
+    year: 2020
+    journal: CSIRO
+    publisher:
+      name: CSIRO
+    type: article
