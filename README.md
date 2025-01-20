@@ -98,6 +98,18 @@ All stylesheets and images that support the look and feel of this site *and* oth
 
 ---
 
+### Peer Reviewed Publications
+
+This page displays APA like references based on the files included `./docs/_data/publications/` directory. These files follow the citation file format [cff](https://citation-file-format.github.io/). The page templates expects the top level message field to be the year of publication and all references should be under the top level references tag.
+
+To speed up creating the references this tool [cff-generator](https://citation-js.github.io/cff-generator/) allows you to input the DOI for a given reference and outputs a cff file that can be copied under the references section of each file. (you should typically copy every tag under and including authors into the references tag in the cff file)
+
+These files can be validated using the python library [cffconvert](https://pypi.org/project/cffconvert/).
+e.g.
+```bash
+cffconvert --validate -i ./docs/_data/publications/2013.yml
+```
+
 ## Website Hosting
 
 This repository is configured as a [GitHub Pages](https://pages.github.com/) website.
