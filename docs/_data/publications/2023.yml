@@ -29,14 +29,14 @@ references:
       - type: doi
         value: 10.1002/ieam.4871
       - type: url
-        value: http://dx.doi.org/10.1002/ieam.4871
+        value: https://dx.doi.org/10.1002/ieam.4871
       - type: other
         value: urn:issn:1551-3777
     title: >-
       Evaluating the effects of climate change and chemical, physical, and
       biological stressors on nearshore coral reefs: A case study in the Great
       Barrier Reef, Australia
-    url: http://dx.doi.org/10.1002/ieam.4871
+    url: https://dx.doi.org/10.1002/ieam.4871
     database: Crossref
     date-published: 2023-11-29
     year: 2023
@@ -90,13 +90,13 @@ references:
       - type: doi
         value: 10.3389/fmars.2023.1215161
       - type: url
-        value: http://dx.doi.org/10.3389/fmars.2023.1215161
+        value: https://dx.doi.org/10.3389/fmars.2023.1215161
       - type: other
         value: urn:issn:2296-7745
     title: >-
       A measurement-to-modelling approach to understand catchment-to-reef
       processes: sediment transport in a highly turbid estuary
-    url: http://dx.doi.org/10.3389/fmars.2023.1215161
+    url: https://dx.doi.org/10.3389/fmars.2023.1215161
     database: Crossref
     date-published: 2023-10-18
     year: 2023
@@ -120,13 +120,13 @@ references:
       - type: doi
         value: 10.1016/j.marpolbul.2023.115255
       - type: url
-        value: http://dx.doi.org/10.1016/j.marpolbul.2023.115255
+        value: https://dx.doi.org/10.1016/j.marpolbul.2023.115255
       - type: other
         value: urn:issn:0025-326X
     title: >-
       The effect of catchment load reductions on water quality in the
       crown-of-thorn starfish outbreak initiation zone
-    url: http://dx.doi.org/10.1016/j.marpolbul.2023.115255
+    url: https://dx.doi.org/10.1016/j.marpolbul.2023.115255
     database: Crossref
     date-published: 2023-10-01
     year: 2023
@@ -163,13 +163,13 @@ references:
       - type: doi
         value: 10.1002/ecs2.4580
       - type: url
-        value: http://dx.doi.org/10.1002/ecs2.4580
+        value: https://dx.doi.org/10.1002/ecs2.4580
       - type: other
         value: urn:issn:2150-8925
     title: >-
       Control efforts of crown‐of‐thorns starfish outbreaks to limit future coral
       decline across the Great Barrier Reef
-    url: http://dx.doi.org/10.1002/ecs2.4580
+    url: https://dx.doi.org/10.1002/ecs2.4580
     database: Crossref
     date-published: 2023-06-01
     year: 2023
@@ -200,13 +200,13 @@ references:
       - type: doi
         value: 10.3390/rs15092335
       - type: url
-        value: http://dx.doi.org/10.3390/rs15092335
+        value: https://dx.doi.org/10.3390/rs15092335
       - type: other
         value: urn:issn:2072-4292
     title: >-
       Meteorological Satellite Observations Reveal Diurnal Exceedance of Water
       Quality Guideline Thresholds in the Coastal Great Barrier Reef
-    url: http://dx.doi.org/10.3390/rs15092335
+    url: https://dx.doi.org/10.3390/rs15092335
     database: Crossref
     date-published: 2023-04-28
     year: 2023
@@ -232,13 +232,13 @@ references:
       - type: doi
         value: 10.1038/s41598-023-33613-1
       - type: url
-        value: http://dx.doi.org/10.1038/s41598-023-33613-1
+        value: https://dx.doi.org/10.1038/s41598-023-33613-1
       - type: other
         value: urn:issn:2045-2322
     title: >-
       Atypical weather patterns cause coral bleaching on the Great Barrier Reef,
       Australia during the 2021–2022 La Niña
-    url: http://dx.doi.org/10.1038/s41598-023-33613-1
+    url: https://dx.doi.org/10.1038/s41598-023-33613-1
     database: Crossref
     date-published: 2023-04-19
     year: 2023
@@ -273,11 +273,11 @@ references:
       - type: doi
         value: 10.1016/j.scitotenv.2023.163041
       - type: url
-        value: http://dx.doi.org/10.1016/j.scitotenv.2023.163041
+        value: https://dx.doi.org/10.1016/j.scitotenv.2023.163041
       - type: other
         value: urn:issn:0048-9697
     title: Dispersal of the pesticide diuron in the Great Barrier Reef
-    url: http://dx.doi.org/10.1016/j.scitotenv.2023.163041
+    url: https://dx.doi.org/10.1016/j.scitotenv.2023.163041
     database: Crossref
     date-published: 2023-06-01
     year: 2023
@@ -308,13 +308,13 @@ references:
       - type: doi
         value: 10.1016/j.ecss.2023.108306
       - type: url
-        value: http://dx.doi.org/10.1016/j.ecss.2023.108306
+        value: https://dx.doi.org/10.1016/j.ecss.2023.108306
       - type: other
         value: urn:issn:0272-7714
     title: >-
       eReefs modelling suggests Trichodesmium may be a major nitrogen source in
       the Great Barrier Reef
-    url: http://dx.doi.org/10.1016/j.ecss.2023.108306
+    url: https://dx.doi.org/10.1016/j.ecss.2023.108306
     database: Crossref
     date-published: 2023-05-01
     year: 2023
@@ -351,14 +351,14 @@ references:
       - type: doi
         value: 10.1016/j.marpolbul.2023.114598
       - type: url
-        value: http://dx.doi.org/10.1016/j.marpolbul.2023.114598
+        value: https://dx.doi.org/10.1016/j.marpolbul.2023.114598
       - type: other
         value: urn:issn:0025-326X
     title: >-
       Detection of marine oil-like features in Sentinel-1 SAR images by
       supplementary use of deep learning and empirical methods: Performance
       assessment for the Great Barrier Reef marine park
-    url: http://dx.doi.org/10.1016/j.marpolbul.2023.114598
+    url: https://dx.doi.org/10.1016/j.marpolbul.2023.114598
     database: Crossref
     date-published: 2023-03-01
     year: 2023
@@ -387,13 +387,13 @@ references:
       - type: doi
         value: 10.1002/ecs2.4280
       - type: url
-        value: http://dx.doi.org/10.1002/ecs2.4280
+        value: https://dx.doi.org/10.1002/ecs2.4280
       - type: other
         value: urn:issn:2150-8925
     title: >-
       High survival following bleaching underscores the resilience of a frequently
       disturbed region of the Great Barrier Reef
-    url: http://dx.doi.org/10.1002/ecs2.4280
+    url: https://dx.doi.org/10.1002/ecs2.4280
     database: Crossref
     date-published: 2023-02-01
     year: 2023
@@ -424,13 +424,13 @@ references:
       - type: doi
         value: 10.1371/journal.pone.0279699
       - type: url
-        value: http://dx.doi.org/10.1371/journal.pone.0279699
+        value: https://dx.doi.org/10.1371/journal.pone.0279699
       - type: other
         value: urn:issn:1932-6203
     title: >-
       Macroalgal cover on coral reefs: Spatial and environmental predictors, and
       decadal trends in the Great Barrier Reef
-    url: http://dx.doi.org/10.1371/journal.pone.0279699
+    url: https://dx.doi.org/10.1371/journal.pone.0279699
     database: Crossref
     date-published: 2023-01-20
     year: 2023

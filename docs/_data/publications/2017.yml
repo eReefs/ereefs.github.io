@@ -39,13 +39,13 @@ references:
       - type: doi
         value: 10.36334/modsim.2017.l22.bairn
       - type: url
-        value: http://dx.doi.org/10.36334/modsim.2017.l22.bairn
+        value: https://dx.doi.org/10.36334/modsim.2017.l22.bairn
       - type: other
         value: urn:issn:2205-5061
     title: >-
       River plumes of the Great Barrier Reef: freshwater, sediment and optical
       footprints quantified by the eReefs modelling system
-    url: http://dx.doi.org/10.36334/modsim.2017.l22.bairn
+    url: https://dx.doi.org/10.36334/modsim.2017.l22.bairn
     conference:
       name: 22nd International Congress on Modelling and Simulation
     database: Crossref
@@ -84,7 +84,7 @@ references:
       - type: doi
         value: 10.13140/RG.2.2.36754.35526
       - type: url
-        value: http://rgdoi.net/10.13140/RG.2.2.36754.35526
+        value: https://rgdoi.net/10.13140/RG.2.2.36754.35526
     title: >-
       Development of basin-specific ecologically relevant water quality targets
       for the Great Barrier Reef.
@@ -121,13 +121,13 @@ references:
       - type: doi
         value: 10.36334/modsim.2017.l22.robson
       - type: url
-        value: http://dx.doi.org/10.36334/modsim.2017.l22.robson
+        value: https://dx.doi.org/10.36334/modsim.2017.l22.robson
       - type: other
         value: urn:issn:2205-5061
     title: >-
       Evaluating the eReefs Great Barrier Reef marine model against observed
       emergent properties
-    url: http://dx.doi.org/10.36334/modsim.2017.l22.robson
+    url: https://dx.doi.org/10.36334/modsim.2017.l22.robson
     conference:
       name: 22nd International Congress on Modelling and Simulation
     database: Crossref

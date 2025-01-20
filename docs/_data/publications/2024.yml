@@ -47,11 +47,11 @@ references:
       - type: doi
         value: 10.1126/sciadv.ado6884
       - type: url
-        value: http://dx.doi.org/10.1126/sciadv.ado6884
+        value: https://dx.doi.org/10.1126/sciadv.ado6884
       - type: other
         value: urn:issn:2375-2548
     title: Climate refugia in the Great Barrier Reef may endure into the future
-    url: http://dx.doi.org/10.1126/sciadv.ado6884
+    url: https://dx.doi.org/10.1126/sciadv.ado6884
     database: Crossref
     date-published: 2024-11-29
     year: 2024
@@ -94,11 +94,11 @@ references:
       - type: doi
         value: 10.1111/geb.13928
       - type: url
-        value: http://dx.doi.org/10.1111/geb.13928
+        value: https://dx.doi.org/10.1111/geb.13928
       - type: other
         value: urn:issn:1466-822X
     title: Spatial Variation in Upper Limits of Coral Cover on the Great Barrier Reef
-    url: http://dx.doi.org/10.1111/geb.13928
+    url: https://dx.doi.org/10.1111/geb.13928
     database: Crossref
     date-published: 2024-10-26
     year: 2024
@@ -149,11 +149,11 @@ references:
       - type: doi
         value: 10.1038/s41598-024-73464-y
       - type: url
-        value: http://dx.doi.org/10.1038/s41598-024-73464-y
+        value: https://dx.doi.org/10.1038/s41598-024-73464-y
       - type: other
         value: urn:issn:2045-2322
     title: Capturing fine-scale coral dynamics with a metacommunity modelling framework
-    url: http://dx.doi.org/10.1038/s41598-024-73464-y
+    url: https://dx.doi.org/10.1038/s41598-024-73464-y
     database: Crossref
     date-published: 2024-10-21
     year: 2024
@@ -182,13 +182,13 @@ references:
       - type: doi
         value: 10.1007/s00338-024-02560-2
       - type: url
-        value: http://dx.doi.org/10.1007/s00338-024-02560-2
+        value: https://dx.doi.org/10.1007/s00338-024-02560-2
       - type: other
         value: urn:issn:0722-4028
     title: >-
       Validating effectiveness of crown-of-thorns starfish control thresholds to
       limit coral loss throughout the Great Barrier Reef
-    url: http://dx.doi.org/10.1007/s00338-024-02560-2
+    url: https://dx.doi.org/10.1007/s00338-024-02560-2
     database: Crossref
     date-published: 2024-10-21
     year: 2024
@@ -229,13 +229,13 @@ references:
       - type: doi
         value: 10.3390/jmse12101809
       - type: url
-        value: http://dx.doi.org/10.3390/jmse12101809
+        value: https://dx.doi.org/10.3390/jmse12101809
       - type: other
         value: urn:issn:2077-1312
     title: >-
       The Development of a Floating Mono-Particle “Sun Shield” to Protect Corals
       from High Irradiance during Bleaching Conditions
-    url: http://dx.doi.org/10.3390/jmse12101809
+    url: https://dx.doi.org/10.3390/jmse12101809
     database: Crossref
     date-published: 2024-10-10
     year: 2024
@@ -271,13 +271,13 @@ references:
       - type: doi
         value: 10.1038/s43247-024-01649-4
       - type: url
-        value: http://dx.doi.org/10.1038/s43247-024-01649-4
+        value: https://dx.doi.org/10.1038/s43247-024-01649-4
       - type: other
         value: urn:issn:2662-4435
     title: >-
       Heat tolerance varies considerably within a reef-building coral species on
       the Great Barrier Reef
-    url: http://dx.doi.org/10.1038/s43247-024-01649-4
+    url: https://dx.doi.org/10.1038/s43247-024-01649-4
     database: Crossref
     date-published: 2024-09-23
     year: 2024
@@ -300,13 +300,13 @@ references:
       - type: doi
         value: 10.1201/9781003320425-31
       - type: url
-        value: http://dx.doi.org/10.1201/9781003320425-31
+        value: https://dx.doi.org/10.1201/9781003320425-31
       - type: other
         value: urn:isbn:9781003320425
     title: >-
       An Overview of Environmental Engineering Methods for Reducing Coral
       Bleaching Stress
-    url: http://dx.doi.org/10.1201/9781003320425-31
+    url: https://dx.doi.org/10.1201/9781003320425-31
     database: Crossref
     date-published: 2024-01-31
     year: 2024
@@ -339,13 +339,13 @@ references:
       - type: doi
         value: 10.1016/j.scitotenv.2024.175282
       - type: url
-        value: http://dx.doi.org/10.1016/j.scitotenv.2024.175282
+        value: https://dx.doi.org/10.1016/j.scitotenv.2024.175282
       - type: other
         value: urn:issn:0048-9697
     title: >-
       Advancing projections of crown-of-thorns starfish to support management
       interventions
-    url: http://dx.doi.org/10.1016/j.scitotenv.2024.175282
+    url: https://dx.doi.org/10.1016/j.scitotenv.2024.175282
     database: Crossref
     date-published: 2024-11-01
     year: 2024
@@ -374,13 +374,13 @@ references:
       - type: doi
         value: 10.1038/s41598-024-64388-8
       - type: url
-        value: http://dx.doi.org/10.1038/s41598-024-64388-8
+        value: https://dx.doi.org/10.1038/s41598-024-64388-8
       - type: other
         value: urn:issn:2045-2322
     title: >-
       Connectivity modelling identifies sources and sinks of coral recruitment
       within reef clusters
-    url: http://dx.doi.org/10.1038/s41598-024-64388-8
+    url: https://dx.doi.org/10.1038/s41598-024-64388-8
     database: Crossref
     date-published: 2024-06-12
     year: 2024
@@ -413,13 +413,13 @@ references:
       - type: doi
         value: 10.1007/s00227-024-04450-1
       - type: url
-        value: http://dx.doi.org/10.1007/s00227-024-04450-1
+        value: https://dx.doi.org/10.1007/s00227-024-04450-1
       - type: other
         value: urn:issn:0025-3162
     title: >-
       Should I stay or should I go? The influence of environmental conditions on
       green turtle residence time and outward transit in foraging areas
-    url: http://dx.doi.org/10.1007/s00227-024-04450-1
+    url: https://dx.doi.org/10.1007/s00227-024-04450-1
     database: Crossref
     date-published: 2024-06-04
     year: 2024
@@ -488,13 +488,13 @@ references:
       - type: doi
         value: 10.1371/journal.pone.0298073
       - type: url
-        value: http://dx.doi.org/10.1371/journal.pone.0298073
+        value: https://dx.doi.org/10.1371/journal.pone.0298073
       - type: other
         value: urn:issn:1932-6203
     title: >-
       Protecting Great Barrier Reef resilience through effective management of
       crown-of-thorns starfish outbreaks
-    url: http://dx.doi.org/10.1371/journal.pone.0298073
+    url: https://dx.doi.org/10.1371/journal.pone.0298073
     database: Crossref
     date-published: 2024-04-24
     year: 2024
@@ -525,13 +525,13 @@ references:
       - type: doi
         value: 10.1016/j.ecolmodel.2023.110567
       - type: url
-        value: http://dx.doi.org/10.1016/j.ecolmodel.2023.110567
+        value: https://dx.doi.org/10.1016/j.ecolmodel.2023.110567
       - type: other
         value: urn:issn:0304-3800
     title: >-
       Modelling buoyancy-driven vertical movement of Trichodesmium application in
       the Great Barrier Reef
-    url: http://dx.doi.org/10.1016/j.ecolmodel.2023.110567
+    url: https://dx.doi.org/10.1016/j.ecolmodel.2023.110567
     database: Crossref
     date-published: 2024-01-01
     year: 2024

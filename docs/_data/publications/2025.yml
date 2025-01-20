@@ -21,14 +21,14 @@ references:
       - type: doi
         value: 10.1016/j.ocemod.2024.102465
       - type: url
-        value: http://dx.doi.org/10.1016/j.ocemod.2024.102465
+        value: https://dx.doi.org/10.1016/j.ocemod.2024.102465
       - type: other
         value: urn:issn:1463-5003
     title: >-
       Impact of phytoplankton, CDOM, and suspended sediments on the vertical
       attenuation of light, changing heat content and circulation on a continental
       shelf: A modelling study of the Great Barrier Reef
-    url: http://dx.doi.org/10.1016/j.ocemod.2024.102465
+    url: https://dx.doi.org/10.1016/j.ocemod.2024.102465
     database: Crossref
     date-published: 2025-02-01
     year: 2025
