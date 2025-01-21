@@ -8,6 +8,81 @@ references:
   - authors:
       - family-names: Sun
         given-names: Chaojiao
+        orcid: https://orcid.org/0000-0002-7030-0485
+      - family-names: Steinberg
+        given-names: Craig
+        orcid: https://orcid.org/0000-0001-5009-5894
+      - family-names: Klein Salas
+        given-names: Eduardo
+      - family-names: Mellin
+        given-names: Camille
+        orcid: https://orcid.org/0000-0002-7369-2349
+      - family-names: Babcock
+        given-names: Russell C.
+        orcid: https://orcid.org/0000-0002-7756-1290
+      - family-names: Schiller
+        given-names: Andreas
+        orcid: https://orcid.org/0000-0001-8530-166X
+      - family-names: Cantin
+        given-names: Neal E.
+        orcid: https://orcid.org/0000-0002-4633-2479
+      - family-names: Stella
+        given-names: Jessica S.
+        orcid: https://orcid.org/0000-0001-8566-214X
+      - family-names: Baird
+        given-names: Mark E.
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Condie
+        given-names: Scott A.
+        orcid: https://orcid.org/0000-0002-5943-014X
+      - family-names: Hobday
+        given-names: Alistair J.
+        orcid: https://orcid.org/0000-0002-3194-8326
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Jones
+        given-names: Nicole L.
+        orcid: https://orcid.org/0000-0003-2550-4590
+      - family-names: Zhang
+        given-names: Xuebin
+        orcid: https://orcid.org/0000-0003-1731-3524
+      - family-names: Chamberlain
+        given-names: Matthew A.
+        orcid: https://orcid.org/0000-0002-3287-3282
+      - family-names: Fiedler
+        given-names: Russ
+      - family-names: Green
+        given-names: Cody
+        orcid: https://orcid.org/0009-0008-5604-1801
+      - family-names: Steven
+        given-names: Andrew D. L.
+    doi: 10.1126/sciadv.ado6884
+    identifiers:
+      - type: doi
+        value: 10.1126/sciadv.ado6884
+      - type: url
+        value: https://dx.doi.org/10.1126/sciadv.ado6884
+      - type: other
+        value: urn:issn:2375-2548
+    title: Climate refugia in the Great Barrier Reef may endure into the future
+    url: https://dx.doi.org/10.1126/sciadv.ado6884
+    database: Crossref
+    date-published: 2024-11-29
+    year: 2024
+    month: 11
+    issn: 2375-2548
+    issue: '48'
+    journal: Science Advances
+    languages:
+      - en
+    publisher:
+      name: American Association for the Advancement of Science (AAAS)
+    type: article
+    volume: '10'
+
+  - authors:
+      - family-names: Sun
+        given-names: Chaojiao
       - family-names: Steinberg
         given-names: Craig
       - family-names: Klein Salas
