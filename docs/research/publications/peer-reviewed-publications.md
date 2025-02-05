@@ -6,7 +6,7 @@ toc_sticky: true
 # Peer-reviewed Publications
 The peer-reviewed publications listed on this page reference, cite, acknowledge or are a direct output from eReefs research and projects.
 
-For other related eReefs model input references, please see <a href="https://research.csiro.au/ereefs/models/forcing/references/">References</a>
+For other related eReefs model input references, please see [References](https://research.csiro.au/ereefs/models/forcing/references/)
 
 If you use the eReefs model outputs, software or platforms in your research, please include the following acknowledgement:
 
