@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      eReefs is a platform that provides a picture of what
+      is currently happening on the reef, and what will
+      likely happen in the future. We are collaborating
+      on eReefs with the Great Barrier Reef Foundation,
+      AIMS, Bureau of Meteorology and the Queensland Government.
+    title: >-
+      eReefs: coasts, computers and collaboration
+    url: https://www.csiro.au/en/research/natural-environment/oceans/eReefs
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      eReefs platform transforming our ability to manage
+      and protect the Great Barrier Reef for the long term.
+    title: >-
+      Ensuring a vital future for the Great Barrier Reef
+    url: https://www.csiro.au/en/research/natural-environment/oceans/eReefs-management-system
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      CSIRO is helping create an enabling environment
+      that fosters a broad based set of partnerships.
+      These partnerships prioritise and collaborate on
+      critical research pathways that underpin
+      resilience based management of the GBR well
+      into the future.
+    title: >-
+      Science and collaboration pathways aim to ensure a future for the Great Barrier Reef
+    url: https://www.csiro.au/en/research/natural-environment/oceans/Reef-2050-diagram
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article

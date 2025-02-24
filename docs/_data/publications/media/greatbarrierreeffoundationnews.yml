@@ -1,0 +1,105 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      How we collect data, what it tells us about
+      the future and why it’s a critical part of protecting our Reef.
+    title: >-
+      How we predict Reef threats like coral bleaching
+    url: https://www.barrierreef.org/news/explainers/predicting-coral-bleaching-great-barrier-reef
+    date-published: 2022-02-11
+    year: 2022
+    month: 2
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: GBRF
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      Aerial surveys have confirmed scientists’ fears that
+      mass bleaching is occurring on the Great Barrier Reef now,
+      with widespread bleaching caused by heat stress following
+      the hottest February on record since 1900.
+    title: >-
+      Third large-scale bleaching in five years
+    url: https://www.barrierreef.org/news/news/Third-large-scale-bleaching-in-five-years
+    date-published: 2020-03-26
+    year: 2020
+    month: 3
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: GBRF
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      eReefs is one of three finalists in the ‘Oscars’ of Australian science,
+      the 2018 Eureka Prize for Excellence in Interdisciplinary Scientific Research.
+    title: >-
+      eReefs project a finalist in Australia’s science ‘Oscars’
+    url: https://www.barrierreef.org/news/news/ereefs-project-a-finalist-in-australia-s-science-oscars
+    date-published: 2018-07-25
+    year: 2018
+    month: 7
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: GBRF
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      eReefs has superpowers that allow scientists to ‘see through’
+      cyclone barriers like clouds and water to report on the Reef
+      in real time when other systems can’t.
+    title: >-
+      eReefs turns on ‘x-ray vision’ in cyclones
+    url: https://www.barrierreef.org/news/media-release/ereefs-turns-on-x-ray-vision-in-cyclones
+    date-published: 2017-04-04
+    year: 2017
+    month: 4
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: GBRF
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      Phase 2 of the eReefs project has been secured with
+      Environment Minister Dr Steven Miles announcing the
+      Queensland Government’s $2m commitment to the project.
+    title: >-
+      eReefs funding announced
+    url: https://www.barrierreef.org/news/news/ereefs-funding-announced
+    date-published: 2015-06-26
+    year: 2015
+    month: 6
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: GBRF
+    type: article

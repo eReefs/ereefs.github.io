@@ -1,0 +1,203 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      Deteriorating water quality is one of the biggest
+      threats to the Great Barrier Reef. Vital protection
+      and recovery efforts are taking place in the
+      catchments adjoining this national treasure’s coastline.
+    title: >-
+      Researchers trust their tools when it comes to looking after the great Barrier Reef
+    url: https://www.csiro.au/en/news/all/articles/2022/august/great-barrier-reef-erosion-control
+    date-published: 2022-08-15
+    year: 2022
+    month: 8
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      The Great Barrier Reef is one of Australia’s most
+      diverse and unique landscapes. Covering more than
+      2,900 individual reefs, it is home to unmatched
+      marine biodiversity. A multidisciplinary group
+      of researchers from Australia’s national science
+      agency, CSIRO, have been working on projects using
+      innovative science and technology to help combat
+      some of the threats facing our reef. Meet the
+      team and learn more about their work here.
+    title: >-
+      How we’re using machine learning to detect coral-eating COTS
+    url: https://www.csiro.au/en/news/all/articles/2022/june/how-were-using-machine-learning-to-detect-coral-eating-cots
+    date-published: 2022-06-05
+    year: 2022
+    month: 6
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      This interactive platform puts information
+      about management options and past, present,
+      and future conditions of the Reef at users’
+      flipper-tips.
+    title: >-
+      eReefs: integrated environmental intelligence for managing the Reef
+    url: https://www.csiro.au/en/news/all/articles/2021/april/ereefs-integrated-environmental-intelligence-for-managing-the-reef
+    date-published: 2021-04-25
+    year: 2021
+    month: 4
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      Detection of oil spills using state of the art
+      satellite imagery will support Australian
+      environmental agencies to manage and protect
+      the Great Barrier Reef, and other Australian
+      marine regions.
+    title: >-
+      Using satellite imagery to detect and map oil spills along Australia’s coastline
+    url: https://www.csiro.au/en/news/all/articles/2020/may/satellite-imagery-to-detect-oil-spills
+    date-published: 2020-05-14
+    year: 2020
+    month: 5
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      The best scientific minds are applying novel
+      interventions to help the Great Barrier Reef
+      fight and adapt to climate change. From freezing
+      coral larvae to shading and cooling measures,
+      learn how we’re hoping to help the Reef.
+    title: >-
+      Novel interventions are more than a ‘cool idea’ for the Great Barrier Reef
+    url: https://www.csiro.au/en/news/all/articles/2020/april/novel-interventions-are-more-than-a-cool-idea-for-the-great-barrier-reef
+    date-published: 2020-04-29
+    year: 2020
+    month: 4
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      New research indicates that when coral colonies
+      on the Great Barrier Reef spawn more than once
+      a year, reefs receive a more consistent supply
+      of coral larvae which could help coral recovery
+      and the resilience of the Reef.
+    title: >-
+      About last night: multiple coral spawning in the Great Barrier Reef
+    url: https://blog.csiro.au/how-multiple-coral-spawning-is-helping/
+    date-published: 2019-08-14
+    year: 2020
+    month: 4
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      The eReefs program monitors the Great Barrier Reef
+      using satellite sensors high above the planet’s
+      surface and from a unique marine observatory far
+      below located in coastal waters of the Great Barrier
+      Reef World Heritage Area.
+    title: >-
+      Connecting the sky and the sea to build a picture of tomorrow’s oceans
+    url: https://www.csiro.au/en/news/all/articles/2018/december/ocean-monitoring
+    date-published: 2018-12-18
+    year: 2018
+    month: 12
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      While underwater drones, robots and satellites
+      have a well-earned place in monitoring the
+      state of our oceans and climate, we also
+      look to ship-based measurements for
+      first-rate data.
+    title: >-
+      A tale of two ships
+    url: https://www.csiro.au/en/news/all/articles/2018/december/a-tale-of-two-ships
+    date-published: 2018-12-18
+    year: 2018
+    month: 12
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Unknown
+        given-names: Unknown
+    abstract: >-
+      Speech given at 2018 Science Meets Parliament
+      by CSIRO Chief Executive Dr Larry Marshall
+    title: >-
+      CSIRO Science off the lab bench
+    url: https://www.csiro.au/en/news/all/news/2018/february/2018-science-meets-parliament
+    date-published: 2018-02-13
+    year: 2018
+    month: 2
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: article
