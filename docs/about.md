@@ -5,10 +5,40 @@ permalink: /about/
 
 # Overview
 
-A number of threats including water quality, climate change, shipping, fishing and coastal development have the potential to detract from the Reef’s natural, cultural and economic value. Preventing a loss of value requires improved decision support, and communication tools for all who interact with, manage and depend on the Reef.
+Welcome to the eReefs Project – an innovative initiative aimed at understanding, monitoring, modelling and safeguarding one of the world's most iconic natural wonders.
 
-eReefs, which commenced in January 2012, is a six year $30 million collaborative project that combines government commitment to Reef protection, world-class science innovation and contributions from leading Australian businesses. Focused on the protection and preservation of the iconic Great Barrier Reef, it forms the first step in building comprehensive coastal information systems for Australia.
+## The challenge:  growing pressures on the reefs
 
-Using the latest technologies to collate data, and new and integrated modelling, eReefs will produce powerful visualisation, communication and reporting tools. It will provide for the Reef information akin to that provided by the Bureau of Meteorology for weather. This information will benefit government agencies, Reef managers, policy makers, researchers, industry and local communities.
+The Great Barrier Reef, a UNESCO World Heritage Site, is a complex and delicate ecosystem that spans over 2,300 kilometres off the coast of Queensland, facing numerous threats:
 
-{% include figure image_path="/assets/images/model-salinity-currents.jpg" alt="Figure 1. Snapshot from near real-time hydrodynamic model of the Great Barrier Reef showing sea-surface salinity and surface currents." caption="Figure 1. Snapshot from near real-time hydrodynamic model of the Great Barrier Reef showing sea-surface salinity and surface currents." %}
+- Poor water quality, from sediment, pesticide and nutrient run-off
+
+- vulnerability to climate change
+
+- extreme weather events such as cyclones, floods and storm surges
+
+- and biological threats including recurrent crown-of-thorn outbreaks
+
+## eReefs contribution: support ongoing conservation and management of this extraordinary marine environment
+
+From catchment and estuaries to reef lagoons and open ocean, eReefs provides an integrated picture of what is currently happening on the reef.
+
+Since 2012, eReefs integrates marine hydrodynamic and biogeochemical models with catchment models to provide high-frequency information on physical and biological processes, such as:
+
+- sediment and nutrient dynamics
+
+- plankton blooms dynamics and dispersal
+
+- flood plumes and dispersal of pollutants
+
+- water quality, marine heat waves, warming and acidification
+
+The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observation.
+
+The scientific knowledge provided through data, analytics and visualisations is used by management agencies, regional entities, industries, and researchers, to support strategic and operational management decision-making across the Great Barrier Reef Region.
+
+## Towards a Better understanding of the reef and science-informed decision
+
+The eReefs project contributes to a better understanding of the GBR, makes information more accessible for government, industry and the community, and helps to model and monitor the impacts of land-use, flood, cyclones and climate change.
+
+{% include figure image_path="/assets/images/ereef-concept-diagram.jpg" alt="Figure 1. eReefs project workflow." caption="Figure 1. eReefs project workflow." %}

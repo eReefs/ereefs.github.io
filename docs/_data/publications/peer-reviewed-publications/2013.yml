@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "2013"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Margvelashvili
+        given-names: N.
+      - family-names: Andrewartha
+        given-names: J.
+      - family-names: Herzfeld
+        given-names: M.
+      - family-names: Robson
+        given-names: B.J.
+      - family-names: Brando
+        given-names: V.E.
+    doi: 10.1016/j.envsoft.2012.09.009
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2012.09.009
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2012.09.009
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Satellite data assimilation and estimation of a 3D coastal sediment
+      transport model using error-subspace emulators
+    url: https://dx.doi.org/10.1016/j.envsoft.2012.09.009
+    database: Crossref
+    date-published: 2013-02-01
+    year: 2013
+    month: 2
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '191'
+    end: '201'
+    type: article
+    volume: '40'
+
+  - authors:
+        - family-names: Robson
+          given-names: Barbara J.
+          orcid: https://orcid.org/0000-0002-1811-3527
+        - family-names: Baird
+          given-names: Mark E.
+          orcid: https://orcid.org/0000-0003-4955-2298
+        - family-names: Wild-Allen
+          given-names: Karen
+    doi: 10.36334/modsim.2013.h3.robson
+    identifiers:
+      - type: doi
+        value: 10.36334/modsim.2013.h3.robson
+      - type: url
+        value: https://dx.doi.org/10.36334/modsim.2013.H3.robson
+    title: A model for the marine cyanobacteria, Trichodesmium
+    url: https://dx.doi.org/10.36334/modsim.2013.H3.robson
+    conference:
+      name: 20th International Congress on Modelling and Simulation (MODSIM2013)
+    database: Crossref
+    date-published: 2013-12-01
+    year: 2013
+    month: 12
+    journal: >-
+      Piantadosi, J., Anderssen, R.S. and Boland J. (eds) MODSIM2013, 20th
+      International Congress on Modelling and Simulation
+    publisher:
+      name: >-
+        Modelling and Simulation Society of Australia and New Zealand (MSSANZ),
+        Inc.
+    type: conference-paper

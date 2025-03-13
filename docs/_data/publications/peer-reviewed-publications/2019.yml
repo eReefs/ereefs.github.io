@@ -1,0 +1,548 @@
+cff-version: 1.2.0
+message: "2019"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Anthony
+        given-names:  KRN
+      - family-names: Condie
+        given-names:  S
+      - family-names: Bozec
+        given-names:  Y-M
+      - family-names: Harrison
+        given-names:  D
+      - family-names: Gibbs
+        given-names:  M
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Mumby
+        given-names:  PJ
+      - family-names: Mead
+        given-names:  D
+    title: >-
+      Reef Restoration and Adaptation Program: Modelling Methods and Findings.
+      A report provided to the Australian Government by the Reef Restoration and Adaptation Program
+    url: https://gbrrestoration.org/wp-content/uploads/2020/09/T6-Modelling-Methods-and-Findings_26April_FINAL3.pdf
+    date-published: 2019-09-01
+    year: 2019
+    month: 09
+    languages:
+      - en
+    publisher:
+      name: AIMS
+    type: report
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Mongin
+        given-names:  M
+      - family-names: Bouget
+        given-names:  E
+    title: >-
+      Reef Restoration and Adaptation Program: Ultra-Thin Surface 
+      Films. A report provided to the Australian Government by the Reef Restoration and Adaptation 
+      Program
+    url: https://gbrrestoration.org/wp-content/uploads/2020/09/T13-Ultra-Thin-Surface-Films3.pdf
+    identifiers:
+    - type: url
+      value: https://hdl.handle.net/102.100.100/349197?index=1
+      description: "Handle Permalink"
+    date-published: 2019-09-01
+    year: 2019
+    month: 09
+    languages:
+      - en
+    publisher:
+      name: AIMS
+    type: report
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Green
+        given-names:  R
+      - family-names: Lowe
+        given-names:  R
+    title: >-
+      Reef Restoration and Adaptation Program: Cool Water Injection. A 
+      report provided to the Australian Government by the Reef Restoration and Adaptation Program
+    url: https://gbrrestoration.org/wp-content/uploads/2020/09/T12-Cool-Water-Injection3.pdf
+    identifiers:
+      - type: url
+        value: https://hdl.handle.net/102.100.100/349198?index=1
+        description: "Handle Permalink"
+    date-published: 2019-05-01
+    year: 2019
+    month: 05
+    languages:
+      - en
+    publisher:
+      name: AIMS
+    type: report
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Margvelashvili
+        given-names:  Nugzar
+      - family-names: Cantin
+        given-names:  Neal
+    title: >-
+      Historical context and causes of water quality decline in the Whitsunday region. 
+      CSIRO Report to Department of Environment and Energy.
+    url: https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/publications/historical-context-causes-water-quality-decline-whitsundays
+    identifiers:
+      - type: url
+        value: https://hdl.handle.net/102.100.100/349202?index=1
+        description: "Handle Permalink"
+    date-published: 2019-06-17
+    year: 2019
+    month: 06
+    languages:
+      - en
+    publisher:
+      name: CSIRO
+    type: report
+
+  - authors:
+      - family-names: Brinkman
+        given-names: Richard 
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Boswood
+        given-names:  Paul 
+      - family-names: Fearns
+        given-names:  Peter 
+      - family-names: Gruber
+        given-names:  Renee  
+      - family-names: Holmes
+        given-names:  Miles 
+      - family-names: Honchin
+        given-names:  Carol  
+      - family-names: Johnson
+        given-names:  Robert 
+      - family-names: Lewis
+        given-names:  Stephen  
+      - family-names: Lonborg
+        given-names:  Christian  
+      - family-names: Mueller
+        given-names:  Jochen  
+      - family-names: Robillot
+        given-names:  Cedric 
+      - family-names: Schroeder
+        given-names:  Thomas  
+      - family-names: Steinberg
+        given-names:  Craig  
+      - family-names: Treleaven
+        given-names:  Jamie 
+    title: >-
+      Monitoring the marine physical and chemical environment within the Reef 2050 Integrated Monitoring and Reporting Program:
+      Final Report of the Marine Physical and Chemical Environment Expert Group
+    url: https://nla.gov.au/nla.obj-2964786400
+    identifiers:
+        - type: url
+          value: https://hdl.handle.net/102.100.100/348749?index=1
+          description: "Handle Permalink"
+    date-published: 2019-12-22
+    year: 2019
+    month: 12
+    languages:
+      - en
+    publisher:
+      name: Great Barrier Reef Marine Park Authority
+    type: report
+
+  - authors:
+      - family-names: Harrison 
+        given-names:  DP
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Harrison 
+        given-names:  L
+      - family-names: Utembe 
+        given-names:  S
+      - family-names: Schofield 
+        given-names:  R
+      - family-names: Escobar 
+        given-names:  R
+      - family-names: Mongin 
+        given-names:  M
+      - family-names: Rizwi 
+        given-names:  F
+    title: >-
+      Reef Restoration and Adaptation Program: Environmental Modelling of Large Scale Solar Radiation Management.
+      A report provided to the Australian Government by the Reef Restoration and Adaptation Program
+    url: https://gbrrestoration.org/wp-content/uploads/2020/09/T14-Environmental-Modelling-of-Large-Scale-SRM_v3.03-3.pdf
+    date-published: 2019-10-01
+    year: 2019
+    month: 10
+    languages:
+      - en
+    publisher:
+      name: AIMS
+    type: report
+
+  - authors:
+      - family-names: Herzfeld
+        given-names: M.
+      - family-names: Rizwi
+        given-names: F.
+    doi: 10.1016/j.envsoft.2019.03.015
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2019.03.015
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2019.03.015
+      - type: other
+        value: urn:issn:1364-8152
+    title: A two-way nesting framework for ocean models
+    url: https://dx.doi.org/10.1016/j.envsoft.2019.03.015
+    database: Crossref
+    date-published: 2019-07-01
+    year: 2019
+    month: 7
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '200'
+    end: '213'
+    type: article
+    volume: '117'
+
+  - authors:
+      - family-names: Hock
+        given-names: Karlo
+        orcid: https://orcid.org/0000-0001-7858-1130
+      - family-names: Doropoulos
+        given-names: Christopher
+        orcid: https://orcid.org/0000-0001-8038-2771
+      - family-names: Gorton
+        given-names: Rebecca
+        orcid: https://orcid.org/0000-0002-5290-3506
+      - family-names: Condie
+        given-names: Scott A.
+        orcid: https://orcid.org/0000-0002-5943-014X
+      - family-names: Mumby
+        given-names: Peter J.
+    doi: 10.1038/s41467-019-11367-7
+    identifiers:
+      - type: doi
+        value: 10.1038/s41467-019-11367-7
+      - type: url
+        value: https://dx.doi.org/10.1038/s41467-019-11367-7
+      - type: other
+        value: urn:issn:2041-1723
+    title: >-
+      Split spawning increases robustness of coral larval supply and inter-reef
+      connectivity
+    url: https://dx.doi.org/10.1038/s41467-019-11367-7
+    database: Crossref
+    date-published: 2019-08-01
+    year: 2019
+    month: 8
+    issn: 2041-1723
+    issue: '1'
+    journal: Nature Communications
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
+    volume: '10'
+
+  - authors:
+      - family-names: Pausina
+        given-names: Sarah
+      - family-names: Greenwood
+        given-names: Jack
+      - family-names: Pitt
+        given-names: Kylie
+      - family-names: Rissik
+        given-names: David
+      - family-names: Rochester
+        given-names: Wayne
+      - family-names: Uribe-Palomino
+        given-names: Julian
+      - family-names: Richardson
+        given-names: Anthony
+      - family-names: Skerratt
+        given-names: Jennifer
+    doi: 10.6084/M9.FIGSHARE.8074364
+    identifiers:
+      - type: doi
+        value: 10.6084/M9.FIGSHARE.8074364
+      - type: url
+        value: https://figshare.com/articles/Zooplankton_of_Moreton_Bay/8074364
+    title: Zooplankton of Moreton Bay
+    url: https://moretonbayfoundation.org/wp-content/uploads/2019/10/Moreton-Bay-Quandamooka-and-Catchment-book-edition-1-Aug-2019.pdf
+    date-published: 2019-01-01
+    year: 2019
+    publisher:
+      name: figshare
+    type: article
+
+  - authors:
+      - family-names: Skerratt
+        given-names: J.H.
+      - family-names: Mongin
+        given-names: M.
+      - family-names: Baird
+        given-names: M.E.
+      - family-names: Wild-Allen
+        given-names: K.A.
+      - family-names: Robson
+        given-names: B.J.
+      - family-names: Schaffelke
+        given-names: B.
+      - family-names: Davies
+        given-names: C.H.
+      - family-names: Richardson
+        given-names: A.J.
+      - family-names: Margvelashvili
+        given-names: N.
+      - family-names: Soja-Wozniak
+        given-names: M.
+      - family-names: Steven
+        given-names: A.D.L.
+    doi: 10.1016/j.jmarsys.2018.12.006
+    identifiers:
+      - type: doi
+        value: 10.1016/j.jmarsys.2018.12.006
+      - type: url
+        value: https://dx.doi.org/10.1016/j.jmarsys.2018.12.006
+      - type: other
+        value: urn:issn:0924-7963
+    title: >-
+      Simulated nutrient and plankton dynamics in the Great Barrier Reef
+      (2011–2016)
+    url: https://dx.doi.org/10.1016/j.jmarsys.2018.12.006
+    database: Crossref
+    date-published: 2019-04-01
+    year: 2019
+    month: 4
+    issn: 0924-7963
+    journal: Journal of Marine Systems
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '51'
+    end: '74'
+    type: article
+    volume: '192'
+
+  - authors:
+      - family-names: Soja‐Woźniak
+        given-names: Monika
+        orcid: https://orcid.org/0000-0003-3901-8999
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Qin
+        given-names: Yi
+      - family-names: Clementson
+        given-names: Lesley
+        orcid: https://orcid.org/0000-0003-4415-993X
+      - family-names: Baker
+        given-names: Brett
+        orcid: https://orcid.org/0000-0003-3693-772X
+      - family-names: Boadle
+        given-names: David
+      - family-names: Brando
+        given-names: Vittorio
+        orcid: https://orcid.org/0000-0002-2193-5695
+      - family-names: Steven
+        given-names: Andy D. L.
+    doi: 10.1029/2019jc014998
+    identifiers:
+      - type: doi
+        value: 10.1029/2019jc014998
+      - type: url
+        value: https://dx.doi.org/10.1029/2019JC014998
+      - type: other
+        value: urn:issn:2169-9275
+    title: >-
+      Particulate Backscattering Ratio as an Indicator of Changing Particle
+      Composition in Coastal Waters: Observations From Great Barrier Reef Waters
+    url: https://dx.doi.org/10.1029/2019JC014998
+    database: Crossref
+    date-published: 2019-08-01
+    year: 2019
+    month: 8
+    issn: 2169-9275
+    issue: '8'
+    journal: 'Journal of Geophysical Research: Oceans'
+    languages:
+      - en
+    publisher:
+      name: American Geophysical Union (AGU)
+    start: '5485'
+    end: '5502'
+    type: article
+    volume: '124'
+
+  - authors:
+      - family-names: Steven
+        given-names: Andrew D. L.
+      - family-names: Baird
+        given-names: Mark E.
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Brinkman
+        given-names: Richard
+        orcid: https://orcid.org/0000-0002-2938-9473
+      - family-names: Car
+        given-names: Nicholas J.
+        orcid: https://orcid.org/0000-0002-8742-7730
+      - family-names: Cox
+        given-names: Simon J.
+        orcid: https://orcid.org/0000-0002-3884-3420
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Hodge
+        given-names: Jonathan
+        orcid: https://orcid.org/0000-0002-2699-2269
+      - family-names: Jones
+        given-names: Emlyn
+      - family-names: King
+        given-names: Edward
+        orcid: https://orcid.org/0000-0002-6898-2130
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Robillot
+        given-names: Cedric
+      - family-names: Robson
+        given-names: Barbara
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Skerratt
+        given-names: Jenny
+        orcid: https://orcid.org/0000-0001-9023-4692
+      - family-names: Tickell
+        given-names: Sharon
+      - family-names: Tuteja
+        given-names: Narendra
+      - family-names: Wild-Allen
+        given-names: Karen
+      - family-names: Yu
+        given-names: Jonathan
+    doi: 10.1080/1755876x.2019.1650589
+    identifiers:
+      - type: doi
+        value: 10.1080/1755876x.2019.1650589
+      - type: url
+        value: https://dx.doi.org/10.1080/1755876X.2019.1650589
+      - type: other
+        value: urn:issn:1755-876X
+    title: >-
+      <i>eReefs</i>: An operational information system for managing the Great
+      Barrier Reef
+    url: https://dx.doi.org/10.1080/1755876X.2019.1650589
+    database: Crossref
+    date-published: 2019-08-08
+    year: 2019
+    month: 8
+    issn: 1755-876X
+    issue: sup2
+    journal: Journal of Operational Oceanography
+    languages:
+      - en
+    publisher:
+      name: Informa UK Limited
+    start: S12
+    end: S28
+    type: article
+    volume: '12'
+
+  - authors:
+      - family-names: Tickell
+        given-names: Sharon
+      - family-names: Dowideit
+        given-names: Sven
+      - family-names: Wild
+        given-names: Dan
+      - family-names: Kenna
+        given-names: Erin
+      - family-names: Steven
+        given-names: Andy
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: King
+        given-names: Edward
+    doi: 10.25919/5EEA68383D375
+    identifiers:
+      - type: doi
+        value: 10.25919/5EEA68383D375
+      - type: url
+        value: https://publications.csiro.au/publications/publication/PIcsiro:EP194862
+    title: >-
+      eReefs Infrastructure 2019: Capacity to facilitate user access and scale-up
+      of services
+    url: https://publications.csiro.au/publications/publication/PIcsiro:EP194862
+    date-published: 2019-01-01
+    year: 2019
+    journal: CSIRO
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Xiao
+        given-names: Yuanchi
+      - family-names: Wang
+        given-names: Xiao Hua
+        orcid: https://orcid.org/0000-0002-1774-6189
+      - family-names: Ritchie
+        given-names: Elizabeth A.
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Qiao
+        given-names: Lulu
+    doi: 10.1016/j.ecss.2019.04.037
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecss.2019.04.037
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecss.2019.04.037
+      - type: other
+        value: urn:issn:0272-7714
+    title: >-
+      The development and evolution of the Burdekin River estuary freshwater plume
+      during Cyclone Debbie (2017)
+    url: https://dx.doi.org/10.1016/j.ecss.2019.04.037
+    database: Crossref
+    date-published: 2019-08-01
+    year: 2019
+    month: 8
+    issn: 0272-7714
+    journal: Estuarine, Coastal and Shelf Science
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '187'
+    end: '196'
+    type: article
+    volume: '224'

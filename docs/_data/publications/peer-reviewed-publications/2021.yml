@@ -1,0 +1,443 @@
+cff-version: 1.2.0
+message: "2022"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Cheung
+        given-names: Mandy W.M.
+        orcid: https://orcid.org/0000-0001-7838-4188
+      - family-names: Hock
+        given-names: Karlo
+        orcid: https://orcid.org/0000-0001-7858-1130
+      - family-names: Skirving
+        given-names: William
+      - family-names: Mumby
+        given-names: Peter J.
+    doi: 10.1016/j.cub.2021.09.078
+    identifiers:
+      - type: doi
+        value: 10.1016/j.cub.2021.09.078
+      - type: url
+        value: https://dx.doi.org/10.1016/j.cub.2021.09.078
+      - type: other
+        value: urn:issn:0960-9822
+    title: >-
+      Cumulative bleaching undermines systemic resilience of the Great Barrier
+      Reef
+    url: https://dx.doi.org/10.1016/j.cub.2021.09.078
+    database: Crossref
+    date-published: 2021-12-01
+    year: 2021
+    month: 12
+    issn: 0960-9822
+    issue: '23'
+    journal: Current Biology
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '5385'
+    end: '5392.e4'
+    type: article
+    volume: '31'
+
+  - authors:
+      - family-names: Mumby
+        given-names: Peter J.
+        orcid: https://orcid.org/0000-0002-6297-9053
+      - family-names: Mason
+        given-names: Robert A. B.
+        orcid: https://orcid.org/0000-0002-2725-2449
+      - family-names: Hock
+        given-names: Karlo
+    doi: 10.1002/lom3.10455
+    identifiers:
+      - type: doi
+        value: 10.1002/lom3.10455
+      - type: url
+        value: https://dx.doi.org/10.1002/lom3.10455
+      - type: other
+        value: urn:issn:1541-5856
+    title: Reconnecting reef recovery in a world of coral bleaching
+    url: https://dx.doi.org/10.1002/lom3.10455
+    database: Crossref
+    date-published: 2021-08-24
+    year: 2021
+    month: 8
+    issn: 1541-5856
+    issue: '10'
+    journal: 'Limnology and Oceanography: Methods'
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    start: '702'
+    end: '713'
+    type: article
+    volume: '19'
+
+  - authors:
+      - family-names: Stoeckl
+        given-names: Natalie
+      - family-names: Condie
+        given-names: Scott
+      - family-names: Anthony
+        given-names: Ken
+    doi: 10.1016/j.ecoser.2021.101352
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecoser.2021.101352
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecoser.2021.101352
+      - type: other
+        value: urn:issn:2212-0416
+    title: >-
+      Assessing changes to ecosystem service values at large geographic scale: A
+      case study for Australia’s Great Barrier Reef
+    url: https://dx.doi.org/10.1016/j.ecoser.2021.101352
+    database: Crossref
+    date-published: 2021-10-01
+    year: 2021
+    month: 10
+    issn: 2212-0416
+    journal: Ecosystem Services
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '101352'
+    type: article
+    volume: '51'
+
+  - authors:
+      - family-names: Condie
+        given-names: Scott A.
+        orcid: https://orcid.org/0000-0002-5943-014X
+      - family-names: Anthony
+        given-names: Kenneth R. N.
+      - family-names: Babcock
+        given-names: Russ C.
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Beeden
+        given-names: Roger
+      - family-names: Fletcher
+        given-names: Cameron S.
+      - family-names: Gorton
+        given-names: Rebecca
+      - family-names: Harrison
+        given-names: Daniel
+      - family-names: Hobday
+        given-names: Alistair J.
+      - family-names: Plagányi
+        given-names: Éva E.
+      - family-names: Westcott
+        given-names: David A.
+    doi: 10.1098/rsos.201296
+    identifiers:
+      - type: doi
+        value: 10.1098/rsos.201296
+      - type: url
+        value: https://dx.doi.org/10.1098/rsos.201296
+      - type: other
+        value: urn:issn:2054-5703
+    title: Large-scale interventions may delay decline of the Great Barrier Reef
+    url: https://dx.doi.org/10.1098/rsos.201296
+    database: Crossref
+    date-published: 2021-04-01
+    year: 2021
+    month: 4
+    issn: 2054-5703
+    issue: '4'
+    journal: Royal Society Open Science
+    languages:
+      - en
+    publisher:
+      name: The Royal Society
+    type: article
+    volume: '8'
+
+  - authors:
+      - family-names: McNeil
+        given-names: Mardi
+        orcid: https://orcid.org/0000-0003-4613-4445
+      - family-names: Nothdurft
+        given-names: Luke
+        orcid: https://orcid.org/0000-0001-9646-9070
+      - family-names: Erler
+        given-names: Dirk
+        orcid: https://orcid.org/0000-0003-1242-7311
+      - family-names: Hua
+        given-names: Quan
+        orcid: https://orcid.org/0000-0003-0179-8539
+      - family-names: Webster
+        given-names: Jody M.
+        orcid: https://orcid.org/0000-0002-0005-6448
+    doi: 10.1029/2020pa003871
+    identifiers:
+      - type: doi
+        value: 10.1029/2020pa003871
+      - type: url
+        value: https://dx.doi.org/10.1029/2020PA003871
+      - type: other
+        value: urn:issn:2572-4517
+    title: >-
+      Variations in Mid‐ to Late Holocene Nitrogen Supply to Northern Great
+      Barrier Reef <i>Halimeda</i> Macroalgal Bioherms
+    url: https://dx.doi.org/10.1029/2020PA003871
+    database: Crossref
+    date-published: 2021-02-01
+    year: 2021
+    month: 2
+    issn: 2572-4517
+    issue: '2'
+    journal: Paleoceanography and Paleoclimatology
+    languages:
+      - en
+    publisher:
+      name: American Geophysical Union (AGU)
+    type: article
+    volume: '36'
+
+  - authors:
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark E
+      - family-names: Lenton
+        given-names: Andrew
+      - family-names: Neill
+        given-names: Craig
+      - family-names: Akl
+        given-names: John
+    doi: 10.1088/1748-9326/ac002d
+    identifiers:
+      - type: doi
+        value: 10.1088/1748-9326/ac002d
+      - type: url
+        value: https://dx.doi.org/10.1088/1748-9326/ac002d
+      - type: other
+        value: urn:issn:1748-9326
+    title: >-
+      Reversing ocean acidification along the Great Barrier Reef using alkalinity
+      injection
+    url: https://dx.doi.org/10.1088/1748-9326/ac002d
+    database: Crossref
+    date-published: 2021-06-01
+    year: 2021
+    month: 6
+    issn: 1748-9326
+    issue: '6'
+    journal: Environmental Research Letters
+    publisher:
+      name: IOP Publishing
+    start: '064068'
+    type: article
+    volume: '16'
+
+  - authors:
+      - family-names: McCloskey
+        given-names: G.L.
+      - family-names: Baheerathan
+        given-names: R.
+      - family-names: Dougall
+        given-names: C.
+      - family-names: Ellis
+        given-names: R.
+      - family-names: Bennett
+        given-names: F.R.
+      - family-names: Waters
+        given-names: D.
+      - family-names: Darr
+        given-names: S.
+      - family-names: Fentie
+        given-names: B.
+      - family-names: Hateley
+        given-names: L.R.
+      - family-names: Askildsen
+        given-names: M.
+    doi: 10.1016/j.marpolbul.2021.112163
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2021.112163
+      - type: url
+        value: https://dx.doi.org/10.1016/j.marpolbul.2021.112163
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      Modelled estimates of fine sediment and particulate nutrients delivered from
+      the Great Barrier Reef catchments
+    url: https://dx.doi.org/10.1016/j.marpolbul.2021.112163
+    database: Crossref
+    date-published: 2021-04-01
+    year: 2021
+    month: 4
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '112163'
+    type: article
+    volume: '165'
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Tickell
+        given-names: Sharon
+      - family-names: Steven
+        given-names: Andrew D.L.
+      - family-names: Robillot
+        given-names: Cedric
+      - family-names: Ellis
+        given-names: Robin
+      - family-names: Waters
+        given-names: David
+      - family-names: Kaniewska
+        given-names: Paulina
+      - family-names: Brodie
+        given-names: Jon
+    doi: 10.1016/j.marpolbul.2021.112297
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2021.112297
+      - type: url
+        value: https://dx.doi.org/10.1016/j.marpolbul.2021.112297
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      Impact of catchment-derived nutrients and sediments on marine water quality
+      on the Great Barrier Reef: An application of the eReefs marine modelling
+      system
+    url: https://dx.doi.org/10.1016/j.marpolbul.2021.112297
+    database: Crossref
+    date-published: 2021-06-01
+    year: 2021
+    month: 6
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '112297'
+    type: article
+    volume: '167'
+
+  - authors:
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Bay
+        given-names: Line K.
+      - family-names: Cantin
+        given-names: Neal E.
+      - family-names: Morris
+        given-names: Luke A.
+      - family-names: Skerratt
+        given-names: Jennifer
+    doi: 10.1016/j.marpolbul.2021.112409
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2021.112409
+      - type: url
+        value: https://dx.doi.org/10.1016/j.marpolbul.2021.112409
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      The effect of natural and anthropogenic nutrient and sediment loads on coral
+      oxidative stress on runoff-exposed reefs
+    url: https://dx.doi.org/10.1016/j.marpolbul.2021.112409
+    database: Crossref
+    date-published: 2021-07-01
+    year: 2021
+    month: 7
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '112409'
+    type: article
+    volume: '168'
+
+  - authors:
+      - family-names: Castro-Sanguino
+        given-names: Carolina
+      - family-names: Ortiz
+        given-names: Juan Carlos
+      - family-names: Thompson
+        given-names: Angus
+      - family-names: Wolff
+        given-names: Nicholas H.
+        orcid: https://orcid.org/0000-0003-1162-3556
+      - family-names: Ferrari
+        given-names: Renata
+      - family-names: Robson
+        given-names: Barbara
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Magno-Canto
+        given-names: Marites M.
+      - family-names: Puotinen
+        given-names: Marji
+      - family-names: Fabricius
+        given-names: Katharina E.
+        orcid: https://orcid.org/0000-0001-7671-4358
+      - family-names: Uthicke
+        given-names: Sven
+        orcid: https://orcid.org/0000-0002-3476-6595
+    doi: 10.1016/j.ecolind.2020.107335
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecolind.2020.107335
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecolind.2020.107335
+      - type: other
+        value: urn:issn:1470-160X
+    title: >-
+      Reef state and performance as indicators of cumulative impacts on coral
+      reefs
+    url: https://dx.doi.org/10.1016/j.ecolind.2020.107335
+    database: Crossref
+    date-published: 2021-04-01
+    year: 2021
+    month: 4
+    issn: 1470-160X
+    journal: Ecological Indicators
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '107335'
+    type: article
+    volume: '123'
+
+  - authors:
+      - family-names: Conroy
+        given-names: Gemma
+    title: >-
+      Can a Cold Water Bath Save the Great Barrier Reef?
+    url: https://hakaimagazine.com/news/can-a-cold-water-bath-save-the-great-barrier-reef/
+    date-published: 2021-02-19
+    year: 2021
+    month: 2
+    languages:
+      - en
+    publisher:
+      name: Hakai Magazine
+    type: article

@@ -1,0 +1,169 @@
+cff-version: 1.2.0
+message: "2014"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Margvelashvili
+        given-names: Nugzar
+      - family-names: Campbell
+        given-names: Eddy
+      - family-names: Murray
+        given-names: Laurence
+      - family-names: Jones
+        given-names: Emlyn
+    doi: 10.1016/j.procs.2014.05.196
+    identifiers:
+      - type: doi
+        value: 10.1016/j.procs.2014.05.196
+      - type: url
+        value: https://dx.doi.org/10.1016/j.procs.2014.05.196
+      - type: other
+        value: urn:issn:1877-0509
+    title: >-
+      Hierarchical Emulation &amp; Data Assimilation into the Sediment Transport
+      Model
+    url: https://dx.doi.org/10.1016/j.procs.2014.05.196
+    database: Crossref
+    date-published: 2014-01-01
+    year: 2014
+    issn: 1877-0509
+    journal: Procedia Computer Science
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '2121'
+    end: '2126'
+    type: article
+    volume: '29'
+
+  - authors:
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark
+    doi: 10.1016/j.ecolmodel.2014.04.004
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecolmodel.2014.04.004
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecolmodel.2014.04.004
+      - type: other
+        value: urn:issn:0304-3800
+    title: >-
+      The interacting effects of photosynthesis, calcification and water
+      circulation on carbon chemistry variability on a coral reef flat: A
+      modelling study
+    url: https://dx.doi.org/10.1016/j.ecolmodel.2014.04.004
+    database: Crossref
+    date-published: 2014-07-01
+    year: 2014
+    month: 7
+    issn: 0304-3800
+    journal: Ecological Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '19'
+    end: '34'
+    type: article
+    volume: '284'
+
+  - authors:
+      - family-names: Robson
+        given-names: Barbara J.
+        orcid: https://orcid.org/0000-0002-1811-3527
+    doi: 10.1016/j.envsoft.2014.01.009
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2014.01.009
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2014.01.009
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      When do aquatic systems models provide useful predictions, what is changing,
+      and what is next?
+    url: https://dx.doi.org/10.1016/j.envsoft.2014.01.009
+    database: Crossref
+    date-published: 2014-11-01
+    year: 2014
+    month: 11
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '287'
+    end: '296'
+    type: article
+    volume: '61'
+
+  - authors:
+      - family-names: Robson
+        given-names: Barbara J.
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Skerratt
+        given-names: J
+      - family-names: Mongin
+        given-names: M
+      - family-names: Wild-Allen
+        given-names: K
+      - family-names: Baird
+        given-names: M
+    title: >-
+      Varying the temporal resolution of river nutrient boundary conditions
+      to a coupled hydrodynamic-biogeochemical model of a coastal system has
+      surprisingly little impact on model results.
+    url: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1265&context=iemssconference
+    date-published: 2014-06-18
+    year: 2014
+    month: 06
+    journal: International Congress on Environmental Modelling and Software 
+    languages:
+      - en
+    publisher:
+      name: International Environmental Modelling & Software Society
+    type: conference-paper
+
+  - authors:
+      - family-names: Schiller
+        given-names: Andreas
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Brinkman
+        given-names: Richard
+      - family-names: Stuart
+        given-names: Greg
+    doi: 10.1175/bams-d-12-00202.1
+    identifiers:
+      - type: doi
+        value: 10.1175/bams-d-12-00202.1
+      - type: url
+        value: https://dx.doi.org/10.1175/BAMS-D-12-00202.1
+      - type: other
+        value: urn:issn:0003-0007
+    title: >-
+      Monitoring, Predicting, and Managing One of the Seven Natural Wonders of the
+      World
+    url: https://dx.doi.org/10.1175/BAMS-D-12-00202.1
+    database: Crossref
+    date-published: 2014-01-01
+    year: 2014
+    month: 1
+    issn: 0003-0007
+    issue: '1'
+    journal: Bulletin of the American Meteorological Society
+    languages:
+      - en
+    publisher:
+      name: American Meteorological Society
+    start: '23'
+    end: '30'
+    type: article
+    volume: '95'

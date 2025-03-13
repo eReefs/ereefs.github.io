@@ -1,0 +1,207 @@
+cff-version: 1.2.0
+message: "2015"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Herzfeld
+        given-names: M.
+    doi: 10.1016/j.ocemod.2015.04.001
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ocemod.2015.04.001
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ocemod.2015.04.001
+      - type: other
+        value: urn:issn:1463-5003
+    title: Methods for freshwater riverine input into regional ocean models
+    url: https://dx.doi.org/10.1016/j.ocemod.2015.04.001
+    database: Crossref
+    date-published: 2015-06-01
+    year: 2015
+    month: 6
+    issn: 1463-5003
+    journal: Ocean Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '1'
+    end: '15'
+    type: article
+    volume: '90'
+
+  - authors:
+      - family-names: Herzfeld
+        given-names: M.
+      - family-names: Gillibrand
+        given-names: P.A.
+    doi: 10.1016/j.ocemod.2015.02.004
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ocemod.2015.02.004
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ocemod.2015.02.004
+      - type: other
+        value: urn:issn:1463-5003
+    title: >-
+      Active open boundary forcing using dual relaxation time-scales in downscaled
+      ocean models
+    url: https://dx.doi.org/10.1016/j.ocemod.2015.02.004
+    database: Crossref
+    date-published: 2015-05-01
+    year: 2015
+    month: 5
+    issn: 1463-5003
+    journal: Ocean Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '71'
+    end: '83'
+    type: article
+    volume: '89'
+
+  - authors:
+      - family-names: Jones
+        given-names: Emlyn M.
+      - family-names: Doblin
+        given-names: Martina A.
+      - family-names: Matear
+        given-names: Richard
+      - family-names: King
+        given-names: Edward
+    doi: 10.1016/j.jmarsys.2014.10.012
+    identifiers:
+      - type: doi
+        value: 10.1016/j.jmarsys.2014.10.012
+      - type: url
+        value: https://dx.doi.org/10.1016/j.jmarsys.2014.10.012
+      - type: other
+        value: urn:issn:0924-7963
+    title: >-
+      Assessing and evaluating the ocean-colour footprint of a regional observing
+      system
+    url: https://dx.doi.org/10.1016/j.jmarsys.2014.10.012
+    database: Crossref
+    date-published: 2015-03-01
+    year: 2015
+    month: 3
+    issn: 0924-7963
+    journal: Journal of Marine Systems
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '49'
+    end: '61'
+    type: article
+    volume: '143'
+
+  - authors:
+      - family-names: Robson
+        given-names: Barbara J.
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Dourdet
+        given-names: Vincent
+        orcid: https://orcid.org/0000-0003-2527-1563
+    doi: 10.1016/j.envsoft.2014.08.009
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2014.08.009
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2014.08.009
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Prediction of sediment, particulate nutrient and dissolved nutrient
+      concentrations in a dry tropical river to provide input to a mechanistic
+      coastal water quality model
+    url: https://dx.doi.org/10.1016/j.envsoft.2014.08.009
+    database: Crossref
+    date-published: 2015-01-01
+    year: 2015
+    month: 1
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '97'
+    end: '108'
+    type: article
+    volume: '63'
+
+  - authors:
+      - family-names: Schiller
+        given-names: Andreas
+      - family-names: Herzfeld
+        given-names: Mike
+      - family-names: Brinkman
+        given-names: Richard
+      - family-names: Rizwi
+        given-names: Farhan
+      - family-names: Andrewartha
+        given-names: John
+    doi: 10.1016/j.csr.2015.09.011
+    identifiers:
+      - type: doi
+        value: 10.1016/j.csr.2015.09.011
+      - type: url
+        value: https://dx.doi.org/10.1016/j.csr.2015.09.011
+      - type: other
+        value: urn:issn:0278-4343
+    title: >-
+      Cross-shelf exchanges between the Coral Sea and the Great Barrier Reef
+      lagoon determined from a regional-scale numerical model
+    url: https://dx.doi.org/10.1016/j.csr.2015.09.011
+    database: Crossref
+    date-published: 2015-10-01
+    year: 2015
+    month: 10
+    issn: 0278-4343
+    journal: Continental Shelf Research
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '150'
+    end: '163'
+    type: article
+    volume: '109'
+
+  - authors:
+      - family-names: Searle
+        given-names: Ross
+      - family-names: Moeseneder
+        given-names: Chris
+      - family-names: McJannet
+        given-names: David
+      - family-names: Franklin
+        given-names: Heidi
+      - family-names: Carlin
+        given-names: Geoffrey
+      - family-names: Cannard
+        given-names: Toni
+      - family-names: Hodge
+        given-names: Jonathan
+      - family-names: Steven
+        given-names: Andy
+    doi: 10.4225/08/5852DE03A547A
+    identifiers:
+      - type: doi
+        value: 10.4225/08/5852DE03A547A
+      - type: url
+        value: https://publications.csiro.au/publications/publication/PIcsiro:EP15170
+    title: Continuous Water Quality Monitoring on the Great Barrier Reef
+    url: https://publications.csiro.au/publications/publication/PIcsiro:EP15170
+    date-published: 2015-01-01
+    year: 2015
+    journal: CSIRO
+    publisher:
+      name: CSIRO
+    type: article

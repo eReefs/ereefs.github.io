@@ -46,6 +46,8 @@ sidebar:
       url: /research/regional-models-workshop-2016.html
   - title: "eReefs Research Publications"
     children:
+    - title: Peer-reviewed Publications
+      url: /research/publications/peer-reviewed-publications.html
     - title: Case Studies
       url: /research/publications/case-studies.html
     - title: Media

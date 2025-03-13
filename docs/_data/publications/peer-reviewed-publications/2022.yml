@@ -1,0 +1,362 @@
+cff-version: 1.2.0
+message: "2022"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Gurdek-Bas
+        given-names: Rodrigo
+      - family-names: Benthuysen
+        given-names: Jessica A.
+      - family-names: Harrison
+        given-names: Hugo B.
+      - family-names: Zenger
+        given-names: Kyall R.
+      - family-names: van Herwerden
+        given-names: Lynne
+    doi: 10.1038/s41598-022-25629-w
+    identifiers:
+      - type: doi
+        value: 10.1038/s41598-022-25629-w
+      - type: url
+        value: https://dx.doi.org/10.1038/s41598-022-25629-w
+      - type: other
+        value: urn:issn:2045-2322
+    title: >-
+      The El Niño Southern Oscillation drives multidirectional inter-reef larval
+      connectivity in the Great Barrier Reef
+    url: https://dx.doi.org/10.1038/s41598-022-25629-w
+    database: Crossref
+    date-published: 2022-12-09
+    year: 2022
+    month: 12
+    issn: 2045-2322
+    issue: '1'
+    journal: Scientific Reports
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
+    volume: '12'
+
+  - authors:
+      - family-names: Andrews
+        given-names: Elizabeth L.
+      - family-names: Irving
+        given-names: Andrew D.
+      - family-names: Sherman
+        given-names: Craig D.H.
+      - family-names: Jackson
+        given-names: Emma L.
+    doi: 10.1016/j.ecss.2022.108191
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecss.2022.108191
+      - type: url
+        value: https://dx.doi.org/10.1016/j.ecss.2022.108191
+      - type: other
+        value: urn:issn:0272-7714
+    title: >-
+      Spatio-temporal analysis of the environmental ranges and phenotypic traits
+      of Zostera muelleri subpopulations in Central Queensland
+    url: https://dx.doi.org/10.1016/j.ecss.2022.108191
+    database: Crossref
+    date-published: 2023-02-01
+    year: 2023
+    month: 2
+    issn: 0272-7714
+    journal: Estuarine, Coastal and Shelf Science
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '108191'
+    type: article
+    volume: '281'
+
+  - authors:
+      - family-names: Condie
+        given-names: Scott A.
+    doi: 10.3389/fclim.2022.980035
+    identifiers:
+      - type: doi
+        value: 10.3389/fclim.2022.980035
+      - type: url
+        value: https://dx.doi.org/10.3389/fclim.2022.980035
+      - type: other
+        value: urn:issn:2624-9553
+    title: Changing the climate risk trajectory for coral reefs
+    url: https://dx.doi.org/10.3389/fclim.2022.980035
+    database: Crossref
+    date-published: 2022-11-04
+    year: 2022
+    month: 11
+    issn: 2624-9553
+    journal: Frontiers in Climate
+    publisher:
+      name: Frontiers Media SA
+    type: article
+    volume: '4'
+
+  - authors:
+      - family-names: Sun
+        given-names: Chaojiao
+      - family-names: Hobday
+        given-names: Alistair J.
+      - family-names: Condie
+        given-names: Scott A.
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Eveson
+        given-names: J. Paige
+      - family-names: Hartog
+        given-names: Jason R.
+      - family-names: Richardson
+        given-names: Anthony J.
+      - family-names: Steven
+        given-names: Andrew D. L.
+      - family-names: Wild-Allen
+        given-names: Karen
+      - family-names: Babcock
+        given-names: Russell C.
+      - family-names: Yang
+        given-names: Dezhou
+      - family-names: Yu
+        given-names: Rencheng
+      - family-names: Mongin
+        given-names: Mathieu
+    doi: 10.3390/forecast4040057
+    identifiers:
+      - type: doi
+        value: 10.3390/forecast4040057
+      - type: url
+        value: https://dx.doi.org/10.3390/forecast4040057
+      - type: other
+        value: urn:issn:2571-9394
+    title: >-
+      Ecological Forecasting and Operational Information Systems Support
+      Sustainable Ocean Management
+    url: https://dx.doi.org/10.3390/forecast4040057
+    database: Crossref
+    date-published: 2022-12-16
+    year: 2022
+    month: 12
+    issn: 2571-9394
+    issue: '4'
+    journal: Forecasting
+    languages:
+      - en
+    publisher:
+      name: MDPI AG
+    start: '1051'
+    end: '1079'
+    type: article
+    volume: '4'
+
+  - authors:
+      - family-names: Jahanbakht
+        given-names: Mohammad
+        orcid: https://orcid.org/0000-0002-3609-9677
+      - family-names: Xiang
+        given-names: Wei
+        orcid: https://orcid.org/0000-0002-0608-065X
+      - family-names: Robson
+        given-names: Barbara
+        orcid: https://orcid.org/0000-0002-1811-3527
+      - family-names: Azghadi
+        given-names: Mostafa Rahimi
+        orcid: https://orcid.org/0000-0001-7975-3985
+    doi: 10.1016/j.envsoft.2022.105311
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2022.105311
+      - type: url
+        value: https://dx.doi.org/10.1016/j.envsoft.2022.105311
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      Nitrogen prediction in the Great Barrier Reef using finite element analysis
+      with deep neural networks
+    url: https://dx.doi.org/10.1016/j.envsoft.2022.105311
+    database: Crossref
+    date-published: 2022-04-01
+    year: 2022
+    month: 4
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '105311'
+    type: article
+    volume: '150'
+
+  - authors:
+      - family-names: Jahanbakht
+        given-names: Mohammad
+        orcid: https://orcid.org/0000-0002-3609-9677
+      - family-names: Xiang
+        given-names: Wei
+        orcid: https://orcid.org/0000-0002-0608-065X
+      - family-names: Azghadi
+        given-names: Mostafa Rahimi
+        orcid: https://orcid.org/0000-0001-7975-3985
+    doi: 10.1016/j.neunet.2022.04.022
+    identifiers:
+      - type: doi
+        value: 10.1016/j.neunet.2022.04.022
+      - type: url
+        value: https://dx.doi.org/10.1016/j.neunet.2022.04.022
+      - type: other
+        value: urn:issn:0893-6080
+    title: >-
+      Sediment Prediction in the Great Barrier Reef using Vision Transformer with
+      finite element analysis
+    url: https://dx.doi.org/10.1016/j.neunet.2022.04.022
+    database: Crossref
+    date-published: 2022-08-01
+    year: 2022
+    month: 8
+    issn: 0893-6080
+    journal: Neural Networks
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '311'
+    end: '321'
+    type: article
+    volume: '152'
+
+  - authors:
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Schaale
+        given-names: Michael
+      - family-names: Lovell
+        given-names: Jennifer
+      - family-names: Blondeau-Patissier
+        given-names: David
+    doi: 10.1016/j.rse.2021.112848
+    identifiers:
+      - type: doi
+        value: 10.1016/j.rse.2021.112848
+      - type: url
+        value: https://dx.doi.org/10.1016/j.rse.2021.112848
+      - type: other
+        value: urn:issn:0034-4257
+    title: >-
+      An ensemble neural network atmospheric correction for Sentinel-3 OLCI over
+      coastal waters providing inherent model uncertainty estimation and sensor
+      noise propagation
+    url: https://dx.doi.org/10.1016/j.rse.2021.112848
+    database: Crossref
+    date-published: 2022-03-01
+    year: 2022
+    month: 3
+    issn: 0034-4257
+    journal: Remote Sensing of Environment
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '112848'
+    type: article
+    volume: '270'
+
+  - authors:
+      - family-names: Bozec
+        given-names: Yves‐Marie
+        orcid: https://orcid.org/0000-0002-7190-5187
+      - family-names: Hock
+        given-names: Karlo
+        orcid: https://orcid.org/0000-0001-7858-1130
+      - family-names: Mason
+        given-names: Robert A. B.
+        orcid: https://orcid.org/0000-0002-2725-2449
+      - family-names: Baird
+        given-names: Mark E.
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Castro‐Sanguino
+        given-names: Carolina
+        orcid: https://orcid.org/0000-0002-2515-5186
+      - family-names: Condie
+        given-names: Scott A.
+        orcid: https://orcid.org/0000-0002-5943-014X
+      - family-names: Puotinen
+        given-names: Marji
+        orcid: https://orcid.org/0000-0002-1383-697X
+      - family-names: Thompson
+        given-names: Angus
+      - family-names: Mumby
+        given-names: Peter J.
+        orcid: https://orcid.org/0000-0002-6297-9053
+    doi: 10.1002/ecm.1494
+    identifiers:
+      - type: doi
+        value: 10.1002/ecm.1494
+      - type: url
+        value: https://dx.doi.org/10.1002/ecm.1494
+      - type: other
+        value: urn:issn:0012-9615
+    title: "Cumulative impacts across Australia’s Great Barrier Reef: a\_mechanistic evaluation"
+    url: https://dx.doi.org/10.1002/ecm.1494
+    database: Crossref
+    date-published: 2021-12-28
+    year: 2021
+    month: 12
+    issn: 0012-9615
+    issue: '1'
+    journal: Ecological Monographs
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    type: article
+    volume: '92'
+
+  - authors:
+      - family-names: Livsey
+        given-names: D. N.
+        orcid: https://orcid.org/0000-0002-2028-6128
+      - family-names: Crosswell
+        given-names: J. R.
+        orcid: https://orcid.org/0000-0001-5568-5391
+      - family-names: Turner
+        given-names: R. D. R.
+        orcid: https://orcid.org/0000-0001-6889-8273
+      - family-names: Steven
+        given-names: A. D. L.
+      - family-names: Grace
+        given-names: P. R.
+        orcid: https://orcid.org/0000-0003-4136-4129
+    doi: 10.1029/2021jc017988
+    identifiers:
+      - type: doi
+        value: 10.1029/2021jc017988
+      - type: url
+        value: https://dx.doi.org/10.1029/2021JC017988
+      - type: other
+        value: urn:issn:2169-9275
+    title: >-
+      Flocculation of Riverine Sediment Draining to the Great Barrier Reef,
+      Implications for Monitoring and Modeling of Sediment Dispersal Across
+      Continental Shelves
+    url: https://dx.doi.org/10.1029/2021JC017988
+    database: Crossref
+    date-published: 2022-07-01
+    year: 2022
+    month: 7
+    issn: 2169-9275
+    issue: '7'
+    journal: 'Journal of Geophysical Research: Oceans'
+    languages:
+      - en
+    publisher:
+      name: American Geophysical Union (AGU)
+    type: article
+    volume: '127'
