@@ -6,8 +6,7 @@ authors:
 title: "References"
 references:
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - given-names: CSIRO
     abstract: >-
       eReefs is a platform that provides a picture of what
       is currently happening on the reef, and what will
@@ -25,8 +24,7 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - given-names: CSIRO
     abstract: >-
       eReefs platform transforming our ability to manage
       and protect the Great Barrier Reef for the long term.
@@ -41,8 +39,7 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - given-names: CSIRO
     abstract: >-
       CSIRO is helping create an enabling environment
       that fosters a broad based set of partnerships.
