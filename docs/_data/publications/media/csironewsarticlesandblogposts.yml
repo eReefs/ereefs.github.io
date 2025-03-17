@@ -6,8 +6,8 @@ authors:
 title: "References"
 references:
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Edwards
+        given-names: Amy
     abstract: >-
       Deteriorating water quality is one of the biggest
       threats to the Great Barrier Reef. Vital protection
@@ -27,8 +27,8 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Donnellan
+        given-names: Alison
     abstract: >-
       The Great Barrier Reef is one of Australia’s most
       diverse and unique landscapes. Covering more than
@@ -53,8 +53,7 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - given-names: CSIRO
     abstract: >-
       This interactive platform puts information
       about management options and past, present,
@@ -74,8 +73,16 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Irving
+        given-names: Paul
+      - family-names: Witte
+        given-names: Christian
+      - family-names: Steven
+        given-names: Andy
     abstract: >-
       Detection of oil spills using state of the art
       satellite imagery will support Australian
@@ -96,8 +103,8 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Edwards
+        given-names: Amy
     abstract: >-
       The best scientific minds are applying novel
       interventions to help the Great Barrier Reef
@@ -118,8 +125,8 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Kikken
+        given-names: Natalie
     abstract: >-
       New research indicates that when coral colonies
       on the Great Barrier Reef spawn more than once
@@ -130,8 +137,8 @@ references:
       About last night: multiple coral spawning in the Great Barrier Reef
     url: https://blog.csiro.au/how-multiple-coral-spawning-is-helping/
     date-published: 2019-08-14
-    year: 2020
-    month: 4
+    year: 2019
+    month: 8
     journal: N/A
     languages:
       - en
@@ -140,8 +147,8 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: McRae
+        given-names: Mike
     abstract: >-
       The eReefs program monitors the Great Barrier Reef
       using satellite sensors high above the planet’s
@@ -162,8 +169,8 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Considine
+        given-names: Mary-Lou
     abstract: >-
       While underwater drones, robots and satellites
       have a well-earned place in monitoring the
@@ -184,8 +191,8 @@ references:
     type: article
 
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - family-names: Marshall
+        given-names: Larry
     abstract: >-
       Speech given at 2018 Science Meets Parliament
       by CSIRO Chief Executive Dr Larry Marshall
