@@ -6,8 +6,7 @@ authors:
 title: "References"
 references:
   - authors:
-      - family-names: Unknown
-        given-names: Unknown
+      - given-names: Integrated Marine Observing System
     abstract: >-
       A new study provides the first analysis of the planktonic
       and nutrient dynamics simulated by the eReefs biogeochemical model,
@@ -22,5 +21,5 @@ references:
     languages:
       - en
     publisher:
-      name: GBRF
+      name: IMOS
     type: article
