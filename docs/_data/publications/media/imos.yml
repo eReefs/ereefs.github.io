@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - given-names: Integrated Marine Observing System
+    abstract: >-
+      A new study provides the first analysis of the planktonic
+      and nutrient dynamics simulated by the eReefs biogeochemical model,
+      driven by catchment flow and nutrients from 21 rivers.
+    title: >-
+      IMOS plankton and nutrient data used to validate eReefs model
+    url: https://imos.org.au/news/newsitem/imos-plankton-and-nutrient-data-used-to-validate-ereefs-model/
+    date-published: 2019-02-21
+    year: 2019
+    month: 2
+    journal: N/A
+    languages:
+      - en
+    publisher:
+      name: IMOS
+    type: article

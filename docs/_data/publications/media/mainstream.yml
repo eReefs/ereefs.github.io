@@ -1,0 +1,104 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Hughes
+        given-names: Terry
+    abstract: >-
+      Australia reacted angrily when the United Nations Educational,
+      Scientific and Cultural Organisation (UNESCO) released a draft
+      decision in late June to place the Great Barrier Reef on the
+      list of World Heritage Areas “in danger”.
+    title: >-
+      No more excuses about danger to Great Barrier Reef
+    url: https://www.brisbanetimes.com.au/national/no-more-excuses-on-danger-to-great-barrier-reef-20210725-p58cp7.html
+    date-published: 2021-07-25
+    year: 2021
+    month: 7
+    journal: Brisbane Times
+    languages:
+      - en
+    publisher:
+      name: Nine Publishing
+    type: article
+
+  - authors:
+      - family-names: Readfearn
+        given-names: Graham
+    abstract: >-
+      Tonnes of crushed rocks could help the Great Barrier Reef
+      recover from global warming, but the ‘reckless’ idea
+      comes with ‘unquantified risks’
+    title: >-
+      Could dumping save the reef? CSIRO finds it’s possible to turn back clock on effects of fossil fuel burning
+    url: https://www.theguardian.com/environment/2021/jun/08/could-dumping-save-the-reef-csiro-finds-its-possible-to-turn-back-clock-on-effects-of-fossil-fuel-burning
+    date-published: 2021-06-18
+    year: 2021
+    month: 6
+    journal: The Guardian, Australia Edition
+    languages:
+      - en
+    publisher:
+      name: Guardian Media Group
+    type: article
+
+  - authors:
+      - family-names: Gale
+        given-names: Anne-Maree
+    abstract: >-
+      How cutting-edge reef forecasting is helping scientists
+      to understand and protect our natural wonder
+    title: >-
+      Road map to saving our reef
+    url: https://www.theaustralian.com.au/weekend-australian-magazine/road-map-to-saving-our-reef/news-story/3756d1a11d4e0b13896cda77d148648b
+    date-published: 2020-11-23
+    year: 2020
+    month: 11
+    journal: Weekend Australia Magazine
+    languages:
+      - en
+    publisher:
+      name: News Corp Australia
+    type: article
+
+  - authors:
+      - family-names: Atfield
+        given-names: Cameron
+    abstract: >-
+      Measuring the impact on the Great Barrier Reef of industry
+      and disasters such as the recent tropical cyclone Ita
+      has been made easier by a new satellite-based tracking system
+    title: >-
+      eReefs tool to assess health of the Great Barrier Reef
+    url: https://www.brisbanetimes.com.au/environment/ereefs-tool-to-assess-health-of-the-great-barrier-reef-20140423-373u3.html
+    date-published: 2014-04-23
+    year: 2014
+    month: 4
+    journal: Brisbane Times
+    languages:
+      - en
+    publisher:
+      name: Nine Publishing
+    type: article
+
+  - authors:
+      - given-names: Australian Associated Press
+    abstract: >-
+      Out-of-this-world techniques are being used to help
+      protect one of the world’s greatest natural wonders
+    title: >-
+      NASA satellites used to protect Great Barrier Reef
+    url: https://www.brisbanetimes.com.au/national/queensland/nasa-satellites-used-to-protect-great-barrier-reef-20140423-372xe.html
+    date-published: 2014-04-23
+    year: 2014
+    month: 4
+    journal: Brisbane Times
+    languages:
+      - en
+    publisher:
+      name: Nine Publishing
+    type: article
