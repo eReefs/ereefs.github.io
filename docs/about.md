@@ -5,40 +5,43 @@ permalink: /about/
 
 # Overview
 
-Welcome to the eReefs Platform – an innovative initiative aimed at understanding, monitoring, modelling and safeguarding one of the world's most iconic natural wonders.
+Welcome to the eReefs Platform – an innovative initiative aimed at understanding, monitoring, modelling and safeguarding the Great Barrier Reef, one of the world's most iconic natural wonders. 
 
-## The challenge:  growing pressures on the reefs
+From catchments and estuaries to reef lagoons and the open ocean, eReefs provides a comprehensive, integrated view of the reef. It operates using mathematical principles similar to a meteorological model, but instead of representing atmospheric conditions, it simulates coastal and marine waters across all depths. Through this, eReefs represents key elements such as tides, currents, marine heatwaves, nutrients, sediments, phytoplankton, coral, seagrass, and seaweed, providing important insights for reef conservation and management.
 
-The Great Barrier Reef, a UNESCO World Heritage Site, is a complex and delicate ecosystem that spans over 2,300 kilometres off the coast of Queensland, facing numerous threats:
+## The challenge 
 
-- Poor water quality, from sediment, pesticide and nutrient run-off
+The Great Barrier Reef, a UNESCO World Heritage Site, is a complex and delicate ecosystem stretching over 2,300 kilometres along the Queensland coast, and is under threat from numerous threats:
 
-- vulnerability to climate change
+- Poor water quality: from sediment, pesticide, nutrients, land catchments and river run-off
 
-- extreme weather events such as cyclones, floods and storm surges
+- Extreme weather and global climatic events: from cyclones, floods, marine heat waves and storm surges
 
-- and biological threats including recurrent crown-of-thorn outbreaks
+- Biological threats: including recurrent crown-of-thorn outbreaks and coral bleaching
 
-## eReefs contribution: support ongoing conservation and management of this extraordinary marine environment
+## eReefs model
 
-From catchment and estuaries to reef lagoons and open ocean, eReefs provides an integrated picture of what is currently happening on the reef.
+Since 2012, eReefs integrates marine hydrodynamic and biogeochemical models with catchment models and satellite data to provide high-frequency information on physical and biological processes (Figure 1), such as:
 
-Since 2012, eReefs integrates marine hydrodynamic and biogeochemical models with catchment models to provide high-frequency information on physical and biological processes, such as:
+- Sediment and nutrient dynamics
 
-- sediment and nutrient dynamics
+- Plankton blooms dynamics and dispersal
 
-- plankton blooms dynamics and dispersal
+- Flood plumes and dispersal of pollutants
 
-- flood plumes and dispersal of pollutants
+- Water quality, marine heat waves, warming and acidification
 
-- water quality, marine heat waves, warming and acidification
+The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observations.
 
-The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observation.
+## eReefs role in management and policy 
+eReefs plays a significant role in the conservation and management of the Great Barrier Reef. Its data and insights are used to:
 
-The scientific knowledge provided through data, analytics and visualisations is used by management agencies, regional entities, industries, and researchers, to support strategic and operational management decision-making across the Great Barrier Reef Region.
+- Monitor and assess water quality: eReefs contributes to water quality assessments, informs the GBR Marine Water Quality Report Card, and helps establish land-based water quality targets in catchments. It also supports scientific research on various reef-related questions.
 
-## Towards a Better understanding of the reef and science-informed decision
+- Support strategic and operational decision-making: Policy and management agencies, regional organizations, and researchers rely on eReefs' data, analyses, and visualizations to inform decisions across the Great Barrier Reef region.
 
-The eReefs project contributes to a better understanding of the GBR, makes information more accessible for government, industry and the community, and helps to model and monitor the impacts of land-use, flood, cyclones and climate change.
+- Shape policy and governance: eReefs' outputs contribute to policies integrated into the UNESCO 2050 agreement for the GBR, as well as federal and state government initiatives aimed at water quality improvement and reef conservation.
 
-{% include figure image_path="/assets/images/ereef-concept-diagram.jpg" alt="Figure 1. eReefs project workflow." caption="Figure 1. eReefs project workflow." %}
+ 
+
+{% include figure image_path="/assets/images/ereef-concept-diagram.jpg" alt="Figure 1. eReefs platform." caption="Figure 1. eReefs project workflow." %}
