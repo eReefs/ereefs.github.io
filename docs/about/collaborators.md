@@ -1,6 +1,5 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
 ---
 
 # Collaborators
