@@ -4,22 +4,23 @@
       {% for collaborator in site.collaborators %}
       {% if collaborator.link_url %}
       <a href="{{collaborator.link_url}}" title="{{collaborator.name}}" target="_window">
-         <img src="{{collaborator.small_logo_url }}" alt="Logo for {{collaborator.name}}" title="{{collaborator.name}}"/>
+         <img src="{{collaborator.small_logo_url }}" class="org-logo" alt="Logo for {{collaborator.name}}" title="{{collaborator.name}}"/>
       </a>
       {% else %}
-      <img src="{{collaborator.small_logo_url }}" alt="Logo for {{collaborator.name}}" title="{{collaborator.name}}"/>
+      <img src="{{collaborator.small_logo_url }}" class="org-logo" alt="Logo for {{collaborator.name}}" title="{{collaborator.name}}"/>
       {% endif %}
       {% endfor %}
    </div>
 	<h2>Supported by funding from:</h2>
 	<div class="logo-container">
-      {% for supporter in site.funding %}
+      {% assign current_supporters = site.funding | where: "phases", "6a" %}
+      {% for supporter in current_supporters %}
       {% if supporter.link_url %}
       <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
-         <img src="{{supporter.small_logo_url }}" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+         <img src="{{supporter.small_logo_url }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
       </a>
       {% else %}
-      <img src="{{supporter.small_logo_url }}" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+      <img src="{{supporter.small_logo_url }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
       {% endif %}
       {% endfor %}
    </div>
