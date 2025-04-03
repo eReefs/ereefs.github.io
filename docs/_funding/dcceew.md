@@ -1,9 +1,6 @@
 ---
 name: Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW)
 link_url: https://www.dcceew.gov.au/
-logo_url: /assets/images/partners/DCCEEW-logo-dark.svg
-small_logo_url: /assets/images/partners/DCCEEW-logo-light.svg
-phases: ['2', '3', '4', '5', '6a']
 logo_url_dark: /assets/images/partners/DCCEEW-logo-dark.svg
 logo_url_light: /assets/images/partners/DCCEEW-logo-light.svg
 funding_end: '2026-06-30'

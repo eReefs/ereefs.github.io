@@ -1,8 +1,6 @@
 ---
 name: Science and Industry Endowment Fund (SIEF)
 link_url: https://sief.org.au/csiro-gift/what-has-been-funded/what-has-been-funded-research-projects-program/ereefs-research-project/
-logo_url: /assets/images/partners/SIEF_0-167x100.png
-small_logo_url: /assets/images/partners/SIEF-110x66.png
 logo_url_dark: /assets/images/partners/SIEF_0-167x100.png
 logo_url_light: /assets/images/partners/SIEF-110x66.png
 funding_end: '2016-06-30'

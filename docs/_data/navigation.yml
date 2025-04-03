@@ -28,8 +28,8 @@ sidebar:
       url: "/about/"
     - title: "Collaborators"
       url: /about/collaborators.html
-    - title: "Funders"
-      url: /about/funders.html
+    - title: "Funding"
+      url: /about/funding.html
   - title: "Research"
     children:
     - title: "Platform Overview"

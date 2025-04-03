@@ -13,14 +13,15 @@
    </div>
 	<h2>Supported by funding from:</h2>
 	<div class="logo-container">
-      {% assign current_supporters = site.funding | where: "phases", "6a" %}
-      {% for supporter in current_supporters %}
+      {% assign current_date = "now" | date: "%Y-%m-%d" %}
+      {% assign funders_sorted = site.funding | sort: "name" | sort_natural: "funding_end" | reverse  %}
+      {% for supporter in funders_sorted %}
       {% if supporter.link_url %}
       <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
-         <img src="{{supporter.small_logo_url }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+         <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
       </a>
       {% else %}
-      <img src="{{supporter.small_logo_url }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+      <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
       {% endif %}
       {% endfor %}
    </div>

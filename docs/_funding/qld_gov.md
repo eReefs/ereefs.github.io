@@ -1,8 +1,6 @@
 ---
 name: Queensland Government
 link_url: https://www.detsi.qld.gov.au/great-barrier-reef
-logo_url: /assets/images/partners/QLD-Gov_0-120x150.png
-small_logo_url: /assets/images/partners/QLD-Gov-64x80.png
 logo_url_dark: /assets/images/partners/QLD-Gov_0-120x150.png
 logo_url_light: /assets/images/partners/QLD-Gov-64x80.png
 funding_end: '2017-06-30'
