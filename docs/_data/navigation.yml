@@ -22,26 +22,24 @@ sidebar:
   # in this website that uses a layout which includes it.
   # In needs to include and extend the main menu links.
   # Only two levels are permitted: no sub-sub-menus allowed :(
-  - title: "About eReefs"
+  - title: "About"
     children:
-    - title: "Overview"
+    - title: "Purpose and Impact"
       url: "/about/"
     - title: "Collaborators"
       url: /about/collaborators.html
-    - title: "Funders"
-      url: /about/funders.html
-  - title: "eReefs Research Services"
+    - title: "Funding"
+      url: /about/funding.html
+  - title: "Research"
     children:
-    - title: "Overview"
+    - title: "Platform Overview"
       url: /research/
-    - title: "Remote Sensing and Water Quality"
-      url: /research/remote-sensing-and-wq.html
-    - title: "Regional hydrodynamic, sediment and water quality modeling"
+    - title: "Modelling system and framework"
       url: /research/regional-hydrodynamic-sediment-and-wq-modeling.html
+    - title: "Remote Sensing"
+      url: /research/remote-sensing-and-wq.html
     - title: "Relocatable fine scale coastal models (RECOM)"
       url: /research/relocatable-fine-scale-coastal-models.html
-  - title: "eReefs Research Publications"
-    children:
     - title: Peer-reviewed Publications
       url: /research/publications/peer-reviewed-publications.html
     - title: Case Studies
@@ -50,7 +48,7 @@ sidebar:
       url: /research/publications/media.html
     - title: Reports
       url: /research/publications/reports.html
-  - title: "eReefs Tools"
+  - title: "Tools"
     children:
     - title: "Overview"
       url: "/tools/"

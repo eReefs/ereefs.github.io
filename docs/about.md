@@ -19,19 +19,7 @@ The Great Barrier Reef, a UNESCO World Heritage Site, is a complex and delicate 
 
 - Biological threats: including recurrent crown-of-thorn outbreaks and coral bleaching
 
-## eReefs model
 
-Since 2012, eReefs integrates marine hydrodynamic and biogeochemical models with catchment models and satellite data to provide high-frequency information on physical and biological processes (Figure 1), such as:
-
-- Sediment and nutrient dynamics
-
-- Plankton blooms dynamics and dispersal
-
-- Flood plumes and dispersal of pollutants
-
-- Water quality, marine heat waves, warming and acidification
-
-The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observations.
 
 ## eReefs role in management and policy 
 eReefs plays a significant role in the conservation and management of the Great Barrier Reef. Its data and insights are used to:
