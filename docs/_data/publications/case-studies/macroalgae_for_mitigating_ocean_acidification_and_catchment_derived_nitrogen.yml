@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark E
+      - family-names: Hadley
+        given-names: Scott
+      - family-names: Lenton
+        given-names: Andrew
+    doi: 10.1088/1748-9326/11/3/034023
+    identifiers:
+      - type: doi
+        value: 10.1088/1748-9326/11/3/034023
+      - type: url
+        value: http://dx.doi.org/10.1088/1748-9326/11/3/034023
+      - type: other
+        value: urn:issn:1748-9326
+    title: |-
+      Optimising reef-scale CO
+                          <sub>2</sub>
+                          removal by seaweed to buffer ocean acidification
+    url: http://dx.doi.org/10.1088/1748-9326/11/3/034023
+    database: Crossref
+    date-published: 2016-03-01
+    year: 2016
+    month: 3
+    issn: 1748-9326
+    issue: '3'
+    journal: Environmental Research Letters
+    publisher:
+      name: IOP Publishing
+    start: '034023'
+    type: article
+    volume: '11'
