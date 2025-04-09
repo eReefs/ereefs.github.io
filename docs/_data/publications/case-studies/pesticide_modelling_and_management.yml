@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Skerratt
+        given-names: Jennifer
+      - family-names: Baird
+        given-names: Mark E.
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Ellis
+        given-names: Robin
+      - family-names: Smith
+        given-names: Rachael A.
+      - family-names: Shaw
+        given-names: Melanie
+      - family-names: Steven
+        given-names: Andy D.L.
+    doi: 10.1016/j.scitotenv.2023.163041
+    identifiers:
+      - type: doi
+        value: 10.1016/j.scitotenv.2023.163041
+      - type: url
+        value: http://dx.doi.org/10.1016/j.scitotenv.2023.163041
+      - type: other
+        value: urn:issn:0048-9697
+    title: Dispersal of the pesticide diuron in the Great Barrier Reef
+    url: http://dx.doi.org/10.1016/j.scitotenv.2023.163041
+    database: Crossref
+    date-published: 2023-06-01
+    year: 2023
+    month: 6
+    issn: 0048-9697
+    journal: Science of The Total Environment
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '163041'
+    type: article
+    volume: '879'

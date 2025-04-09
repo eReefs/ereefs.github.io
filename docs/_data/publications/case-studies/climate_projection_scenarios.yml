@@ -1,0 +1,68 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references: 
+  - authors:
+      - family-names: Schlaefer
+        given-names: Jodie Anne
+        orcid: http://orcid.org/0000-0002-8078-900X
+      - family-names: Langlais
+        given-names: Clothilde
+        orcid: http://orcid.org/0000-0002-6423-7678
+      - family-names: Choukroun
+        given-names: Severine Marie
+        orcid: http://orcid.org/0000-0001-5640-4694
+      - family-names: Mongin
+        given-names: Matthieu
+      - family-names: Baird
+        given-names: Mark E
+        orcid: http://orcid.org/0000-0003-4955-2298
+    doi: 10.22541/essoar.173282297.70109457/v1
+    identifiers:
+      - type: doi
+        value: 10.22541/essoar.173282297.70109457/v1
+      - type: url
+        value: http://dx.doi.org/10.22541/essoar.173282297.70109457/v1
+    title: >-
+      The Historical Representation and Near Future (2050) Projections of the
+      Coral Sea Current System in CMIP6 HighResMIP
+    url: http://dx.doi.org/10.22541/essoar.173282297.70109457/v1
+    database: Crossref
+    date-published: 2024-11-28
+    year: 2024
+    month: 11
+    publisher:
+      name: Authorea, Inc.
+    type: article
+
+  - authors:
+      - family-names: Cyriac
+        given-names: Ajitha
+      - family-names: Sun
+        given-names: Chaojiao
+      - family-names: Taylor
+        given-names: John
+      - family-names: Matear
+        given-names: Richard
+      - family-names: Condie
+        given-names: Scott
+      - family-names: Papari
+        given-names: Jyoteesh
+      - family-names: Liu
+        given-names: Tongliang
+    doi: 10.25919/P2PF-PF93
+    identifiers:
+      - type: doi
+        value: 10.25919/P2PF-PF93
+      - type: url
+        value: https://data.csiro.au/collection/csiro%3A64856v1
+    title: OFAM3_SST_GBR
+    url: https://data.csiro.au/collection/csiro%3A64856v1
+    date-published: 2025-01-01
+    year: 2025
+    publisher:
+      name: CSIRO
+    type: data

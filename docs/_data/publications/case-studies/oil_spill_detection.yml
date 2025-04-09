@@ -1,0 +1,104 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Diakogiannis
+        given-names: Foivos
+      - family-names: Li
+        given-names: Zhibin
+    doi: 10.25919/4V55-DN16
+    identifiers:
+      - type: doi
+        value: 10.25919/4V55-DN16
+      - type: url
+        value: https://data.csiro.au/collection/csiro%3A57430v1
+    title: >-
+      CSIRO Sentinel-1 SAR image dataset of oil- and non-oil features for machine
+      learning ( Deep Learning )
+    url: https://data.csiro.au/collection/csiro%3A57430v1
+    date-published: 2022-01-01
+    year: 2022
+    publisher:
+      name: CSIRO
+    type: data
+
+  - authors:
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Irving
+        given-names: Paul
+      - family-names: Witte
+        given-names: Christian
+      - family-names: Steven
+        given-names: Andy
+    doi: 10.25919/5E46E030E3029
+    identifiers:
+      - type: doi
+        value: 10.25919/5E46E030E3029
+      - type: url
+        value: https://publications.csiro.au/publications/publication/PIcsiro:EP197797
+    title: >-
+      Satellite detection of oil spills in the Great Barrier Reef using the
+      Sentinel-1, -2 and -3 satellite constellations - A technical assessment of a
+      synergistic approach using SAR, optical and thermal information
+    url: https://publications.csiro.au/publications/publication/PIcsiro:EP197797
+    date-published: 2020-01-01
+    year: 2020
+    journal: CSIRO
+    publisher:
+      name: CSIRO
+    type: article
+
+  - authors:
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Suresh
+        given-names: Gopika
+      - family-names: Li
+        given-names: Zhibin
+      - family-names: Diakogiannis
+        given-names: Foivos I.
+      - family-names: Irving
+        given-names: Paul
+      - family-names: Witte
+        given-names: Christian
+      - family-names: Steven
+        given-names: Andrew D.L.
+    doi: 10.1016/j.marpolbul.2023.114598
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2023.114598
+      - type: url
+        value: http://dx.doi.org/10.1016/j.marpolbul.2023.114598
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      Detection of marine oil-like features in Sentinel-1 SAR images by
+      supplementary use of deep learning and empirical methods: Performance
+      assessment for the Great Barrier Reef marine park
+    url: http://dx.doi.org/10.1016/j.marpolbul.2023.114598
+    database: Crossref
+    date-published: 2023-03-01
+    year: 2023
+    month: 3
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '114598'
+    type: article
+    volume: '188'

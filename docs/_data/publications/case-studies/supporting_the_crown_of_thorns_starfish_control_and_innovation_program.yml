@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Kroon
+        given-names: Frederieke J.
+        orcid: http://orcid.org/0000-0001-8771-6543
+      - family-names: Crosswell
+        given-names: Joseph R.
+        orcid: http://orcid.org/0000-0001-5568-5391
+      - family-names: Robson
+        given-names: Barbara J.
+        orcid: http://orcid.org/0000-0002-1811-3527
+    doi: 10.1016/j.marpolbul.2023.115255
+    identifiers:
+      - type: doi
+        value: 10.1016/j.marpolbul.2023.115255
+      - type: url
+        value: http://dx.doi.org/10.1016/j.marpolbul.2023.115255
+      - type: other
+        value: urn:issn:0025-326X
+    title: >-
+      The effect of catchment load reductions on water quality in the
+      crown-of-thorn starfish outbreak initiation zone
+    url: http://dx.doi.org/10.1016/j.marpolbul.2023.115255
+    database: Crossref
+    date-published: 2023-10-01
+    year: 2023
+    month: 10
+    issn: 0025-326X
+    journal: Marine Pollution Bulletin
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '115255'
+    type: article
+    volume: '195'

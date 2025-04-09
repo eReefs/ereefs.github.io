@@ -48,6 +48,44 @@ sidebar:
       url: /research/publications/media.html
     - title: Reports
       url: /research/publications/reports.html
+    - title: Marine Modelling Report Card
+      url: /research/reef_water_quality_report_card.html
+    - title: Water Quality Scenarios
+      url: /research/water_quality_scenarios.html
+    - title: Pesticide Modelling and Management
+      url: /research/pesticide_modelling_and_management.html
+    - title: Reef Restoration and Adaptation Program
+      url: /research/reef_restoration_and_adaptation_program.html
+    - title: Supporting the Crown of Thorns Starfish Control and Innovation Program
+      url: /research/supporting_the_crown_of_thorns_starfish_control_and_innovation_program.html
+    - title: Measurement and modelling of sediment dynamics
+      url: /research/measurement_and_modelling_of_sediment_dynamics.html
+    - title: Assessing Biodiversity and threatened species on the GBR
+      url: /research/assessing_biodiversity_and_threatened_species_on_the_gbr.html
+    - title: eReefs Ocean Colour Algorithms - International Uptake
+      url: /research/ereefs_ocean_colour_algorithms_international_uptake.html
+    - title: Scientific Consensus statements
+      url: /research/scientific_consensus_statements.html
+    - title: Outlook Reports
+      url: /research/outlook_reports.html
+    - title: Reef Snapshot Reports
+      url: /research/reef_snapshot.html
+    - title: Natural Resource Management Report Card
+      url: /research/natural_resource_management_report_card.html
+    - title: Macroalgae for mitigating Ocean Acidification and catchment derived nitrogen
+      url: /research/macroalgae_for_mitigating_ocean_acidification_and_catchment_derived_nitrogen.html
+    - title: Macroalgal cover on coral reefs
+      url: /research/macroalgal_cover_on_coral_reefs.html
+    - title: Negative emission carbon locking
+      url: /research/negative_emission_carbon_locking.html
+    - title: Climate projection scenarios
+      url: /research/climate_projection_scenarios.html
+    - title: Catchment and Coastal flooding
+      url: /research/catchment_and_coastal_flooding.html
+    - title: SST and Bleaching
+      url: /research/SST_and_bleaching.html
+    - title: Tracking Turtles and Dugong
+      url: /research/tracking_turtles_and_dugong.html
   - title: "Tools"
     children:
     - title: "Overview"

@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Baird
+        given-names: Mark E
+      - family-names: Lenton
+        given-names: Andrew
+      - family-names: Neill
+        given-names: Craig
+      - family-names: Akl
+        given-names: John
+    doi: 10.1088/1748-9326/ac002d
+    identifiers:
+      - type: doi
+        value: 10.1088/1748-9326/ac002d
+      - type: url
+        value: http://dx.doi.org/10.1088/1748-9326/ac002d
+      - type: other
+        value: urn:issn:1748-9326
+    title: >-
+      Reversing ocean acidification along the Great Barrier Reef using alkalinity
+      injection
+    url: http://dx.doi.org/10.1088/1748-9326/ac002d
+    database: Crossref
+    date-published: 2021-06-01
+    year: 2021
+    month: 6
+    issn: 1748-9326
+    issue: '6'
+    journal: Environmental Research Letters
+    publisher:
+      name: IOP Publishing
+    start: '064068'
+    type: article
+    volume: '16'

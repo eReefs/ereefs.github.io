@@ -1,0 +1,145 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Xiao
+        given-names: Ziyu
+      - family-names: Carlin
+        given-names: Geoffrey
+      - family-names: Steven
+        given-names: Andrew D. L.
+      - family-names: Livsey
+        given-names: Daniel N.
+      - family-names: Song
+        given-names: Dehai
+      - family-names: Crosswell
+        given-names: Joseph R.
+    doi: 10.3389/fmars.2023.1215161
+    identifiers:
+      - type: doi
+        value: 10.3389/fmars.2023.1215161
+      - type: url
+        value: http://dx.doi.org/10.3389/fmars.2023.1215161
+      - type: other
+        value: urn:issn:2296-7745
+    title: >-
+      A measurement-to-modelling approach to understand catchment-to-reef
+      processes: sediment transport in a highly turbid estuary
+    url: http://dx.doi.org/10.3389/fmars.2023.1215161
+    database: Crossref
+    date-published: 2023-10-18
+    year: 2023
+    month: 10
+    issn: 2296-7745
+    journal: Frontiers in Marine Science
+    publisher:
+      name: Frontiers Media SA
+    type: article
+    volume: '10'
+
+  - authors:
+      - family-names: Livsey
+        given-names: D. N.
+        orcid: https://orcid.org/0000-0002-2028-6128
+      - family-names: Crosswell
+        given-names: J. R.
+        orcid: https://orcid.org/0000-0001-5568-5391
+      - family-names: Turner
+        given-names: R. D. R.
+        orcid: https://orcid.org/0000-0001-6889-8273
+      - family-names: Steven
+        given-names: A. D. L.
+      - family-names: Grace
+        given-names: P. R.
+        orcid: https://orcid.org/0000-0003-4136-4129
+    doi: 10.1029/2021jc017988
+    identifiers:
+      - type: doi
+        value: 10.1029/2021jc017988
+      - type: url
+        value: http://dx.doi.org/10.1029/2021JC017988
+      - type: other
+        value: urn:issn:2169-9275
+    title: >-
+      Flocculation of Riverine Sediment Draining to the Great Barrier Reef,
+      Implications for Monitoring and Modeling of Sediment Dispersal Across
+      Continental Shelves
+    url: http://dx.doi.org/10.1029/2021JC017988
+    database: Crossref
+    date-published: 2022-07-01
+    year: 2022
+    month: 7
+    issn: 2169-9275
+    issue: '7'
+    journal: 'Journal of Geophysical Research: Oceans'
+    languages:
+      - en
+    publisher:
+      name: American Geophysical Union (AGU)
+    type: article
+    volume: '127'
+
+  - authors:
+      - family-names: Crosswell
+        given-names: Joseph
+      - family-names: Carlin
+        given-names: Geoff
+      - family-names: Xiao
+        given-names: Amanda
+    doi: 10.25919/KA99-XY66
+    identifiers:
+      - type: doi
+        value: 10.25919/KA99-XY66
+      - type: url
+        value: https://data.csiro.au/collection/csiro%3A59815v4
+    title: >-
+      Suspended sediment, hydrodynamic, and biogeochemical observations in Fitzroy
+      Estuary - Keppel Bay Region, QLD, 2022-2023; an eReefs sediment dynamics
+      study
+    url: https://data.csiro.au/collection/csiro%3A59815v4
+    date-published: 2023-01-01
+    year: 2023
+    publisher:
+      name: CSIRO
+    type: data
+
+  - authors:
+      - family-names: Livsey
+        given-names: D. N.
+        orcid: http://orcid.org/0000-0002-2028-6128
+      - family-names: Turner
+        given-names: R. D. R.
+        orcid: http://orcid.org/0000-0001-6889-8273
+      - family-names: Grace
+        given-names: P. R.
+        orcid: http://orcid.org/0000-0003-4136-4129
+    doi: 10.1029/2022wr033982
+    identifiers:
+      - type: doi
+        value: 10.1029/2022wr033982
+      - type: url
+        value: http://dx.doi.org/10.1029/2022WR033982
+      - type: other
+        value: urn:issn:0043-1397
+    title: >-
+      Combining Optical and Acoustic Backscatter Measurements for Monitoring of
+      Fine Suspended‐Sediment Concentration Under Changes in Particle Size and
+      Density
+    url: http://dx.doi.org/10.1029/2022WR033982
+    database: Crossref
+    date-published: 2023-07-31
+    year: 2023
+    month: 7
+    issn: 0043-1397
+    issue: '8'
+    journal: Water Resources Research
+    languages:
+      - en
+    publisher:
+      name: American Geophysical Union (AGU)
+    type: article
+    volume: '59'
