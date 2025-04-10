@@ -86,6 +86,10 @@ sidebar:
       url: /research/SST_and_bleaching.html
     - title: Tracking Turtles and Dugong
       url: /research/tracking_turtles_and_dugong.html
+    - title: Published Datasets
+      url: /research/published_datasets.html
+    - title: Open Source Software
+      url: /research/open_source_software.html
   - title: "Tools"
     children:
     - title: "Overview"
