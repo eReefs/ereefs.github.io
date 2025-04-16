@@ -12,12 +12,12 @@ Changing climate and weather patterns are resulting in warmer sea surface temper
 
 - GBR4 hindcast and eReefs forcing infrastructure 
 
-## Benefits for users
+## Outcomes and Impact
 
 - eReefs modelling suite
 - Support to postdoc using the eReefs system: A coastal climate downscaling to inform long term strategies for coral reef conservation, intervention and adaptation. 
 
-## Related Publications
+## Related Resources
 
 {% assign references = site.data.publications.case-studies.climate_projection_scenarios.references | sort:"date-published" %}
 {% unless references == empty %}

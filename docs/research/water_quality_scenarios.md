@@ -25,10 +25,10 @@ The eReefs marine model outputs and scenarios for the 11 years were used to unde
 | Diuron                                           | Dec 2016 to Dec 2019  | GBR1<br>1 km grid | no                                              | 35                                   | Gauged   |
 | Diuron atrazine hexazinone tebuthiuron 24D       | Dec 2016 to Dec 2019  | GBR1<br>1 km grid | no                                              | 35                                   | Gauged   |
 
-## Benefits for users
+## Outcomes and Impact
 - Application of the eReefs marine model scenarios were used to determine marine WQ targets, providing essential data and insights to inform policy and management decisions aimed at protecting the GBR. This includes a major contribution of the eReefs platforms to the development of the Reef 2050 Long-Term Sustainability Plan through the assessment of the Water Quality Targets. 
 
-
+## Testimonials
 > eReefs provides critical Reef modelling scenarios that support and inform the Reef Authority’s resilience-based management and decision-making processes, planning, permitting, monitoring and operations. The eReefs functionality and continued input is essential for planning in relation to climate change mitigation, impact assessment of critical inshore GBR habitats (e.g. seagrass), and associated Reef management strategies.  The Great Barrier Reef Marine Monitoring Program provides water quality data for eReefs modelling purposes, which is then reported to the Reef Water Quality Report Card. This reciprocal relationship in the sharing of information helps drive spatial management priority and target review processes that Reef Water Quality programs are reliant upon for management, planning, operations and investment costing purposes.
 
 > **Dr Kaye Walker**, Assistant Director, Science for Management Section, GBR Marine Monitoring Program Leader, Reef Authority

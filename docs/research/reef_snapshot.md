@@ -11,9 +11,9 @@ Provide a yearly summary of conditions on throughout summer, how these condition
 ## eReefs Products used
 - GBR1
 
-## Benefits for users
+## Outcomes and Impact
 - Provisions of freshwater exposure maps (calculation of index and provision of GIS layer) 
 
-## Related Publications
+## Related Resources
 <a href="https://www2.gbrmpa.gov.au/news/reef-snapshot-details-widespread-coral-bleaching-great-barrier-reef">Reef Snapshot</a>
 

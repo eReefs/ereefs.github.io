@@ -9,11 +9,11 @@ toc_sticky: true
 ## eReefs Products used
 - GBR4 BGC hindcast 
 
-## Benefits for users
+## Outcomes and Impact
 
 - eReefs was used to derive set of environmental drivers to explain observed macroalgal cover
 
-## Related Publications
+## Related Resources
 
 {% assign references = site.data.publications.case-studies.macroalgal_cover_on_coral_reefs.references | sort:"date-published" %}
 {% unless references == empty %}

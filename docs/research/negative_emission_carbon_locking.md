@@ -9,11 +9,11 @@ toc_sticky: true
 ## eReefs Products used
 - GBR4 BGC hindcast
 
-## Benefits for users
+## Outcomes and Impact
 
 - eReefs marine model carbon chemistry capabilities were used to simulated alkalinity injection impact on marine carbon cycle
 
-## Related Publications
+## Related Resources
 
 {% assign references = site.data.publications.case-studies.negative_emission_carbon_locking.references | sort:"date-published" %}
 {% unless references == empty %}

@@ -12,6 +12,6 @@ Monitoring the location, population size and habitat use by turtles and dugong i
 - GBR4 and GBR1 hydro and BGC hindcasts 
 - Visualisation Portal
 
-## Benefits for users
+## Outcomes and Impact
 - As part of dugong aerial surveys researchers are using the eReefs hydrodynamic model to find the height of the water at each dugong observation 
 - Researchers studying the fine-scale habitat use of green turtles in the Gladstone region rely on eReefs to provide information about environmental conditions that might be driving their behaviour.

@@ -13,10 +13,10 @@ Retrieval of coastal water quality from satellite Ocean Colour data is still a c
 The eReefs Ocean Colour algorithms have been integrated into the S3 FUB-CSIRO Coastal Water Processor, which is available as a Python/C plugin for the Sentinel Application Platform (SNAP) distributed by the European Space Agency (ESA). The plugin allows processing of large quantities of Sentinel-3 OLCI satellite data through the SNAP command-line Graph Processing Tool (GPT) as well as single images using the Graphical User Interface (GUI). The GUI also allows non-remote sensing experts to analyze and visualize the Sentinel-3 satellite data and derived water quality.
 The eReefs S3 FUB-CSIRO Coastal Water Processor has been used by research groups in Lithuania and the Ukraine to test the applicability of remotely-sensed indicators to support environmental policies (Vaičiūtė et. al, 2024).
 
-## Benefits for users
+## Outcomes and Impact
 - Simple access to complex satellite image processing software.
 
-## Related Publications
+## Related Resources
 
 The eReefs algorithm can be downloaded at: 
 <a href="https://github.com/s3tbx-fub-csiro/s3tbx-fub-csiro.git">Github</a>

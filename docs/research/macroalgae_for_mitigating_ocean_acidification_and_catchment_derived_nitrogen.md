@@ -10,11 +10,11 @@ The use of macroalgae is increasingly being looked at for is ability to buffer o
 ## eReefs Products used
 - GBR1 hindcast 
 
-## Benefits for users
+## Outcomes and Impact
 - eReefs marine models used to undertake assessment of carbonate budgets for GBR and design of potential interventions (growing seaweed) to buffer OA
 - Estuarine and rear coastal models are currently being used to evaluate the potential to grow Sargassum and Asparagopsis to uptake DIN and assist in meeting catchment specific DIN reduction targets 
 
-## Related Publications
+## Related Resources
 
 {% assign references = site.data.publications.case-studies.macroalgae_for_mitigating_ocean_acidification_and_catchment_derived_nitrogen.references | sort:"date-published" %}
 {% unless references == empty %}

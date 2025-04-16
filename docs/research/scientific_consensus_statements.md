@@ -15,9 +15,9 @@ Sentinel 3Source Catchment end of system loads
 - eReefs information architecture to access data: NCI thredds server, data brokering layer API, AIMS portal.
 - eReefs expert knowledge
 
-## Benefits for users
+## Outcomes and Impact
 - The peer reviewed journal articles published using eReefs data were used to raise and answer questions.
 (35 peer review publications have been used eReefs data since 2021)
 
-## Related Publications
+## Related Resources
 <a href="https://www.reefplan.qld.gov.au/science-and-research/the-scientific-consensus-statement">Reef Plan - The Scientific Consensus Statement</a>

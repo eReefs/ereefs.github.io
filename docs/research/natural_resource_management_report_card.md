@@ -12,9 +12,9 @@ Annual Regional Reports cards for five NRM regions are prepared assessing the co
 - Sentinel 3 chlorophyll data
 - G2G freshwater discharges
 
-## Benefits for users
+## Outcomes and Impact
 - eReefs support three regional NRM partnerships with modelled and remotely sensed outputs for assessing offshore and coastal water quality and G2G outputs of ungauged catchments.
 - Provision of offshore water quality parameters as input regional NRM reporting metrics.
 
-## Related Publications
+## Related Resources
 <a href="https://www2.gbrmpa.gov.au/news/reef-snapshot-details-widespread-coral-bleaching-great-barrier-reef">Natural Resource Management Report Cards</a>

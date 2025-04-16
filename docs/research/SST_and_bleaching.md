@@ -13,5 +13,5 @@ Coral bleaching is becoming much more common as a result of increasingly severe 
 - Reef Temp
 - GBR4 and GBR1 hydro NRT
 
-## Benefits for users
+## Outcomes and Impact
 - Reef Temp included in eReefs in Phase 5

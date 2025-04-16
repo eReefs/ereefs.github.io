@@ -12,6 +12,6 @@ Freshwater plumes entering the GBR lagoon may extend to the reef matrix, carryin
 - Sentinel –3 OLCI and Sentinel-1 SAR archive
 - In situ critical observations
 
-## Benefits for users
+## Outcomes and Impact
 - Tracking of flood plumes provision of imagery to relevant authorities and researchers
 - Field investigations to quantify impacts of floods

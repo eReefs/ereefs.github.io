@@ -14,7 +14,7 @@ Marine Cloud Brightening is one of several proposed solar radiation management t
 
 A regional atmosphere configuration of ACCESS (Australian Community Climate and Earth System Simulator) has been coupled to the eReefs hydrodynamic and biogeochemical model of the GBR. The resulting ACCESS-eReefs coupled model is being used to simulate the effects of sea spray injections for MCB in both the atmosphere and ocean at local and regional scales in the GBR. 
 
-<div style="max-width: 70%; margin: auto;">
+<div style="max-width: 90%; margin: auto;">
 {% include figure image_path="/assets/images/research/Figure_4_Change_in_sea_surface_temperature_across_different_years_following_artificial_cloud_brightening_using_the_eReefs_modelling_system_Preliminary_results.png" alt="Pesticide modelling (diuron dispersal) in the central GBR." caption="Change in sea surface temperature across different years following artificial cloud brightening using the eReefs modelling system  (Preliminary results)." %}
 </div>
 
@@ -23,11 +23,11 @@ Modelling of both hydrodynamic and biogeochemical parameters has been completed 
 
 The Moving Corals and ecoRRAP projects in eReefs rely of eReefs high resolutions models to support field experiments. RECOM models have been developed for the Capricorn Bunker area, Palm Island and Lizard Island and are used by RRAP researchers to assess the environmental conditions at these reefs, GBR-4 and -1 are used as boundary conditions for these higher resolution models and are also used to quantify between-reef and within-reef connectivity.
 
-## Benefits for users
+## Testimonials
 
 > The Environmental Management System eReefs is providing critical physical and biogeochemical information underpinning a complex suite of ecological and connectivity models that make up the Modelling and Decision Support System of the Reef Restoration and Adaptation Program (RRAP). With eReefs, we are able to integrate temperature, current, light and other variables in our coral models to predict, at different spatial scales and depths, how corals might grow, reproduce and respond to natural events. This supports critical design decisions in the deployment of interventions and ensures we can increase scale and maximise benefits for the long-term resilience of coral reefs.
 
 > **Cedric Robillot** - Executive Director, Reef Restoration and Adaptation Program
 
-## Related Publications
+## Related Resources
 <a href="https://gbrrestoration.org">Reef Restoration and Adaptation Program Home Page</a>

@@ -20,7 +20,7 @@ Due to the requirements of the eReefs marine model there has been a substantial 
 | Marine model uplift (plus QLD DESI Paddock and Catchment models uplift) |
 | Report Card 11 (2 years) | Oct 1, 2020– 30 Sep 2022 | 2024 | yes | 103 | BoM G2G | QLD DESI SOURCE |
 
-## Benefits for users
+## Outcomes and Impact
 - Use of eReefs Reanalysis products from the eReefs marine model in Phase 5 led to the analyses and completion of three marine water quality (WQ) GBR Report Cards, along with the three associated marine GBR WQ summaries and technical reports on eReefs marine modelling methods (Figure 1).
 - Successful integration of the eReefs marine model results and analyses into state and federal strategic water quality policy for the Great Barrier Reef (GBR), as part of the UNESCO agreement on the state of conservation for the GBR.
 
