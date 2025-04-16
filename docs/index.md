@@ -34,7 +34,7 @@ redirect_from:
           <div class="sub-content">
             <h2>Diving into eReefs marine information</h2>
             <p  style="color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);">
-eReefs is an innovative initiative aimed at monitoring and modelling the Great Barrier Reef and its marine environment, to better understand and safeguard one of the world’s most iconic natural wonders into the future. Dive into the eReefs open-access systems to discover, visualise and re-use the Publicly available datasets 
+eReefs is an innovative initiative aimed at monitoring and modelling the Great Barrier Reef and its marine environment, to better understand and safeguard one of the world’s most iconic natural wonders into the future. Dive into the eReefs open-access systems to discover, visualise and re-use the Publicly available datasets.
             </p>
           </div>
         </div>
@@ -69,7 +69,7 @@ eReefs is an innovative initiative aimed at monitoring and modelling the Great B
       <div class="vignette-content">
         <h2 style="color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);">Managing the Great Barrier Reef to 2050 and beyond</h2>
         <p style="color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);">
-          To protect the GBR and enhance its resilience, the Australian and Queensland Government released the Reef 2050 Long-Term Sustainability Plan (Reef 2050 Plan -https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/reef-2050-plan) and the Reef 2050 water Quality Improvement Plan (https://www.reefplan.qld.gov.au/). In that context, eReefs was funded to develop monitoring and modelling tools, used to inform adaptation and management of the GBR. 
+          To protect the GBR and enhance its resilience, the Australian and Queensland Government released the <a href="https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/reef-2050-plan"> Reef 2050 Long-Term Sustainability Plan</a> and the <a href="https://www.reefplan.qld.gov.au/">Reef 2050 water Quality Improvement Plan</a>. In that context, eReefs was funded to develop monitoring and modelling tools, used to inform adaptation and management of the GBR.
         </p>
       </div>
     </div>
@@ -89,7 +89,7 @@ eReefs is an innovative initiative aimed at monitoring and modelling the Great B
           <div class="sub-content">
             <h2>Water Quality Management from catchment and estuaries to reef lagoons and open ocean</h2>
             <p  style="color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);">
-              Partnering with Paddock to Reef (P2R) , MMP, eReefs tracks the fate of sediments and nutrients from land-based runoff and supports strategic and operational management decision-making across the Great Barrier Reef Region. 
+              Partnering with Paddock to Reef (P2R), MMP, eReefs tracks the fate of sediments and nutrients from land-based runoff and supports strategic and operational management decision-making across the Great Barrier Reef Region.
             </p>
           </div>
         </div>
@@ -105,7 +105,7 @@ eReefs is an innovative initiative aimed at monitoring and modelling the Great B
           Bleaching and COTS outbreaks are two major threats to the Great Barrier Reef both significantly reducing coral cover and reef biodiversity. To build more resilient reefs, we collaborate with research programs targeted at intervention and restoration: 
         </p>
         <ul class="white-shadowed-text">
-          <li>RRAP managed by AIMS</li>
+          <li><a href="https://gbrrestoration.org/">RRAP</a> managed by AIMS</li>
           <li>COTS Control Program managed by the Marine Park Authority</li>
           <li>National Environmental Science Program (NESP) projects that are developing technology and management plans to control the COTS threat, and that are exploring  reef resilience strategies </li>
         </ul>
@@ -127,9 +127,13 @@ eReefs is an innovative initiative aimed at monitoring and modelling the Great B
         <div class="div2-reverse">
           <div class="sub-content">
             <h2>Evaluating the impact of our collaborative research</h2>
-            <p  style="color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);">
-              A comprehensive review of CSIRO’s research impact on the Great Barrier Reef was completed by non-profit research institute RTI International in late 2024. The review covered our research portfolio ($142 Million of investment comprising 261 projects from 2011 to 2023). It aimed to capture the impact of our Reef research to date and explore the role of future science and technology in the Great Barrier Reef. External stakeholder feedback from across nine partner organisations also helped informed the review. 
-              The review found CSIRO’s Great Barrier Reef research portfolio is well-aligned with overarching Reef 2050 goals, and that collaborative engagement is critical to successful scientific reef management. 
+            <p class="white-shadowed-text">
+              A comprehensive review of CSIRO’s research impact on the Great Barrier Reef was completed by non-profit research institute RTI International in late 2024. The review covered our research portfolio ($142 Million of investment comprising 261 projects from 2011 to 2023). It aimed to capture the impact of our Reef research to date and explore the role of future science and technology in the Great Barrier Reef. External stakeholder feedback from across nine partner organisations also helped informed the review.
+            </p>
+            <p class="white-shadowed-text">
+              The review found CSIRO’s Great Barrier Reef research portfolio is well-aligned with overarching Reef 2050 goals, and that collaborative engagement is critical to successful scientific reef management.
+            </p>
+            <p class="white-shadowed-text">
               A suite of five impact case studies were developed that demonstrated collaborative research, international recognition for science, and benefits to policy and management. These case studies included: eReefs modelling; social and economic monitoring; gully and streambank erosion; coral larval capture and crown-of-thorns starfish Control.  For more information about the review and the case studies, contact our Great Barrier Reef research coordinator Bruce Taylor (contact at the bottom of this page). 
             </p>
           </div>
