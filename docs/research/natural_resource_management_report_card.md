@@ -17,4 +17,4 @@ Annual Regional Reports cards for five NRM regions are prepared assessing the co
 - Provision of offshore water quality parameters as input regional NRM reporting metrics.
 
 ## Related Resources
-<a href="https://www2.gbrmpa.gov.au/news/reef-snapshot-details-widespread-coral-bleaching-great-barrier-reef">Natural Resource Management Report Cards</a>
+<a href="https://www.reefplan.qld.gov.au/tracking-progress/regional-report-cards">Natural Resource Management Report Cards</a>
