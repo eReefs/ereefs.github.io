@@ -20,4 +20,4 @@ Sentinel 3Source Catchment end of system loads
 (35 peer review publications have been used eReefs data since 2021)
 
 ## Related Resources
-<a href="https://www.reefplan.qld.gov.au/science-and-research/the-scientific-consensus-statement">Reef Plan - The Scientific Consensus Statement</a>
+<a href="https://reefwqconsensus.com.au/">The 2022 Scientific Consensus Statement</a>

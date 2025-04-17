@@ -75,16 +75,19 @@ sidebar:
   - title: "Reef 2050 Plan"
     url: "/research/reef_2050_plan_overview.html"
     children:
-    - title: Marine Modelling Report Card
+    - title: Reef Water Quality Report Cards
       url: /research/reef_water_quality_report_card.html
     - title: Natural Resource Management Report Card
       url: /research/natural_resource_management_report_card.html
     - title: Scientific Consensus Statements
+    - title: GBR Water Quality Targets
+      url: /research/gbr_water_quality_targets.html
       url: /research/scientific_consensus_statements.html
     - title: Outlook Reports
       url: /research/outlook_reports.html
 
   - title: "eReefs in Action"
+    url: /research/ereefs_in_action_summary.html
     children:
     - title: Media Mentions
       url: /research/publications/media.html

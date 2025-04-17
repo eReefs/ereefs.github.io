@@ -3,7 +3,7 @@ toc: true
 toc_sticky: true
 ---
 
-# Reef Water Quality Reports Cards 
+# Reef Water Quality Report Cards 
 
 ## Overview
 Reef Report Cards measure progress towards the Reef 2050 Water Quality Improvement Plan targets, objectives, and long-term outcomes. The GBR Report Card reports catchment and marine conditions over six NRM regions and these results inform assessments of the success of actions taken to address water quality in the GBR. These reports were first implemented against a baseline undertaken in 2009 (October to September of the following year) either yearly (7 occasions) or biannually (4 occasions) with the Report Card usually released the following year. Three report cards were published during eReefs Phase 5 (Table 1):
@@ -15,10 +15,12 @@ Due to the requirements of the eReefs marine model there has been a substantial 
 
 | Report | Reporting Years | Publication of report | Reanalysis: Data Assimilated remote sensing | Number of rivers in marine model | Flow | Nutrients and sediments
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Report Card 9 | Oct 1, 2018 – 30 Sep 2019 | 2020 | yes | 35 | Gauged | QLD DESI SOURCE |
-| Report Card 10 | Oct 1, 2019 – 30 Sep 2020 | 2022 | yes | 35 | Gauged | QLD DESI SOURCE |
+| [Report Card 7](https://www.reefplan.qld.gov.au/tracking-progress/reef-report-card/2016) | Oct 1, 2015 – 30 Sep 2016 | 2017 | yes | 35 | Gauged | QLD DESI SOURCE |
+| [Report Card 8](https://www.reefplan.qld.gov.au/tracking-progress/reef-report-card/2017-2018) | Oct 1, 2016 – 30 Sep 2018 | 2019 | yes | 35 | Gauged | QLD DESI SOURCE |
+| [Report Card 9](https://www.reefplan.qld.gov.au/tracking-progress/reef-report-card/2019) | Oct 1, 2018 – 30 Sep 2019 | 2020 | yes | 35 | Gauged | QLD DESI SOURCE |
+| [Report Card 10](https://www.reefplan.qld.gov.au/tracking-progress/reef-report-card/2020) | Oct 1, 2019 – 30 Sep 2020 | 2022 | yes | 35 | Gauged | QLD DESI SOURCE |
 | Marine model uplift (plus QLD DESI Paddock and Catchment models uplift) |
-| Report Card 11 (2 years) | Oct 1, 2020– 30 Sep 2022 | 2024 | yes | 103 | BoM G2G | QLD DESI SOURCE |
+| [Report Card 11 (2 years)](https://www.reefplan.qld.gov.au/tracking-progress/reef-report-card/2021-22) | Oct 1, 2020– 30 Sep 2022 | 2024 | yes | 103 | BoM G2G | QLD DESI SOURCE |
 
 ## Outcomes and Impact
 - Use of eReefs Reanalysis products from the eReefs marine model in Phase 5 led to the analyses and completion of three marine water quality (WQ) GBR Report Cards, along with the three associated marine GBR WQ summaries and technical reports on eReefs marine modelling methods (Figure 1).

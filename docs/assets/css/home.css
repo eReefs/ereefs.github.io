@@ -24,6 +24,14 @@
     animation-delay: 0.15s;
 }
 
+.title-text {
+    font-size: 40px !important;
+}
+
+.subtitle-text{
+    font-size: 24px !important;
+}
+
 .picture-right {
     display: flex;
     justify-content: flex-end;
