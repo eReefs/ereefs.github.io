@@ -22,36 +22,100 @@ sidebar:
   # in this website that uses a layout which includes it.
   # In needs to include and extend the main menu links.
   # Only two levels are permitted: no sub-sub-menus allowed :(
-  - title: "About"
+  - title: "About eReefs"
+    url: "/about/"
     children:
-    - title: "Purpose and Impact"
-      url: "/about/"
     - title: "Collaborators"
       url: /about/collaborators.html
     - title: "Funding"
       url: /about/funding.html
-  - title: "Research"
+
+  - title: "eReefs Research"
+    url: /research/
     children:
-    - title: "Platform Overview"
-      url: /research/
-    - title: "Modelling system and framework"
+    - title: "Modelling System and Framework"
       url: /research/regional-hydrodynamic-sediment-and-wq-modeling.html
     - title: "Remote Sensing"
       url: /research/remote-sensing-and-wq.html
-    - title: "Relocatable fine scale coastal models (RECOM)"
+    - title: Water Quality Scenarios
+      url: /research/water_quality_scenarios.html
+    - title: "Relocatable Coastal Modelling (RECOM)"
       url: /research/relocatable-fine-scale-coastal-models.html
-    - title: Peer-reviewed Publications
+    - title: Pesticide Modelling and Management
+      url: /research/pesticide_modelling_and_management.html
+    - title: Sediment Dynamics
+      url: /research/measurement_and_modelling_of_sediment_dynamics.html
+    - title: Climate Projection Scenarios
+      url: /research/climate_projection_scenarios.html
+    - title: Catchment and Coastal flooding
+      url: /research/catchment_and_coastal_flooding.html
+    - title: Research Inputs
+      url: /research/forcing_references.html
+
+  - title: "eReefs Outputs"
+    url: "/tools/"
+    children:      
+    - title: Datasets
+      url: /research/datasets.html
+    - title: Research Publications
       url: /research/publications/peer-reviewed-publications.html
-    - title: Case Studies
+    - title: Impact Evaluations
       url: /research/publications/case-studies.html
-    - title: Media
-      url: /research/publications/media.html
     - title: Reports
       url: /research/publications/reports.html
-  - title: "Tools"
+    - title: Open Source Software
+      url: /research/open_source_software.html
+    - title: Data Access Tools
+      url: /research/data_access_tools.html
+    - title: Visualisation Tools
+      url: /research/visualisation_tools.html
+    - title: Historical Outputs
+      url: /research/historical_outputs.html
+
+  - title: "Reef 2050 Plan"
+    url: "/research/reef_2050_plan_overview.html"
     children:
-    - title: "Overview"
-      url: "/tools/"
+    - title: Reef Water Quality Report Cards
+      url: /research/reef_water_quality_report_card.html
+    - title: Natural Resource Management Report Card
+      url: /research/natural_resource_management_report_card.html
+    - title: Scientific Consensus Statements
+    - title: GBR Water Quality Targets
+      url: /research/gbr_water_quality_targets.html
+      url: /research/scientific_consensus_statements.html
+    - title: Outlook Reports
+      url: /research/outlook_reports.html
+
+  - title: "eReefs in Action"
+    url: /research/ereefs_in_action_summary.html
+    children:
+    - title: Media Mentions
+      url: /research/publications/media.html
+    - title: Reef Snapshot Reports
+      url: /research/reef_snapshot.html
+    - title: Reef Restoration and Adaptation Program (RRAP)
+      url: /research/reef_restoration_and_adaptation_program.html
+    - title: COTS Control and Innovation Program (CCIP)
+      url: /research/supporting_the_crown_of_thorns_starfish_control_and_innovation_program.html
+    - title: CO<sub>2</sub> Removal by Seaweed
+      url: /research/macroalgae_for_mitigating_ocean_acidification_and_catchment_derived_nitrogen.html
+
+
+    - title: Biodiversity and Threatened Species
+      url: /research/assessing_biodiversity_and_threatened_species_on_the_gbr.html
+    - title: Ocean Colour in Baltic Sea
+      url: /research/ereefs_ocean_colour_algorithms_international_uptake.html
+    - title: Sea Surface Temperatures and Coral Bleaching
+      url: /research/SST_and_bleaching.html
+    - title: Tracking Turtles and Dugong
+      url: /research/tracking_turtles_and_dugong.html
+    - title: Macroalgal cover on coral reefs
+      url: /research/macroalgal_cover_on_coral_reefs.html
+    - title: Negative emission carbon locking
+      url: /research/negative_emission_carbon_locking.html
+    - title: Oil Spill Detection
+      url: /research/oil_spill_detection.html
+  
   - title: "Contact"
     children:
     - title: "Contact Us"

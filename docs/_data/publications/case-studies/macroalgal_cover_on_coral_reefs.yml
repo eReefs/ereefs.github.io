@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Fabricius
+        given-names: Katharina E.
+        orcid: https://orcid.org/0000-0001-7671-4358
+      - family-names: Crossman
+        given-names: Kerryn
+      - family-names: Jonker
+        given-names: Michelle
+      - family-names: Mongin
+        given-names: Mathieu
+      - family-names: Thompson
+        given-names: Angus
+    doi: 10.1371/journal.pone.0279699
+    identifiers:
+      - type: doi
+        value: 10.1371/journal.pone.0279699
+      - type: url
+        value: http://dx.doi.org/10.1371/journal.pone.0279699
+      - type: other
+        value: urn:issn:1932-6203
+    title: >-
+      Macroalgal cover on coral reefs: Spatial and environmental predictors, and
+      decadal trends in the Great Barrier Reef
+    url: http://dx.doi.org/10.1371/journal.pone.0279699
+    database: Crossref
+    date-published: 2023-01-20
+    year: 2023
+    month: 1
+    editors:
+      - family-names: Camp
+        given-names: Emma F.
+    issn: 1932-6203
+    issue: '1'
+    journal: PLOS ONE
+    languages:
+      - en
+    publisher:
+      name: Public Library of Science (PLoS)
+    start: e0279699
+    type: article
+    volume: '18'
