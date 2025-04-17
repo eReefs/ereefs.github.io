@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "2025"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+  - authors:
+      - family-names: Vaičiūtė
+        given-names: Diana
+        orcid: https://orcid.org/0000-0003-4479-5688
+      - family-names: Sokolov
+        given-names: Yevhen
+      - family-names: Bučas
+        given-names: Martynas
+        orcid: https://orcid.org/0000-0003-4668-5669
+      - family-names: Dabulevičienė
+        given-names: Toma
+        orcid: https://orcid.org/0000-0001-8710-0466
+      - family-names: Zotova
+        given-names: Olga
+    doi: 10.3390/rs16040696
+    identifiers:
+      - type: doi
+        value: 10.3390/rs16040696
+      - type: url
+        value: http://dx.doi.org/10.3390/rs16040696
+      - type: other
+        value: urn:issn:2072-4292
+    title: >-
+      Earth Observation-Based Cyanobacterial Bloom Index Testing for Ecological
+      Status Assessment in the Open, Coastal and Transitional Waters of the Baltic
+      and Black Seas
+    url: http://dx.doi.org/10.3390/rs16040696
+    database: Crossref
+    date-published: 2024-02-16
+    year: 2024
+    month: 2
+    issn: 2072-4292
+    issue: '4'
+    journal: Remote Sensing
+    languages:
+      - en
+    publisher:
+      name: MDPI AG
+    start: '696'
+    type: article
+    volume: '16'
