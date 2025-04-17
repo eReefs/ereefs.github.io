@@ -2,12 +2,24 @@
 classes: wide
 permalink: /research/
 ---
-# Overview
+# Platform Overview
 
-The eReefs Platform is based on the number of research components which include remote sensing tools as well as a number of near real-time models, such as marine models, fine scale coastal relocatable models as well as catchment models.
+The eReefs Platform is based on a number of research components which include remote sensing tools as well as a number of marine models, fine scale coastal relocatable models as well as catchment models.
 
-Building on and integrating a variety of critical data inputs, the eReefs tools and the data they generate can be discovered based on an innovative central information infrastructure reflecting best practice in environmental information management.
 
-Ultimately, through the selective mobilisation of eReefs tools and specific interrogation of eReefs data, a range of services tailored to the specific needs of users, managers and policy makers can be delivered covering incident response, forecasting, scenario modelling as well as reporting and communication.
+ 
+eReefs integrates marine hydrodynamic and biogeochemical models with catchment models and satellite data to provide high-frequency information on physical and biological processes at multiple scale (Figure 1), such as:
 
-{% include figure image_path="/assets/images/research/image5-680x668.png" alt="Conceptual diagram of the eReefs platform" caption="Conceptual diagram of the eReefs platform" %}
+- Sediment and nutrient dynamics
+
+- Plankton blooms dynamics and dispersal
+
+- Flood plumes and dispersal of pollutants
+
+- Water quality, marine heat waves, warming and acidification
+
+The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observations.
+
+{% comment %}
+  {% include figure image_path="/assets/images/research/# image5-680x668.png" alt="Conceptual diagram of the eReefs # platform" caption="Conceptual diagram of the eReefs platform" %}
+ {% endcomment %}
