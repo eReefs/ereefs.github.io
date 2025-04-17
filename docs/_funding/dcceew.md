@@ -6,7 +6,7 @@ logo_url_light: /assets/images/partners/DCCEEW-logo-light.svg
 funding_end: '2026-06-30'
 funding_start: '2012-01-01'
 ---
-The Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW) and its preceeding entities have supported the eReefs collaboration since its inception.
+The Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW) and its preceding entities have supported the eReefs collaboration since its inception.
 
 From 2012 to 2016, the Australian Government Department of Sustainability, Environment, Water, Population and Communities (SEWPAC) matched the Queensland Government's funding for the development of the *eReefs* Platform  via the [Caring for our Country](https://www.dcceew.gov.au/environment/land/landcare/past-programs/caring-for-country) initiative and the [Reef Rescue Program](https://webarchive.nla.gov.au/awa/20120318193507/http://www.environment.gov.au/about/grants/pubs/grants-report-dec11.pdf).
 
