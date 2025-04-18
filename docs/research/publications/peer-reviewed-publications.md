@@ -10,7 +10,7 @@ For other related eReefs model input references, please see [References](https:/
 
 If you use the eReefs model outputs, software or platforms in your research, please include the following acknowledgement:
 
-*"The eReefs model simulations were produced as part of the eReefs project (eReefs.info), a collaboration between the Science Industry Endowment Fund (SIEF), the Commonwealth Scientific Industrial Research Organisation (CSIRO), the Australian Institute of Marine Science (AIMS), the Bureau of Meteorology (BOM), and the Great Barrier Reef Foundation (GBRF), with support from BHP Billinton Mitsubishi Alliance, the Australian and Queensland governments, and with observations obtained through the Integrated Marine Observing System (IMOS)."*{: style="color: #808080"}
+*"The eReefs datasets (model simulations, satellite or in-situ observations) were produced as part of eReefs (ereefs.org.au). The eReefs research project is a collaboration between Australia’s national science agency CSIRO, the Australian Institute of Marine Science (AIMS) and the Queensland Government, funded by the Australian Government Department of Climate Change, Energy, the Environment and Water, and with observations obtained through the Intgrated Marine Observing System (IMOS) and the Reef Authority (GBRMPA)."*{: style="color: #808080"}
 
 {% assign total_references = 0 %}
 {% for publications_file_list in site.data.publications.peer-reviewed-publications reversed %}

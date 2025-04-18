@@ -6,17 +6,21 @@ toc_sticky: true
 # Climate projection scenarios
 
 ## Summary
+Climate change is the greatest threat facing the reef.
+
 Changing climate and weather patterns are resulting in warmer sea surface temperatures, sea level rise, altered ocean currents and nutrients supply, and increased frequency and amplitude of extreme events such as cyclone and flooding, marine heat wave and coral bleaching.
 
-## eReefs Products used
+The eReefs modelling system was initially developed to inform adaptation and management strategies in the context of water quality and the threat sediment, pesticide and nutrient from land-based runoff can pose to the reef. Regional climate downscaling scenario can inform management strategies accounting for the combined effect of multiple threat.
 
-- GBR4 hindcast and eReefs forcing infrastructure 
+## eReefs Products
+
+- GBR4 climate downscaling scenarios 
 
 ## Outcomes and Impact
 
-- eReefs modelling suite
-- Support to postdoc using the eReefs system: A coastal climate downscaling to inform long term strategies for coral reef conservation, intervention and adaptation. 
-
+- eReefs modelling suite can be used to assess vulnerability to climate change at the regional scale, and to assess the combined effect of multiple threats (warming, floods, acidification).
+- The regional climate downscaling dataset can be used to inform long term strategies for coral reef conservation, intervention and adaptation. 
+- eReefs contributes to the endorsed UN Ocean Decade and core project of the CoastPredict Programme FLAME (Future Coastal Ocean Climates https://projects.noc.ac.uk/flame/) 
 ## Related Resources
 
 {% assign references = site.data.publications.case-studies.climate_projection_scenarios.references | sort:"date-published" %}
