@@ -1,14 +1,12 @@
 ---
 classes: wide
 permalink: /research/
+title: Platform Overview
 ---
-# Platform Overview
 
 The eReefs Platform is based on a number of research components which include remote sensing tools as well as a number of marine models, fine scale coastal relocatable models as well as catchment models.
 
-
- 
-eReefs integrates marine hydrodynamic and biogeochemical models with catchment models and satellite data to provide high-frequency information on physical and biological processes at multiple scale (Figure 1), such as:
+eReefs integrates marine hydrodynamic and biogeochemical models with catchment models and satellite data to provide high-frequency information on physical and biological processes at multiple scale, such as:
 
 - Sediment and nutrient dynamics
 
@@ -20,6 +18,4 @@ eReefs integrates marine hydrodynamic and biogeochemical models with catchment m
 
 The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observations.
 
-{% comment %}
-  {% include figure image_path="/assets/images/research/# image5-680x668.png" alt="Conceptual diagram of the eReefs # platform" caption="Conceptual diagram of the eReefs platform" %}
- {% endcomment %}
+{% include figure image_path="/assets/images/ereef-concept-diagram.jpg" alt="Figure 1. eReefs platform." caption="Figure 1. eReefs project workflow." %}
