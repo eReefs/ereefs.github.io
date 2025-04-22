@@ -1,10 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Natural Resource Management Report Cards
 ---
-# Natural Resource Management Report Cards
 
-## Summary
 Annual Regional Reports cards for five NRM regions are prepared assessing the condition of catchments, estuaries inshore and offshore marine areas and report on social, cultural, economic health and stewardship indicators. Discontinued in 2024.
 
 ## eReefs Products used

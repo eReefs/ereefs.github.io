@@ -1,11 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Reef Water Quality Report Cards
 ---
 
-# Reef Water Quality Report Cards 
-
-## Overview
 Reef Report Cards measure progress towards the Reef 2050 Water Quality Improvement Plan targets, objectives, and long-term outcomes. The GBR Report Card reports catchment and marine conditions over six NRM regions and these results inform assessments of the success of actions taken to address water quality in the GBR. These reports were first implemented against a baseline undertaken in 2009 (October to September of the following year) either yearly (7 occasions) or biannually (4 occasions) with the Report Card usually released the following year. Three report cards were published during eReefs Phase 5 (Table 1):
 
 ## eReefs Products used

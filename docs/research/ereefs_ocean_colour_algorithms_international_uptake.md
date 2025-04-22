@@ -1,11 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: eReefs Ocean Colour Algorithms – International Uptake
 ---
 
-# eReefs Ocean Colour Algorithms – International Uptake
-
-## Overview
 Retrieval of coastal water quality from satellite Ocean Colour data is still a challenge due to the optical complexity of these waters. eReefs has developed state of the art machine learning algorithms to estimate water quality in optically complex waters such as chlorophyll-a. The remotely-sensed chlorophyll-a concentrations can be used to develop additional management-relevant indicators such as the Cyanobacterial Bloom Index (CyaBI). This index was originally developed for open waters, and was tested by research groups in Lithuania and the Ukraine (Vaičiūtė et. al, 2024) for transitional and coastal waters of the Lithuanian Baltic Sea and the Ukrainian Black Sea. Among three tested machine learning algorithms, the eReefs algorithm applied to Sentinel-3 OLCI images was the most appropriate for the retrieval of chlorophyll-a in both seas.
 
 ## eReefs Products used

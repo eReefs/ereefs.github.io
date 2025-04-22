@@ -1,11 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Oil Spill Detection
 ---
 
-# Oil Spill Detection
-
-## Overview
 The potential for oil spills, or illegal discharges in the marine park from ships transiting through GBR waters is a significant risk that requires early detection and ongoing situational awareness. The most prominent oil spill in the marine park occurred in March 2009 with the Pacific Adventurer cargo ship due to encountering severe weather conditions during Cyclone Hamish. Over the past seven years however, several instances of likely illegal discharges from passing ships have been identified in the GBR. 
 
 ## eReefs Products used

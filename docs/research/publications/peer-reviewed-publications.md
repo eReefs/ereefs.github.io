@@ -1,16 +1,15 @@
 ---
 toc: true
 toc_sticky: true
+title: Peer-reviewed Research Publications
 ---
-
-# Peer-reviewed Research Publications
 The peer-reviewed publications listed on this page reference, cite, acknowledge or are a direct output from eReefs research and projects.
 
 For other related eReefs model input references, please see [References](https://research.csiro.au/ereefs/models/forcing/references/)
 
 If you use the eReefs model outputs, software or platforms in your research, please include the following acknowledgement:
 
-*"The eReefs model simulations were produced as part of the eReefs project (eReefs.info), a collaboration between the Science Industry Endowment Fund (SIEF), the Commonwealth Scientific Industrial Research Organisation (CSIRO), the Australian Institute of Marine Science (AIMS), the Bureau of Meteorology (BOM), and the Great Barrier Reef Foundation (GBRF), with support from BHP Billinton Mitsubishi Alliance, the Australian and Queensland governments, and with observations obtained through the Integrated Marine Observing System (IMOS)."*{: style="color: #808080"}
+*"The eReefs model simulations were produced as part of the eReefs project (ereefs.org.au), a collaboration between the Science Industry Endowment Fund (SIEF), the Commonwealth Scientific Industrial Research Organisation (CSIRO), the Australian Institute of Marine Science (AIMS), the Bureau of Meteorology (BOM), and the Great Barrier Reef Foundation (GBRF), with support from BHP Billinton Mitsubishi Alliance, the Australian and Queensland governments, and with observations obtained through the Integrated Marine Observing System (IMOS)."*{: style="color: #808080"}
 
 {% assign total_references = 0 %}
 {% for publications_file_list in site.data.publications.peer-reviewed-publications reversed %}

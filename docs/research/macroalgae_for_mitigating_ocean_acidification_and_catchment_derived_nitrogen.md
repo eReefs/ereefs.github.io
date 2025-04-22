@@ -1,10 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: CO<sub>2</sub> Removal by Seaweed
 ---
-# Macroalgae for mitigating Ocean Acidification and catchment derived nitrogen
 
-## Summary 
 The use of macroalgae is increasingly being looked at for is ability to buffer ocean acidification and to take up catchment derived nitrogen.
 
 ## eReefs Products used

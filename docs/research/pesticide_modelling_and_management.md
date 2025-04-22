@@ -1,11 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Pesticide Modelling and Management
 ---
 
-# Pesticide Modelling and Management
-
-## Overview
 Pesticides from agricultural runoff have been detected above marine water quality guidelines for the GBR and here eReefs can be used to inform management strategies. 
 
 ## eReefs Products used
