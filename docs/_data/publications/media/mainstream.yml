@@ -6,6 +6,23 @@ authors:
 title: "References"
 references:
   - authors:
+      - given-names: Southern Cross University
+    abstract: >-
+      Laboratory experiments confirm the accuracy of numerical modelling in simulating coral bleaching, according to new research from Southern Cross University.
+    title: >-
+      Modelling as a tool for predicting coral reef futures
+    url: https://www.scu.edu.au/news/2025/coral-reef-modelling/
+    date-published: 2025-04-15
+    year: 2025
+    month: 04
+    journal: Southern Cross University
+    languages:
+      - en
+    publisher:
+      name: Southern Cross University
+    type: article
+
+  - authors:
       - family-names: Sun
         given-names: Chaojiao
       - family-names: Steinberg
