@@ -33,42 +33,42 @@ sidebar:
   - title: "eReefs Research"
     url: /research/
     children:
-    - title: "Modelling System and Framework"
-      url: /research/regional-hydrodynamic-sediment-and-wq-modeling.html
     - title: "Remote Sensing"
       url: /research/remote-sensing-and-wq.html
+    - title: In Situ Observations
+      url: /research/in_situ_observations.html
+
+    - title: "Modelling System and Framework"
+      url: /research/regional-hydrodynamic-sediment-and-wq-modeling.html
+
     - title: Water Quality Scenarios
       url: /research/water_quality_scenarios.html
-    - title: "Relocatable Coastal Modelling (RECOM)"
-      url: /research/relocatable-fine-scale-coastal-models.html
     - title: Pesticide Modelling and Management
       url: /research/pesticide_modelling_and_management.html
-    - title: Sediment Dynamics
-      url: /research/measurement_and_modelling_of_sediment_dynamics.html
+    - title: "Relocatable Coastal Modelling (RECOM)"
+      url: /research/relocatable-fine-scale-coastal-models.html
+    - title: Oil Spill Detection
+      url: /research/oil_spill_detection.html
     - title: Climate Projection Scenarios
       url: /research/climate_projection_scenarios.html
-    - title: Catchment and Coastal flooding
-      url: /research/catchment_and_coastal_flooding.html
-    - title: Research Inputs
-      url: /research/forcing_references.html
+    # - title: Research Inputs
+    #   url: /research/forcing_references.html
 
   - title: "eReefs Outputs"
     url: "/tools/"
-    children:      
-    - title: Datasets
-      url: /research/datasets.html
+    children:
     - title: Research Publications
       url: /research/publications/peer-reviewed-publications.html
-    - title: Impact Evaluations
-      url: /research/publications/case-studies.html
-    - title: Reports
-      url: /research/publications/reports.html
-    - title: Open Source Software
-      url: /research/open_source_software.html
+    - title: Interactive Visualisation
+      url: /research/visualisation_tools.html
+    - title: Datasets
+      url: /research/datasets.html
     - title: Data Access Tools
       url: /research/data_access_tools.html
-    - title: Visualisation Tools
-      url: /research/visualisation_tools.html
+    - title: Open Source Software
+      url: /research/open_source_software.html
+    - title: Impact Evaluations
+      url: /research/publications/case-studies.html
     - title: Historical Outputs
       url: /research/historical_outputs.html
 
@@ -77,12 +77,14 @@ sidebar:
     children:
     - title: Reef Water Quality Report Cards
       url: /research/reef_water_quality_report_card.html
-    - title: Natural Resource Management Report Card
-      url: /research/natural_resource_management_report_card.html
+    ## Pending update
+    # - title: Natural Resource Management Report Card
+    #   url: /research/natural_resource_management_report_card.html
     - title: Scientific Consensus Statements
+      url: /research/scientific_consensus_statements.html
     - title: GBR Water Quality Targets
       url: /research/gbr_water_quality_targets.html
-      url: /research/scientific_consensus_statements.html
+
     - title: Outlook Reports
       url: /research/outlook_reports.html
 
@@ -103,18 +105,11 @@ sidebar:
 
     - title: Biodiversity and Threatened Species
       url: /research/assessing_biodiversity_and_threatened_species_on_the_gbr.html
-    - title: Ocean Colour in Baltic Sea
-      url: /research/ereefs_ocean_colour_algorithms_international_uptake.html
+    # TODO - wait and see if we want this page released
+    # - title: Ocean Colour
+    #   url: /research/ereefs_ocean_colour_algorithms_international_uptake.html
     - title: Sea Surface Temperatures and Coral Bleaching
       url: /research/SST_and_bleaching.html
-    - title: Tracking Turtles and Dugong
-      url: /research/tracking_turtles_and_dugong.html
-    - title: Macroalgal cover on coral reefs
-      url: /research/macroalgal_cover_on_coral_reefs.html
-    - title: Negative emission carbon locking
-      url: /research/negative_emission_carbon_locking.html
-    - title: Oil Spill Detection
-      url: /research/oil_spill_detection.html
   
   - title: "Contact"
     children:

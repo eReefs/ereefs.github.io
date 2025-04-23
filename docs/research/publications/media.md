@@ -1,11 +1,11 @@
 ---
 toc: true
 toc_sticky: true
+title: Media Mentions
 ---
 
-# Media
-
 Media articles about the eReefs collaboration, platform and/or data products and tools:
+
 
 {% assign sorted_media_references = site.data.publications.media.mainstream.references | sort:"date-published" %}
 {% unless sorted_media_references == empty %}

@@ -1,16 +1,13 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: In Situ Observations
 ---
 
-# Measurement and modelling of sediment dynamics
+Accurate prediction of sediment settling and transport is critical for managing water quality impacts on the GBR, but complex estuarine processes pose major modelling challenges. More efficient monitoring and modelling approaches are needed to better resolve estuarine sediment dynamics and thereby advance management of GBR water quality targets. 
 
 <div style="max-width: 90%; margin: auto;">
 {% include figure image_path="/assets/images/research/Figure_7_measurement_and_modelling_of_sediment_dynamics.png" alt="Estuarine processes (left) and observational tools (right) deployed to resolve these processess in the GB estuaries, particularly Fitzroy Estuary" %}
 </div>
-
-## Overview 
-Accurate prediction of sediment settling and transport is critical for managing water quality impacts on the GBR, but complex estuarine processes pose major modelling challenges. More efficient monitoring and modelling approaches are needed to better resolve estuarine sediment dynamics and thereby advance management of GBR water quality targets. 
 
 To improve our ability to resolve and model sediment processes, extensive new observations were collected in the estuaries of several major GBR catchments. Field measurements focused on sediment flocculation - the aggregation of fine silt and clay particles into larger, faster-settling flocs. The Fitzroy Estuary was the focal study system for an intensive field campaign that constrained seasonal-to-tidal scale forcing in one of the most complex estuaries in the GBR. Broader spatial sampling was also conducted in over a dozen other estuaries spanning the full length of the GBR coastline. These observational datasets were then used to develop and validate new numerical models for sediment transport. Machine learning was also applied to predict floc size and settling velocity from more easily measured water quality parameters. 
 

@@ -1,13 +1,9 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Scientific Consensus statements
 ---
 
-# Scientific Consensus statements
-
-## Overview
-
-The Statement is the foundational document that provides the scientific understanding underpinning the Reef 2050 Water Quality Improvement Plan 2017–2022. The Scientific Consensus Statement is updated every five years to ensure that Reef policy remains up-to-date and based on the best available evidence.
+The Statement is the foundational document that provides the scientific understanding underpinning the Reef 2050 Water Quality Improvement Plan 2017–2022. The Scientific Consensus Statement is updated every five years to ensure that Reef policy remains up-to-date and based on the best available evidence. Many members of the eReefs team contribute their time and expertise to the development of these statements.
 
 ## eReefs Products used
 - GBR1 hydro, river tracers and BGC hindcast and old GBR4 scenarios

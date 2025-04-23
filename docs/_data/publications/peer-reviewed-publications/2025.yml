@@ -5,6 +5,47 @@ authors:
     given-names: S-H
 title: "References"
 references:
+
+  - authors:
+      - family-names: Ellis
+        given-names: Sophia L
+      - family-names: Baird
+        given-names: Mark E
+      - family-names: Harrison
+        given-names: Luke P
+      - family-names: Schulz
+        given-names: Kai G
+      - family-names: Harrison
+        given-names: Daniel P
+    doi: 10.1093/conphys/coaf020
+    identifiers:
+      - type: doi
+        value: 10.1093/conphys/coaf020
+      - type: url
+        value: http://dx.doi.org/10.1093/conphys/coaf020
+      - type: other
+        value: urn:issn:2051-1434
+    title: >-
+      A photophysiological model of coral bleaching under light and temperature
+      stress: experimental assessment
+    url: http://dx.doi.org/10.1093/conphys/coaf020
+    database: Crossref
+    date-published: 2025-01-01
+    year: 2025
+    month: 1
+    editors:
+      - family-names: Porteus
+        given-names: Cosima
+    issn: 2051-1434
+    issue: '1'
+    journal: Conservation Physiology
+    languages:
+      - en
+    publisher:
+      name: Oxford University Press (OUP)
+    type: article
+    volume: '13'
+
   - authors:
       - family-names: Maggiorano
         given-names: Anna

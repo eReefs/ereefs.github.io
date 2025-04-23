@@ -1,11 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Reef Restoration and Adaptation Program
 ---
- 
-# Reef Restoration and Adaptation Program
 
-## Overview
 RRAP is a long-term research and development program to develop and test novel interventions to help keep the Reef resilient and sustain critical functions and values.
 
 ## eReefs Products used

@@ -1,20 +1,19 @@
 ---
 toc: true
 toc_sticky: true
+title: Impact Evaluations
 ---
-
-# Case Studies
 
 Case Studies related to eReefs and its impact
 
 ## Australian Government Case Studies
 
-- [eReefs: Case Study](https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/case-studies/ereefs)
+- 2015-06 [eReefs: Case Study](https://webarchive.nla.gov.au/awa/20150729191955/http://pandora.nla.gov.au/pan/38184/20150730-0002/www.environment.gov.au/node/38347.html)
   > Photos snapped every day from outer space are part of an Australian Government initiative to protect the Great Barrier Reef.
 
 ## CSIRO Case Studies
 
-- [Streamlining CSIRO’s research for the Great Barrier Reef](https://www.csiro.au/-/media/LWF/Files/18-00193_LWReviewCaseStudy12pp_GBR_180503.pdf)
+- 2018-05 [Streamlining CSIRO’s research for the Great Barrier Reef](https://www.csiro.au/-/media/LWF/Files/18-00193_LWReviewCaseStudy12pp_GBR_180503.pdf)
   > CSIRO is helping create an enabling environment that fosters a broad based set of partnerships. These partnerships prioritise and collaborate on critical research pathways that underpin resilience based management of the GBR well into the future. 
 
 - 2016-06 [Ensuring a vital future for the Great Barrier Reef](https://www.csiro.au/-/media/About/Files/Impact-case-studies/2016/ICS-eREEFS-PLATFORM.pdf)

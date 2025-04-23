@@ -1,10 +1,8 @@
 ---
-toc: true
-toc_sticky: true
+classes: wide
+title: Biodiversity and threatened species
 ---
 
-# Assessing Biodiversity and threatened species on the GBR
-## Overview
 The significance of the GBR for dugongs and turtles was one of the reasons for its World Heritage listing. Research reveals green sea turtles and dugongs play a crucial role in protecting the health of the Great Barrier Reef, by helping vital seagrass meadows flourish. To enhance the protection of our iconic marine turtles and dugong in Far North Queensland and the Torres Strait, the Australian Government has committed $5.3 million over three years for delivery of a Dugong and Turtle Protection Plan under the Reef 2050 Plan and Reef Trust. The plan addresses threatening processes that impact on the long-term recovery and survival of these protected migratory species.
 
 ## eReefs Products used
