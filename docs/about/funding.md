@@ -7,7 +7,7 @@ toc_sticky: true
 {% assign current_date = "now" | date: "%Y-%m-%d" %}
 {% assign funders_sorted = site.funding | sort: "name" | sort_natural: "funding_end" | reverse  %}
 
-The eReefs platform and associated research is currently supported by funding from:
+The *eReefs* platform and associated research is currently supported by funding from:
 {% assign funders_current = funders_sorted | where_exp: "item", "item.funding_end >= current_date" %}
 {% for supporter in funders_current %}
 
@@ -27,7 +27,7 @@ The eReefs platform and associated research is currently supported by funding fr
 
 # Historical Funding
 
-Previous phases of the research collaboration were supported by funding from:
+Previous phases of the *eReefs* collaboration were supported by funding from:
 {% assign funders_historical = funders_sorted | where_exp: "item", "item.funding_end < current_date" %}
 {% for supporter in funders_historical %}
 ## {{ supporter.name }}

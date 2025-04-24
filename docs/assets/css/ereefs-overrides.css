@@ -128,11 +128,22 @@ img.org-logo.align-left {
    font-size: small;
 }
 
-.ereefs-footer img.org-logo {
-   margin: 1em 2em;
+.ereefs-footer  {
+   margin: 1em 0;
 }
 .ereefs-footer .logo-container {
-    text-align: center;
+   padding: 0 0 0 1em;
+   text-align: center;
+}
+.ereefs-footer .logo-container:first-child{
+   padding: 0 0 0 0;
+}
+.ereefs-footer .logo-container > h2 {
+   text-align: left;
+}
+
+.ereefs-footer .logo-container img.org-logo {
+   max-width: 500px;
 }
 
 .ereefs-footer .footer-legal {

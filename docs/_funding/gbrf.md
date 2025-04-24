@@ -1,5 +1,5 @@
 ---
-name: The Great Barrier Reef Foundation (GBRF)
+name: The Great Barrier Reef Foundation
 link_url: https://www.barrierreef.org/what-we-do/projects/eReefs
 logo_url_dark: /assets/images/partners/GBRF_2-320x100.png
 logo_url_light: /assets/images/partners/GBRF_1-210x66.png

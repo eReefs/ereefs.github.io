@@ -7,7 +7,7 @@ RECOM is an interactive web based modelling tool. It allows users to define a fi
 
 In the previous eReefs project, it has mostly been used as an offshore downscaling tool. [Here are some previous applications of RECOM](https://research.csiro.au/ereefs/models/models-about/recom/)
 
-eReefs6 aims to extend RECOM to nearshore coastal and estuarine applications, with the ability to define the riverine features more accurately.
+The current phase of eReefs aims to extend RECOM to nearshore coastal and estuarine applications, with the ability to define the riverine features more accurately.
 
 <div style="max-width: 90%; margin: auto;">
 {% include figure image_path="/assets/images/research/eReefs-RECOMv2.png" alt="recom dashboard" caption="recom-dashboard" %}
