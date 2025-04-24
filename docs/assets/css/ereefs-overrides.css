@@ -137,13 +137,20 @@ img.org-logo.align-left {
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: center;
-   padding: 0 0 0 1em;
 }
-.ereefs-footer .logo-container:first-child{
-   padding: 0 0 0 0;
+
+@media (min-width: 64em) {
+   .ereefs-footer .logo-container.supporters.current {
+      display: inline-block;
+      float: left;
+      margin-right: 2em;
+   }
 }
+
 .ereefs-footer .logo-container > h2 {
+   flex-basis: 100%;
    text-align: left;
+   width: auto;
 }
 
 .ereefs-footer .logo-container img.org-logo {

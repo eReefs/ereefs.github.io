@@ -1,5 +1,5 @@
 <div class="ereefs-footer page__content">
-	<div class="logo-container">
+	<div class="logo-container collaborators">
       <h2>eReefs is a collaboration between:</h2>
       {% assign collaborators_sorted = site.collaborators | sort_natural: "name"  %}
       {% for collaborator in collaborators_sorted %}
@@ -12,35 +12,33 @@
       {% endif %}
       {% endfor %}
    </div>
-   <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-      {% assign current_date = "now" | date: "%Y-%m-%d" %}
-      {% assign funders_sorted = site.funding | sort: "name" | sort_natural: "funding_end" | reverse  %}
-      {% assign funders_current = funders_sorted | where_exp: "item", "item.funding_end >= current_date" %}
-      {% assign funders_historical = funders_sorted | where_exp: "item", "item.funding_end < current_date" %}
-      <div class="logo-container">
-         <h2>Currently supported by:</h2>
-         {% for supporter in funders_current %}
-         {% if supporter.link_url %}
-         <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
-            <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
-         </a>
-         {% else %}
+   {% assign current_date = "now" | date: "%Y-%m-%d" %}
+   {% assign funders_sorted = site.funding | sort: "name" | sort_natural: "funding_end" | reverse  %}
+   {% assign funders_current = funders_sorted | where_exp: "item", "item.funding_end >= current_date" %}
+   {% assign funders_historical = funders_sorted | where_exp: "item", "item.funding_end < current_date" %}
+   <div class="logo-container supporters current">
+      <h2>Currently supported by:</h2>
+      {% for supporter in funders_current %}
+      {% if supporter.link_url %}
+      <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
          <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
-         {% endif %}
-         {% endfor %}
-      </div>
-      <div class="logo-container">
-         <h2>Previously Supported by:</h2>
-         {% for supporter in funders_historical %}
-         {% if supporter.link_url %}
-         <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
-            <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
-         </a>
-         {% else %}
+      </a>
+      {% else %}
+      <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+      {% endif %}
+      {% endfor %}
+   </div>
+   <div class="logo-container supporters historical">
+      <h2>Previously Supported by:</h2>
+      {% for supporter in funders_historical %}
+      {% if supporter.link_url %}
+      <a href="{{supporter.link_url}}" title="{{supporter.name}}" target="_window">
          <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
-         {% endif %}
-         {% endfor %}
-      </div>
+      </a>
+      {% else %}
+      <img src="{{supporter.logo_url_light }}" class="org-logo" alt="Logo for {{supporter.name}}" title="{{supporter.name}}"/>
+      {% endif %}
+      {% endfor %}
    </div>
 
    <div class="footer-legal">
