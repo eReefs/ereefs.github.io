@@ -1,5 +1,6 @@
 ---
 permalink: /contact/
+title: Contact Us
 toc: true
 toc_sticky: true
 ---
@@ -10,7 +11,7 @@ As eReefs is a long-term research collaboration, there are several different poi
 
 ## eReefs Community Forum
 
-If you are a researcher working with eReefs data sources and tools, we invite you to join the [eReefs Community Forum](https://forum.ereefs.info).  
+If you are a researcher working with eReefs data sources and tools, we invite you to join the [eReefs Community Forum](https://forum.ereefs.info).
 
 Announcements about new eReefs platform tools and features are made there, and it's a great space to ask for help or advice from other community members as well as from the eReefs research teams.
 

@@ -1,7 +1,8 @@
 ---
+header: false
 layout: splash
 permalink: /
-redirect_from: 
+redirect_from:
   - /ereefs/
 ---
 <div id="landing-page">
@@ -11,7 +12,7 @@ redirect_from:
       <div class="sub-content">
         <h1 class="landing-page-h1 title-text white-shadowed-text">eReefs</h1>
         <p class="subtitle-text white-shadowed-text">
-        a comprehensive view of dynamic marine environment conditions across the GBR from end-of-catchments and estuaries to reef lagoons and the open ocean 
+        a comprehensive view of dynamic marine environment conditions across the GBR from end-of-catchments and estuaries to reef lagoons and the open ocean
         </p>
       </div>
     </div>
@@ -87,7 +88,7 @@ redirect_from:
     <span class="text-container">
       <h2 class="landing-page-h2 white-shadowed-text">Evaluating the impact of our collaborative research</h2>
         <p class="landing-page-p white-shadowed-text">
-          A comprehensive review of CSIRO’s research impact on the Great Barrier Reef was completed by non-profit research institute RTI International in late 2024. The review covered our research portfolio ($142 Million of investment comprising 261 projects from 2011 to 2023). It aimed to capture the impact of our Reef research to date and explore the role of future science and technology in the Great Barrier Reef. External stakeholder feedback from across nine partner organisations also helped informed the review. 
+          A comprehensive review of CSIRO’s research impact on the Great Barrier Reef was completed by non-profit research institute RTI International in late 2024. The review covered our research portfolio ($142 Million of investment comprising 261 projects from 2011 to 2023). It aimed to capture the impact of our Reef research to date and explore the role of future science and technology in the Great Barrier Reef. External stakeholder feedback from across nine partner organisations also helped informed the review.
           </p>
           <p class="landing-page-p white-shadowed-text">
           The review found CSIRO’s Great Barrier Reef research portfolio is well-aligned with overarching Reef 2050 goals, and that collaborative engagement is critical to successful scientific reef management.
