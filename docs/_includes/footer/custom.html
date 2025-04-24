@@ -12,12 +12,12 @@
       {% endif %}
       {% endfor %}
    </div>
-   <div style="display: table-row">
+   <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
       {% assign current_date = "now" | date: "%Y-%m-%d" %}
       {% assign funders_sorted = site.funding | sort: "name" | sort_natural: "funding_end" | reverse  %}
       {% assign funders_current = funders_sorted | where_exp: "item", "item.funding_end >= current_date" %}
       {% assign funders_historical = funders_sorted | where_exp: "item", "item.funding_end < current_date" %}
-      <div class="logo-container" style="display: table-cell">
+      <div class="logo-container">
          <h2>Currently supported by:</h2>
          {% for supporter in funders_current %}
          {% if supporter.link_url %}
@@ -29,7 +29,7 @@
          {% endif %}
          {% endfor %}
       </div>
-      <div class="logo-container" style="display: table-cell">
+      <div class="logo-container">
          <h2>Previously Supported by:</h2>
          {% for supporter in funders_historical %}
          {% if supporter.link_url %}
