@@ -141,22 +141,72 @@
     justify-content: center;
   }
 
-  .container picture {
+  .container .image-link {
     max-width: 50%;
     flex-shrink: 0;
     margin: 15px;
     max-height: 30vh;
   }
 
-  .container img {
+  .container picture, .container a picture {
+    max-width: 50%;
+    flex-shrink: 0;
+    margin: 15px;
+    max-height: 30vh;
+  }
+
+  .container img, .container a img {
     object-fit: scale-down;
     max-height: 30vh;
   }
 
+.vignette-image-attribution-container {
+    width: 50% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.image_attribution {
+    color: #fff;
+    padding: 5px;
+    font-family: Georgia, Times, serif;
+    font-size: 0.6875em;
+    background: #000;
+    text-align: right;
+    z-index: 5;
+    opacity: 0.2;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+}
+
+.image-split-links {
+    position: relative;
+    display: inline-block;
+}
+
+.image-split-links a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+    height: 100%;
+}
+
+.image-split-links img {
+display: block;
+}
+
+.left-half-link {
+    left: 0;
+}
+
+.right-half-link {
+    right: 0;
+}
 
 @media (max-width: 767px) {
-    .container picture {
+    .container picture, .container a picture {
         display: none;
     }
 

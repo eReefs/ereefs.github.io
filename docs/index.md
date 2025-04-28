@@ -7,6 +7,8 @@ redirect_from:
 <div id="landing-page">
 
   <div class="fixed-background top-title-container top-title-image" id="background-1">
+    <span class="page__hero-caption">©Commonwealth of Australia (Reef Authority) 2014
+    </span>
     <div class="top-title-content">
       <div class="sub-content">
         <h1 class="landing-page-h1 title-text white-shadowed-text">eReefs</h1>
@@ -25,17 +27,21 @@ redirect_from:
       eReefs is an innovative initiative aimed at monitoring and modelling the Great Barrier Reef and its marine environment, to better understand and safeguard one of the world’s most iconic natural wonders into the future. Dive into the eReefs open-access systems to discover, visualise and re-use the available datasets... <a class="light-blue-links links-block" href="/tools/">Read more...</a>
       </p>
     </span>
-    <picture>
+    <picture class="image-split-links" title="Left side - ereefs data explorer fitzroy river Right side - ereefs visualisations princess charlotte bay">
       <source srcset="/assets/images/backgrounds/fullHD_webp/ereefs_data_explorer_fitzroy_river_ereefs_visualisations_princess_charlotte_bay.webp" type="image/webp" />
-      <img src="/assets/images/backgrounds/fullHD_jpg/ereefs_data_explorer_fitzroy_river_ereefs_visualisations_princess_charlotte_bay.jpg" alt="photo" />
+      <img src="/assets/images/backgrounds/fullHD_jpg/ereefs_data_explorer_fitzroy_river_ereefs_visualisations_princess_charlotte_bay.jpg" alt="Left side - ereefs data explorer fitzroy river Right side - ereefs visualisations princess charlotte bay" />
+      <a href="https://portal.ereefs.info/" target="_blank" class="left-half-link"></a>
+      <a href="https://ereefs.aims.gov.au/index.html" target="_blank" class="right-half-link"></a>
     </picture>
   </div>
 
   <div class="container">
-    <picture>
-      <source srcset="/assets/images/backgrounds/fullHD_webp/141958-2.webp" type="image/webp" />
-      <img src="/assets/images/backgrounds/fullHD_jpg/141958-2-downsized.jpg" alt="photo" />
-    </picture>
+    <a href="https://www.dcceew.gov.au/parks-heritage/great-barrier-reef" class="image-link" target="_blank">
+      <picture>
+        <source srcset="/assets/images/backgrounds/fullHD_webp/141958-2.webp" type="image/webp" />
+        <img src="/assets/images/backgrounds/fullHD_jpg/141958-2-downsized.jpg" alt="photo" />
+      </picture>
+    </a>
     <span class="text-container">
       <h2 class="landing-page-h2 white-shadowed-text">Australian icon with universal values</h2>
       <p class="landing-page-p white-shadowed-text">
@@ -46,6 +52,10 @@ redirect_from:
 
   <div class="fixed-background background-content top-title-image" id="background-2">
     <div class="vignette-container">
+      <div class="vignette-image-attribution-container">
+        <span class="image_attribution">Credit: European Union, contains Copernicus Sentinel data 2025
+        </span>
+      </div>
       <div class="vignette-content">
         <h2 class="landing-page-h2 white-shadowed-text">Managing the Great Barrier Reef to 2050 and beyond</h2>
         <p class="landing-page-p white-shadowed-text">
@@ -57,11 +67,13 @@ redirect_from:
   </div>
 
   <div class="container">
-    <picture>
-      <source srcset="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.avif" type="image/avif" />
-      <source srcset="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.webp" type="image/webp" />
-      <img src="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.jpg" alt="photo" />
-    </picture>
+    <a class='image-link' href="/research/water_quality_scenarios">
+      <picture>
+        <source srcset="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.avif" type="image/avif" />
+        <source srcset="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.webp" type="image/webp" />
+        <img src="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.jpg" alt="photo" />
+      </picture>
+    </a>
     <span class="text-container">
       <h2 class="landing-page-h2 white-shadowed-text">Water Quality Management from catchment and estuaries to reef lagoons and open ocean</h2>
       <p class="landing-page-p white-shadowed-text">
@@ -73,6 +85,10 @@ redirect_from:
 
   <div class="fixed-background background-content top-title-image" id="background-3">
     <div class="vignette-container">
+      <div class="vignette-image-attribution-container">
+        <span class="image_attribution">©Commonwealth of Australia (Reef Authority) 2014
+        </span>
+      </div>
       <div class="vignette-content">
         <h2 class="landing-page-h2 white-shadowed-text">Close links with Intervention and restoration</h2>
         <p class="landing-page-p white-shadowed-text">
@@ -94,11 +110,12 @@ redirect_from:
           <a target="_window" class="light-blue-links links-block" href="https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf">Read more...</a>
         </p>
     </span>
+    <a class='image-link' href="https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf" target="_blank">
       <picture>
         <source srcset="/assets/images/backgrounds/fullHD_webp/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.webp" type="image/webp" />
         <img src="/assets/images/backgrounds/fullHD_jpg/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.jpg" alt="RTI CSIROs Research Impact in the Great Barrier Reef" />
       </picture>
+    </a>
   </div>
-
   </main>
 </div>
