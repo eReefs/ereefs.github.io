@@ -26,7 +26,7 @@ eReefs plays a significant role in the conservation and management of the Great 
 
 - Support strategic and operational decision-making: Policy and management agencies, regional organizations, and researchers rely on eReefs' data, analyses, and visualizations to inform decisions across the Great Barrier Reef region.
 
-- Shape policy and governance: eReefs' outputs contribute to policies integrated into the UNESCO 2050 agreement for the GBR, as well as federal and state government initiatives aimed at water quality improvement and reef conservation.
+- Shape policy and governance: eReefs' outputs contribute to policies integrated into the [UNESCO 2050](https://whc.unesco.org/en/list/154/) agreement for the GBR, as well as federal and state government initiatives aimed at water quality improvement and reef conservation.
 
 <figure>
     <img src="/assets/images/ereef-concept-diagram-cropped.jpg" title="eReefs project workflow" alt="eReefs project workflow">

@@ -19,8 +19,8 @@ eReefs integrates marine hydrodynamic and biogeochemical models with catchment m
 The accuracy of eReefs models is supported by data collected through both routine in-situ monitoring and satellite earth observations.
 
 <figure>
-    <img src="/assets/images/research/DA_schematic-cropped.png" title="eReefs project workflow" alt="eReefs project workflow">
+    <img src="/assets/images/research/DA_schematic-cropped.png" title="eReefs Platform Components" alt="eReefs Platform Components">
     <figcaption>
-        eReefs project workflow
+        eReefs Platform Components
     </figcaption>
 </figure>

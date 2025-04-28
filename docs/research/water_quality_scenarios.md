@@ -4,7 +4,7 @@ title: Water Quality Scenarios
 ---
 Since 2016 integrated eReefs catchment and marine modelling has been used to undertake user-specified management scenarios that can provide assessments of how likely proposed catchment load reduction interventions could likely contribute to the achievement of mandated water quality targets. Agreed scenarios (a baseline and 3 or more management interventions) are developed by GBR managers and involve testing varying combinations of nutrient and sediment load reductions on downstream water quality conditions (Chlorophyll as a proxy of nutrient status, suspended sediment concentration) in the GBR lagoon, as well as ecological variables (bottom light, Secchi depth, seagrass cover, zooplankton). Based on these scenarios, catchment loads are firstly predicted from SOURCE and these are subsequently used as input into the regional marine models to predict GBR water column nutrient and sediment concentrations.
 
-## What scenarios have been run
+## What scenarios have been run?
 Nine scenarios were completed as part of the scenarios work package and WQ Targets (WQT). The five WQT scenario span dates between 2011 and 2022.
 The eReefs marine model outputs and scenarios for the 11 years were used to underpin the establishment of [Water Quality Targets](/research/gbr_water_quality_targets) for Reef Plan 2050. Marine modellers provided expertise and detailed analysis as part of the technical advisory committee December 2023 - September 2024.  The model results were approved by the Intergovernmental science panel (ISP).
 

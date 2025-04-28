@@ -3,9 +3,7 @@ classes: wide
 title: Impact Evaluations
 ---
 
-Evaluations related to eReefs and its impact.
-
-## Evaluations
+Evaluations related to eReefs and its impact:
 
 - 2024-11 [RTI: CSIRO's Research Impact in the Great Barrier Reef](https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf)
   > The review found CSIRO’s Great Barrier Reef research portfolio is well-aligned with overarching Reef 2050 goals, and that collaborative engagement is critical to successful scientific reef management.
