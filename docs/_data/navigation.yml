@@ -110,8 +110,6 @@ sidebar:
     #   url: /research/ereefs_ocean_colour_algorithms_international_uptake.html
     - title: Sea Surface Temperatures and Coral Bleaching
       url: /research/SST_and_bleaching.html
-  
-  - title: "Contact"
-    children:
-    - title: "Contact Us"
-      url: "/contact/"
+
+  - title: "Contact Us"
+    url: "/contact/"

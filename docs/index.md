@@ -1,7 +1,8 @@
 ---
+header: false
 layout: splash
 permalink: /
-redirect_from: 
+redirect_from:
   - /ereefs/
 ---
 <div id="landing-page">
