@@ -3,7 +3,7 @@ classes: wide
 title: Crown of Thorns Starfish Control and Innovation Program
 ---
 
-Recurrent s outbreaks of the crown-of-thorns starfish (COTS) along the GBR is a significant management issue now requiring active control programs to limit this coral predator to ecologically sustainable levels and re-establish coral growth and recovery The Crown of Thorns Starfish Control and Innovation program (CCIP) is a research initiative that is boosting capacity to predict, detect and respond to COTS outbreaks at scale across the Great Barrier Reef.
+Recurrent outbreaks of the crown-of-thorns starfish (COTS) along the GBR is a significant management issue now requiring active control programs to limit this coral predator to ecologically sustainable levels and re-establish coral growth and recovery. The Crown of Thorns Starfish Control and Innovation program (CCIP) is a research initiative that is boosting capacity to predict, detect and respond to COTS outbreaks at scale across the Great Barrier Reef.
 
 For the past 40 years, the "terrestrial run-off" hypothesis has been a leading hypothesis to explain the apparent increase in frequency of COTS outbreaks on the Reef. According to this hypothesis, terrestrial anthropogenic nutrient inputs increase the phytoplankton food source for COTS larvae in the outbreak initiation zone north of Cairns, and this enhances the survival and recruitment of COTS which subsequently spread throughout the GBR.
 
