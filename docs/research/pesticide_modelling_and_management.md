@@ -5,7 +5,7 @@ title: Pesticide Modelling and Management
 
 Pesticides from agricultural runoff have been detected above marine water quality guidelines for the GBR and here eReefs can be used to inform management strategies. 
 
-## What scenarios have been run
+## What scenarios have been run?
 A pesticide modelling capability for simulating single pesticide (diuron) dispersal was developed and tested. Diuron dispersal was modelled using the GBR1 model between 2016 and 2019 and validated with available diuron observational data. 
 The model incorporates various factors such as river plumes, currents, tides, coastline, and bathymetry to simulate the movement and dispersion of substances such as pesticides in the marine environment. The eReefs marine model can pinpoint areas where pesticides are most likely to accumulate or have the greatest impact on reef ecosystems.
 

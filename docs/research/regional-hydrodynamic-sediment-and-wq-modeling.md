@@ -23,6 +23,8 @@ The modelling framework adopted for eReefs involves nesting a regional ocean mod
 
 ## Learn more about the eReefs Modelling System
 
+- [Catchment model](/research/catchment_model)
+
 - [Hydrodynamic model](https://research.csiro.au/ereefs/models/models-about/models-hydrodynamics/)
 
 - [Sediment transport](https://research.csiro.au/ereefs/models/models-about/models-sediment-transport/)

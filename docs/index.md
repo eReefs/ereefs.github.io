@@ -85,10 +85,10 @@ redirect_from:
       </span>
       <div class="vignette-container">
         <div class="vignette-content">
-          <h2 class="landing-page-h2 white-shadowed-text">Close links with Intervention and restoration</h2>
+          <h2 class="landing-page-h2 white-shadowed-text">Close links with Intervention and restoration programs</h2>
           <p class="landing-page-p white-shadowed-text">
-            Bleaching and <a class="light-blue-links" href="/research/supporting_the_crown_of_thorns_starfish_control_and_innovation_program">Crown of Thorns Starfish </a> outbreaks are two major threats to the Great Barrier Reef, both significantly reducing coral cover and reef biodiversity. To build more resilient reefs, we collaborate with research programs targeted at intervention and restoration...
-            <a class="light-blue-links links-block" href="/research/reef_2050_plan_overview">Read more...</a>
+            Bleaching and Crown of Thorns Starfish outbreaks are two major threats to the Great Barrier Reef, both significantly reducing coral cover and reef biodiversity. To build more resilient reefs, we collaborate with research programs targeted at intervention and restoration...
+            <a class="light-blue-links links-block" href="/research/ereefs_in_action_summary">Read more...</a>
           </p>
         </div>
       </div>
