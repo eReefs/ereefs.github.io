@@ -81,6 +81,7 @@
     margin-right: auto;
     padding-top: 150px;
     padding-bottom: 150px;
+    position: relative;
 }
 
 .vignette-container {
@@ -146,9 +147,17 @@
     flex-shrink: 0;
     margin: 15px;
     max-height: 30vh;
+    position: relative;
   }
 
-  .container picture, .container a picture {
+ .container a picture {
+    max-width: 50%;
+    flex-shrink: 0;
+    max-height: 30vh;
+    margin: 0;
+  }
+
+  .container picture {
     max-width: 50%;
     flex-shrink: 0;
     margin: 15px;
@@ -159,26 +168,6 @@
     object-fit: scale-down;
     max-height: 30vh;
   }
-
-.vignette-image-attribution-container {
-    width: 50% !important;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.image_attribution {
-    color: #fff;
-    padding: 5px;
-    font-family: Georgia, Times, serif;
-    font-size: 0.6875em;
-    background: #000;
-    text-align: right;
-    z-index: 5;
-    opacity: 0.2;
-    border-radius: 4px 4px 4px 4px;
-    height: 25px;
-}
 
 .image-split-links {
     position: relative;
