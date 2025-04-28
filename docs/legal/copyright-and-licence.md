@@ -35,19 +35,7 @@ Under a [CC-BY licence](https://creativecommons.org/licenses/by/4.0/):
 
 If you use eReefs data or software in a scientific publication, please also include the following acknowledgement:
 
-> “The *eReefs* data and software were produced as part of the *eReefs* project
-> ([ereefs.org.au](https://www.ereefs.org.au/)), a collaboration between the
-> Commonwealth Scientific and Industrial Research Organisation (CSIRO),
-> the Australian Institute of Marine Science (AIMS),
-> the Bureau of Meteorology (BOM) and the
-> Queensland Government Department of the Environment, Tourism, Science and Innovation (DETSI)
-> with observations obtained through the Integrated Marine Observing System (IMOS).
-> These agencies received funding and support from the
-> Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW),
-> the Great Barrier Reef Foundation (GBRF),
-> the Science Industry Endowment Fund (SIEF)
-> and the BHP Billiton Mitsubishi Alliance”
-
+> {% include  acknowlegement.md %}
 
 ## Other Permissions
 
