@@ -7,7 +7,12 @@ title: Catchment model
 The eReefs modelling framework uses river flow rates and nutrient loads from the BOM G2G and Queensland government Paddock to Reef Catchment models.
 
 <div style="max-width: 50%; margin: auto;">
-  {% include figure image_path="/assets/images/research/catchment_input.png" alt="eReefs catchment input node (rivers) into water receiving ocean model" caption="eReefs catchment input nodes (rivers) into water receiving ocean model" %}
+  <figure>
+      <img src="/assets/images/research/catchment_input.png" title="Rivers where the catchment meets the marine models" alt="Rivers where the catchment meets the marine models">
+      <figcaption>
+          Rivers where the catchment meets the marine models
+      </figcaption>
+  </figure>
 </div>
 
 ## Paddock to Reef Catchment model

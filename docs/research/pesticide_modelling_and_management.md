@@ -5,15 +5,24 @@ title: Pesticide Modelling and Management
 
 Pesticides from agricultural runoff have been detected above marine water quality guidelines for the GBR and here eReefs can be used to inform management strategies. 
 
-## eReefs Products used
-During Phase 5 a pesticide modelling capability for simulating single pesticide (diuron) dispersal was developed and tested. Diuron dispersal was modelled using the GBR1 model between 2016 and 2019 and validated with available diuron observational data. 
+## What scenarios have been run
+A pesticide modelling capability for simulating single pesticide (diuron) dispersal was developed and tested. Diuron dispersal was modelled using the GBR1 model between 2016 and 2019 and validated with available diuron observational data. 
 The model incorporates various factors such as river plumes, currents, tides, coastline, and bathymetry to simulate the movement and dispersion of substances such as pesticides in the marine environment. The eReefs marine model can pinpoint areas where pesticides are most likely to accumulate or have the greatest impact on reef ecosystems.
+
+| **Scenarios completed (Report Card 11 period)**  | **Date of model run** | **Model used**    | **With remote sensing** | **Number of rivers** | **Flow** |
+| ------------------------------------------------ | --------------------- | ----------------- | ----------------------------------------------- | ------------------------------------ | -------- |
+| **Pesticide scenarios**                          |                       |                   |                                                 |                                      |          |
+| Diuron                                           | Dec 2016 to Dec 2019  | GBR1<br>1 km grid | no                                              | 35                                   | Gauged   |
+| Diuron atrazine hexazinone tebuthiuron 24D       | Dec 2016 to Dec 2019  | GBR1<br>1 km grid | no                                              | 35                                   | Gauged   |
 
 Overall, it was found diuron was above 0.075 μg.L−1 for 175 km2 seagrass and 60 km2 coral habitats respectively. 
 
-<div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/Figure_3_Pesticide_modelling_diuron_dispersal_in_the_central_GBR.png" alt="Pesticide modelling (diuron dispersal) in the central GBR." caption="Pesticide modelling (diuron dispersal) in the central GBR" %}
-</div>
+<figure>
+    <img src="/assets/images/research/Figure_3_Pesticide_modelling_diuron_dispersal_in_the_central_GBR.png" title="Pesticide modelling (diuron dispersal) in the central GBR." alt="Pesticide modelling (diuron dispersal) in the central GBR.">
+    <figcaption>
+        Pesticide modelling (diuron dispersal) in the central GBR.
+    </figcaption>
+</figure>
 
 ## Outcomes and Impact
 - Use of the model can quantify ecologically sensitive areas and then nutrient/pollutant/sediment exceedance within these areas.  Quantification of these areas   produces model outputs that are easily applied to observational and management decisions. 

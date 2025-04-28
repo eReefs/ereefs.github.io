@@ -34,8 +34,8 @@ sidebar:
     url: /research/
     children:
     - title: "Remote Sensing"
-      url: /research/remote-sensing-and-wq.html
-    - title: In Situ Observations
+      url: https://research.csiro.au/ereefs/remote-sensing/
+    - title: In-Situ Observations
       url: /research/in_situ_observations.html
 
     - title: "Modelling System and Framework"
@@ -49,8 +49,10 @@ sidebar:
       url: /research/relocatable-fine-scale-coastal-models.html
     - title: Oil Spill Detection
       url: /research/oil_spill_detection.html
-    - title: Climate Projection Scenarios
-      url: /research/climate_projection_scenarios.html
+    # Awaiting further work
+    # - title: Climate Projection Scenarios
+    #   url: /research/climate_projection_scenarios.html
+
     # - title: Research Inputs
     #   url: /research/forcing_references.html
 
@@ -61,7 +63,7 @@ sidebar:
       url: /research/publications/peer-reviewed-publications.html
     - title: Interactive Visualisation
       url: /research/visualisation_tools.html
-    - title: Datasets
+    - title: Open Access Datasets
       url: /research/datasets.html
     - title: Data Access Tools
       url: /research/data_access_tools.html

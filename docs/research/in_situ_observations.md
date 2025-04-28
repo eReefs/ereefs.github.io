@@ -1,19 +1,25 @@
 ---
 classes: wide
-title: In Situ Observations
+title: In-Situ Observations
 ---
 
 Accurate prediction of sediment settling and transport is critical for managing water quality impacts on the GBR, but complex estuarine processes pose major modelling challenges. More efficient monitoring and modelling approaches are needed to better resolve estuarine sediment dynamics and thereby advance management of GBR water quality targets. 
 
-<div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/Figure_7_measurement_and_modelling_of_sediment_dynamics.png" alt="Estuarine processes (left) and observational tools (right) deployed to resolve these processess in the GB estuaries, particularly Fitzroy Estuary" %}
-</div>
+<figure>
+    <img src="/assets/images/research/Figure_7_measurement_and_modelling_of_sediment_dynamics.png" title="Estuarine processes (left) and observational tools (right) deployed to resolve these processess in the GB estuaries, particularly Fitzroy Estuary" alt="Estuarine processes (left) and observational tools (right) deployed to resolve these processess in the GB estuaries, particularly Fitzroy Estuary">
+    <figcaption>
+        Estuarine processes (left) and observational tools (right) deployed to resolve these processess in the GB estuaries, particularly Fitzroy Estuary
+    </figcaption>
+</figure>
 
 To improve our ability to resolve and model sediment processes, extensive new observations were collected in the estuaries of several major GBR catchments. Field measurements focused on sediment flocculation - the aggregation of fine silt and clay particles into larger, faster-settling flocs. The Fitzroy Estuary was the focal study system for an intensive field campaign that constrained seasonal-to-tidal scale forcing in one of the most complex estuaries in the GBR. Broader spatial sampling was also conducted in over a dozen other estuaries spanning the full length of the GBR coastline. These observational datasets were then used to develop and validate new numerical models for sediment transport. Machine learning was also applied to predict floc size and settling velocity from more easily measured water quality parameters. 
 
-<div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/Figure_8_measurement_and_modelling_of_sediment_dynamics.png" alt="In-situ data from GBR estuaries (left) were used with a modelling approach (right) that integrated a fully coupled current-wave-sediment model with an embedded machine learning model to more efficiently resolve estuarine sediment dynamics" caption="In-situ data from GBR estuaries (left) were used with a modelling approach (right) that integrated a fully coupled current-wave-sediment model with an embedded machine learning model to more efficiently resolve estuarine sediment dynamics" %}
-</div>
+<figure>
+    <img src="/assets/images/research/Figure_8_measurement_and_modelling_of_sediment_dynamics.png" title="In-situ data from GBR estuaries (left) were used with a modelling approach (right) that integrated a fully coupled current-wave-sediment model with an embedded machine learning model to more efficiently resolve estuarine sediment dynamics" alt="In-situ data from GBR estuaries (left) were used with a modelling approach (right) that integrated a fully coupled current-wave-sediment model with an embedded machine learning model to more efficiently resolve estuarine sediment dynamics">
+    <figcaption>
+        In-situ data from GBR estuaries (left) were used with a modelling approach (right) that integrated a fully coupled current-wave-sediment model with an embedded machine learning model to more efficiently resolve estuarine sediment dynamics
+    </figcaption>
+</figure>
 
 ## eReefs Products used
 - The high-resolution estuarine model was forced by eReef model to provide boundary conditions (e.g. salinity, temperature and currents) at the open boundary to predict estuarine-shelf exchanges.
