@@ -1,6 +1,6 @@
 ---
 classes: wide
-title: Reef 2050 Plan Overview
+title: Reef 2050 Plan
 ---
 The management and protection of the Great Barrier Reef is an ongoing priority of the Australian Government. Considerable investment has been made to advance our knowledge of the Reef ecosystem, which has informed the targeting of decades of investment on actions to address key pressures and risks.
 

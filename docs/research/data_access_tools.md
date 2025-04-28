@@ -18,10 +18,6 @@ These tools have been developed to help you discover and re-use eReefs data prod
 {% endif %}{% endfor %}
 </center>
 
-## Tutorials
-
-Follow these tutorials to learn how to subset, analyse and visualise eReefs data:
-
 <center>
 {% for tool in site.tools %}{% if tool.category == "tutorial" and tool.status != "decommissioned" %}
 <div class="tile {{tool.agency}} {{tool.category}}" markdown="0">

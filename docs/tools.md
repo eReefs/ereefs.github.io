@@ -2,6 +2,7 @@
 permalink: /tools/
 toc: true
 tick_sticky: true
+title: eReefs Outputs
 ---
 {% assign active_tools = site.tools | where_exp: "item", "item.status != 'decommissioned'" %}
 

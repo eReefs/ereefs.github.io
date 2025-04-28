@@ -9,6 +9,9 @@ In the previous eReefs project, it has mostly been used as an offshore downscali
 
 The current phase of eReefs aims to extend RECOM to nearshore coastal and estuarine applications, with the ability to define the riverine features more accurately.
 
-<div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/eReefs-RECOMv2.png" alt="recom dashboard" caption="recom-dashboard" %}
-</div>
+<figure>
+    <img src="/assets/images/research/eReefs-RECOMv2.png" title="A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns" alt="A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns">
+    <figcaption>
+        A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns
+    </figcaption>
+</figure>
