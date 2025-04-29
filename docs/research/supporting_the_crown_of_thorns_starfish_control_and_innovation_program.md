@@ -22,10 +22,6 @@ eReefs model scenario outputs were used to test the terrestrial run-off hypothes
 Analysis of eReefs scenarios found that that riverine nutrient loads are a minor control on planktonic biomass in the COTS initiation zone relative to other forcing, i.e. ocean and atmospheric processes. These results imply that even the most aggressive land management options will not substantially improve water quality in the initiation zone, despite improving nearshore water quality more generally. 
 
 <div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/Figure_6_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" alt="Over of eReefs Scenario analysis, methodology and results" caption="Overview of eReefs Scenario analysis, methodology and results" %}
-</div>
-
-<div style="max-width: 90%; margin: auto;">
     <figure>
         <img src="/assets/images/research/Figure_6_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" title="Overview of eReefs Scenario analysis, methodology and results" alt="Overview of eReefs Scenario analysis, methodology and results">
         <figcaption>
