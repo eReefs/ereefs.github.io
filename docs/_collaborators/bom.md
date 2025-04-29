@@ -8,7 +8,7 @@ collaboration_start: '2012-01-01'
 ---
 The Bureau of Meteorology was involved in the *eReefs* project from the beginning of the collaboration in 2012, and have contributed several key components of the eReefs platform over the years of their participation.
 
-In the early phases of *eReefs*, the Bureau developed and hosted several operational web applications, including [ReefTemp Next Generation](/research/historical_outputs.html#reeftemp-next-generation) and the [eReefs Marine Water Quality Dashboard](/research/historical_outputs.html#marine-water-quality-dashboard).
+In the early phases of *eReefs*, the Bureau developed and hosted several operational web applications, including [ReefTemp Next Generation](/research/publications/web-applications.html#reeftemp-next-generation) and the [eReefs Marine Water Quality Dashboard](/research/publications/web-applications.html#marine-water-quality-dashboard).
 
 More recently, the Bureau have developed [catchment water quantity and quality models](/research/catchment_model) able to simulate streamflow and water quality concentration and load at an hourly time scale for all Great Barrier Reef gauged and ungauged catchments.  The real-time system was developed by the Bureau and deployed on Amazon Web Services (AWS) before being delivered to CSIRO to run operationally, while the historical simulation system (streamflow only) was developed using National Computational Infrastructure (NCI). These systems are capable of providing historical and real-time information on water quantity and quality to support the tactical decision-making for a range of stakeholders, and have been used as river-forcing for 69 rivers in the most recent generation of *eReefs* marine models.
 

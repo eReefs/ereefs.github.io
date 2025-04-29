@@ -64,18 +64,16 @@ sidebar:
     children:
     - title: Research Publications
       url: /research/publications/peer-reviewed-publications.html
-    - title: Interactive Visualisation
-      url: /research/visualisation_tools.html
+    - title: Web Applications
+      url: /research/publications/web-applications.html
     - title: Open Access Datasets
-      url: /research/datasets.html
+      url: /research/publications/datasets.html
     - title: Data Access Tools
-      url: /research/data_access_tools.html
+      url: /research/publications/data-access-tools.html
     - title: Open Source Software
-      url: /research/open_source_software.html
+      url: /research/publications/software.html
     - title: Impact Evaluations
       url: /research/publications/case-studies.html
-    - title: Historical Outputs
-      url: /research/historical_outputs.html
 
   - title: "Reef 2050 Plan"
     url: "/research/reef_2050_plan_overview.html"

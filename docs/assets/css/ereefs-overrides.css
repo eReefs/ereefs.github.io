@@ -290,6 +290,14 @@ figure.third > a {
 
 
 /* Navigation tiles */
+.tilegroup {
+   align-items: stretch;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
 .tile {
    display: inline-block;
    margin: 0.5em;
@@ -299,6 +307,10 @@ figure.third > a {
    text-align: center;
    vertical-align: top;
    width: 30%;
+}
+
+.tilegroup > .tile {
+   display: block;
 }
 
 .tile-and-content .tile {
@@ -321,6 +333,10 @@ figure.third > a {
 }
 .tile a:focus, .tile a:hover {
    color: var(--ereefs-lightest-blue);
+}
+
+.tilegroup .tile a {
+   height: 100%;
 }
 
 .tile i.fas {
