@@ -1,0 +1,2 @@
+
+The eReefs datasets (model simulations, satellite or in-situ observations) and software were produced as part of the *eReefs* project ([ereefs.org.au](https://www.ereefs.org.au/)), which is a collaboration between Australia’s national science agency CSIRO, the Australian Institute of Marine Science (AIMS) and the Queensland Government, with observations obtained through the Integrated Marine Observing System (IMOS) and the Great Barrier Reef Marine Park Authority (GBRMPA).  *eReefs* is funded by the Australian Government's Reef Trust.

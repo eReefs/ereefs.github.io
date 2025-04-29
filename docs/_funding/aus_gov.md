@@ -1,12 +1,17 @@
 ---
-name: Australian Government
-logo_url: /assets/images/partners/Aus-Gov_0-199x100.png
-small_logo_url: /assets/images/partners/Aus-Gov-159x80.png
+name: Australian Government Reef Trust
+link_url: https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/our-investments/reef-trust
+logo_url_dark: /assets/images/partners/AusGov_ReefTrust_logo_colour.png
+logo_url_light: /assets/images/partners/AusGov_ReefTrust_logo_reversed.png
+funding_end: '2026-06-30'
+funding_start: '2012-01-01'
 ---
-The management and protection of the Great Barrier Reef is an ongoing priority of the Australian Government. Considerable investment has been made to advance our knowledge of the Reef ecosystem, which has informed the targeting of decades of investment on actions to address key pressures and risks.
+The Australian Government has supported *eReefs* since its inception.
 
-The Reef 2050 Plan, is the long-term plan to adaptively manage the Reef into the future and provides an over-arching framework to guide protection and management of the Great Barrier Reef World Heritage Area from 2015 to 2050.
+From 2025 onwards, *eReefs* is directly funded by the [Australian Government Reef Trust](https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/our-investments/reef-trust).
 
-The Reef 2050 Plan builds on the existing Reef Water Quality Protection Plan which has evolved over more than 10 years as new science has emerged on risks to the Reef and management actions to address them.
+From 2018 until 2024, *Reef Trust* support for the *eReefs* were administered by the *Great Barrier Reef Foundation (GBRF)* as part of the [Integrated Monitoring and Reporting](https://www.barrierreef.org/what-we-do/reef-trust-partnership/integrated-monitoring-and-reporting) component of the [Reef Trust Partnership](https://barrierreef.org/what-we-do/reef-trust-partnership) agreement between GBRF and the Australian Government.
 
-The eReefs project is the first step in building a comprehensive coastal information system for Australia. By capturing an accurate picture of what changes are occurring in the Reef’s water quality, eReefs is helping to document and respond to potential environmental events like coral bleaching that can have a devastating effect on the Reef.
+In 2016, the Reef Trust committed further funding to *eReefs* under the Reef Trust Partnership.
+
+From 2012 to 2016, the Australian Government matched the Queensland Government's funding for the development of the *eReefs* Platform  via the [Caring for our Country](https://www.dcceew.gov.au/environment/land/landcare/past-programs/caring-for-country) initiative and the [Reef Rescue Program](https://webarchive.nla.gov.au/awa/20120318193507/http://www.environment.gov.au/about/grants/pubs/grants-report-dec11.pdf).

@@ -6,6 +6,45 @@ authors:
 title: "References"
 references:
   - authors:
+      - given-names: Southern Cross University
+    abstract: >-
+      Laboratory experiments confirm the accuracy of numerical modelling in simulating coral bleaching, according to new research from Southern Cross University.
+    title: >-
+      Modelling as a tool for predicting coral reef futures
+    url: https://www.scu.edu.au/news/2025/coral-reef-modelling/
+    date-published: 2025-04-15
+    year: 2025
+    month: 04
+    journal: Southern Cross University
+    languages:
+      - en
+    publisher:
+      name: Southern Cross University
+    type: article
+
+  - authors:
+      - family-names: Sun
+        given-names: Chaojiao
+      - family-names: Steinberg
+        given-names: Craig
+    abstract: >-
+      For coral reefs, climate change is an existential threat.
+      Australia’s Great Barrier Reef has endured seven mass bleaching events over the past 25 years.
+      Five have occurred in the past eight years.
+    title: >-
+      Cool water from the deep could protect pockets of the Great Barrier Reef into the 2080s
+    url: https://www.brisbanetimes.com.au/national/no-more-excuses-on-danger-to-great-barrier-reef-20210725-p58cp7.html
+    date-published: 2024-11-30
+    year: 2024
+    month: 11
+    journal: The Conversation
+    languages:
+      - en
+    publisher:
+      name: The Conversation
+    type: article
+
+  - authors:
       - family-names: Hughes
         given-names: Terry
     abstract: >-

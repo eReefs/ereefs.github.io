@@ -1,0 +1,229 @@
+#background-1 {
+    background-image:url('/assets/images/backgrounds/fullHD_webp/141155-2_cropped.webp')
+}
+
+#background-2 {
+    background-image:url('/assets/images/backgrounds/fullHD_webp/background_2_by_European_Union_Copernicus_cropped.webp')
+}
+
+#background-3 {
+    background-image:url('/assets/images/backgrounds/fullHD_webp/141896-2.webp')
+}
+
+.fixed-background {
+    background-attachment: fixed;
+}
+
+#main:has(#landing-page) {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0em;
+    padding-right: 0em;
+    max-width: 100%;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+}
+
+.title-text {
+    font-size: 2.5rem !important;
+}
+
+.subtitle-text{
+    font-size: 1.5rem !important;
+}
+
+.image-vignette {
+    max-height: 50vh;
+    min-height: 35vh;
+ 
+    width:auto; 
+    object-fit:cover;
+}
+
+.sub-content {
+    margin: 20px 50px 20px 50px;
+}
+
+.top-title-container {
+
+    background-color: var(--ereefs-darkest-blue);
+    min-height: 35vh;
+    color: var(--ereefs-white);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.top-title-image {
+    background-size: cover;
+    height: 75vh;
+    align-items: center;
+}
+
+.top-title-content {
+    width: 100%;
+    max-width: 1520px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background-content {
+    height: 100%;
+    width: 100%;
+    max-width: 1520px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    position: relative;
+}
+
+.vignette-container {
+    width: 100%;
+    max-width: 1520px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.vignette-content {
+    padding: 20px 20px 20px 20px;;
+    background-color: var(--ereefs-darkest-blue);
+    width: 50%;
+}
+
+.white-shadowed-text {
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+.light-blue-links {
+    color: var(--ereefs-light-blue) !important;
+    text-align: end;
+}
+.links-block {
+    display: block
+}
+
+.landing-page-h2 {
+    margin-top: 0px;
+}
+
+.landing-page-p {
+    margin-bottom: 0px !important;
+}
+
+.container {
+    display: flex;
+    border: 1px solid #ccc;
+    background-color: var(--ereefs-darkest-blue);
+    align-items: center;
+    max-height: 100vh;
+    justify-content: space-around;
+  }
+
+  .container .text-container {
+    flex: 1;
+    padding: 1em;
+    font-size: 16px;
+    min-height: 30vh;
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .container .image-link {
+    max-width: 50%;
+    flex-shrink: 0;
+    margin: 15px;
+    max-height: 30vh;
+    position: relative;
+  }
+
+ .container a picture {
+    max-width: 50%;
+    flex-shrink: 0;
+    max-height: 30vh;
+    margin: 0;
+  }
+
+  .container picture {
+    max-width: 50%;
+    flex-shrink: 0;
+    margin: 15px;
+    max-height: 30vh;
+  }
+
+  .container img, .container a img {
+    object-fit: scale-down;
+    max-height: 30vh;
+  }
+
+.image-split-links {
+    position: relative;
+    display: inline-block;
+}
+
+.image-split-links a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+    height: 100%;
+}
+
+.image-split-links img {
+display: block;
+}
+
+.left-half-link {
+    left: 0;
+}
+
+.right-half-link {
+    right: 0;
+}
+
+@media (max-width: 767px) {
+    .container picture, .container a picture {
+        display: none;
+    }
+
+    .container .text-container {
+        max-width: 100%;
+    }
+
+    .container {
+        max-height: 100vh;
+    }
+
+
+    .vignette-content {
+        width: 100%
+    }
+
+    .title-text {
+        font-size: 2rem !important;
+    }
+    
+    .subtitle-text{
+        font-size: 1rem !important;
+    }
+
+    .sub-content {
+        margin: 10px 15px 10px 15px;
+    }
+    .top-title-container {
+        min-height: auto;
+    }
+}

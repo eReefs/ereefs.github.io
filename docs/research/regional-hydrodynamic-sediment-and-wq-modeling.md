@@ -1,35 +1,39 @@
 ---
 classes: wide
+title: Modelling System and Framework
 ---
-# Regional hydrodynamic, sediment and water quality modeling
-A modelling framework which links the management of agricultural activities in catchments to water quality and ecological responses in receiving waters has been recommended as an approach to support the design and implementation of water quality improvement plans (Webster et al., 2008). Such a framework would link models of land use and contaminant supply to the transport of these contaminants down rivers and through estuaries and ultimately to the transport and transformation of this material in marine systems.
 
-Material transport and transformations
-The fate of material delivered to the marine environment can be simulated through the application of materials transport and transformation models (see Figure above from Webster et al. 2008). Hydrodynamic models simulate the advection and mixing of water and as such are a necessary precursor to the development of water quality and ecological response models. Sediment transport models then predict the fate of suspended particulates in the water column and benthos, including transport and mixing processes, settling, resuspension and flocculation. Biogeochemical models then build on these to provide a picture of primary and secondary productivity, nutrient cycling and dissolved oxygen dynamics. The eReefs project is developing such a coupled system for the GBR that spanning hydrodynamics through to biogeochemistry.
+The fate of materials in the marine environment is simulated using transport and transformation models. Catchment model (or watershed model) simulate how water moves through a land catchment and provide inputs for the receiving water ocean models. Hydrodynamic ocean models drive water movement and mixing, forming the foundation for water quality and ecological response models. Oceanic sediment transport models predict the movement of suspended particulates, including settling, resuspension, mixing, and flocculation.The Ocean biogeochemical models build on these, simulating primary and secondary productivity, nutrient cycling, and dissolved oxygen dynamics. Data assimilation quantifies uncertainties reduce errors to provide the best estimate of ocean condtions.
 
-The modelling framework adopted for this study involves nesting a regional hydrodynamic model within a global circulation model, in order to provide accurate forcing data along the boundary within the Coral Sea, where mesoscale oceanographic processes strongly affect exchange between the Coral Sea and the GBR Lagoon. The regional model covers the continental shelf from the NSW border to the mainland of Papua New Guinea, extending eastwards into the Coral Sea Territories a sufficient distance to avoid the topographical complexities of the Queensland and Marion plateaus. The regional model is intended to simulate the dominant oceanographic processes impacting on the GBR shelf, including the significant mesoscale features of the South Equatorial Current (SEC) and the current jets that result from the interactions of the SEC with the Queensland and Marion Plateaus. The average resolution of the regional model is ~4 km. Within this regional grid, a more finely resolved model (the shelf model) with resolution of ~1 km is nested to cover the continental shelf areas and the adjoining tract of the Coral Sea. Output from the regional model is used to force the boundaries of the shelf model.
+<figure>
+    <img src="/assets/images/research/eReefs_model_framework2.png" title="eReefs modelling framework" alt="eReefs modelling framework">
+    <figcaption>
+        eReefs modelling framework
+    </figcaption>
+</figure>
 
-### Hydrodynamic model
-The hydrodynamic model SHOC (Sparse Hydrodynamic Ocean Code; Herzfeld et al., 2006) is employed for both the regional and shelf model applications. SHOC is a general purpose model (Herzfeld, 2006) based on the paper of Blumberg and Herring (1987), applicable on spatial scales ranging from estuaries to regional ocean domains. It is a three-dimensional finite-difference hydrodynamic model, based on the primitive equations. Outputs from the model include three-dimensional distributions of velocity, temperature, salinity, density, passive tracers, mixing coefficients and sea-level. Inputs required by the model include forcing due to wind, atmospheric pressure gradients, surface heat and water fluxes and open-boundary conditions such as tides and low frequency ocean currents.
+The modelling framework adopted for eReefs involves nesting a regional ocean model within a global ocean circulation model [Bluelink](https://www.csiro.au/en/research/natural-environment/oceans/bluelink), to provide accurate forcing data along the boundary within the Coral Sea, where mesoscale oceanographic processes strongly affect exchange between the Coral Sea and the GBR Lagoon. The average resolution of the regional model is ~4 km. Within this regional grid, a more finely resolved model with a resolution of ~1 km is also availlable.
 
-Due to computational constrains it is not possible to run sediment transport and biogeochemistry directly coupled to the hydrodynamics model. A transport model is used to achieve the same objective; this model uses currents and mixing variables stored offline from the hydrodynamic model to advect and diffuse the sediment transport and biogeochemical variables. Since this model uses an unconditionally stable semi-Lagrangian advection scheme, the time-step can be significantly increased over that used in the hydrodynamic model, leading to orders of magnitude improvements in runtime that allow long term simulations to be achieved.
+<figure>
+    <img src="/assets/images/research/eReefs_model_framework.png" title="eReefs model domains" alt="eReefs model domains">
+    <figcaption>
+        eReefs model domains
+    </figcaption>
+</figure>
 
-### Fine sediment transport
-The sediment transport model adds a multilayer sediment bed to the hydrodynamic model grid and simulates sinking, deposition and resuspension of multiply size-classes of suspended sediment (Margvelashvili et al., 2008). The model solves advection-diffusion equations of the mass conservation of suspended and bottom sediments and is particularly suitable for representing fine sediment dynamics, including resuspension and transport of biogeochemical particles. Sediment particles settle on the seabed due to the gravity force and resuspend into the water column whenever the bottom shear stresses, exerted by waves and currents, exceed the critical shear stress of erosion.
+## Learn more about the eReefs Modelling System
 
-Sediments in benthic layers undergo vertical mixing due to bioturbation, represented by local diffusion. The corresponding diffusion coefficient is scaled with the sediment depth so that the bioturbation of sediments ceases to operate at the bottom of the biologically active layer. The resistance of sediments to resuspension increases with the sediment depth and there is no direct exchange of particles in horizontal directions within the benthic sediments.
+- [Catchment model](/research/catchment_model)
 
-The sediment transport model can be fully coupled to the hydrodynamic model implying that both models run in parallel and have the same time step. An alternative option is to simulate sediment transport in off-line mode. In this case currents and diffusion coefficients saved from the hydrodynamic model run provide inputs into the stand-alone sediment transport model. The simulation time-step is much larger than that of the coupled model and there is no feedback from the sediment processes to the hydrodynamics, i.e. the impact of sediments on flow, density and turbulence are not simulated. This decoupling of the sediment and hydrodynamic models provided substantial benefits in computational efficiency.
+- [Hydrodynamic model](https://research.csiro.au/ereefs/models/models-about/models-hydrodynamics/)
 
-### Biogeochemical Model
-The EMS biogeochemical (BGC) – ecological model has been developed through 20 years of coastal applications around Australia. An account of the current model as used in a recent application in the Derwent Estuary can be found in Wild-Allen et al. (2009). The ecological model water column is organised as three ‘zones’: pelagic, epibenthic and sediment. The epibenthic zone overlaps with the lowest pelagic layer and shares the same dissolved and suspended particulate material fields. The sediment is modelled in multiple layers with a thin layer of easily resuspendable material overlying thicker layers of more consolidated sediment.
+- [Sediment transport](https://research.csiro.au/ereefs/models/models-about/models-sediment-transport/)
 
-Ecological processes are organised into the three zones with pelagic processes including phytoplankton and zooplankton growth and mortality, detritus remineralisation and fluxes of dissolved oxygen, nitrogen and phosphorus. Macroalgae and seagrass growth and mortality are included in the epibenthic zone whilst further phytoplankton mortality, microphytobenthos (benthic diatom) growth, detrital remineralisation and fluxes of dissolved substances are included in the sediment layer.
+- [Biogeochemical model](https://research.csiro.au/ereefs/models/models-about/models-biogeochemistry/)
 
-{% include figure image_path="/assets/images/research/image9-680x530.jpeg" alt="Biogeochemical Model" caption="Biogeochemical Model" %}
+- [Data Assimilation](https://research.csiro.au/ereefs/models/forcing/data-assimmilation/)
 
-The ecological model code is processed in columns equating to the model grid. At the start of each time step total mass of carbon, nitrogen and phosphorus in the water column, epibenthos and sediment across all ecological model tracers is summed. Computations then proceed for the uptake and transformation of substances within the ecological model. At the end of the ecological model time step the mass of all tracers is summed and checked against the initial value. Should a difference occur, the model stops and the offending algorithm must be corrected in order to proceed.
+- [References](/research/forcing_references)
 
-The transport model is forced with surface hourly or 24hr mean short wave radiation from the 4km model, which varies with latitude and cloud cover. Ambient photosynthetically active radiation (PAR) throughout the water column is calculated from incident surface radiation, attenuated by optically active substances in the water column.
 
-Further details can be found on the CSIRO Marine and Atmospheric Research website.
+

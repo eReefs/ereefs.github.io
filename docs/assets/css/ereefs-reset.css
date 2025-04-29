@@ -220,6 +220,10 @@ figure {
   margin: 1.5rem 0;
 }
 
+figcaption {
+  font-family: var(--ereefs-brand-font-family);
+}
+
 form {
   margin: 0;
 }

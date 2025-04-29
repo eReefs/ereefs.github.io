@@ -1,11 +1,19 @@
 ---
 name: Bureau of Meteorology
-logo_url: /assets/images/partners/BoM_0-412x100.png
-small_logo_url: /assets/images/partners/BoM-210x51.png
 link_url: http://www.bom.gov.au/
+logo_url_dark: /assets/images/partners/BoM_0-412x100.png
+logo_url_light: /assets/images/partners/BoM-210x51.png
+collaboration_end: '2024-06-30'
+collaboration_start: '2012-01-01'
 ---
-The Bureau of Meteorology is developing real time catchment and marine forecast models to simulate a range of physical and water quality processes across the Great Barrier Reef. These systems will provide short term forecasts of water conditions to support tactical decision making of a range of stakeholders. The first eReefs product known as the Marine Water Quality Dashboard is live on our website and provides ready access to the most up to date water quality monitoring across the Great Barrier Reef.
+The Bureau of Meteorology was involved in the *eReefs* project from the beginning of the collaboration in 2012, and have contributed several key components of the eReefs platform over the years of their participation.
 
-Active involvement in the eReefs project is one of the many ways the Bureau is fulfilling its mission to provide Australians with the information they need to manage and live within their natural environment, encompassing the atmosphere, oceans, water and land, as outlined in our Marine Strategy 2014 – 2019. The eReefs products form part of a growing suite of new data services developed under the National Plan for Environmental Information Initiative. This initiative is providing connected data services to enhance the discovery, sharing, use and reuse of environmental information. It is jointly managed by the Bureau of Meteorology and Department of the Environment.
+In the early phases of *eReefs*, the Bureau developed and hosted several operational web applications, including [ReefTemp Next Generation](/research/publications/web-applications.html#reeftemp-next-generation) and the [eReefs Marine Water Quality Dashboard](/research/publications/web-applications.html#marine-water-quality-dashboard).
 
-For further information about Bureau’s Environmental Information Program please contact us at environment@bom.gov.au.
+More recently, the Bureau have developed [catchment water quantity and quality models](/research/catchment_model) able to simulate streamflow and water quality concentration and load at an hourly time scale for all Great Barrier Reef gauged and ungauged catchments.  The real-time system was developed by the Bureau and deployed on Amazon Web Services (AWS) before being delivered to CSIRO to run operationally, while the historical simulation system (streamflow only) was developed using National Computational Infrastructure (NCI). These systems are capable of providing historical and real-time information on water quantity and quality to support the tactical decision-making for a range of stakeholders, and have been used as river-forcing for 69 rivers in the most recent generation of *eReefs* marine models.
+
+Although the Bureau is not directly involved in the current phase of *eReefs* development, they will continue ongoing collaborations with *eReefs* partners on scientific publications, and additionally support CSIRO to operate the real-time and historical systems until June 2025.
+
+> Providing trusted, reliable and responsive weather, water, climate, ocean and space weather services for Australia – all day, every day
+
+For further information about the Bureau’s water data information or forecast please contact <a href="mailto:water@bom.gov.au">water@bom.gov.au</a>.
