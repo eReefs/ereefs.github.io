@@ -65,14 +65,25 @@ Our featured eReefs datasets are:
 These tools have been developed to help you discover and re-use *eReefs* data products:
 
 <div class="tilegroup">
-{% assign data_access_tools = active_tools | where_exp: "item", "item.category == 'data-access' or item.category == 'tutorial'" %}
+{% assign data_access_tools = active_tools | where_exp: "item", "item.category == 'data-access'" %}
 {% for tool in data_access_tools %}
 <div class="tile {{tool.agency}} {{tool.category}}" markdown="0">
   <a href="{{tool.target_url}}" target="_window" title="Navigate to {{tool.title}}">
     <i class="fas fa-{{tool.fa-icon}}"></i>
     <h2>{{tool.title}}</h2>
     {{tool.caption | markdownify}}
-    {% if tool.preview_image %}<img alt="TODO: Preview of {{tool.title}}" src="{{tool.preview_image}}" />{% endif %}
+    {% if tool.preview_image %}<img alt="Preview of {{tool.title}}" src="{{tool.preview_image}}" />{% endif %}
+  </a>
+</div>
+{% endfor %}
+{% assign tutorials = active_tools | where_exp: "item", "item.category == 'tutorial'" %}
+{% for tool in tutorials %}
+<div class="tile {{tool.agency}} {{tool.category}}" markdown="0">
+  <a href="{{tool.target_url}}" target="_window" title="Navigate to {{tool.title}}">
+    <i class="fas fa-{{tool.fa-icon}}"></i>
+    <h2>{{tool.title}}</h2>
+    {{tool.caption | markdownify}}
+    {% if tool.preview_image %}<img alt="Preview of {{tool.title}}" src="{{tool.preview_image}}" />{% endif %}
   </a>
 </div>
 {% endfor %}
