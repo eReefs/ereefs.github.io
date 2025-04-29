@@ -67,10 +67,12 @@ redirect_from:
     </div>
     <div class="container">
       <a class='image-link' href="/research/water_quality_scenarios">
-        <picture title="eReefs data explorer displaying the total total_Chlorophyll levels near the fitzroy river">
+        <picture title="GBR1 water quality layers">
           <source srcset="/assets/videos/ereefs_data_explorer/water_quality_model_animation.avif" type="image/avif" />
           <source srcset="/assets/videos/ereefs_data_explorer/water_quality_model_animation.webp" type="image/webp" />
-          <img src="/assets/videos/ereefs_data_explorer/water_quality_model_animation.jpg" alt="eReefs data explorer displaying the total total_Chlorophyll levels near the fitzroy river" />
+          <img src="/assets/videos/ereefs_data_explorer/water_quality_model_animation.jpg" alt="GBR1 water quality layers" />
+          <span class="page__hero-caption">Satellite imagery provided by NASA's Global Imagery Browse Services
+          </span>
         </picture>
       </a>
       <span class="text-container">
