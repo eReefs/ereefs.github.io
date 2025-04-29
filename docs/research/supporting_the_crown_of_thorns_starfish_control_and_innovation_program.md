@@ -8,7 +8,12 @@ Recurrent outbreaks of the crown-of-thorns starfish (COTS) along the GBR is a si
 For the past 40 years, the "terrestrial run-off" hypothesis has been a leading hypothesis to explain the apparent increase in frequency of COTS outbreaks on the Reef. According to this hypothesis, terrestrial anthropogenic nutrient inputs increase the phytoplankton food source for COTS larvae in the outbreak initiation zone north of Cairns, and this enhances the survival and recruitment of COTS which subsequently spread throughout the GBR.
 
 <div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/Figure_5_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" alt="Crown of Thorns Starfish Control and Innovation Program" caption="eReefs model scenerios inform Crown of Thorns Starfish Control and Innovation Program" %}
+    <figure>
+        <img src="/assets/images/research/Figure_5_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" title="eReefs model scenerios inform Crown of Thorns Starfish Control and Innovation Program" alt="eReefs model scenerios inform Crown of Thorns Starfish Control and Innovation Program">
+        <figcaption>
+            eReefs model scenerios inform Crown of Thorns Starfish Control and Innovation Program
+        </figcaption>
+    </figure>
 </div>
 
 ## eReefs Products used
@@ -17,7 +22,16 @@ eReefs model scenario outputs were used to test the terrestrial run-off hypothes
 Analysis of eReefs scenarios found that that riverine nutrient loads are a minor control on planktonic biomass in the COTS initiation zone relative to other forcing, i.e. ocean and atmospheric processes. These results imply that even the most aggressive land management options will not substantially improve water quality in the initiation zone, despite improving nearshore water quality more generally. 
 
 <div style="max-width: 90%; margin: auto;">
-{% include figure image_path="/assets/images/research/Figure_6_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" alt="Over of eReefs Scenario analysis, methodology and results" caption="Over of eReefs Scenario analysis, methodology and results" %}
+{% include figure image_path="/assets/images/research/Figure_6_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" alt="Over of eReefs Scenario analysis, methodology and results" caption="Overview of eReefs Scenario analysis, methodology and results" %}
+</div>
+
+<div style="max-width: 90%; margin: auto;">
+    <figure>
+        <img src="/assets/images/research/Figure_6_supporting_the_crown_of_thorns_starfish_control_and_innovation_program.png" title="Overview of eReefs Scenario analysis, methodology and results" alt="Overview of eReefs Scenario analysis, methodology and results">
+        <figcaption>
+            Overview of eReefs Scenario analysis, methodology and results
+        </figcaption>
+    </figure>
 </div>
 
 ## Outcomes and Impact

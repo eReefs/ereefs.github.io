@@ -1,6 +1,6 @@
 ---
 classes: wide
-title: Outlook Reports
+title: GBR Outlook Reports
 ---
 
 Every five years, GBRMPA, provides an up to date snapshot of the health, of the GBR and identifies the key challenges facing it now and into the future. 

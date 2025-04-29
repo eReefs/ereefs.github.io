@@ -1,9 +1,11 @@
 ---
-toc: true
-toc_sticky: true
+title: eReefs Modelling System References
+classes: wide
 ---
 
-# Forcing References 
+The publications listed on this page have inspired and informed the eReefs models and related research.
+
+(For publications that have *resulted* from eReefs models and research, please see [eReefs Research Outputs – Publications](/research/publications/peer-reviewed-publications))
 
 ## 2014
 Fabricius K., Logan M., Weeks S., Brodie J. 2014. The effects of river run-off on water clarity across the central Great Barrier Reef Marine Pollution Bulletin 84, 191–200. <a href="https://doi.org/10.1016/j.marpolbul.2014.05.012">https://doi.org/10.1016/j.marpolbul.2014.05.012</a>
