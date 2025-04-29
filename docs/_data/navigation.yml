@@ -85,13 +85,12 @@ sidebar:
     ## Pending update
     # - title: Natural Resource Management Report Card
     #   url: /research/natural_resource_management_report_card.html
-    - title: Scientific Consensus Statements
-      url: /research/scientific_consensus_statements.html
-    - title: GBR Water Quality Targets
-      url: /research/gbr_water_quality_targets.html
-
-    - title: Outlook Reports
-      url: /research/outlook_reports.html
+    # - title: Scientific Consensus Statements
+    #   url: /research/scientific_consensus_statements.html
+    # - title: GBR Water Quality Targets
+    #   url: /research/gbr_water_quality_targets.html
+    # - title: GBR Outlook Reports
+    #   url: /research/outlook_reports.html
 
   - title: "eReefs in Action"
     url: /research/ereefs_in_action_summary.html
@@ -100,21 +99,19 @@ sidebar:
       url: /research/publications/media.html
     - title: Reef Snapshot Reports
       url: /research/reef_snapshot.html
-    - title: Reef Restoration and Adaptation Program (RRAP)
+    - title: Reef Restoration and Adaptation Program
       url: /research/reef_restoration_and_adaptation_program.html
-    - title: COTS Control and Innovation Program (CCIP)
+    - title: COTS Control and Innovation Program
       url: /research/supporting_the_crown_of_thorns_starfish_control_and_innovation_program.html
-    - title: CO<sub>2</sub> Removal by Seaweed
-      url: /research/macroalgae_for_mitigating_ocean_acidification_and_catchment_derived_nitrogen.html
-
-
+    # - title: CO<sub>2</sub> Removal by Seaweed
+    #   url: /research/macroalgae_for_mitigating_ocean_acidification_and_catchment_derived_nitrogen.html
     - title: Biodiversity and Threatened Species
       url: /research/assessing_biodiversity_and_threatened_species_on_the_gbr.html
     # TODO - wait and see if we want this page released
     # - title: Ocean Colour
     #   url: /research/ereefs_ocean_colour_algorithms_international_uptake.html
-    - title: Sea Surface Temperatures and Coral Bleaching
-      url: /research/SST_and_bleaching.html
+    # - title: Sea Surface Temperatures and Coral Bleaching
+    #   url: /research/SST_and_bleaching.html
 
   - title: "Contact Us"
     url: "/contact/"

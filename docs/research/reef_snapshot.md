@@ -2,7 +2,7 @@
 classes: wide
 title: GBRMPA Reef Snapshot Reports
 ---
-The Reef snapshot provides a summary of conditions on the Great Barrier Reef throughout summer, and how these conditions impact coral and Reef health and the actions being taken to help coral health.
+The [Reef snapshot](https://www2.gbrmpa.gov.au/learn/reef-health/reef-snapshot) provides a summary of conditions on the Great Barrier Reef throughout summer, and how these conditions impact coral and Reef health and the actions being taken to help coral health.
 
 The snapshot is a joint initiative of the Australian Government’s lead management and science agencies for the Great Barrier Reef, the Great Barrier Reef Marine Park Authority, the Australian Institute of Marine Science and CSIRO.
 
@@ -16,20 +16,11 @@ The eReefs project provides the Reef temperature exposure data for use in develo
 
 ## Reports
 
-| Report | Publication of report |
+| Report | Publication Year |
 | ----------- | ----------- | ----------- |
 | [Reef snapshot: summer 2019-20](https://hdl.handle.net/11017/3587) | 2020 |
 | [Reef snapshot: summer 2020-21](https://hdl.handle.net/11017/3813) | 2021 |
 | [Reef snapshot: summer 2021-22](https://hdl.handle.net/11017/3916) | 2022 |
 | [Reef Snapshot: Summer 2022-23](https://hdl.handle.net/11017/4002) | 2023 |
 | [Reef Snapshot: Summer 2023-24](https://hdl.handle.net/11017/4043) | 2024 |
-
-## eReefs Products used
-- GBR1
-
-## Outcomes and Impact
-- Provisions of freshwater exposure maps (calculation of index and provision of GIS layer) 
-
-## Related Resources
-<a href="https://www2.gbrmpa.gov.au/learn/reef-health/reef-snapshot">Reef Snapshot</a>
-
+| [Reef Snapshot: Summer 2024-25](https://hdl.handle.net/11017/4116) | 2025 |
