@@ -38,6 +38,7 @@ redirect_from:
     <div class="container">
       <a href="https://www.dcceew.gov.au/parks-heritage/great-barrier-reef" class="image-link" target="_blank">
         <picture title="Underwater reefscape, at Knife Reef" style="width:100%; height: 100%">
+          <source srcset="/assets/images/backgrounds/fullHD_webp/141958-2.avif" type="image/avif" />
           <source srcset="/assets/images/backgrounds/fullHD_webp/141958-2.webp" type="image/webp" />
           <img src="/assets/images/backgrounds/fullHD_jpg/141958-2-downsized.jpg" alt="Underwater reefscape, at Knife Reef">
           <span class="page__hero-caption">©Commonwealth of Australia (Reef Authority) 2014
@@ -67,9 +68,9 @@ redirect_from:
     <div class="container">
       <a class='image-link' href="/research/water_quality_scenarios">
         <picture title="eReefs data explorer displaying the total total_Chlorophyll levels near the fitzroy river">
-          <source srcset="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.avif" type="image/avif" />
-          <source srcset="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.webp" type="image/webp" />
-          <img src="/assets/videos/ereefs_data_explorer/total_Chlorophyll_sum_fitzroy_virdis.jpg" alt="eReefs data explorer displaying the total total_Chlorophyll levels near the fitzroy river" />
+          <source srcset="/assets/videos/ereefs_data_explorer/water_quality_model_animation.avif" type="image/avif" />
+          <source srcset="/assets/videos/ereefs_data_explorer/water_quality_model_animation.webp" type="image/webp" />
+          <img src="/assets/videos/ereefs_data_explorer/water_quality_model_animation.jpg" alt="eReefs data explorer displaying the total total_Chlorophyll levels near the fitzroy river" />
         </picture>
       </a>
       <span class="text-container">
@@ -106,6 +107,7 @@ redirect_from:
       </span>
       <a class='image-link' href="https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf" target="_blank">
         <picture title="RTI: CSIROs Research Impact in the Great Barrier Reef">
+          <source srcset="/assets/images/backgrounds/fullHD_webp/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.avif" type="image/avif" />
           <source srcset="/assets/images/backgrounds/fullHD_webp/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.webp" type="image/webp" />
           <img src="/assets/images/backgrounds/fullHD_jpg/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.jpg" alt="RTI: CSIROs Research Impact in the Great Barrier Reef" />
         </picture>
