@@ -9,7 +9,7 @@ The significance of the GBR for dugongs and turtles was one of the reasons for i
     <figure>
         <div style="position:relative;">
             <img src="https://www.jcu.edu.au/__data/assets/image/0008/1224692/varieties/fullhd.jpg" title="JCU PhD student Daniel Gonzales Paredes captures a turtle so a tracking device can be fitted to it." alt="JCU PhD student Daniel Gonzales Paredes captures a turtle so a tracking device can be fitted to it." style="margin-bottom:0px;">
-            <span class="page__hero-caption">JCU PhD student
+            <span class="page__hero-caption">Photo Credit: JCU PhD student
 Daniel Gonzales Paredes
             </span>
         </div>

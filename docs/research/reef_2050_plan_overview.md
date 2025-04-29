@@ -25,6 +25,8 @@ The eReefs project is the first step in building a comprehensive coastal informa
 
 ## Read More
 
-- [DCCEEW](https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/reef-2050-plan)
-- [GBRMPA](https://www2.gbrmpa.gov.au/our-work/reef-management-strategies/reef-2050-plan)
-- [QLD GOV](https://www.qld.gov.au/environment/coasts-waterways/reef/sustainability-plan)
+<ul>
+  <li><a href="https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/reef-2050-plan" target="_blank">The reef 2050 plan on the DCCEEW website</a><sup><i class="fa fas fa-external-link-square-alt"></i></sup></li>
+  <li><a href="https://www2.gbrmpa.gov.au/our-work/reef-management-strategies/reef-2050-plan" target="_blank">The reef 2050 plan on the GBRMPA website</a><sup><i class="fa fas fa-external-link-square-alt"></i></sup></li>
+  <li><a href="https://www.qld.gov.au/environment/coasts-waterways/reef/sustainability-plan" target="_blank">The reef 2050 plan on the Queensland Government website</a><sup><i class="fa fas fa-external-link-square-alt"></i></sup></li>
+</ul>
