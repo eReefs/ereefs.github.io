@@ -62,8 +62,8 @@ sidebar:
   - title: "eReefs Outputs"
     url: "/tools/"
     children:
-    - title: Research Publications
-      url: /research/publications/peer-reviewed-publications.html
+    - title: Scientific Publications
+      url: /research/publications/scientific-publications.html
     - title: Web Applications
       url: /research/publications/web-applications.html
     - title: Open Access Datasets

@@ -1,11 +1,11 @@
 ---
 toc: true
 toc_sticky: true
-title: Peer-reviewed Research Publications
+title: Scientific Publications
 ---
 The peer-reviewed publications listed on this page reference, cite, acknowledge or are a direct output from eReefs research and projects.
 
-For other related eReefs model input references, please see [References](https://research.csiro.au/ereefs/models/forcing/references/)
+For other related eReefs model input references, please see [References](/research/forcing_references)
 
 If you use the eReefs model outputs, software or platforms in your research, please include the following acknowledgement:
 
