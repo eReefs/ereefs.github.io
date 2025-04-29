@@ -19,7 +19,7 @@ These web applications are the main interactive components of the *eReefs* web p
     <i class="fas fa-{{tool.fa-icon}}"></i>
     <h2>{{tool.title}}</h2>
     {{tool.caption | markdownify}}
-    <img alt="TODO: Preview of {{tool.title}}" src="{{tool.preview_image}}" />
+    <img alt="Preview of {{tool.title}}" src="{{tool.preview_image}}" />
   </a>
 </div>
 {% endfor %}
