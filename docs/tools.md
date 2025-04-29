@@ -6,11 +6,11 @@ title: eReefs Outputs
 ---
 {% assign active_tools = site.tools | where_exp: "item", "item.status != 'decommissioned'" %}
 
-# Research Publications
+# Scientific Publications
 
 The *eReefs* research collaboration has resulted in a large number of peer-reviewed scientific publications.
 
-[See the full list of *eReefs* publications here!](/research/publications/peer-reviewed-publications.html)
+[See the full list of *eReefs* publications here!](/research/publications/scientific-publications.html)
 
 ---
 
