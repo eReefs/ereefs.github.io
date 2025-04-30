@@ -1,6 +1,6 @@
 ---
 classes: wide
-title: eReefs Web Applications
+title: Web Applications
 #toc: true
 #toc_sticky: true
 ---
