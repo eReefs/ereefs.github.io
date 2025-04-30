@@ -27,6 +27,11 @@
 .title-text {
     font-size: 2.5rem !important;
 }
+@media (min-width: 80em) {
+    .title-text {
+       font-size: 3.5rem !important;
+    }
+}
 
 .subtitle-text{
     font-size: 1.5rem !important;
@@ -35,8 +40,8 @@
 .image-vignette {
     max-height: 50vh;
     min-height: 35vh;
- 
-    width:auto; 
+
+    width:auto;
     object-fit:cover;
 }
 
@@ -215,7 +220,7 @@ display: block;
     .title-text {
         font-size: 2rem !important;
     }
-    
+
     .subtitle-text{
         font-size: 1rem !important;
     }
