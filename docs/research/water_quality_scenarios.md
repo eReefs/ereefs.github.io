@@ -6,7 +6,7 @@ Since 2016 integrated eReefs catchment and marine modelling has been used to und
 
 ## What scenarios have been run?
 Nine scenarios were completed as part of the scenarios work package and WQ Targets (WQT). The five WQT scenario span dates between 2011 and 2022.
-The eReefs marine model outputs and scenarios for the 11 years were used to underpin the establishment of [Water Quality Targets](/research/gbr_water_quality_targets) for Reef Plan 2050. Marine modellers provided expertise and detailed analysis as part of the technical advisory committee December 2023 - September 2024.  The model results were approved by the Intergovernmental science panel (ISP).
+The eReefs marine model outputs and scenarios for the 11 years were used to underpin the establishment of [Water Quality Targets](https://www.reefplan.qld.gov.au/water-quality-and-the-reef/the-plan/targets) for Reef Plan 2050. Marine modellers provided expertise and detailed analysis as part of the technical advisory committee December 2023 - September 2024.  The model results were approved by the Intergovernmental science panel (ISP).
 
 | **Scenarios completed (Report Card 11 period)**  | **Date of model run** | **Model used**    | **With remote sensing** | **Number of rivers** | **Flow** |
 | ------------------------------------------------ | --------------------- | ----------------- | ----------------------------------------------- | ------------------------------------ | -------- |
@@ -24,3 +24,8 @@ Application of the eReefs marine model scenarios were used to determine marine W
 > eReefs provides critical Reef modelling scenarios that support and inform the Reef Authority’s resilience-based management and decision-making processes, planning, permitting, monitoring and operations. The eReefs functionality and continued input is essential for planning in relation to climate change mitigation, impact assessment of critical inshore GBR habitats (e.g. seagrass), and associated Reef management strategies.  The Great Barrier Reef Marine Monitoring Program provides water quality data for eReefs modelling purposes, which is then reported to the Reef Water Quality Report Card. This reciprocal relationship in the sharing of information helps drive spatial management priority and target review processes that Reef Water Quality programs are reliant upon for management, planning, operations and investment costing purposes.
 
 > **Dr Kaye Walker**, Assistant Director, Science for Management Section, GBR Marine Monitoring Program Leader, Reef Authority
+
+
+## Related Publications
+
+Baird, M. Mongin, M. Skerratt, J. Margvelashvili, N. Tickell, S. Steven, A. Robillot, C. Ellis, R. Waters, D. Kaniewska, P. Brodie, J. (2021). Impact of catchment-derived nutrients and sediments on marine water quality on the Great Barrier Reef: An application of the eReefs marine modelling system. _Marine Pollution Bulletin_, _167_. [10.1016/j.marpolbul.2021.112297](https://doi.org/10.1016/j.marpolbul.2021.112297)
