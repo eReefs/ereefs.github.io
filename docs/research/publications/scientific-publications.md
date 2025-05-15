@@ -3,7 +3,7 @@ toc: true
 toc_sticky: true
 title: Scientific Publications
 ---
-The peer-reviewed publications listed on this page reference, cite, acknowledge or are a direct output from eReefs research and projects.
+The peer-reviewed publications listed on this page use direct outputs from eReefs research and projects.
 
 For other related eReefs model input references, please see [References](/research/forcing_references)
 
