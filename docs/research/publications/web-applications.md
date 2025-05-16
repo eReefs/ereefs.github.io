@@ -14,7 +14,7 @@ These web applications are the main interactive components of the *eReefs* web p
 
 <div class="tilegroup">
 {% for tool in active_webapps %}
-<div class="tile {{tool.category}}" markdown="0">
+<div class="tile {{tool.category | slugify}}" markdown="0">
   <a href="{{tool.target_url}}" target="_window" title="Navigate to {{tool.title}}">
     <i class="fas fa-{{tool.fa-icon}}"></i>
     <h2>{{tool.title}}</h2>
@@ -35,7 +35,7 @@ The following tools were once part of *eReefs* but have reached the end of their
 {% for tool in decommissioned_webapps %}
 ## {{tool.title}}
 <div class="tile-and-content" markdown="0">
-  <div class="tile {{tool.category}}">
+  <div class="tile {{tool.agency | slugify}} {{tool.category | slugify}}">
     <a disabled  aria-disabled="true" href="" onclick="return false;" target="_window" title="{{tool.title}}">
       <i class="fas fa-{{tool.fa-icon}}"></i>
       <h2>{{tool.title}}</h2>
