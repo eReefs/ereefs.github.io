@@ -6,7 +6,7 @@ toc_sticky: true
 {% assign all_software = site.tools | where_exp: "tool", "tool.category == 'software'" | sort_natural: "title" %}
 
 # *eReefs* Software Outputs
-These following open-source software has been produced by the *eReefs* development teams for use in *eReefs* research and is available to be re-used in other applications:
+These following open-source software has been created or extensively updated by the *eReefs* development teams for use in *eReefs* research and is available to be re-used in other applications:
 
 {% assign ereefs_outputs = all_software | where_exp: "tool", "tool.subcategory == 'ereefs_output'" %}
 {% for tool in ereefs_outputs %}
@@ -25,17 +25,16 @@ These following open-source software has been produced by the *eReefs* developme
     </a>
   </div>
   {{tool.content | markdownify}}
+  <hr/>
 </div>
 {% endfor %}
-
 &nbsp;
 
----
-
+{% assign ereefs_inputs = all_software | where_exp: "tool", "tool.subcategory == 'ereefs_input'" %}
+{% if ereefs_inputs.size > 0 %}
 # *eReefs* Software Inputs
 
 The following open-source software was used by the *eReefs* development teams to create *eReefs* data products:
-{% assign ereefs_inputs = all_software | where_exp: "tool", "tool.subcategory == 'ereefs_input'" %}
 {% for tool in ereefs_inputs %}
 ## {{tool.title}}
 <div class="tile-and-content" markdown="0">
@@ -55,9 +54,10 @@ The following open-source software was used by the *eReefs* development teams to
   <hr/>
 </div>
 {% endfor %}
+&nbsp;
+{% endif %}
 
-
-# Other Useful Software
+# *eReefs*-related Software
 
 The following open-source software was not created specifically for *eReefs*, but is may be useful for people working with *eReefs* data products:
 

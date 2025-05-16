@@ -7,7 +7,7 @@ feature: true
 preview_image: /assets/images/products/CSIRO-ems-schematic.webp
 preview_caption: |
     Schematic of CSIRO Environmental Modelling Suite, illustrating the model forcing (circulation, waves and meteorology), sediment and carbon chemistry models, and the biogeochemical quantities and processes in the water column, epipelagic and sediment zones. Optically active state variables are denoted with orange text.
-subcategory: ereefs_input
+subcategory: ereefs_output
 target_url: https://research.csiro.au/cem/software/ems/
 title: CSIRO EMS
 ---
