@@ -6,7 +6,7 @@ toc_sticky: true
 {% assign all_software = site.tools | where_exp: "tool", "tool.category == 'software'" | sort_natural: "title" %}
 
 # *eReefs* Software Outputs
-These following open-source software has been created or extensively updated by the *eReefs* development teams for use in *eReefs* research and is available to be re-used in other applications:
+The following open-source software has been created or extensively updated by the *eReefs* development teams for use in *eReefs* research and is available to be re-used in other applications:
 
 {% assign ereefs_outputs = all_software | where_exp: "tool", "tool.subcategory == 'ereefs_output'" %}
 {% for tool in ereefs_outputs %}
