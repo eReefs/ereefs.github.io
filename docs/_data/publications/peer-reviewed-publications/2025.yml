@@ -83,3 +83,47 @@ references:
     start: '102465'
     type: article
     volume: '193'
+
+  - authors:
+      - family-names: Gouezo
+        given-names: Marine
+        orcid: https://orcid.org/0000-0002-8288-0085
+      - family-names: Langlais
+        given-names: Clothilde
+      - family-names: Beardsley
+        given-names: Jack
+      - family-names: Roff
+        given-names: George
+        orcid: https://orcid.org/0000-0002-2823-0575
+      - family-names: Harrison
+        given-names: Peter L.
+      - family-names: Thomson
+        given-names: Damian P.
+      - family-names: Doropoulos
+        given-names: Christopher
+        orcid: https://orcid.org/0000-0001-8038-2771
+    doi: 10.1002/eap.70020
+    identifiers:
+      - type: doi
+        value: 10.1002/eap.70020
+      - type: url
+        value: http://dx.doi.org/10.1002/eap.70020
+      - type: other
+        value: urn:issn:1051-0761
+    title: >-
+      Going with the flow: Leveraging reef‐scale hydrodynamics for upscaling
+      larval‐based restoration
+    url: http://dx.doi.org/10.1002/eap.70020
+    database: Crossref
+    date-published: 2025-04-01
+    year: 2025
+    month: 4
+    issn: 1051-0761
+    issue: '3'
+    journal: Ecological Applications
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    type: article
+    volume: '35'
