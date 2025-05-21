@@ -1,8 +1,8 @@
 ---
 name: Australian Government Reef Trust
 link_url: https://www.dcceew.gov.au/parks-heritage/great-barrier-reef/protecting/our-investments/reef-trust
-logo_url_dark: /assets/images/partners/AusGov_ReefTrust_logo_colour.png
-logo_url_light: /assets/images/partners/AusGov_ReefTrust_logo_reversed.png
+logo_url_dark: /assets/images/partners/AusGov_ReefTrust_logo_colour.svg
+logo_url_light: /assets/images/partners/AusGov_ReefTrust_logo_reversed.svg
 funding_end: '2026-06-30'
 funding_start: '2012-01-01'
 ---
