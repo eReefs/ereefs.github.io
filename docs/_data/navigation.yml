@@ -11,8 +11,8 @@ main:
     title: "Research"
     url: /research/
   - description: Links to eReefs platform websites, tools and software
-    title: "Tools"
-    url: /tools/
+    title: "Outputs"
+    url: /outputs/
   - description: Ways to get in touch with the eReefs teams
     title: "Contact"
     url: /contact/
