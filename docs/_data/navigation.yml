@@ -60,7 +60,7 @@ sidebar:
     #   url: /research/forcing_references.html
 
   - title: "eReefs Outputs"
-    url: "/tools/"
+    url: "/outputs/"
     children:
     - title: Scientific Publications
       url: /research/publications/scientific-publications.html
