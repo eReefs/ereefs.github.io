@@ -1,18 +1,10 @@
 ---
-permalink: /tools/
+permalink: /outputs/
 toc: true
 tick_sticky: true
 title: eReefs Outputs
 ---
 {% assign active_tools = site.tools | where_exp: "item", "item.status != 'decommissioned'" %}
-
-# Scientific Publications
-
-The *eReefs* research collaboration has resulted in a large number of peer-reviewed scientific publications.
-
-[See the full list of *eReefs* publications here!](/research/publications/scientific-publications.html)
-
----
 
 # Web Applications
 
@@ -114,6 +106,14 @@ Our featured *eReefs* software includes:
 {% endif %}
 
 [Discover all *eReefs* open-source software here](/research/publications/software.html)
+
+---
+
+# Scientific Publications
+
+The *eReefs* research collaboration has resulted in a large number of peer-reviewed scientific publications.
+
+[See the full list of *eReefs* publications here!](/research/publications/scientific-publications.html)
 
 ---
 
