@@ -3,19 +3,18 @@ classes: wide
 title: Pesticide Modelling and Management
 ---
 
-Pesticides from agricultural runoff have been detected above marine water quality guidelines for the GBR and here eReefs can be used to inform management strategies. 
+Pesticides from agricultural runoff have been detected above marine water quality guidelines for the GBR and here eReefs can be used to inform management strategies.
 
 ## What scenarios have been run?
-A pesticide modelling capability for simulating single pesticide (diuron) dispersal was developed and tested. Diuron dispersal was modelled using the GBR1 model between 2016 and 2019 and validated with available diuron observational data. 
+A pesticide modelling capability for simulating single pesticide (diuron) dispersal was developed and tested. Diuron dispersal was modelled using the GBR1 model between 2016 and 2019 and validated with available diuron observational data.
 The model incorporates various factors such as river plumes, currents, tides, coastline, and bathymetry to simulate the movement and dispersion of substances such as pesticides in the marine environment. The eReefs marine model can pinpoint areas where pesticides are most likely to accumulate or have the greatest impact on reef ecosystems.
 
-| **Scenarios completed (Report Card 11 period)**  | **Date of model run** | **Model used**    | **With remote sensing** | **Number of rivers** | **Flow** |
-| ------------------------------------------------ | --------------------- | ----------------- | ----------------------------------------------- | ------------------------------------ | -------- |
-| **Pesticide scenarios**                          |                       |                   |                                                 |                                      |          |
-| Diuron                                           | Dec 2016 to Dec 2019  | GBR1<br>1 km grid | no                                              | 35                                   | Gauged   |
-| Diuron atrazine hexazinone tebuthiuron 24D       | Dec 2016 to Dec 2019  | GBR1<br>1 km grid | no                                              | 35                                   | Gauged   |
+| **Pesticide Scenarios**   | **Timespan** | **eReefs Forcing** | **With remote sensing?** | **Number of rivers** | **Flow** |
+| ------------------------- | ------------ | ------------------ | ------------------------ | -------------------- | -------- |
+| **Report Card 11 period** | | | | | |
+| [Diuron](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/aefc4227-8779-47a8-9137-2839631f9328) | 2016-01-01 to 2018-06-23 | [GBR1_H2p0](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/0ce4f380-ac99-46d5-a327-571bd20a0478) | no | 35 | Gauged |
 
-Overall, it was found diuron was above 0.075 μg.L−1 for 175 km2 seagrass and 60 km2 coral habitats respectively. 
+Overall, it was found diuron was above 0.075 μg.L−1 for 175 km2 seagrass and 60 km2 coral habitats respectively.
 
 <figure>
     <img src="/assets/images/research/Figure_3_Pesticide_modelling_diuron_dispersal_in_the_central_GBR.png" title="Pesticide modelling (diuron dispersal) in the central GBR." alt="Pesticide modelling (diuron dispersal) in the central GBR.">
@@ -25,7 +24,7 @@ Overall, it was found diuron was above 0.075 μg.L−1 for 175 km2 seagrass and 
 </figure>
 
 ## Outcomes and Impact
-- Use of the model can quantify ecologically sensitive areas and then nutrient/pollutant/sediment exceedance within these areas.  Quantification of these areas   produces model outputs that are easily applied to observational and management decisions. 
+- Use of the model can quantify ecologically sensitive areas and then nutrient/pollutant/sediment exceedance within these areas.  Quantification of these areas produces model outputs that are easily applied to observational and management decisions.
 - This process can also allow choice of appropriate monitoring sites and this analysis and was crucial for the reinstatement of pesticide monitoring which had been cancelled for two years and, in determining the priority locations of 14 field sites for the Reef Authority (GBRMPA). Furthermore, the eReefs modelling team is actively participating in the pesticide working group tasked with developing management strategies and guidelines for pesticides in the GBR.
 
 
