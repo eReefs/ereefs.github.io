@@ -127,3 +127,52 @@ references:
       name: Wiley
     type: article
     volume: '35'
+
+  - authors:
+      - family-names: Mason
+        given-names: Robert A.B.
+        orcid: https://orcid.org/0000-0002-2725-2449
+      - family-names: Langlais
+        given-names: Clothilde
+        orcid: https://orcid.org/0000-0002-6423-7678
+      - family-names: Uribe-Palomino
+        given-names: Julian
+      - family-names: Tonks
+        given-names: Mark
+      - family-names: Coman
+        given-names: Frank
+        orcid: https://orcid.org/0000-0001-6743-5154
+      - family-names: Choukroun
+        given-names: Severine
+        orcid: https://orcid.org/0000-0001-5640-4694
+      - family-names: Porobic
+        given-names: Javier
+        orcid: https://orcid.org/0000-0001-5642-5372
+      - family-names: Doropoulos
+        given-names: Christopher
+        orcid: https://orcid.org/0000-0001-8038-2771
+    doi: 10.1016/j.ecss.2025.109506
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ecss.2025.109506
+      - type: url
+        value: http://dx.doi.org/10.1016/j.ecss.2025.109506
+      - type: other
+        value: urn:issn:0272-7714
+    title: >-
+      Reef-scale variation in larval supply and settlement: validating Lagrangian
+      dispersal predictions with observations of coral larvae
+    url: http://dx.doi.org/10.1016/j.ecss.2025.109506
+    database: Crossref
+    date-published: 2025-11-01
+    year: 2025
+    month: 11
+    issn: 0272-7714
+    journal: Estuarine, Coastal and Shelf Science
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '109506'
+    type: article
+    volume: '326'
