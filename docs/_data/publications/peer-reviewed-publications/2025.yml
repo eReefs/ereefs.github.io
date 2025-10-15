@@ -176,3 +176,146 @@ references:
     start: '109506'
     type: article
     volume: '326'
+
+  - authors:
+      - family-names: Ombres
+        given-names: Erica
+        orcid: https://orcid.org/0000-0002-7556-3671
+      - family-names: Benway
+        given-names: Heather
+        orcid: https://orcid.org/0009-0003-5390-2147
+      - family-names: Bisson
+        given-names: Kelsey
+        orcid: https://orcid.org/0000-0003-4230-3467
+      - family-names: Larkin
+        given-names: Alyse
+        orcid: https://orcid.org/0000-0003-4466-0791
+      - family-names: Perotti
+        given-names: Elizabeth
+        orcid: https://orcid.org/0000-0003-0570-5600
+      - family-names: Wright-Fairbanks
+        given-names: Elizabeth
+        orcid: https://orcid.org/0000-0003-1265-6616
+      - family-names: Crosswell
+        given-names: Joey
+        orcid: https://orcid.org/0000-0001-5568-5391
+      - family-names: Dutta
+        given-names: Sandupal
+        orcid: https://orcid.org/0000-0002-9614-9437
+      - family-names: Garcia
+        given-names: Cynthia
+        orcid: https://orcid.org/0000-0002-6896-2084
+      - family-names: Gnanadesikan
+        given-names: Anand
+        orcid: https://orcid.org/0000-0001-5784-1116
+      - family-names: Grabb
+        given-names: Kalina
+        orcid: https://orcid.org/0000-0001-8771-7191
+      - family-names: Fay
+        given-names: Amanda
+        orcid: https://orcid.org/0000-0003-3534-1932
+      - family-names: Jin
+        given-names: Rui
+      - family-names: Kelly
+        given-names: Kyla
+        orcid: https://orcid.org/0000-0002-8594-2157
+      - family-names: Kwasniewski
+        given-names: Hayley
+      - family-names: Labossiere
+        given-names: Alexa
+      - family-names: Lauderdale
+        given-names: Jonathan
+        orcid: https://orcid.org/0000-0002-2993-7484
+      - family-names: Lee
+        given-names: Jenna
+        orcid: https://orcid.org/0000-0002-2261-8886
+      - family-names: Lin
+        given-names: Yajuan
+        orcid: https://orcid.org/0000-0002-9057-9321
+      - family-names: Long
+        given-names: Jacqueline
+        orcid: https://orcid.org/0000-0001-5880-0009
+      - family-names: Rufas
+        given-names: Anna
+        orcid: https://orcid.org/0000-0003-3800-8879
+      - family-names: Schultz
+        given-names: Cristina
+        orcid: https://orcid.org/0000-0003-2006-7053
+      - family-names: Ward
+        given-names: Nicholas
+        orcid: https://orcid.org/0000-0001-6174-5581
+      - family-names: Zhu
+        given-names: Yifan
+        orcid: https://orcid.org/0000-0002-8035-7338
+    doi: 10.5670/oceanog.2025.e302
+    identifiers:
+      - type: doi
+        value: 10.5670/oceanog.2025.e302
+      - type: url
+        value: http://dx.doi.org/10.5670/oceanog.2025.e302
+      - type: other
+        value: urn:issn:2377-617X
+    title: >-
+      Tools in Harmony: Integrating Observations and Models for Improved
+      Understanding of a Changing Ocean
+    url: http://dx.doi.org/10.5670/oceanog.2025.e302
+    database: Crossref
+    date-published: 2025-01-01
+    year: 2025
+    issn: 2377-617X
+    issue: '3'
+    journal: Oceanography
+    publisher:
+      name: The Oceanography Society
+    type: article
+    volume: '38'
+
+  - authors:
+      - family-names: Xiao
+        given-names: Ziyu
+      - family-names: Livsey
+        given-names: Daniel N.
+      - family-names: Schroeder
+        given-names: Thomas
+      - family-names: Blondeau-Patissier
+        given-names: David
+      - family-names: Cruz
+        given-names: Rodrigo Santa
+      - family-names: Su
+        given-names: Jiasheng
+      - family-names: Song
+        given-names: Dehai
+      - family-names: Wang
+        given-names: Xiao Hua
+      - family-names: Carlin
+        given-names: Geoffrey
+      - family-names: Steven
+        given-names: Andrew D.L.
+      - family-names: Crosswell
+        given-names: Joseph R.
+    doi: 10.1016/j.ocemod.2025.102621
+    identifiers:
+      - type: doi
+        value: 10.1016/j.ocemod.2025.102621
+      - type: url
+        value: http://dx.doi.org/10.1016/j.ocemod.2025.102621
+      - type: other
+        value: urn:issn:1463-5003
+    title: >-
+      Integrating machine learning into a fully coupled current-wave-sediment
+      model: Characterizing particle size in the settling process in estuaries of
+      the Great Barrier Reef, Australia
+    url: http://dx.doi.org/10.1016/j.ocemod.2025.102621
+    database: Crossref
+    date-published: 2025-12-01
+    year: 2025
+    month: 12
+    issn: 1463-5003
+    journal: Ocean Modelling
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '102621'
+    type: article
+    volume: '198'
