@@ -1,6 +1,6 @@
 ---
 classes: wide
-title: Data Access Tools
+title: Data Access Tools and Tutorials
 ---
 
 These tools have been developed to help you discover and re-use eReefs data products:
