@@ -70,10 +70,11 @@ sidebar:
       url: /research/publications/data-access-tools.html
     - title: Open Source Software
       url: /research/publications/software.html
-    - title: Impact Evaluations
-      url: /research/publications/case-studies.html
     - title: Scientific Publications
       url: /research/publications/scientific-publications.html
+    - title: Impact Evaluations
+      url: /research/publications/case-studies.html
+
 
   - title: "Reef 2050 Plan"
     url: "/research/reef_2050_plan_overview.html"
