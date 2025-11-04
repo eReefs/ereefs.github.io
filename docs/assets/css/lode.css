@@ -1,0 +1,75 @@
+@import "ereefs-reset.css";
+
+
+#content .section {
+    padding: 1rem;
+}
+
+#metadata > h1 {
+    background-color: var(--ereefs-dark-blue);
+    background-image: var(--ereefs-logo-img-svg);
+	background-repeat: no-repeat;
+	background-size: 40px 40px;
+	background-position: 16px 8px;
+    color: var(--ereefs-white);
+    display: block;
+    font-family: var(--ereefs-brand-font-family) !important;
+    font-size: var(--ereefs-brand-font-size) !important;
+    font-weight: var(--ereefs-brand-font-weight) !important;
+    height: 56px;
+    line-height: 56px;
+    margin: -1rem 0 1rem -1rem;
+    padding-left: 64px;
+    top: 0;
+    width: calc(100% + 2rem);
+}
+#metadata > h1:before {
+    content: 'eReefs ';
+}
+
+h2 {
+    margin-top: auto;
+}
+
+#pylode {
+    display: none;
+}
+
+#toc {
+    border: solid 1px #707070 !important;
+    /*margin-top: 56px;*/
+}
+
+.cardinality {
+    color: #17a2b8;  /* --teal (and --info) from the data explorer stylesheet */
+}
+.sup-c, .sup-op, .sup-p {
+    color: #fd7e14;  /* --orange from the data explorer stylesheet */
+}
+.entity {
+    border: solid 1px #707070 !important;
+}
+
+code {
+    color: var(--ereefs-dark-blue);
+}
+p, pre {
+    margin: auto;
+}
+
+h3 {
+    border-bottom: solid 1px #CFDCE8 !important;
+}
+
+.entity td, .entity th {
+    margin: 0;
+    padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+#classes ul {
+    margin: 0;
+    padding: 0;
+}
+#classes ul li {
+    margin-left: auto;
+}
