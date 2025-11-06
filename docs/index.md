@@ -103,7 +103,7 @@ redirect_from:
             Since 2012, the eReefs program has developed monitoring and modelling tools to help protect the Great Barrier Reef from multiple threats, such as poor water quality, extreme weather, biological hazards, and climate change.
             </p>
             <p class="landing-page-p white-shadowed-text">
-            The eReefs marine modelling team attended the 2025 Australian Coral Reef Society conference to showcase how how eReefs provides a comprehensive view of dynamic marine environment conditions across the Reef. From end-of-catchments and estuaries to reef lagoons and the open ocean. This will help inform adaptation and management of this precious ecosystem.
+            The eReefs marine modelling team attended the 2025 Australian Coral Reef Society conference to showcase how eReefs provides a comprehensive view of dynamic marine environment conditions across the Reef. From end-of-catchments and estuaries to reef lagoons and the open ocean. This will help inform adaptation and management of this precious ecosystem.
             <a target="_window" class="light-blue-links links-block" href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ">Read more...</a>
           </p>
       </span>
