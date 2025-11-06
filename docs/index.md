@@ -103,11 +103,11 @@ redirect_from:
             Since 2012, the eReefs program has developed monitoring and modelling tools to help protect the Great Barrier Reef from multiple threats, such as poor water quality, extreme weather, biological hazards, and climate change.
             </p>
             <p class="landing-page-p white-shadowed-text">
-            At the 2025 Australian Coral Reef Society conference they showcased how eReefs provides a comprehensive view of dynamic marine environment conditions across the Reef. From end-of-catchments and estuaries to reef lagoons and the open ocean. This will help inform adaptation and management of this precious ecosystem.
-            <a target="_window" class="light-blue-links links-block" href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy">Read more...</a>
+            The eReefs marine modelling team attended the 2025 Australian Coral Reef Society conference to showcase how how eReefs provides a comprehensive view of dynamic marine environment conditions across the Reef. From end-of-catchments and estuaries to reef lagoons and the open ocean. This will help inform adaptation and management of this precious ecosystem.
+            <a target="_window" class="light-blue-links links-block" href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ">Read more...</a>
           </p>
       </span>
-      <a class='image-link' href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy" target="_blank">
+      <a class='image-link' href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ" target="_blank">
         <picture title="A photo of eReefs Collaboration members at the 2025 Australian Coral Reef Society conference">
           <source srcset="/assets/images/backgrounds/fullHD_webp/eReefs_Collaboration_Image_cropped.avif" type="image/avif" />
           <source srcset="/assets/images/backgrounds/fullHD_webp/eReefs_Collaboration_Image_cropped.webp" type="image/webp" />
