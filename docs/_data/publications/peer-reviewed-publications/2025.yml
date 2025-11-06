@@ -319,3 +319,58 @@ references:
     start: '102621'
     type: article
     volume: '198'
+
+  - authors:
+      - family-names: Emslie
+        given-names: Michael J.
+      - family-names: Ceccarelli
+        given-names: Daniela M.
+      - family-names: Logan
+        given-names: Murray
+      - family-names: Blandford
+        given-names: Makeely I.
+      - family-names: Bray
+        given-names: Peran
+      - family-names: Campili
+        given-names: Adriana R.
+      - family-names: Cantin
+        given-names: Neal
+      - family-names: Choukroun
+        given-names: Severine
+      - family-names: Cole
+        given-names: Andrew
+      - family-names: Jonker
+        given-names: Michelle J.
+      - family-names: Langlais
+        given-names: Clothilde
+      - family-names: Puotinen
+        given-names: Marji
+      - family-names: Prenzlau
+        given-names: Tara
+      - family-names: Sinclair-Taylor
+        given-names: Tane H.
+      - family-names: Stephenson
+        given-names: Briony
+    doi: 10.1007/s00338-025-02774-y
+    identifiers:
+      - type: doi
+        value: 10.1007/s00338-025-02774-y
+      - type: url
+        value: http://dx.doi.org/10.1007/s00338-025-02774-y
+      - type: other
+        value: urn:issn:0722-4028
+    title: >-
+      Anthropogenic climate change causes substantial loss of coral on the
+      northern Great Barrier Reef during the 2024 bleaching event
+    url: http://dx.doi.org/10.1007/s00338-025-02774-y
+    database: Crossref
+    date-published: 2025-11-03
+    year: 2025
+    month: 11
+    issn: 0722-4028
+    journal: Coral Reefs
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
