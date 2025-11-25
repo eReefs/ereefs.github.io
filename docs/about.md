@@ -22,7 +22,7 @@ The Great Barrier Reef, a UNESCO World Heritage Site, is a complex and delicate 
 ## Where does eReefs come in
 eReefs plays a significant role in the conservation and management of the Great Barrier Reef. Its data and insights are used to:
 
-- Monitor and assess water quality: eReefs contributes to water quality assessments, informs the [GBR Marine Water Quality Report Card](/research/reef_water_quality_report_card), and helps establish land-based [water quality targets](/research/gbr_water_quality_targets) in catchments. It also supports scientific research on various reef-related questions.
+- Monitor and assess water quality: eReefs contributes to water quality assessments, informs the [GBR Marine Water Quality Report Card](/research/reef_water_quality_report_card), and helps establish land-based water quality targets in catchments. It also supports scientific research on various reef-related questions.
 
 - Support strategic and operational decision-making: Policy and management agencies, regional organizations, and researchers rely on eReefs' data, analyses, and visualizations to inform decisions across the Great Barrier Reef region.
 
