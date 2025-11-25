@@ -98,20 +98,20 @@ redirect_from:
     </div>
     <div class="container">
       <span class="text-container">
-        <h2 class="landing-page-h2 white-shadowed-text">Evaluating the impact of our collaborative research</h2>
+        <h2 class="landing-page-h2 white-shadowed-text">Iconic modelling tools to manage an Australian icon</h2>
           <p class="landing-page-p white-shadowed-text">
-            A comprehensive review of CSIRO's research impact on the Great Barrier Reef was completed by non-profit research institute RTI International in late 2024. The review covered CSIRO's research portfolio and aimed to capture the impact of our Reef research to date and explore the role of future science and technology in the Great Barrier Reef. External stakeholder feedback from across nine partner organisations also helped informed the review.
+            Since 2012, the eReefs program has developed monitoring and modelling tools to help protect the Great Barrier Reef from multiple threats, such as poor water quality, extreme weather, biological hazards, and climate change.
             </p>
             <p class="landing-page-p white-shadowed-text">
-            The review found CSIRO’s Great Barrier Reef research portfolio is well-aligned with overarching Reef 2050 goals, and that collaborative engagement is critical to successful scientific reef management...
-            <a target="_window" class="light-blue-links links-block" href="https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf">Read more...</a>
+            The eReefs marine modelling team attended the 2025 Australian Coral Reef Society conference to showcase how eReefs provides a comprehensive view of dynamic marine environment conditions across the Reef. From end-of-catchments and estuaries to reef lagoons and the open ocean. This will help inform adaptation and management of this precious ecosystem.
+            <a target="_window" class="light-blue-links links-block" href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ">Read more...</a>
           </p>
       </span>
-      <a class='image-link' href="https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf" target="_blank">
-        <picture title="RTI: CSIROs Research Impact in the Great Barrier Reef">
-          <source srcset="/assets/images/backgrounds/fullHD_webp/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.avif" type="image/avif" />
-          <source srcset="/assets/images/backgrounds/fullHD_webp/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.webp" type="image/webp" />
-          <img src="/assets/images/backgrounds/fullHD_jpg/RTI_CSIROs_Research_Impact_in_the_Great_Barrier_Reef.jpg" alt="RTI: CSIROs Research Impact in the Great Barrier Reef" />
+      <a class='image-link' href="https://www.linkedin.com/posts/csiro_iconic-modelling-tools-to-manage-an-australian-activity-7374321876044558338-EPuZ" target="_blank">
+        <picture title="A photo of eReefs Collaboration members at the 2025 Australian Coral Reef Society conference">
+          <source srcset="/assets/images/backgrounds/fullHD_webp/eReefs_Collaboration_Image_cropped.avif" type="image/avif" />
+          <source srcset="/assets/images/backgrounds/fullHD_webp/eReefs_Collaboration_Image_cropped.webp" type="image/webp" />
+          <img src="/assets/images/backgrounds/fullHD_jpg/eReefs_Collaboration_Image_cropped.jpg" alt="A photo of eReefs Collaboration members at the 2025 Australian Coral Reef Society conference" />
         </picture>
       </a>
     </div>
