@@ -42,7 +42,7 @@ redirect_from:
       <span class="text-container">
         <h2 class="landing-page-h2 white-shadowed-text" >Diving into eReefs marine information</h2>
         <p class="landing-page-p white-shadowed-text">
-        eReefs is an innovative initiative aimed at monitoring and modelling the Great Barrier Reef and its marine environment, to better understand and safeguard one of the world’s most iconic natural wonders into the future. Dive into the eReefs open-access systems to discover, visualise and re-use the available datasets... <a class="light-blue-links links-block" href="/tools/">Read more...</a>
+        eReefs is an innovative initiative aimed at monitoring and modelling the Great Barrier Reef and its marine environment, to better understand and safeguard one of the world’s most iconic natural wonders into the future. Dive into the eReefs open-access systems to discover, visualise and re-use the available datasets... <a class="light-blue-links links-block" href="/outputs/">Read more...</a>
         </p>
       </span>
       <picture class="image-split-links" title="Left side - ereefs data explorer fitzroy river. Right side - ereefs visualisations princess charlotte bay.">
