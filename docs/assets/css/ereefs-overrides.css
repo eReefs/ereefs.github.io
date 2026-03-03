@@ -393,3 +393,7 @@ figure.third > a {
       width: 300px;
    }
 }
+
+.page__content table {
+   width: auto;
+}
