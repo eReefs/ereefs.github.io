@@ -151,7 +151,7 @@ The completed `GBR1_H2p0` datasets are still the most recent GBR1 datasets avail
 | --- | --- | --- | --- | --- | --- |
 | [GBR1 Hydrodynamics v2.0 NRT (`GBR1_H2p0`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/0ce4f380-ac99-46d5-a327-571bd20a0478) | 2014-12-01 | 2024-01-17 | hourly | 20 TB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=gbr1_2.0)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_2.0/catalog.html) |
 | 🡒 [GBR1 Hydrodynamics v2.0 NRT River Tracers (`GBR1_H2p0_rivers`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/d2ff17de-8347-4213-b59d-ab9afeb0b899) | 2014-12-01 | 2024-01-17 | daily | 3.8 TB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=gbr1_2.0_rivers)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_2.0_rivers/catalog.html) |
-| <span style="color: red;">**NEW! Released May 2025**</span><br/> 🡒 [GBR1 Diuron Dispersal Scenario (`GBR1_H2p0_Cq3pe1_Dhnd`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/aefc4227-8779-47a8-9137-2839631f9328) | 2016-01 | 2018-06 | hourly | 34 GB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=GBR1_H2p0_Cq3pe1_Dhnd)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_H2p0_Cq3pe1_Dhnd/catalog.html) <br/> More information about this pesticide scenario: [Pesticide Modelling and Management](/research/pesticide_modelling_and_management.html) |
+| <span style="color: red;">**NEW! Released May 2025**</span><br/> 🡒 [GBR1 Diuron Dispersal Scenario (`GBR1_H2p0_Cq3pe1_Dhnd`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/aefc4227-8779-47a8-9137-2839631f9328) | 2016-01 | 2018-06 | hourly | 34 GB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=GBR1_H2p0_Cq3pe1_Dhnd)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_H2p0_Cq3pe1_Dhnd/catalog.html) <br/> More information about this pesticide scenario: [Pesticide Modelling and Management](/research/pesticide_modelling_and_management) |
 
 ### Deprecated GBR1 Shelf Model Results
 The following sets of GBR1 shelf model results are older and have been retired by the eReefs modelling team in favour of newer data products.
@@ -356,7 +356,7 @@ Got Clouds?   The eReefs Biogeochemistry and Sediments model results include var
 
 ### Hydrodynamic Velocity Fields
 
-We recommend using GBR1 Hydrodynamics datasets for working with velocity fields.  For even better results, you may need to nest a higher-resolution model inside GBR1. (Talk to us about [RECOM](/research/relocatable-fine-scale-coastal-models.html)!)
+We recommend using GBR1 Hydrodynamics datasets for working with velocity fields.  For even better results, you may need to nest a higher-resolution model inside GBR1. (Talk to us about [RECOM](/research/relocatable-fine-scale-coastal-models)!)
 
 
 <figure class="right">
