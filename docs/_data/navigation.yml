@@ -63,7 +63,7 @@ sidebar:
     url: "/outputs/"
     children:
     - title: Web Applications
-      url: /research/publications/web-applications.html
+      url: /outputs/web-applications
     - title: Open Access Datasets
       url: /research/publications/datasets.html
     - title: Data Access Tools and Tutorials

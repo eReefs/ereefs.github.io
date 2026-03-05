@@ -1,4 +1,7 @@
 ---
+permalink: /outputs/web-applications
+redirect_from:
+  - /research/publications/web-applications.html
 classes: wide
 title: Web Applications
 #toc: true

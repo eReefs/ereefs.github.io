@@ -12,8 +12,7 @@ title: eReefs Outputs
 
 # Web Applications
 
-The *eReefs* collaboration has developed several interactive web application to help you discover, explore and understand
-*eReefs* datasets:
+The *eReefs* collaboration has developed several interactive web application to help you discover, explore and understand *eReefs* datasets:
 
 <div class="tilegroup">
 {% assign website_outputs = active_outputs | where_exp: "item", "item.category == 'website'" %}
@@ -28,6 +27,8 @@ The *eReefs* collaboration has developed several interactive web application to 
 </div>
 {% endfor %}
 </div>
+
+[Discover more about *eReefs* web applications here](/outputs/web-applications)
 
 ---
 
