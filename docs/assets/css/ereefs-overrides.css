@@ -93,6 +93,9 @@
       margin-right: auto;
       max-width: 1280px;
    }
+   #main {
+      max-width: 100%;
+   }
 }
 
 /* Organisation Logos */
@@ -202,6 +205,32 @@ figure.third > a {
       min-width: 50px;
       padding: 0;
       width: 100%;
+   }
+}
+
+figure.centre {
+   max-width: 75%;
+   margin: 1rem auto 1rem auto;
+}
+figure.left {
+   float: left;
+   max-width: 50%;
+   margin: 1rem 1rem 1rem 0;
+}
+figure.right {
+   float: right;
+   max-width: 50%;
+   margin: 1rem 0 1rem 1rem;
+}
+
+@media screen and (max-width:992px) {
+   /* small and medium screens: ignore the 'side' part for figure-wrappers. */
+   figure.centre,
+   figure.left,
+   figure.right {
+      float: none;
+      max-width: 100%;
+      margin: 1rem 0 1rem 0;
    }
 }
 

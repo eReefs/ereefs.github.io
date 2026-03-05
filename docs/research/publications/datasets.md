@@ -1,5 +1,4 @@
 ---
-classes: wide
 title: Open Access Datasets
 toc: true
 toc_sticky: true
@@ -249,7 +248,7 @@ The Biogeochemistry and Sediments model results datasets may include several *hu
 
 - The Biogeochemical Scientific Description for version `B3p0` of the model.  This was published at [Geoscientific Model Development](https://gmd.copernicus.org/articles/13/4503/2020/gmd-13-4503-2020.html) which contains an assessment of an eReefs configuration.
 - For additional details, especially definitions of diagnostic variables and simulated observations (true colour, Secchi depth etc.) as well as processes added to the model since 1 January 2020, please see [EMSmanual_afterGMDarticle8Jan25](https://research.csiro.au/cem/wp-content/uploads/sites/194/2025/01/EMSmanual_afterGMDarticle8Jan25.pdf).
-- The `puv__parameter` attribute from the netCDF metadata for each variable. This attribute is present in recent datasets (`GBR4_H4p0` and later), and takes the form of a URL for a formal vocabulary record, e.g. <http://vocab.nerc.ac.uk/collection/P01/current/ARGTMOD1/>.  You can open these links in a browser to see a description and other information about the variable. These links support content negotiation for machine-readable formats like JSON-LD, so can also be used to look up variable level metadata from other software. Please see the [NERC Vovabulary Server documentation](https://vocab.nerc.ac.uk/) for more information about these vocabulary terms.
+- The `puv__parameter` attribute from the netCDF metadata for each variable. This attribute is present in recent datasets (`GBR4_H4p0` and later), and takes the form of a URL for a formal vocabulary record, e.g. <http://vocab.nerc.ac.uk/collection/P01/current/ARGTMOD1/>.  You can open these links in a browser to see a description and other information about the variable, and they also support content negotiation for machine-readable formats like JSON-LD, so can be used to look up variable level metadata from other software. Please see the [NERC Vocabulary Server documentation](https://vocab.nerc.ac.uk/) for more information about these vocabulary terms.
 
 **A note on sediment variables:**
 
@@ -263,66 +262,70 @@ Many BGC dataset variables are calculated for the both the water column and for 
 
 If you are planning on using the eReefs GBR4 or GBR1 datasets in your own research, these lists should help you identify the most important data variables for your field.
 
-If you would like to learn how to make your own plots of eReefs data variables like the ones shown here, we have tutorials available!  Please see:
-
-- <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-model-results-with-matplotlib-plotipynb" target="_blank">Plotting eReefs data on a map</a>
-- <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-transects-transectipynb" target="_blank">Plotting an eReefs transect</a>
-
 ### Water Quality
 
-<div style="display: inline-block; float: right; max-width: 50%; margin-left: 1em;">
-    <figure>
-        <img src="/assets/images/datasets/gbr4_vars_water_quality_Chl_a_sum.png" title="GBR4 Water Quality variable plots: Chl_a_sum" alt="GBR4 Water Quality variable (Chl_a_sum) plotted horizontally near the sea surface and vertically along a transect offshore from central Queensland">
-        <figcaption>GBR4 Water Quality variable: Total Chlorophyll (<code>Chl_a_sum</code>) from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
-    </figure>
-</div>
+<figure class="right">
+    <img src="/assets/images/datasets/gbr4_vars_water_quality_Chl_a_sum.png" title="GBR4 Water Quality variable plots: Chl_a_sum" alt="GBR4 Water Quality variable (Chl_a_sum) plotted horizontally near the sea surface and vertically along a transect offshore from central Queensland">
+    <figcaption>GBR4 Water Quality variable: Total Chlorophyll (<code>Chl_a_sum</code>) from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
+</figure>
 
 | Concept | Data Variable | Units |
 |---------|---------------|-------|
-| Total Suspended Solids | `tss`, `tss_sed` | kg m<sup>-3</sup> |
-| Total Chlorophyll | `Chl_a_sum` | mg Chl m<sup>-3</sup> |
-| Nitrate | `NO3`, `NO3_sed` | mg N m<sup>-3</sup> |
-| Secchi from 488nm | `Secchi` | m |
-| Temperature | `temp` | degrees C |
-| Salinity | `salt` | PSU |
+| Total Suspended Solids | `tss`, `tss_sed` | <nobr>kg m<sup>-3</sup></nobr> |
+| [Total Chlorophyll](http://vocab.nerc.ac.uk/collection/P01/current/CPHLMOD1/) | `Chl_a_sum` | <nobr>mg Chl m<sup>-3</sup></nobr> |
+| [Nitrate](http://vocab.nerc.ac.uk/collection/P01/current/NTRZMOD1/) | `NO3`, `NO3_sed` |<nobr>mg N m<sup>-3</sup></nobr> |
+| [Secchi from 488nm](http://vocab.nerc.ac.uk/collection/P01/current/ADEPMP01/) | `Secchi` | <nobr>m</nobr> |
+| [Temperature](http://vocab.nerc.ac.uk/collection/P01/current/TEMPMP01/) | `temp` | <nobr>degrees C</nobr> |
+| [Salinity](http://vocab.nerc.ac.uk/collection/P01/current/PSLTMP01/) | `salt` | <nobr>PSU</nobr> |
+
+<div style="clear: both"></div>
+- [Load water quality variables in the eReefs Data Explorer](https://portal.ereefs.info/map?time=2026-03-04T00:51:10.888Z&bbox=137.06543,-28.57487,172.22168,-9.55742&basemap=streetmap&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23temp;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23temp;label=Temperature;colorscalerange=22.29,30.43;styles=default-scalar/div-BuRd2;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23salt;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23salt;label=Salinity;colorscalerange=29.86,35.8;styles=default-scalar/div-PiYG-inv;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Chl_a_sum;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Chl_a_sum;label=Total%20Chlorophyll;colorscalerange=0.004855,0.7068;styles=default-scalar/psu-viridis;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23NO3;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23NO3;label=Nitrate;colorscalerange=0,95.62;styles=default-scalar/seq-BuPu;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23tss;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23tss;label=Total%20Suspended%20Sediments;colorscalerange=0,0.1734;styles=default-scalar/seq-YlOrBr;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Secchi;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Secchi;label=Secchi%20from%20488%20nm;colorscalerange=3.413,42.03;styles=default-scalar/seq-BlueHeat-inv)
+- [Learn more about water quality measures in eReefs](https://ereefs.aims.gov.au/gbr4/bgc/baseline/chl-a-sum_din_efi/)
+- Learn how to <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-model-results-with-matplotlib-plotipynb" target="_blank">plot eReefs data on a map</a> and <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-transects-transectipynb" target="_blank">plot an eReefs transect</a>
 
 ### Carbon Chemistry
 
-<div style="display: inline-block; float: left; max-width: 50%; margin-right: 1em;">
-    <figure>
-        <img src="/assets/images/datasets/gbr4_vars_carbon_chemistry_DIC.png" title="GBR4 Carbon Chemistry variable plots: DIC" alt="GBR4 Carbon Chemistry variable (CDIC) plotted horizontally near the sea surface and vertically along a transect offshore from central Queensland">
-        <figcaption>GBR4 Carbon Chemistry variable: Dissolved Inorganic Carbon (<code>DIC</code>) from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
-    </figure>
-</div>
+<figure class="left">
+    <img src="/assets/images/datasets/gbr4_vars_carbon_chemistry_DIC.png" title="GBR4 Carbon Chemistry variable plots: DIC" alt="GBR4 Carbon Chemistry variable (CDIC) plotted horizontally near the sea surface and vertically along a transect offshore from central Queensland">
+    <figcaption>GBR4 Carbon Chemistry variable: Dissolved Inorganic Carbon (<code>DIC</code>) from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
+</figure>
 
 | Concept | Data Variable | Units |
 |---------|---------------|-------|
-| Dissolved Inorganic Carbon | `DIC` | mg C m<sup>-3</sup> |
-| Total Alkalinity | `alk` | mmol m<sup>-3</sup> |
-| PH | `PH` | log(mM) |
-| Aragonite Saturation | `omega_ar` | |
-| Temperature | `temp` | degrees C |
-| Salinity | `salt` | PSU |
+| [Dissolved Inorganic Carbon](http://vocab.nerc.ac.uk/collection/P01/current/CINCMOD1/) | `DIC` | <nobr>mg C m<sup>-3</sup> |
+| [Total Alkalinity](http://vocab.nerc.ac.uk/collection/P01/current/ALKYMP01/) | `alk` | <nobr>mmol m<sup>-3</sup> |
+| [PH](http://vocab.nerc.ac.uk/collection/P01/current/PHTLMP01/) | `PH` | <nobr>log(mM) |
+| [Aragonite Saturation State](http://vocab.nerc.ac.uk/collection/P01/current/ARGTMOD1/) | `omega_ar` | |
+| [Temperature](http://vocab.nerc.ac.uk/collection/P01/current/TEMPMP01/) | `temp` | <nobr>degrees C |
+| [Salinity](http://vocab.nerc.ac.uk/collection/P01/current/PSLTMP01/) | `salt` | <nobr>PSU |
+
+<div style="clear: both"></div>
+- [Load Carbon Chemistry variables in the eReefs Data Explorer](https://portal.ereefs.info/map?time=2026-03-04T00:51:10.888Z&bbox=137.06543,-28.57487,172.22168,-9.55742&basemap=streetmap&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23DIC;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23DIC;label=Dissolved%20Inorganic%20Carbon;colorscalerange=22450,25040;styles=default-scalar/seq-cubeYF;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23alk;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23alk;label=Total%20Alkalinity;colorscalerange=2190,2349;styles=default-scalar/anu_wald_bluescale20;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23PH;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23PH;label=PH;colorscalerange=7.681,8.121;styles=default-scalar/div-BuRd-inv;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23omega_ar;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23omega_ar;label=Aragonite%20saturation%20state;colorscalerange=1.419,3.803;styles=default-scalar/seq-YlOrRd;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23temp;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23temp;label=Temperature;colorscalerange=21.89,31.02;styles=default-scalar/div-BuRd2;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23salt;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23salt;label=Salinity;colorscalerange=33.7,36.29;styles=default-scalar/div-PiYG-inv;z=-0.5)
+- [Learn more about Water Chemistry measures in eReefs](https://ereefs.aims.gov.au/gbr4/bgc/baseline/alk_ph_omega-ar/)
+- Learn how to <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-model-results-with-matplotlib-plotipynb" target="_blank">plot eReefs data on a map</a> and <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-transects-transectipynb" target="_blank">plot an eReefs transect</a>
 
 ### Benthic Plants and Corals
 
 All of the benthic plant and coral data variables are 2D!  They can only occur on the seabed, so they do not have a depth dimension in the dataset. To work out the depth for these plants and corals occur at, you should look up the value of the `botz` coordinate variable at the same `(i,j)` grid indices.
 
-<div style="display: inline-block; float: right; max-width: 50%; margin-left: 1em;">
-    <figure>
-        <img src="/assets/images/datasets/gbr4_vars_benthic_2D.png" title="GBR4 Benthic Plants and Corals variable plots" alt="GBR4 Benthic Plants and Corals variables CS_N, SGH_N, and SGD_N plotted on a map">
-        <figcaption>GBR4 Benthic Plans and Corals Variables: Coral Symbiont Nitrogen (<code>CS_N</code>), Halophilia Seagrass Nitrogen (<code>SGH_N</code>) and Deep Seagrass Nitrogen (<code>SGD_N</code>) from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
-    </figure>
-</div>
+<figure class="right">
+    <img src="/assets/images/datasets/gbr4_vars_benthic_2D.png" title="GBR4 Benthic Plants and Corals variable plots" alt="GBR4 Benthic Plants and Corals variables CS_N, SGH_N, and SGD_N plotted on a map">
+    <figcaption>GBR4 Benthic Plans and Corals Variables: Coral Symbiont Nitrogen (<code>CS_N</code>), Halophilia Seagrass Nitrogen (<code>SGH_N</code>) and Deep Seagrass Nitrogen (<code>SGD_N</code>) from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
+</figure>
 
 | Concept | Data Variable | Units |
 |---------|---------------|-------|
-| Coral Host Nitrogen | `CH_N` | g N m<sup>-2</sup> |
-| Coral Symbiont Nitrogen | `CS_N` | mg N m<sup>-2</sup> |
-| Seagrass Nitrogen | `SG_N` | g N m<sup>-2</sup> |
-| Deep Seagrass Nitrogen | `SGD_N` | g N m<sup>-2</sup> |
-| Halophilia Seagrass Nitrogen | `SGH_N` | g N m<sup>-2</sup> |
-| Macroalgae Nitrogen | `MA_N` | g N m<sup>-2</sup> |
+| [Coral Host Nitrogen](http://vocab.nerc.ac.uk/collection/P01/current/NB9623MO/) | `CH_N` | <nobr>g N m<sup>-2</sup></nobr> |
+| [Coral Symbiont Nitrogen](http://vocab.nerc.ac.uk/collection/P01/current/NBZOXAM1/) | `CS_N` | <nobr>mg N m<sup>-2</sup></nobr> |
+| [Seagrass Zostera spp. Nitrogen](http://vocab.nerc.ac.uk/collection/P01/current/NB9622MO/) | `SG_N` | <nobr>g N m<sup>-2</sup></nobr> |
+| [Seagrass Halophila deciphens Nitrogen](http://vocab.nerc.ac.uk/collection/P01/current/NB9625MO/) | `SGD_N` | <nobr>g N m<sup>-2</sup></nobr> |
+| [Seagrass Halophila ovalis Nitrogen](http://vocab.nerc.ac.uk/collection/P01/current/NB9621MO/) | `SGH_N` | <nobr>g N m<sup>-2</sup></nobr> |
+| [Macroalgae Nitrogen](http://vocab.nerc.ac.uk/collection/P01/current/NB9624MO/) | `MA_N` | <nobr>g N m<sup>-2</sup></nobr> |
+
+<div style="clear: both"></div>
+- [Load Benthic Plants and Corals variables in the eReefs Data Explorer](https://portal.ereefs.info/map?time=2026-03-04T01:20:25.397Z&bbox=114.8291,-35.92464,185.1416,1.93323&basemap=streetmap&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23CH_N;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23CH_N;label=Coral%20host%20Nitrogen;colorscalerange=1e-12,0.1481;styles=default-scalar/psu-plasma&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23CS_N;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23CS_N;label=Coral%20symbiont%20Nitrogen;colorscalerange=1e-12,5.593;styles=default-scalar/psu-plasma&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23SG_N;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23SG_N;label=Seagrass%20Zostera%20spp.%20Nitrogen;colorscalerange=9.5e-13,1.05e-12;styles=default-scalar/psu-inferno&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23SGD_N;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23SGD_N;label=Seagrass%20Halophila%20deciphens%20Nitrogen;colorscalerange=1e-12,0.01896;styles=default-scalar/psu-inferno&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23SGH_N;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23SGH_N;label=Seagrass%20Halophila%20ovalis%20Nitrogen;colorscalerange=0.002632,0.02881;styles=default-scalar/psu-inferno&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23MA_N;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23MA_N;label=Macroalgae%20Nitrogen;colorscalerange=9.992e-13,0.000002422;styles=default-scalar/div-BrBG)
+- [Learn more about macroalgae, seagrass and corals in eReefs](https://ereefs.aims.gov.au/gbr4/bgc/baseline/cs-n_cs-chl_ch-n/)
+- Learn how to <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-model-results-with-matplotlib-plotipynb" target="_blank">plot eReefs data variables on a map</a>
 
 ### Optics and Remote Sensing
 
@@ -332,34 +335,41 @@ Got Clouds?   The eReefs Biogeochemistry and Sediments model results include var
 
 | Concept | Data Variable | Units |
 |---------|---------------|-------|
-| **Red:** Simulated Sentinel-3 OLCI Remote Sensing Reflectance Band 08 (665nm).<br/>Used for Chl, sediment, vegetation | B3p1: `R_665`<br/>B4p2: `Sentinel_3B_B8` | sr<sup>-1</sup> |
-| **Green:** Simulated Sentinel-3 OLCI Remote Sensing Reflectance Band 06 (560nm).<br/>Used for Chlorophyll reference | B3p1: `R_560`<br/>B4p2: `Sentinel_3B_B6` | sr<sup>-1</sup> |
-| **Blue:** Simulated Sentinel-3 OLCI Remote Sensing Reflectance Band 04 (490nm).<br/>Used for high Chl, other pigments | B3p1: `R_490`<br/>B4p2: `Sentinel_3B_B4` | sr<sup>-1</sup> |
+| **Red:** Simulated Sentinel-3 OLCI Remote Sensing Reflectance Band 08 (665nm).<br/>Used for Chl, sediment, vegetation | B3p1: `R_665`<br/>B4p2: `Sentinel_3B_B8` | <nobr>sr<sup>-1</sup></nobr> |
+| **Green:** Simulated Sentinel-3 OLCI Remote Sensing Reflectance Band 06 (560nm).<br/>Used for Chlorophyll reference | B3p1: `R_560`<br/>B4p2: `Sentinel_3B_B6` | <nobr>sr<sup>-1</sup></nobr> |
+| **Blue:** Simulated Sentinel-3 OLCI Remote Sensing Reflectance Band 04 (490nm).<br/>Used for high Chl, other pigments | B3p1: `R_490`<br/>B4p2: `Sentinel_3B_B4` | <nobr>sr<sup>-1</sup></nobr> |
 
-<div style="max-width: 80%; margin-left: auto; margin-right: auto;">
-    <figure>
-        <img src="/assets/images/datasets/gbr4_vars_rs_true_colour.png" title="GBR4 Simulated Sentinel-3 OLCI True Colour" alt="A plot of which combines data from GBR4 Simulated Sentinel-3 OLCI Remote Sensing Reflectance data variables at red, green and blue wavelengths side-by-side with a True colour image from a real Sentintel-3 overpass on the same date">
-        <figcaption>GBR4 Optics and Remote Sensing Variables: Simulated Sentinel-3A True Colour from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset (<a href="https://github.com/eReefs/ereefs-data-access-notebooks#simulated-true-colour-from-ereefs-optical-model-variables-true-colouripynb" target="_blank">Instructions for how to make this image</a>)</figcaption>
-    </figure>
-</div>
+<figure class="centre">
+    <img src="/assets/images/datasets/gbr4_vars_rs_true_colour.png" title="GBR4 Simulated Sentinel-3 OLCI True Colour" alt="A plot of which combines data from GBR4 Simulated Sentinel-3 OLCI Remote Sensing Reflectance data variables at red, green and blue wavelengths side-by-side with a True colour image from a real Sentintel-3 overpass on the same date">
+    <figcaption>GBR4 Optics and Remote Sensing Variables: Simulated Sentinel-3A True Colour from the <code>GBR4_H2p0_B3p1_Cq3b_Dhnd</code> dataset</figcaption>
+</figure>
+
+<div style="clear: both"></div>
+- [Load Optics and Remote Sensing variables in the eReefs Data Explorer](https://portal.ereefs.info/map?time=2022-03-03T02:00:00.000Z&bbox=114.8291,-35.92464,185.1416,1.93323&basemap=streetmap&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Sentinel_3B_B8;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Sentinel_3B_B8;label=Simulated%20Sentinel-3B%20OLCI%20Band%2008%20(centre%20665nm)%20used%20for%20Chl%20(2nd%20Chl%20abs.%20max.)%2C%20sediment%2C%20yellow%20substance%2Fvegetation;colorscalerange=0.00005449,0.009573;styles=default-scalar/seq-BkRd&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Sentinel_3B_B6;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Sentinel_3B_B6;label=Simulated%20Sentinel-3B%20OLCI%20Band%2006%20(centre%20560nm)%20used%20for%20Chlorophyll%20reference%20(Chl%20minimum);colorscalerange=0.0006227,0.01334;styles=default-scalar/seq-BkGn&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Sentinel_3B_B4;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_B4p2_Cq5b_Dhnd%23Sentinel_3B_B4;label=Simulated%20Sentinel-3B%20OLCI%20Band%2004%20(centre%20490nm)%20used%20for%20high%20Chl%2C%20other%20pigments;colorscalerange=0.003437,0.01243;styles=default-scalar/seq-BkBu&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fwww.cmar.csiro.au%2Fgeoserver%2Frest%2Fworkspaces%2Fereefs%2Fcoverages%2FSentinel-3B-OLCI-GBR.json%23Sentinel-3B-OLCI-GBR;id=https%3A%2F%2Fwww.cmar.csiro.au%2Fgeoserver%2Frest%2Fworkspaces%2Fereefs%2Fcoverages%2FSentinel-3B-OLCI-GBR.json%23Sentinel-3B-OLCI-GBR;label=Sentinel-3B%20-%20OLCI%20-%20True%20Colour%20Composites;colorscalerange=undefined;styles=)
+- [Learn more about simulated true colour in eReefs](https://ereefs.aims.gov.au/gbr4/bgc/baseline/true-colour/)
+- Learn how to <a href="https://github.com/eReefs/ereefs-data-access-notebooks#simulated-true-colour-from-ereefs-optical-model-variables-true-colouripynb" target="_blank">plot simulated True Colour with eReefs data</a>
 
 ### Hydrodynamic Velocity Fields
 
 We recommend using GBR1 Hydrodynamics datasets for working with velocity fields.  For even better results, you may need to nest a higher-resolution model inside GBR1. (Talk to us about [RECOM](/research/relocatable-fine-scale-coastal-models.html)!)
 
-<div style="display: inline-block; float: right; max-width: 50%; margin-left: 1em;">
-    <figure>
-        <img src="/assets/images/datasets/gbr1_vars_velocity_fields.png" title="GBR Velocity Fields Plots" alt="Plots of GBR1 Sea-surface wind, near-surface sea-water velocity and deep sea-water velocity overlaid on temperature at the same depth">
-        <figcaption>GBR1 Velocity Field Variables: Sea surface wind <code>(wspeed_u:wspeed_v)</code>, and Sea water velocity <code>(u:v)</code> at -0.5m and -31m from the <code>GBR1_H2p0</code> dataset (<a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-model-vector-results-with-matplotlib-vectorsipynb" target="_blank">Instructions for how to plot eReefs velocity fields</a>)</figcaption>
-    </figure>
-</div>
+
+<figure class="right">
+    <img src="/assets/images/datasets/gbr1_vars_velocity_fields.png" title="GBR Velocity Fields Plots" alt="Plots of GBR1 Sea-surface wind, near-surface sea-water velocity and deep sea-water velocity overlaid on temperature at the same depth">
+    <figcaption>GBR1 Velocity Field Variables: Sea surface wind <code>(wspeed_u:wspeed_v)</code>, and Sea water velocity <code>(u:v)</code> at -0.5m and -31m from the <code>GBR1_H2p0</code> dataset</figcaption>
+</figure>
 
 | Concept | Data Variable | Units |
 |---------|---------------|-------|
 | **Sea Water Velocity:** |
-| - Eastward Current | `u` | ms<sup>-1</sup> |
-| - Northward Current | `v` | ms<sup>-1</sup> |
-| - Vertical Current | `w` | ms<sup>-1</sup> |
+| - [Eastward Current](http://vocab.nerc.ac.uk/collection/P01/current/LCEWMP01/) | `u` | <nobr>ms<sup>-1</sup></nobr> |
+| - [Northward Current](http://vocab.nerc.ac.uk/collection/P01/current/LCNSMP01/) | `v` | <nobr>ms<sup>-1</sup></nobr> |
+| - [Vertical Current](http://vocab.nerc.ac.uk/collection/P01/current/LRZAMP01/) | `w` | <nobr>ms<sup>-1</sup></nobr> |
 | **Sea Surface Wind:** |
-| - Eastward Wind | `wspeed_u` | ms<sup>-1</sup> |
-| - Northward Wind | `wspeed_v` | ms<sup>-1</sup> |
+| - [Eastward Wind](http://vocab.nerc.ac.uk/collection/P01/current/ESEWMPXX/) | `wspeed_u` | <nobr>ms<sup>-1</sup></nobr> |
+| - [Northward Wind](http://vocab.nerc.ac.uk/collection/P01/current/ESNSMPXX/) | `wspeed_v` | <nobr>ms<sup>-1</sup></nobr> |
+
+<div style="clear: both"></div>
+- [Load velocity fields in the eReefs Data Explorer](https://portal.ereefs.info/map?time=2022-03-03T02:00:00.000Z&bbox=114.8291,-35.92464,185.1416,1.93323&basemap=streetmap&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23wspeed_u%3Awspeed_v-group;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23wspeed_u%3Awspeed_v-group;label=wind;colorscalerange=3.493,13.2;styles=default-vector/anu_fmc_rdylbu_9-inv&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23u%3Av-group;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23u%3Av-group;label=sea_water_velocity;colorscalerange=0.02442,1.149;styles=default-vector/div-Spectral-inv;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23v;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23v;label=Northward%20current;colorscalerange=-0.9731,0.4494;styles=default-scalar/seq-YlGnBu;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23u;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23u;label=Eastward%20current;colorscalerange=-0.4179,0.9012;styles=default-scalar/seq-YlGnBu;z=-0.5&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23wspeed_u;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23wspeed_u;label=Eastward%20wind;colorscalerange=-9.073,2.024;styles=default-scalar/seq-BuPu&dbl_layer=url=https://data.ereefs.info//dataset/item?uri=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23wspeed_v;id=https%3A%2F%2Fthredds.nci.org.au%2Fthredds%2Fcatalog%2Fcatalogs%2Ffx3%2Fcatalog.xml%3Fdataset%3DGBR4_H4p0_ABARRAr2_OBRAN2020_FG2Gv3_Dhnd%23wspeed_v;label=Northward%20wind;colorscalerange=-13.05,4.109;styles=default-scalar/seq-BuPu)
+- Learn more about [Sea water velocity currents in eReefs](https://ereefs.aims.gov.au/gbr1/current-multi-depth/), and [Current magnitude in eReefs](https://ereefs.aims.gov.au/gbr1/current-magnitude-average/)
+- Learn how to <a href="https://github.com/eReefs/ereefs-data-access-notebooks#plotting-ereefs-model-vector-results-with-matplotlib-vectorsipynb" target="_blank">plot eReefs velocity fields on a map</a>
