@@ -97,7 +97,7 @@ Our featured *eReefs* software includes:
 <div class="tilegroup">
 {% for output in featured_software %}
 <div class="tile {{output.agency | slugify}} {{output.category | slugify}}" markdown="0">
-  <a href="/research/publications/software.html#{{output.title | slugify}}" target="_window" title="Information about {{output.title}}">
+  <a href="/outputs/open-source-software#{{output.title | slugify}}" target="_window" title="Information about {{output.title}}">
     <i class="fas fa-{{output.fa-icon}}"></i>
     <h2>{{output.title}}</h2>
     {{output.caption | markdownify}}
@@ -109,7 +109,7 @@ Our featured *eReefs* software includes:
 &nbsp;
 {% endif %}
 
-[Discover all *eReefs* open-source software here](/research/publications/software.html)
+[Discover all *eReefs* open-source software here](/outputs/open-source-software)
 
 ---
 

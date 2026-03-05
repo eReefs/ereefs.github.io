@@ -1,4 +1,10 @@
 ---
+permalink: /outputs/open-source-software
+redirect_from:
+  - /research/publications/software.html
+  - /research/publications/software
+  - /outputs/software.html
+  - /outputs/software
 title: Open Source Software
 toc: true
 toc_sticky: true

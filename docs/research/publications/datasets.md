@@ -8,7 +8,7 @@ toc_sticky: true
 
 The results datasets from runs of the GBR4 and GBR1 *eReefs* marine models are published as [National Reference Datasets](https://opus.nci.org.au/spaces/NDP/pages/35066150/NCI+Data+Collections) via the [NCI](https://nci.org.au/).
 
-Both models use the [CSIRO Environmental Modelling Suite (EMS)](https://www.ereefs.org.au/research/publications/software.html#csiro-ems) software to simulate the waters of the Great Barrier Reef.  They are first run to simulate the hydrodynamics of the reef, producing a results dataset containing ocean current data, as well as temperature, salinity and sea-surface temperature.
+Both models use the [CSIRO Environmental Modelling Suite (EMS)](/outputs/open-source-software#csiro-ems) software to simulate the waters of the Great Barrier Reef.  They are first run to simulate the hydrodynamics of the reef, producing a results dataset containing ocean current data, as well as temperature, salinity and sea-surface temperature.
 
 The hydrodynamic model results are then used as boundary forcing for transport models, which can simulate river tracers for the various rivers which flow into the Great Barrier Reef lagoon or calculate the biogeochemical and optical properties of the water column and sediments.
 
@@ -189,7 +189,7 @@ Researchers with existing high-performance compute allocations on the NCI may ap
 The eReefs platform includes a number of tools designed to help you access and use these datasets:
 
 - The GBR4 and GBR1 model grids and current results datasets can be browsed, displayed, queried and animated via the [eReefs Data Explorer](https://portal.ereefs.info/map).
-- The [emsarray python library](https://www.ereefs.org.au/research/publications/software.html#csiro-emsarray) understands the curvilinear grids used for GBR4 and GBR1 model results and can be used to query the datasets from the NCI THREDDS server without needing to download them.   Detailed examples of how to use this librray to subset, plot and animate eReefs marine model results are [available as Jupyter notebooks](https://github.com/eReefs/ereefs-data-access-notebooks).
+- The [emsarray python library](/outputs/open-source-software#csiro-emsarray) understands the curvilinear grids used for GBR4 and GBR1 model results and can be used to query the datasets from the NCI THREDDS server without needing to download them.   Detailed examples of how to use this librray to subset, plot and animate eReefs marine model results are [available as Jupyter notebooks](https://github.com/eReefs/ereefs-data-access-notebooks).
 - The [eReefs data extraction tool](https://extraction.ereefs.aims.gov.au/) can be used to download environmental conditions at research sites on the Great Barrier Reef from the GBR4 and GBR1 model results.
 - A [growing number of tutorials](https://open-aims.github.io/ereefs-tutorials/) explain how to work with this data in both Python and R.
 
