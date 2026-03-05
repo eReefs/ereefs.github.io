@@ -1,12 +1,13 @@
 ---
-title: Open Access Datasets
-toc: true
-toc_sticky: true
+agency: CSIRO
+caption: Results of the GBR4 and GBR1 eReefs Marine Models
+category: datasets
+fa-icon: database
+feature: true
+target_url: https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html
+title: eReefs Marine Model Results
 ---
-
-# *eReefs* Marine Model Results
-
-The results datasets from runs of the GBR4 and GBR1 *eReefs* marine models are published as [National Reference Datasets](https://opus.nci.org.au/spaces/NDP/pages/35066150/NCI+Data+Collections) via the [NCI](https://nci.org.au/).
+The results datasets from runs of the GBR4 and GBR1 [*eReefs* marine models](/research/regional-hydrodynamic-sediment-and-wq-modeling) are published as [National Reference Datasets](https://opus.nci.org.au/spaces/NDP/pages/35066150/NCI+Data+Collections) via the [NCI](https://nci.org.au/).
 
 Both models use the [CSIRO Environmental Modelling Suite (EMS)](/outputs/open-source-software#csiro-ems) software to simulate the waters of the Great Barrier Reef.  They are first run to simulate the hydrodynamics of the reef, producing a results dataset containing ocean current data, as well as temperature, salinity and sea-surface temperature.
 
@@ -74,7 +75,7 @@ While the model was operating, the time lag between ‘now’ and the most recen
 
 Unfortunately, flooding events in northern Queensland catchments during the 2023/24 summer monsoon season caused damage to the real-time streamflow and water quality monitoring network in the Great Barrier Reef catchments,  which meant we no longer had access to one of our most critical forcing datasets. We were initially able to restart the model with a simulated dataset substituting for the data lost to TC Jasper in December 2023, but were then faced with the failure of the Normanby river gauge on January 18 2024 and the Daintree gauge on February 8 2024. Without flow data for these major rivers, the hydrodynamic model results became unreliable, and so we reluctantly made the call to cease operation of the GBR4 near-real-time models, and complete the datasets with the end date of January 17 2024.
 
-The `GBR4_H2p0` datasets have been superseded by the suite of current GBR4 datasets (listed [above](/research/publications/datasets.html#current-gbr4-regional-model-results)) which use much higher quality, validated forcing data and an improved mathematical model.
+The `GBR4_H2p0` datasets have been superseded by the suite of current GBR4 datasets (listed [above](#current-gbr4-regional-model-results)) which use much higher quality, validated forcing data and an improved mathematical model.
 
 <span style="color:red;">These datasets will be removed from the NCI fx3 project and THREDDS server in June 2026.</span>
 
@@ -94,7 +95,7 @@ After that date, the metadata records for these datasets will remain online and 
 These datasets were produced using a succession of versions of the GBR4 Biogeochemistry and Sediments model to support multiple editions of the Reef Water Quality Report card.
 
 Each related set of scenarios used the accumulated results of the then-current near-real-time hydrodynamic model as forcing data, but calculated in hindcast mode using the best-available validated (for the baseline) or scenario catchment forcing data and nutrient loads.
-Each new suite of scenario results completely supersedes the one before it, and *all* of these have now been superseded by the new `GBR4_H4p0_B4p2` datases listed [above](/research/publications/datasets.html#current-gbr4-regional-model-results).
+Each new suite of scenario results completely supersedes the one before it, and *all* of these have now been superseded by the new `GBR4_H4p0_B4p2` datases listed [above](#current-gbr4-regional-model-results).
 
 We recommend that you do not use these for new research projects. The metadata records for these datasets will remain online and available for reference purposes, but the data files are removed from the NCI fx3 project and THREDDS server once the succeeding datasets have been published. If you need access to these old datasets for research purposes, please use the contact form on this website to request access to CSIRO’s archive copies.
 
