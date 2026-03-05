@@ -1,4 +1,10 @@
 ---
+permalink: /outputs/data-access-tools-tutorials
+redirect_from:
+  - /research/publications/data-access-tools.html
+  - /research/publications/data-access-tools
+  - /outputs/data-access-tools.html
+  - /outputs/data-access-tools
 classes: wide
 title: Data Access Tools and Tutorials
 ---
