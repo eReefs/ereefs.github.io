@@ -1,4 +1,8 @@
 ---
+permalink: /outputs/scientific-publications
+redirect_from:
+    - /research/publications/scientific-publications.html
+    - /research/publications/scientific-publications
 toc: true
 toc_sticky: true
 title: Scientific Publications

@@ -117,7 +117,7 @@ Our featured *eReefs* software includes:
 
 The *eReefs* research collaboration has resulted in a large number of peer-reviewed scientific publications.
 
-[See the full list of *eReefs* publications here!](/research/publications/scientific-publications.html)
+[See the full list of *eReefs* publications here!](/outputs/scientific-publications)
 
 ---
 
