@@ -55,9 +55,8 @@ sidebar:
     # Awaiting further work
     # - title: Climate Projection Scenarios
     #   url: /research/climate_projection_scenarios.html
-
-    # - title: Research Inputs
-    #   url: /research/forcing_references.html
+    - title: References
+      url: /research/references
 
   - title: "eReefs Outputs"
     url: "/outputs/"

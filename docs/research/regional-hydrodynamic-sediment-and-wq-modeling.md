@@ -33,7 +33,4 @@ The modelling framework adopted for eReefs involves nesting a regional ocean mod
 
 - [Data Assimilation](https://research.csiro.au/ereefs/models/forcing/data-assimmilation/)
 
-- [References](/research/forcing_references)
-
-
-
+- [References](/research/references)
