@@ -1,9 +1,12 @@
 ---
 classes: wide
+permalink: /outputs/impact-evaluations
+redirect_from:
+  - /research/publications/case-studies.html
 title: Impact Evaluations
 ---
 
-Evaluations related to eReefs and its impact:
+Assessments of the impact of the eReefs research efforts on the Great Barrier Reef and Australian Reef Science:
 
 - 2024-11 [RTI: CSIRO's Research Impact in the Great Barrier Reef](https://www.csiro.au/-/media/Environment/files/Great-Barrier-Reef/CSIRO-GBR-Evaluation-Findings-Report_Nov-2024_FINAL.pdf)
   > The review found CSIRO’s Great Barrier Reef research portfolio is well-aligned with overarching Reef 2050 goals, and that collaborative engagement is critical to successful scientific reef management.

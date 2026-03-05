@@ -123,4 +123,4 @@ The *eReefs* research collaboration has resulted in a large number of peer-revie
 
 # Impact Evaluations
 
-How do we know if *eReefs* is worth the effort and funding invested in it over the years?  [Read independent evaluations of the impact of *eReefs* and related research programs here](/research/publications/case-studies.html).
+How do we know if *eReefs* is worth the effort and funding invested in it over the years?  [Read independent evaluations of the impact of *eReefs* and related research programs here](/outputs/impact-evaluations).
