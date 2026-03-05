@@ -74,6 +74,8 @@ sidebar:
       url: /outputs/scientific-publications
     - title: Impact Evaluations
       url: /outputs/impact-evaluations
+    - title: Media Mentions
+      url: /outputs/media-mentions
 
   - title: "Reef 2050 Plan"
     url: "/research/reef_2050_plan_overview.html"
@@ -93,8 +95,6 @@ sidebar:
   - title: "eReefs in Action"
     url: /research/ereefs_in_action_summary.html
     children:
-    - title: Media Mentions
-      url: /research/publications/media.html
     - title: Reef Snapshot Reports
       url: /research/reef_snapshot.html
     - title: Reef Restoration and Adaptation Program
