@@ -36,14 +36,14 @@ defaults:
         overlay_filter: "0"
       title: eReefs Research
   - scope:
-      path: "tools"
+      path: "outputs"
       type: pages
     values:
       header:
         caption: "Photography by Gary Cranitch, Queensland Museum"
-        overlay_image: /assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg
+        overlay_image: /assets/images/backgrounds/ereefs_outputs_header_8243_q60.jpg
         overlay_filter: "0"
-      title: eReefs Tools
+      title: eReefs Outputs
 
 exclude: []
 heading_anchors: true
@@ -64,4 +64,4 @@ collections:
   - collaborators
   - funding
   - reports
-  - tools
+  - outputs

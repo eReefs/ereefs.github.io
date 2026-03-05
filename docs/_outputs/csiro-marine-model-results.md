@@ -1,14 +1,15 @@
 ---
-title: Open Access Datasets
-toc: true
-toc_sticky: true
+agency: CSIRO
+caption: Results of the GBR4 and GBR1 eReefs Marine Models
+category: datasets
+fa-icon: database
+feature: true
+target_url: https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html
+title: eReefs Marine Model Results
 ---
+The results datasets from runs of the GBR4 and GBR1 [*eReefs* marine models](/research/regional-hydrodynamic-sediment-and-wq-modeling) are published as [National Reference Datasets](https://opus.nci.org.au/spaces/NDP/pages/35066150/NCI+Data+Collections) via the [NCI](https://nci.org.au/).
 
-# *eReefs* Marine Model Results
-
-The results datasets from runs of the GBR4 and GBR1 *eReefs* marine models are published as [National Reference Datasets](https://opus.nci.org.au/spaces/NDP/pages/35066150/NCI+Data+Collections) via the [NCI](https://nci.org.au/).
-
-Both models use the [CSIRO Environmental Modelling Suite (EMS)](https://www.ereefs.org.au/research/publications/software.html#csiro-ems) software to simulate the waters of the Great Barrier Reef.  They are first run to simulate the hydrodynamics of the reef, producing a results dataset containing ocean current data, as well as temperature, salinity and sea-surface temperature.
+Both models use the [CSIRO Environmental Modelling Suite (EMS)](/outputs/open-source-software#csiro-ems) software to simulate the waters of the Great Barrier Reef.  They are first run to simulate the hydrodynamics of the reef, producing a results dataset containing ocean current data, as well as temperature, salinity and sea-surface temperature.
 
 The hydrodynamic model results are then used as boundary forcing for transport models, which can simulate river tracers for the various rivers which flow into the Great Barrier Reef lagoon or calculate the biogeochemical and optical properties of the water column and sediments.
 
@@ -18,6 +19,10 @@ Model results are published as one dataset per unique combination of model grid 
 The raw results files are published as [netCDF files](https://www.unidata.ucar.edu/software/netcdf) that comply with the [NetCDF Climate and Forecast (CF) Metadata Conventions](https://cfconventions.org/cf-conventions/cf-conventions.html). Each file represents either a single day or a single month of the simulation, and includes the simulated date in the filename.
 
 All the datasets are licensed as [Creative Commons by Attribution (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode), and may be freely referenced by other data products. Please refer to the metadata record for each dataset for the preferred citation.
+
+If you use any of these eReefs marine model results datasets in your research, please include the following acknowledgement:
+
+> {% include  acknowlegement.md %}
 
 
 ## GBR4 Regional Model Datasets
@@ -70,7 +75,7 @@ While the model was operating, the time lag between ‘now’ and the most recen
 
 Unfortunately, flooding events in northern Queensland catchments during the 2023/24 summer monsoon season caused damage to the real-time streamflow and water quality monitoring network in the Great Barrier Reef catchments,  which meant we no longer had access to one of our most critical forcing datasets. We were initially able to restart the model with a simulated dataset substituting for the data lost to TC Jasper in December 2023, but were then faced with the failure of the Normanby river gauge on January 18 2024 and the Daintree gauge on February 8 2024. Without flow data for these major rivers, the hydrodynamic model results became unreliable, and so we reluctantly made the call to cease operation of the GBR4 near-real-time models, and complete the datasets with the end date of January 17 2024.
 
-The `GBR4_H2p0` datasets have been superseded by the suite of current GBR4 datasets (listed [above](/research/publications/datasets.html#current-gbr4-regional-model-results)) which use much higher quality, validated forcing data and an improved mathematical model.
+The `GBR4_H2p0` datasets have been superseded by the suite of current GBR4 datasets (listed [above](#current-gbr4-regional-model-results)) which use much higher quality, validated forcing data and an improved mathematical model.
 
 <span style="color:red;">These datasets will be removed from the NCI fx3 project and THREDDS server in June 2026.</span>
 
@@ -90,7 +95,7 @@ After that date, the metadata records for these datasets will remain online and 
 These datasets were produced using a succession of versions of the GBR4 Biogeochemistry and Sediments model to support multiple editions of the Reef Water Quality Report card.
 
 Each related set of scenarios used the accumulated results of the then-current near-real-time hydrodynamic model as forcing data, but calculated in hindcast mode using the best-available validated (for the baseline) or scenario catchment forcing data and nutrient loads.
-Each new suite of scenario results completely supersedes the one before it, and *all* of these have now been superseded by the new `GBR4_H4p0_B4p2` datases listed [above](/research/publications/datasets.html#current-gbr4-regional-model-results).
+Each new suite of scenario results completely supersedes the one before it, and *all* of these have now been superseded by the new `GBR4_H4p0_B4p2` datases listed [above](#current-gbr4-regional-model-results).
 
 We recommend that you do not use these for new research projects. The metadata records for these datasets will remain online and available for reference purposes, but the data files are removed from the NCI fx3 project and THREDDS server once the succeeding datasets have been published. If you need access to these old datasets for research purposes, please use the contact form on this website to request access to CSIRO’s archive copies.
 
@@ -146,7 +151,7 @@ The completed `GBR1_H2p0` datasets are still the most recent GBR1 datasets avail
 | --- | --- | --- | --- | --- | --- |
 | [GBR1 Hydrodynamics v2.0 NRT (`GBR1_H2p0`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/0ce4f380-ac99-46d5-a327-571bd20a0478) | 2014-12-01 | 2024-01-17 | hourly | 20 TB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=gbr1_2.0)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_2.0/catalog.html) |
 | 🡒 [GBR1 Hydrodynamics v2.0 NRT River Tracers (`GBR1_H2p0_rivers`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/d2ff17de-8347-4213-b59d-ab9afeb0b899) | 2014-12-01 | 2024-01-17 | daily | 3.8 TB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=gbr1_2.0_rivers)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_2.0_rivers/catalog.html) |
-| <span style="color: red;">**NEW! Released May 2025**</span><br/> 🡒 [GBR1 Diuron Dispersal Scenario (`GBR1_H2p0_Cq3pe1_Dhnd`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/aefc4227-8779-47a8-9137-2839631f9328) | 2016-01 | 2018-06 | hourly | 34 GB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=GBR1_H2p0_Cq3pe1_Dhnd)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_H2p0_Cq3pe1_Dhnd/catalog.html) <br/> More information about this pesticide scenario: [Pesticide Modelling and Management](/research/pesticide_modelling_and_management.html) |
+| <span style="color: red;">**NEW! Released May 2025**</span><br/> 🡒 [GBR1 Diuron Dispersal Scenario (`GBR1_H2p0_Cq3pe1_Dhnd`)](https://marlin.csiro.au/geonetwork/srv/eng/catalog.search#/metadata/aefc4227-8779-47a8-9137-2839631f9328) | 2016-01 | 2018-06 | hourly | 34 GB | [NcML Aggregation](https://thredds.nci.org.au/thredds/catalog/catalogs/fx3/catalog.html?dataset=GBR1_H2p0_Cq3pe1_Dhnd)  <br>[NetCDF Files](https://thredds.nci.org.au/thredds/catalog/fx3/gbr1_H2p0_Cq3pe1_Dhnd/catalog.html) <br/> More information about this pesticide scenario: [Pesticide Modelling and Management](/research/pesticide_modelling_and_management) |
 
 ### Deprecated GBR1 Shelf Model Results
 The following sets of GBR1 shelf model results are older and have been retired by the eReefs modelling team in favour of newer data products.
@@ -185,7 +190,7 @@ Researchers with existing high-performance compute allocations on the NCI may ap
 The eReefs platform includes a number of tools designed to help you access and use these datasets:
 
 - The GBR4 and GBR1 model grids and current results datasets can be browsed, displayed, queried and animated via the [eReefs Data Explorer](https://portal.ereefs.info/map).
-- The [emsarray python library](https://www.ereefs.org.au/research/publications/software.html#csiro-emsarray) understands the curvilinear grids used for GBR4 and GBR1 model results and can be used to query the datasets from the NCI THREDDS server without needing to download them.   Detailed examples of how to use this librray to subset, plot and animate eReefs marine model results are [available as Jupyter notebooks](https://github.com/eReefs/ereefs-data-access-notebooks).
+- The [emsarray python library](/outputs/open-source-software#csiro-emsarray) understands the curvilinear grids used for GBR4 and GBR1 model results and can be used to query the datasets from the NCI THREDDS server without needing to download them.   Detailed examples of how to use this librray to subset, plot and animate eReefs marine model results are [available as Jupyter notebooks](https://github.com/eReefs/ereefs-data-access-notebooks).
 - The [eReefs data extraction tool](https://extraction.ereefs.aims.gov.au/) can be used to download environmental conditions at research sites on the Great Barrier Reef from the GBR4 and GBR1 model results.
 - A [growing number of tutorials](https://open-aims.github.io/ereefs-tutorials/) explain how to work with this data in both Python and R.
 
@@ -351,7 +356,7 @@ Got Clouds?   The eReefs Biogeochemistry and Sediments model results include var
 
 ### Hydrodynamic Velocity Fields
 
-We recommend using GBR1 Hydrodynamics datasets for working with velocity fields.  For even better results, you may need to nest a higher-resolution model inside GBR1. (Talk to us about [RECOM](/research/relocatable-fine-scale-coastal-models.html)!)
+We recommend using GBR1 Hydrodynamics datasets for working with velocity fields.  For even better results, you may need to nest a higher-resolution model inside GBR1. (Talk to us about [RECOM](/research/relocatable-fine-scale-coastal-models)!)
 
 
 <figure class="right">

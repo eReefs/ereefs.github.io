@@ -1,11 +1,15 @@
 ---
+permalink: /outputs/scientific-publications
+redirect_from:
+    - /research/publications/scientific-publications.html
+    - /research/publications/scientific-publications
 toc: true
 toc_sticky: true
 title: Scientific Publications
 ---
 The peer-reviewed publications listed on this page use direct outputs from eReefs research and projects.
 
-For other related eReefs model input references, please see [References](/research/forcing_references)
+For other related eReefs model input references, please see [References](/research/references)
 
 If you use the eReefs model outputs, software or platforms in your research, please include the following acknowledgement:
 

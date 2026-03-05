@@ -134,7 +134,7 @@ Please ensure you properly attribute the photographer in a caption if you use an
 |`image/jpeg` | ![Home Header 0937](./docs/assets/images/backgrounds/ereefs_home_header_0937_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_home_header_0937_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | eReefs home page, contacts page, error page(s) |
 |`image/jpeg` | ![About Header 2253](./docs/assets/images/backgrounds/ereefs_about_header_2253_q75.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_about_header_2253_q75.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "About eReefs" pages |
 |`image/jpeg` | ![Research Header 2688](./docs/assets/images/backgrounds/ereefs_research_header_2688_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_research_header_2688_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "eReefs Research" pages |
-|`image/jpeg` | ![Tools Header 8243](./docs/assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_tools_header_8243_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "eReefs Tools" pages |
+|`image/jpeg` | ![Tools Header 8243](./docs/assets/images/backgrounds/ereefs_outputs_header_8243_q60.jpg) <https://www.ereefs.org.au/assets/images/backgrounds/ereefs_outputs_header_8243_q60.jpg> | w=2362px, h=268px, 300 DPI | Gary Cranitch © [Queensland Museum](https://www.museum.qld.gov.au) | "eReefs Tools" pages |
 
 &nbsp;
 
