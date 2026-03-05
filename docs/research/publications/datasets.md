@@ -19,6 +19,10 @@ The raw results files are published as [netCDF files](https://www.unidata.ucar.e
 
 All the datasets are licensed as [Creative Commons by Attribution (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode), and may be freely referenced by other data products. Please refer to the metadata record for each dataset for the preferred citation.
 
+If you use any of these eReefs marine model results datasets in your research, please include the following acknowledgement:
+
+> {% include  acknowlegement.md %}
+
 
 ## GBR4 Regional Model Datasets
 

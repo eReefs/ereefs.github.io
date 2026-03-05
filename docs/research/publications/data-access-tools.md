@@ -6,25 +6,25 @@ title: Data Access Tools and Tutorials
 These tools have been developed to help you discover and re-use eReefs data products:
 
 <div class="tilegroup">
-{% for tool in site.tools %}{% if tool.category == "data-access" and tool.status != "decommissioned" %}
-<div class="tile {{tool.agency | slugify}} {{tool.category | slugify}}" markdown="0">
-  <a href="{{tool.target_url}}" target="_window" title="Navigate to {{tool.title}}">
-    <i class="fas fa-{{tool.fa-icon}}"></i>
-    <h2>{{tool.title}}</h2>
-    {{tool.caption | markdownify}}
-    <img alt="Preview of {{tool.title}}" src="{{tool.preview_image}}" />
+{% for output in site.outputs %}{% if output.category == "data-access" and output.status != "decommissioned" %}
+<div class="tile {{output.agency | slugify}} {{output.category | slugify}}" markdown="0">
+  <a href="{{output.target_url}}" target="_window" title="Navigate to {{output.title}}">
+    <i class="fas fa-{{output.fa-icon}}"></i>
+    <h2>{{output.title}}</h2>
+    {{output.caption | markdownify}}
+    <img alt="Preview of {{output.title}}" src="{{output.preview_image}}" />
   </a>
 </div>
 {% endif %}{% endfor %}
 </div>
 
 <div class="tilegroup">
-{% for tool in site.tools %}{% if tool.category == "tutorial" and tool.status != "decommissioned" %}
-<div class="tile {{tool.agency | slugify}} {{tool.category | slugify}}" markdown="0">
-  <a href="{{tool.target_url}}" target="_window" title="Navigate to {{tool.title}}">
-    <i class="fas fa-{{tool.fa-icon}}">&nbsp;&#xf121;</i>
-    <h2>{{tool.title}}</h2>
-    {{tool.caption | markdownify}}
+{% for output in site.outputs %}{% if output.category == "tutorial" and output.status != "decommissioned" %}
+<div class="tile {{output.agency | slugify}} {{output.category | slugify}}" markdown="0">
+  <a href="{{output.target_url}}" target="_window" title="Navigate to {{output.title}}">
+    <i class="fas fa-{{output.fa-icon}}">&nbsp;&#xf121;</i>
+    <h2>{{output.title}}</h2>
+    {{output.caption | markdownify}}
   </a>
 </div>
 {% endif %}{% endfor %}
