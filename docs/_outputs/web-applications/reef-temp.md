@@ -2,14 +2,16 @@
 agency: bom
 decommission_date: 2024-01-01
 caption: Information about coral bleaching risk for the GBR
-category: website
+categories: web-application
 fa-icon: map
 preview_image: /assets/images/products/ReefTempNextGen-2016-400x359.jpg
 status: decommissioned
-target_url: http://www.bom.gov.au/environment/activities/reeftemp/reeftemp.shtml
 title: ReefTemp Next Generation
 ---
-The *ReefTemp Next Generation* Website was an operational high-resolution daily satellite sea surface temperature (SST) monitoring tool for the Great Barrier Reef.
+{% assign output = page %}
+{% include output-tile.md %}
+
+The *ReefTemp Next Generation* Website was an operational high-resolution daily satellite sea surface temperature (SST) monitoring tool for the Great Barrier Reef, originally available at a URL of `http://www.bom.gov.au/environment/activities/reeftemp/reeftemp.shtml`.
 
 It was created and hosted by the Bureau of Meteorology, launched in October 2013, and used [high-resolution SST data produced by the Intergrated Marine Observing System (IMOS)](https://imos.org.au/srs-sst-data) to produce maps of:
 - Daily Sea Surface Temperature (SST)

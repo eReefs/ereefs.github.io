@@ -5,33 +5,42 @@ redirect_from:
   - /research/publications/data-access-tools
   - /outputs/data-access-tools.html
   - /outputs/data-access-tools
-classes: wide
 title: Data Access Tools and Tutorials
 ---
 
-These tools have been developed to help you discover and re-use eReefs data products:
+# Data Access Applications
+
+These web applications have been developed by the eReefs teams to help you discover and re-use eReefs data products:
 
 <div class="tilegroup">
-{% for output in site.outputs %}{% if output.category == "data-access" and output.status != "decommissioned" %}
-<div class="tile {{output.agency | slugify}} {{output.category | slugify}}" markdown="0">
-  <a href="{{output.target_url}}" target="_window" title="Navigate to {{output.title}}">
-    <i class="fas fa-{{output.fa-icon}}"></i>
-    <h2>{{output.title}}</h2>
-    {{output.caption | markdownify}}
-    <img alt="Preview of {{output.title}}" src="{{output.preview_image}}" />
-  </a>
-</div>
-{% endif %}{% endfor %}
+{% assign data_access_services = site.outputs | where_exp: "item", "item.ereefs_ip and item.categories contains 'data-access-service'" %}
+{% for output in data_access_services %}
+{% include output-tile.md %}
+{% endfor %}
 </div>
 
+&nbsp;
+
+# Data Access Tutorials
+
+These detailed tutorials give examples of how to access *eReefs* data and services from a variety of programming environments:
+
 <div class="tilegroup">
-{% for output in site.outputs %}{% if output.category == "tutorial" and output.status != "decommissioned" %}
-<div class="tile {{output.agency | slugify}} {{output.category | slugify}}" markdown="0">
-  <a href="{{output.target_url}}" target="_window" title="Navigate to {{output.title}}">
-    <i class="fas fa-{{output.fa-icon}}">&nbsp;&#xf121;</i>
-    <h2>{{output.title}}</h2>
-    {{output.caption | markdownify}}
-  </a>
+{% assign data_access_tutorials = site.outputs | where_exp: "item", "item.ereefs_ip and item.categories contains 'data-access-tutorial'" %}
+{% for output in data_access_tutorials %}
+{% include output-tile.md %}
+{% endfor %}
 </div>
-{% endif %}{% endfor %}
+
+&nbsp;
+
+# Data Access Software
+
+These software libraries have been created by the *eReefs* researchers and collaborators to help with accessing eReefs data and services:
+
+<div class="tilegroup">
+{% assign data_access_libraries = site.outputs | where_exp: "item", "item.categories contains 'data-access-library'" %}
+{% for output in data_access_libraries %}
+{% include output-tile.md %}
+{% endfor %}
 </div>

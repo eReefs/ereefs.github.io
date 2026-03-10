@@ -1,10 +1,14 @@
 ---
 agency: csiro
-caption: Current and historical state of the Great Barrier Reef
-category: website
+caption: Learn about the simulated state of the Great Barrier Reef
+categories:
+  - web-application
+  - web-application-featured
 fa-icon: images
 preview_image: /assets/images/products/aims-ereefs.png
-target_url: https://ereefs.aims.gov.au/ereefs-aims
+tile_url: https://ereefs.aims.gov.au/ereefs-aims
 title: eReefs Visualisations
 ---
-TODO
+
+{% assign output = page %}
+{% include output-tile.md %}

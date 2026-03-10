@@ -1,9 +1,14 @@
 ---
 agency: aims
 caption: Tutorials in Python and R for accessing, plotting and processing eReefs data
-category: tutorial
+categories:
+  - data-access-featured
+  - data-access-tutorial
+  - web-application
 fa-icon: book-open
-target_url: https://open-aims.github.io/ereefs-tutorials/
+tile_url: https://open-aims.github.io/ereefs-tutorials/
 title: eReefs Data Access Tutorials
 ---
-TODO
+
+{% assign output = page %}
+{% include output-tile.md %}

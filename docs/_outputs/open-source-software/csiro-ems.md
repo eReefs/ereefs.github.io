@@ -1,16 +1,22 @@
 ---
 agency: CSIRO
 caption: eReefs GBR4, GBR1 and RECOM modelling software
-category: software
+categories:
+  - open-source-software
+  - open-source-software-featured
+  - data-pipeline
+ereefs_ip: false
 fa-icon: code
-feature: true
 preview_image: /assets/images/products/CSIRO-ems-schematic.webp
 preview_caption: |
     Schematic of CSIRO Environmental Modelling Suite, illustrating the model forcing (circulation, waves and meteorology), sediment and carbon chemistry models, and the biogeochemical quantities and processes in the water column, epipelagic and sediment zones. Optically active state variables are denoted with orange text.
-subcategory: ereefs_output
-target_url: https://research.csiro.au/cem/software/ems/
 title: CSIRO EMS
+toc: false
 ---
+
+{% assign output = page %}
+{% include output-tile.md %}
+
 CSIRO's *Environmental Modelling Suite (EMS)* is the software used to generate the eReefs GBR4, GBR1 and RECOM data products.
 EMS includes the C code for CSIRO's Sparse Hydrodynamic Ocean Code (SHOC) hydrodynamic model and the related river-tracer and biogeochemistry and sediments models.
 

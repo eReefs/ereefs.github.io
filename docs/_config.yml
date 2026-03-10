@@ -2,24 +2,25 @@ aux_links_new_tab: true
 aux_links: {}
 back_to_top: true
 back_to_top_text: "Back to top"
+breadcrumbs: true
 description: "Landing page for the eReefs Collaboration"
 defaults:
   - scope:
       path: ""
-      type: pages
     values:
       header:
         caption: "Photography by Gary Cranitch, Queensland Museum"
         overlay_color: "#000"
         overlay_image: /assets/images/backgrounds/ereefs_home_header_0937_q60.jpg
         overlay_filter: "0.5"
+        show_overlay_excerpt: false
       layout: single
+      show_overlay_excerpt: false
       sidebar:
         nav: sidebar
       title: eReefs
   - scope:
       path: "about"
-      type: pages
     values:
       header:
         caption: "Photography by Gary Cranitch, Queensland Museum"
@@ -28,7 +29,6 @@ defaults:
       title: About eReefs
   - scope:
       path: "research"
-      type: pages
     values:
       header:
         caption: "Photography by Gary Cranitch, Queensland Museum"
@@ -37,13 +37,35 @@ defaults:
       title: eReefs Research
   - scope:
       path: "outputs"
-      type: pages
+      type: "pages"
     values:
       header:
         caption: "Photography by Gary Cranitch, Queensland Museum"
         overlay_image: /assets/images/backgrounds/ereefs_outputs_header_8243_q60.jpg
         overlay_filter: "0"
+        show_overlay_excerpt: false
+      layout: single
       title: eReefs Outputs
+      toc: true
+      toc-sticky: true
+  - scope:
+      path: ""
+      type: "outputs"
+    values:
+      classes: tile-and-content
+      categories: []
+      ereefs_ip: true
+      header:
+        caption: "Photography by Gary Cranitch, Queensland Museum"
+        overlay_image: /assets/images/backgrounds/ereefs_outputs_header_8243_q60.jpg
+        overlay_filter: "0"
+        show_overlay_excerpt: false
+      layout: single
+      published: true
+      tile_url: false
+      title: eReefs Output
+      toc: true
+      toc-sticky: true
 
 exclude: []
 heading_anchors: true
@@ -60,8 +82,12 @@ atom_feed:
 title: eReefs
 logo: "/assets/images/logos/ereefs_logo.png"
 collections:
-  - acknowledgements
-  - collaborators
-  - funding
-  - reports
-  - outputs
+  acknowledgements:
+    output: false
+  collaborators:
+    output: false
+  funding:
+    output: false
+  outputs:
+    output: true
+    permalink: /:collection/:path

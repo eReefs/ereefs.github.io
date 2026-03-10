@@ -1,17 +1,20 @@
 ---
 agency: bom
 caption: Sea-surface temperatures, chlorophyll, sediments and light
-category: website
+categories:
+  - web-application
 decommission_date: 2020-12-31
 fa-icon: map
 preview_image: /assets/images/products/bom-mwq.png
 status: decommissioned
-target_url: http://www.bom.gov.au/marinewaterquality/
 title: Marine Water Quality Dashboard
 ---
+{% assign output = page %}
+{% include output-tile.md %}
+
 The eReefs Marine Water Quality dashboard was an interactive website that enabled access to a range of water-quality indicators for the Great Barrier Reef. It used near real-time data, and more than ten years of records of sea surface temperatures, chlorophyll levels, suspended sediments, and dissolved organic matter. Data from the Dashboard could be displayed in different formats (map, table or chart) and downloaded for further analysis and interpretation.
 
-This website was created and hosted by the Bureau of Meteorology, and was [released with some fanfare in March 2014](http://www.bom.gov.au/announcements/media_releases/ho/20140312.shtml).
+This website was created and hosted by the Bureau of Meteorology, and was [released with some fanfare in March 2014](http://www.bom.gov.au/announcements/media_releases/ho/20140312.shtml) at a URL of `http://www.bom.gov.au/marinewaterquality/`.
 
 The remote sensing data products available via the Marine Water Quality dashboard included ocean colour datasets derived from observations made by the [MODerate resolution Imaging Spectrometer (MODIS) sensor](https://modis.gsfc.nasa.gov/) on board the [NASA Aqua satellite](https://aqua.nasa.gov/), using an algorithm developed by CSIRO.
 

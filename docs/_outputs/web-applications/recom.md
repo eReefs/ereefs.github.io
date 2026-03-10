@@ -1,10 +1,15 @@
 ---
 agency: csiro
 caption: Create your own GBR model forced by CSIRO regional model results
-category: website
+categories:
+  - web-application
+  - web-application-featured
 fa-icon: tools
 preview_image: /assets/images/products/csiro-recom.png
-target_url: https://recom.ereefs.info/
+published: false
+tile_url: https://recom.ereefs.info/
 title: eReefs RECOM
 ---
-TODO
+
+{% assign output = page %}
+{% include output-tile.md %}
