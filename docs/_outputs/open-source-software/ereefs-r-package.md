@@ -6,6 +6,8 @@ categories:
   - open-source-software
 ereefs_ip: false
 fa-icon: code
+preview_caption: Screenshot of the AIMS eReefs R package documentation made 2026-03-10
+preview_image: /assets/images/products/aims-ereefs-r-package.png
 title: eReefs R Package
 ---
 

@@ -4,9 +4,10 @@ decommission_date: 2024-01-01
 caption: Information about coral bleaching risk for the GBR
 categories: web-application
 fa-icon: map
+preview_caption: Screenshot from 2016 of the now-decommissioned BOM ReefTemp Next Generation Dashboard
 preview_image: /assets/images/products/ReefTempNextGen-2016-400x359.jpg
 status: decommissioned
-title: ReefTemp Next Generation
+title: ReefTemp Next Generation Dashboard
 ---
 {% assign output = page %}
 {% include output-tile.md %}

@@ -1,12 +1,14 @@
 ---
 agency: csiro
 breadcrumbs: true
-caption: Jupyter Notebooks with working examples of using eReefs datasets
+caption: Jupyter Notebooks for Python + emsarray + eReefs data access
 categories:
   - data-access-featured
   - data-access-tutorial
   - open-source-software
 fa-icon: code
+preview_caption: Screenshot of the CSIRO eReefs Data Access Notebooks in the Nectar Binderhub service made 2026-03-10
+preview_image: /assets/images/products/csiro-data-access-notebooks.png
 title: eReefs Data Access Notebooks
 ---
 

@@ -5,7 +5,8 @@ categories:
   - web-application
   - web-application-featured
 fa-icon: images
-preview_image: /assets/images/products/aims-ereefs.png
+preview_caption: Screenshot of the Hydrodynamics page from the AIMS eReefs Visualisations website made on 2026-03-10
+preview_image: /assets/images/products/aims-visualisations.png
 tile_url: https://ereefs.aims.gov.au/ereefs-aims
 title: eReefs Visualisations
 ---
