@@ -1,0 +1,24 @@
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    {% assign crumbs = page.url | split: '/' %}
+    {% assign i = 0 %}
+    {% for crumb in crumbs %}
+      {% if forloop.last %}
+      <li class="current">{{ page.title }}</li>
+      {% else %}
+        {% assign i = i | plus: 1 %}
+        {% assign level_url = crumbs | slice: 0, i | join: "/" %}
+        {% assign level_label = crumb | replace: '-', ' ' | replace: '%20', ' ' | capitalize %}
+        {% if forloop.first %}
+          {% assign level_url = "/" %}
+          {% assign level_label = site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" %}
+        {% endif %}
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="{{ level_url }}" itemprop="item"><span itemprop="name">{{ level_label }}</span></a>
+        <meta itemprop="position" content="{{ i }}" />
+      </li>
+      <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
