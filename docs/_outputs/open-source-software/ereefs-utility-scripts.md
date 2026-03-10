@@ -6,6 +6,8 @@ categories:
   - open-source-software
 ereefs_ip: false
 fa-icon: code
+preview_caption: Matlab language logo
+preview_image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/330px-Matlab_Logo.png
 title: eReefs Utility Scripts
 ---
 

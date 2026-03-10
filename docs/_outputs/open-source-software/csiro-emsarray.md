@@ -7,7 +7,7 @@ categories:
   - open-source-software-featured
 fa-icon: code
 preview_image: /assets/images/products/CSIRO-emsarray-example.webp
-preview_caption: |
+preview_caption: >
     Example of plotted EMS model output rendered using emsarray
 title: emsarray Python Library
 toc: false
