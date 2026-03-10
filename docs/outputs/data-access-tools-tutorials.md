@@ -1,9 +1,7 @@
 ---
 permalink: /outputs/data-access-tools-tutorials
 redirect_from:
-  - /research/publications/data-access-tools.html
   - /research/publications/data-access-tools
-  - /outputs/data-access-tools.html
   - /outputs/data-access-tools
 title: Data Access Tools and Tutorials
 ---
@@ -13,7 +11,7 @@ title: Data Access Tools and Tutorials
 These web applications have been developed by the eReefs teams to help you discover and re-use eReefs data products:
 
 <div class="tilegroup">
-{% assign data_access_services = site.outputs | where_exp: "item", "item.ereefs_ip and item.categories contains 'data-access-service'" %}
+{% assign data_access_services = site.outputs | where_exp: "item", "item.categories contains 'data-access-service'" %}
 {% for output in data_access_services %}
 {% include output-tile.md %}
 {% endfor %}
@@ -26,7 +24,7 @@ These web applications have been developed by the eReefs teams to help you disco
 These detailed tutorials give examples of how to access *eReefs* data and services from a variety of programming environments:
 
 <div class="tilegroup">
-{% assign data_access_tutorials = site.outputs | where_exp: "item", "item.ereefs_ip and item.categories contains 'data-access-tutorial'" %}
+{% assign data_access_tutorials = site.outputs | where_exp: "item", "item.categories contains 'data-access-tutorial'" %}
 {% for output in data_access_tutorials %}
 {% include output-tile.md %}
 {% endfor %}
