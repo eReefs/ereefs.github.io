@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "2026"
+authors:
+  - family-names: David
+    given-names: S-H
+title: "References"
+references:
+
+  - authors:
+      - family-names: Clements
+        given-names: Matthew
+      - family-names: Byrne
+        given-names: Maria
+    doi: 10.1007/s00338-026-02819-w
+    identifiers:
+      - type: doi
+        value: 10.1007/s00338-026-02819-w
+      - type: url
+        value: http://dx.doi.org/10.1007/s00338-026-02819-w
+      - type: other
+        value: urn:issn:0722-4028
+    title: >-
+      Carry-over effects of decreased salinity on larval metamorphosis and the
+      early juvenile in context with eReefs hydrodynamic models
+    url: http://dx.doi.org/10.1007/s00338-026-02819-w
+    database: Crossref
+    date-published: 2026-03-18
+    year: 2026
+    month: 3
+    issn: 0722-4028
+    journal: Coral Reefs
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
