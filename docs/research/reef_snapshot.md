@@ -24,3 +24,4 @@ The eReefs project provides the Reef temperature exposure data for use in develo
 | [Reef Snapshot: Summer 2022-23](https://hdl.handle.net/11017/4002) | 2023 |
 | [Reef Snapshot: Summer 2023-24](https://hdl.handle.net/11017/4043) | 2024 |
 | [Reef Snapshot: Summer 2024-25](https://hdl.handle.net/11017/4116) | 2025 |
+| [Reef Snapshot: Summer 2025-26](https://hdl.handle.net/11017/4164) | 2026 |
