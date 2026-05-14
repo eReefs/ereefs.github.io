@@ -22,7 +22,7 @@ It was created and hosted by the Bureau of Meteorology, launched in October 2013
 
 These data products and maps were used on a daily to weekly basis year-round by the Great Barrier Reef Marine Park Authority (GBRMPA) to manage coral bleaching risk on the reef.
 
-The *ReefTemp Next Generation* website was decommissioned in 2024 when the Bureau of Meteorology stepped back from active participation in the *eReefs* collaboration, but the [IMOS SST data](https://imos.org.au/srs-sst-data) remains freely available online, and is available for visualisation in the [eReefs Data Explorer](https://portal.ereefs.info/map) (search for layers with names including 'GHRSST').
+The *ReefTemp Next Generation* website was decommissioned in 2024 when the Bureau of Meteorology stepped back from active participation in the *eReefs* collaboration, but the [IMOS SST data](https://imos.org.au/srs-sst-data) remains freely available online, and is available for visualisation in the [eReefs Data Explorer](https://portal.ereefs.org.au/map) (search for layers with names including 'GHRSST').
 
 **Archived information about ReefTemp Next Generation:**
 
