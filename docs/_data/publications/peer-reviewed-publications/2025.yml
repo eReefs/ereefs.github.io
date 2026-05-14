@@ -374,3 +374,37 @@ references:
     publisher:
       name: Springer Science and Business Media LLC
     type: article
+
+  - authors:
+      - family-names: Waterhouse
+        given-names: Jane
+      - family-names: Star
+        given-names: Megan
+      - family-names: Molinari
+        given-names: Bianca
+      - family-names: Sambrook
+        given-names: Katie
+      - family-names: VanderGragt
+        given-names: Maria
+      - family-names: Leigh
+        given-names: Catherine
+      - family-names: Sutcliffe
+        given-names: Terri
+      - family-names: Smith
+        given-names: Rachael
+      - family-names: Choukroun
+        given-names: Severine
+      - family-names: Tracey
+        given-names: Dieter
+      - family-names: Lewis
+        given-names: Stephen
+    title: >-
+      Decision support framework for management options to maintain and improve water quality in the Great Barrier Reef catchment area. 
+      Analysis of key spatial factors impacting water quality and the condition of wetlands, corals and seagrass in the Great Barrier Reef.
+    url: https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0021/411366/decision-support-framework-for-management-options-to-maintain-and-improve-water-quality-in-the-great-barrier-reef-catchment-area-summary.pdf
+    date-published: 2025-09-01
+    year: 2025
+    publisher:
+      name: Commonwealth of Australia and Queensland Government
+    type: article
+
