@@ -7,7 +7,7 @@ categories:
 fa-icon: tools
 preview_caption: Screenshot of the landing page for the CSIRO eReefs Data Broker API's Swagger documentation page made 2026-03-10
 preview_image: /assets/images/products/csiro-data-broker-api.png
-tile_url: https://data.ereefs.info/
+tile_url: https://data.ereefs.org.au/
 title: eReefs Data Broker API
 ---
 

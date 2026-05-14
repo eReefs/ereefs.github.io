@@ -48,7 +48,7 @@ redirect_from:
       <picture class="image-split-links" title="Left side - ereefs data explorer fitzroy river. Right side - ereefs visualisations princess charlotte bay.">
         <source srcset="/assets/images/backgrounds/fullHD_webp/ereefs_data_explorer_fitzroy_river_ereefs_visualisations_princess_charlotte_bay.webp" type="image/webp" />
         <img src="/assets/images/backgrounds/fullHD_jpg/ereefs_data_explorer_fitzroy_river_ereefs_visualisations_princess_charlotte_bay.jpg" alt="Left side - ereefs data explorer fitzroy river. Right side - ereefs visualisations princess charlotte bay." />
-        <a href="https://portal.ereefs.info/" target="_blank" class="left-half-link"></a>
+        <a href="https://portal.ereefs.org.au/" target="_blank" class="left-half-link"></a>
         <a href="https://ereefs.aims.gov.au/index.html" target="_blank" class="right-half-link"></a>
       </picture>
     </div>
