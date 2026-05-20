@@ -30,10 +30,14 @@ If you use the eReefs model outputs, software or platforms in your research, ple
 <p class="references">
     [{{total_references}}]
     {% assign total_references = total_references | minus: 1 %}
-
-    {% for author in publications.authors %}
-    {{author.family-names}}, {{author.given-names | slice: 0}}.
-    {% endfor %}
+    
+    {% if publications.notes == "concat_authors" %}
+        {{publications.authors.first.family-names}}, {{publications.authors.first.given-names | slice: 0}}. et al.
+    {% else %}
+        {% for author in publications.authors %}
+        {{author.family-names}}, {{author.given-names | slice: 0}}.
+        {% endfor %}
+    {% endif %}
      ({{ publications.year }}).
     {% if publications.title %}
         {{ publications.title }}.
