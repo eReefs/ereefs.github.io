@@ -34,34 +34,3 @@ references:
     publisher:
       name: Springer Science and Business Media LLC
     type: article
-
-  - authors:
-      - family-names: Waterhouse
-        given-names: J
-      - family-names: Lewis 
-        given-names: S
-      - family-names: Mongin 
-        given-names: M
-      - family-names: Skerratt 
-        given-names: J
-      - family-names: Pineda
-        given-names: M-C
-      - family-names: McCloskey 
-        given-names: G
-      - family-names: Darr
-        given-names: S
-      - family-names: Sambrook 
-        given-names: K
-      - family-names: Bainbridge
-        given-names: Z
-    title: >-
-      Marine Monitoring Program: 2024-25 Summary Results Booklet
-    url: https://hdl.handle.net/11017/4169
-    year: 2026
-    month: 1
-    issn: 2652-3213
-    languages:
-      - en
-    publisher:
-      name: Great Barrier Reef Marine Park Authority (GBRMPA)
-    type: report
