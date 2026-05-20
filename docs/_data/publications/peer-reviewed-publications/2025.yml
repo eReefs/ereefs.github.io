@@ -408,3 +408,108 @@ references:
       name: Commonwealth of Australia and Queensland Government
     type: article
 
+  - authors:
+      - family-names: Dornelas
+        given-names: Maria
+        orcid: https://orcid.org/0000-0003-2077-7055
+    doi: 10.1111/geb.70003
+    identifiers:
+      - type: doi
+        value: 10.1111/geb.70003
+      - type: url
+        value: http://dx.doi.org/10.1111/geb.70003
+      - type: other
+        value: urn:issn:1466-822X
+    title: 'BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series'
+    url: http://dx.doi.org/10.1111/geb.70003
+    database: Crossref
+    date-published: 2025-05-01
+    year: 2025
+    month: 5
+    issn: 1466-822X
+    issue: '5'
+    journal: Global Ecology and Biogeography
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    type: article
+    volume: '34'
+
+  - authors:
+      - family-names: Mills
+        given-names: Elise
+        orcid: https://orcid.org/0009-0002-2322-7470
+      - family-names: Clark
+        given-names: Graeme F.
+      - family-names: Simpson
+        given-names: Matthew J.
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Adams
+        given-names: Matthew P.
+    doi: 10.1016/j.envsoft.2025.106397
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2025.106397
+      - type: url
+        value: http://dx.doi.org/10.1016/j.envsoft.2025.106397
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      A generalised sigmoid population growth model with energy dependence:
+      Application to quantify the tipping point for Antarctic shallow seabed algae
+    url: http://dx.doi.org/10.1016/j.envsoft.2025.106397
+    database: Crossref
+    date-published: 2025-04-01
+    year: 2025
+    month: 4
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '106397'
+    type: article
+    volume: '188'
+
+  - authors:
+      - family-names: Ellis
+        given-names: Sophia L
+      - family-names: Baird
+        given-names: Mark E
+      - family-names: Harrison
+        given-names: Luke P
+      - family-names: Schulz
+        given-names: Kai G
+      - family-names: Harrison
+        given-names: Daniel P
+    doi: 10.1093/conphys/coaf020
+    identifiers:
+      - type: doi
+        value: 10.1093/conphys/coaf020
+      - type: url
+        value: http://dx.doi.org/10.1093/conphys/coaf020
+      - type: other
+        value: urn:issn:2051-1434
+    title: >-
+      A photophysiological model of coral bleaching under light and temperature
+      stress: experimental assessment
+    url: http://dx.doi.org/10.1093/conphys/coaf020
+    database: Crossref
+    date-published: 2025-01-01
+    year: 2025
+    month: 1
+    editors:
+      - family-names: Porteus
+        given-names: Cosima
+    issn: 2051-1434
+    issue: '1'
+    journal: Conservation Physiology
+    languages:
+      - en
+    publisher:
+      name: Oxford University Press (OUP)
+    type: article
+    volume: '13'
