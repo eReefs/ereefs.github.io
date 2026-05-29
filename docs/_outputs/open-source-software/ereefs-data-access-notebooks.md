@@ -15,7 +15,7 @@ title: eReefs Data Access Notebooks
 {% assign output = page %}
 {% include output-tile.md %}
 
-The CSIRO team behind the [eReefs Data Explorer](https://portal.ereefs.info/map) and [emsarray](/outputs/open-source-software/csiro-emsarray)  have joined forces to create a suite of [Jupyter notebooks](https://jupyter.org/) with working examples of how to use emsarray to access, manipulate and visualise eReefs model results datasets in Python.
+The CSIRO team behind the [eReefs Data Explorer](https://portal.ereefs.org.au/map) and [emsarray](/outputs/open-source-software/csiro-emsarray)  have joined forces to create a suite of [Jupyter notebooks](https://jupyter.org/) with working examples of how to use emsarray to access, manipulate and visualise eReefs model results datasets in Python.
 
 <div style="clear: both;"></div>
 

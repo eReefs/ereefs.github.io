@@ -374,3 +374,1495 @@ references:
     publisher:
       name: Springer Science and Business Media LLC
     type: article
+
+  - authors:
+      - family-names: Waterhouse
+        given-names: Jane
+      - family-names: Star
+        given-names: Megan
+      - family-names: Molinari
+        given-names: Bianca
+      - family-names: Sambrook
+        given-names: Katie
+      - family-names: VanderGragt
+        given-names: Maria
+      - family-names: Leigh
+        given-names: Catherine
+      - family-names: Sutcliffe
+        given-names: Terri
+      - family-names: Smith
+        given-names: Rachael
+      - family-names: Choukroun
+        given-names: Severine
+      - family-names: Tracey
+        given-names: Dieter
+      - family-names: Lewis
+        given-names: Stephen
+    title: >-
+      Decision support framework for management options to maintain and improve water quality in the Great Barrier Reef catchment area. 
+      Analysis of key spatial factors impacting water quality and the condition of wetlands, corals and seagrass in the Great Barrier Reef.
+    url: https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0021/411366/decision-support-framework-for-management-options-to-maintain-and-improve-water-quality-in-the-great-barrier-reef-catchment-area-summary.pdf
+    date-published: 2025-09-01
+    year: 2025
+    publisher:
+      name: Commonwealth of Australia and Queensland Government
+    type: article
+
+  - authors:
+      - family-names: Mills
+        given-names: Elise
+        orcid: https://orcid.org/0009-0002-2322-7470
+      - family-names: Clark
+        given-names: Graeme F.
+      - family-names: Simpson
+        given-names: Matthew J.
+      - family-names: Baird
+        given-names: Mark
+      - family-names: Adams
+        given-names: Matthew P.
+    doi: 10.1016/j.envsoft.2025.106397
+    identifiers:
+      - type: doi
+        value: 10.1016/j.envsoft.2025.106397
+      - type: url
+        value: http://dx.doi.org/10.1016/j.envsoft.2025.106397
+      - type: other
+        value: urn:issn:1364-8152
+    title: >-
+      A generalised sigmoid population growth model with energy dependence:
+      Application to quantify the tipping point for Antarctic shallow seabed algae
+    url: http://dx.doi.org/10.1016/j.envsoft.2025.106397
+    database: Crossref
+    date-published: 2025-04-01
+    year: 2025
+    month: 4
+    issn: 1364-8152
+    journal: Environmental Modelling &amp; Software
+    languages:
+      - en
+    publisher:
+      name: Elsevier BV
+    start: '106397'
+    type: article
+    volume: '188'
+
+  - authors:
+      - family-names: Dornelas
+        given-names: Maria
+        orcid: https://orcid.org/0000-0003-2077-7055
+      - family-names: Antão
+        given-names: Laura H.
+        orcid: https://orcid.org/0000-0001-6612-9366
+      - family-names: Bates
+        given-names: Amanda E.
+        orcid: https://orcid.org/0000-0002-0198-4537
+      - family-names: Brambilla
+        given-names: Viviana
+        orcid: https://orcid.org/0000-0002-0560-4693
+      - family-names: Chase
+        given-names: Jonathan M.
+        orcid: https://orcid.org/0000-0001-5580-4303
+      - family-names: Chow
+        given-names: Cher F. Y.
+        orcid: https://orcid.org/0000-0002-1020-8409
+      - family-names: Fontrodona‐Eslava
+        given-names: Ada
+        orcid: https://orcid.org/0000-0001-7275-7174
+      - family-names: Magurran
+        given-names: Anne E.
+        orcid: https://orcid.org/0000-0002-0036-2795
+      - family-names: Martins
+        given-names: Inês S.
+        orcid: https://orcid.org/0000-0003-4328-7286
+      - family-names: Moyes
+        given-names: Faye
+        orcid: https://orcid.org/0000-0001-9687-0593
+      - family-names: Sagouis
+        given-names: Alban
+        orcid: https://orcid.org/0000-0002-3827-1063
+      - family-names: Adu‐Acheampong
+        given-names: Samuel
+        orcid: https://orcid.org/0000-0002-6435-2772
+      - family-names: Acquah‐Lamptey
+        given-names: Daniel
+        orcid: https://orcid.org/0000-0002-2994-1993
+      - family-names: Adam
+        given-names: Dušan
+        orcid: https://orcid.org/0000-0002-6475-8975
+      - family-names: Ajani
+        given-names: Penelope A.
+        orcid: https://orcid.org/0000-0001-5364-9936
+      - family-names: Albaina
+        given-names: Aitor
+        orcid: https://orcid.org/0000-0003-3353-6090
+      - family-names: Almaraz
+        given-names: Pablo
+        orcid: https://orcid.org/0000-0003-1416-2695
+      - family-names: An
+        given-names: Jeongseop
+        orcid: https://orcid.org/0000-0002-8779-0724
+      - family-names: Anderson
+        given-names: Roger Sigismund
+        orcid: https://orcid.org/0000-0003-4459-1634
+      - family-names: Anderson
+        given-names: Madelaine Jean Robertson
+        orcid: https://orcid.org/0000-0001-6571-9620
+      - family-names: Antunes
+        given-names: Alexsander Z.
+        orcid: https://orcid.org/0000-0003-4864-9354
+      - family-names: Arismendi
+        given-names: Ivan
+        orcid: https://orcid.org/0000-0002-8774-9350
+      - family-names: Armbrecht
+        given-names: Linda
+        orcid: https://orcid.org/0000-0002-1213-1257
+      - family-names: Aros‐Mardones
+        given-names: Pedro
+        orcid: https://orcid.org/0009-0000-1975-8856
+      - family-names: Ashtamoorthy
+        given-names: Sreejith Kalpuzha
+        orcid: https://orcid.org/0000-0002-6268-3973
+      - family-names: Ayyappan
+        given-names: Narayanan
+        orcid: https://orcid.org/0000-0003-4383-557X
+      - family-names: Badihi
+        given-names: Gal
+        orcid: https://orcid.org/0000-0001-5025-906X
+      - family-names: Bailey
+        given-names: Joseph J.
+        orcid: https://orcid.org/0000-0002-9526-7095
+      - family-names: Baird
+        given-names: Andrew H.
+        orcid: https://orcid.org/0000-0001-8504-4077
+      - family-names: Baird
+        given-names: Mark Edward
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Balakrishnan
+        given-names: Sreekumar Vadakkethil
+        orcid: https://orcid.org/0000-0003-0762-4337
+      - family-names: Barão‐Nóbrega
+        given-names: José António L.
+        orcid: https://orcid.org/0000-0002-4814-2871
+      - family-names: Barash
+        given-names: Adi
+        orcid: https://orcid.org/0000-0003-0432-3045
+      - family-names: Barbosa
+        given-names: Miguel
+        orcid: https://orcid.org/0000-0003-0327-9580
+      - family-names: Barlow
+        given-names: Jos
+        orcid: https://orcid.org/0000-0003-4992-2594
+      - family-names: Bässler
+        given-names: Claus
+        orcid: https://orcid.org/0000-0001-8177-8997
+      - family-names: Beaumont
+        given-names: Matthieu
+        orcid: https://orcid.org/0009-0003-6659-6644
+      - family-names: Beenaerts
+        given-names: Natalie
+        orcid: https://orcid.org/0000-0001-5655-5943
+      - family-names: Begot
+        given-names: Tiago Octavio
+        orcid: https://orcid.org/0000-0002-4879-3869
+      - family-names: Beiroz
+        given-names: Wallace
+        orcid: https://orcid.org/0000-0002-9677-6799
+      - family-names: Beldade
+        given-names: Ricardo
+        orcid: https://orcid.org/0000-0003-1911-0122
+      - family-names: Bell
+        given-names: David M.
+        orcid: https://orcid.org/0000-0002-2673-5836
+      - family-names: Bellgrove
+        given-names: Alecia
+        orcid: https://orcid.org/0000-0002-0499-3439
+      - family-names: Belmaker
+        given-names: Jonathan
+        orcid: https://orcid.org/0000-0002-5618-7359
+      - family-names: Benedetti‐Cecchi
+        given-names: Lisandro
+        orcid: https://orcid.org/0000-0001-5244-5202
+      - family-names: Benkwitt
+        given-names: Cassandra E.
+        orcid: https://orcid.org/0000-0001-6756-7958
+      - family-names: Berkum
+        given-names: Pamela Medina‐van
+        orcid: https://orcid.org/0000-0002-7438-1454
+      - family-names: Bestelmeyer
+        given-names: Brandon T.
+        orcid: https://orcid.org/0000-0001-5060-9955
+      - family-names: Betts
+        given-names: Matthew G.
+        orcid: https://orcid.org/0000-0002-7100-2551
+      - family-names: Billah
+        given-names: Maxwell Kelvin
+        orcid: https://orcid.org/0000-0002-8832-0708
+      - family-names: Bjorkman
+        given-names: Anne D.
+        orcid: https://orcid.org/0000-0003-2174-7800
+      - family-names: Błażewicz
+        given-names: Magdalena
+        orcid: https://orcid.org/0000-0002-4753-3424
+      - family-names: Bloch
+        given-names: Christopher P.
+        orcid: https://orcid.org/0000-0002-5844-5331
+      - family-names: Blowes
+        given-names: Shane A.
+        orcid: https://orcid.org/0000-0001-6310-3670
+      - family-names: Bode
+        given-names: Antonio
+        orcid: https://orcid.org/0000-0002-9535-2548
+      - family-names: Bogoni
+        given-names: Juliano A.
+        orcid: https://orcid.org/0000-0002-8541-0556
+      - family-names: Bolger
+        given-names: Thomas
+        orcid: https://orcid.org/0000-0001-8437-0735
+      - family-names: Bonebrake
+        given-names: Timothy C.
+        orcid: https://orcid.org/0000-0001-9999-2254
+      - family-names: Bonsdorff
+        given-names: Erik
+        orcid: https://orcid.org/0000-0001-5070-4880
+      - family-names: Bottarin
+        given-names: Roberta
+        orcid: https://orcid.org/0000-0002-6352-3699
+      - family-names: Brokensha
+        given-names: Luke N.
+        orcid: https://orcid.org/0009-0000-3223-7887
+      - family-names: Brooker
+        given-names: Rob W.
+        orcid: https://orcid.org/0000-0002-7014-0071
+      - family-names: Brooks
+        given-names: Andrew J.
+        orcid: https://orcid.org/0000-0002-6651-1204
+      - family-names: Bruelheide
+        given-names: Helge
+        orcid: https://orcid.org/0000-0003-3135-0356
+      - family-names: Bueno
+        given-names: Thiago Almeida
+        orcid: https://orcid.org/0000-0002-0384-4546
+      - family-names: Laguionie
+        given-names: Claire
+      - family-names: Campagnoli
+        given-names: Mariana Lopes
+        orcid: https://orcid.org/0000-0002-2784-871X
+      - family-names: Cant
+        given-names: James
+        orcid: https://orcid.org/0000-0002-5529-1752
+      - family-names: Caramaschi
+        given-names: Erica Pellegrini
+        orcid: https://orcid.org/0000-0002-3371-4996
+      - family-names: Caron
+        given-names: Alexandre
+        orcid: https://orcid.org/0000-0002-5213-3273
+      - family-names: Carroll
+        given-names: Tadhg
+        orcid: https://orcid.org/0000-0002-4812-6855
+      - family-names: Caruso
+        given-names: Tancredi
+        orcid: https://orcid.org/0000-0002-3607-9609
+      - family-names: Carvajal‐Quintero
+        given-names: Juan
+        orcid: https://orcid.org/0000-0001-6758-8118
+      - family-names: Castaldelli
+        given-names: Giuseppe
+        orcid: https://orcid.org/0000-0001-5954-1133
+      - family-names: Castañeda‐Moya
+        given-names: Edward
+        orcid: https://orcid.org/0000-0001-7759-4351
+      - family-names: Castilho
+        given-names: Pedro V.
+        orcid: https://orcid.org/0000-0002-9939-7807
+      - family-names: Cechin
+        given-names: Sonia Zanini
+        orcid: https://orcid.org/0000-0003-2632-1681
+      - family-names: Chaikin
+        given-names: Shahar
+        orcid: https://orcid.org/0000-0003-1352-9432
+      - family-names: Chandrashekara
+        given-names: Uchangi Manjunatha
+      - family-names: Chase
+        given-names: Tory J.
+        orcid: https://orcid.org/0000-0002-2044-136X
+      - family-names: Chen
+        given-names: Chaolun Allen
+        orcid: https://orcid.org/0000-0003-0452-4226
+      - family-names: Cherem
+        given-names: Jorge José
+        orcid: https://orcid.org/0000-0001-9718-9628
+      - family-names: Choi
+        given-names: Sei‐Woong
+        orcid: https://orcid.org/0000-0001-6326-399X
+      - family-names: Christensen
+        given-names: Erica M.
+        orcid: https://orcid.org/0000-0002-5635-2502
+      - family-names: Christianini
+        given-names: Alexander V.
+        orcid: https://orcid.org/0000-0002-1538-791X
+      - family-names: Chu
+        given-names: Jackson Wing Four
+        orcid: https://orcid.org/0000-0002-7776-9446
+      - family-names: Coad
+        given-names: Peter
+      - family-names: Van Colen
+        given-names: Carl
+        orcid: https://orcid.org/0000-0002-9307-4484
+      - family-names: Comte
+        given-names: Lise
+        orcid: https://orcid.org/0000-0001-8030-0019
+      - family-names: Cooper
+        given-names: Elisabeth J.
+        orcid: https://orcid.org/0000-0002-0634-1282
+      - family-names: Cornelissen
+        given-names: J. Hans C.
+        orcid: https://orcid.org/0000-0002-2346-1585
+      - family-names: Cosson
+        given-names: Eddy
+      - family-names: Cotano
+        given-names: Unai
+        orcid: https://orcid.org/0000-0003-1477-7059
+      - family-names: Crevecoeur
+        given-names: Luc
+      - family-names: Crow
+        given-names: Shannan Kyle
+        orcid: https://orcid.org/0000-0001-9888-6513
+      - family-names: Cumming
+        given-names: Graeme S.
+        orcid: https://orcid.org/0000-0002-3678-1326
+      - family-names: Daga
+        given-names: Vanessa S.
+        orcid: https://orcid.org/0000-0003-3707-716X
+      - family-names: Damasceno
+        given-names: Gabriella
+        orcid: https://orcid.org/0000-0001-5103-484X
+      - family-names: Daskalova
+        given-names: Gergana N.
+        orcid: https://orcid.org/0000-0002-5674-5322
+      - family-names: Davies
+        given-names: Claire H.
+        orcid: https://orcid.org/0000-0002-0424-1835
+      - family-names: Davis
+        given-names: Robert A.
+        orcid: https://orcid.org/0000-0002-9062-5754
+      - family-names: Day
+        given-names: Frank P.
+      - family-names: De‐La‐Zerda
+        given-names: Sussy
+      - family-names: Deacon
+        given-names: Amy Elizabeth
+        orcid: https://orcid.org/0000-0002-7739-2925
+      - family-names: de Castro‐Arrazola
+        given-names: Indradatta
+        orcid: https://orcid.org/0000-0001-6558-5730
+      - family-names: Degraer
+        given-names: Steven
+        orcid: https://orcid.org/0000-0002-3159-5751
+      - family-names: Deonarinesingh
+        given-names: Kharran
+      - family-names: Diaz‐Ricaurte
+        given-names: Juan C.
+        orcid: https://orcid.org/0000-0002-4659-0865
+      - family-names: Dickman
+        given-names: Christopher R.
+        orcid: https://orcid.org/0000-0002-1067-3730
+      - family-names: Dirilgen
+        given-names: Tara
+        orcid: https://orcid.org/0000-0001-9687-9651
+      - family-names: Dolan
+        given-names: Ciaran John
+        orcid: https://orcid.org/0000-0002-2602-9026
+      - family-names: Duffy
+        given-names: J. Emmett
+        orcid: https://orcid.org/0000-0001-8595-6391
+      - family-names: Dunn
+        given-names: Timothy E.
+      - family-names: Durigan
+        given-names: Giselda
+        orcid: https://orcid.org/0000-0003-0693-3154
+      - family-names: Dwyer
+        given-names: Ciara
+        orcid: https://orcid.org/0000-0002-7558-3664
+      - family-names: Earl
+        given-names: Stevan
+        orcid: https://orcid.org/0000-0002-4465-452X
+      - family-names: Edelist
+        given-names: Dor
+        orcid: https://orcid.org/0000-0001-9801-4205
+      - family-names: Edgar
+        given-names: Graham John
+      - family-names: Edmondson
+        given-names: Sally
+      - family-names: Elgin
+        given-names: Ashley K.
+        orcid: https://orcid.org/0000-0001-5728-9843
+      - family-names: Ellingsen
+        given-names: Kari Elsa
+        orcid: https://orcid.org/0000-0002-2321-8278
+      - family-names: Elmendorf
+        given-names: Sarah C.
+        orcid: https://orcid.org/0000-0003-1085-8521
+      - family-names: Eriksen
+        given-names: Ruth S.
+        orcid: https://orcid.org/0000-0002-5184-2465
+      - family-names: Ernest
+        given-names: S. K. Morgan
+        orcid: https://orcid.org/0000-0002-6026-8530
+      - family-names: Escribano
+        given-names: Ruben
+        orcid: https://orcid.org/0000-0002-9843-7723
+      - family-names: Eterovick
+        given-names: Paula Cabral
+        orcid: https://orcid.org/0000-0002-1316-1255
+      - family-names: Evans
+        given-names: Brian S.
+        orcid: https://orcid.org/0000-0001-6081-1794
+      - family-names: Everett
+        given-names: Jason D.
+        orcid: https://orcid.org/0000-0002-6681-8054
+      - family-names: Evtimova
+        given-names: Vesela
+        orcid: https://orcid.org/0000-0002-6358-8011
+      - family-names: Exton
+        given-names: Dan A.
+        orcid: https://orcid.org/0000-0001-8885-5828
+      - family-names: Fairbairn
+        given-names: Andrew J.
+        orcid: https://orcid.org/0000-0002-2826-3465
+      - family-names: Fantacini
+        given-names: Felipe Moreli
+        orcid: https://orcid.org/0000-0002-3979-2215
+      - family-names: Farah
+        given-names: Fabiano Turini
+        orcid: https://orcid.org/0000-0003-2406-8766
+      - family-names: Farneda
+        given-names: Fábio Zanella
+        orcid: https://orcid.org/0000-0001-6765-2861
+      - family-names: Favila
+        given-names: Mario E.
+        orcid: https://orcid.org/0000-0002-2737-9327
+      - family-names: Fernandez‐Fournier
+        given-names: Philippe
+        orcid: https://orcid.org/0000-0003-3701-7386
+      - family-names: Fernández‐Zapata
+        given-names: Braulio
+        orcid: https://orcid.org/0000-0002-0913-289X
+      - family-names: Ferreira
+        given-names: Diogo F.
+        orcid: https://orcid.org/0000-0003-2881-1860
+      - family-names: Ferronato
+        given-names: Carola
+        orcid: https://orcid.org/0000-0002-5189-6746
+      - family-names: du Feu
+        given-names: Christopher R.
+      - family-names: Fidelis
+        given-names: Alessandra
+        orcid: https://orcid.org/0000-0001-9545-2285
+      - family-names: Fifield
+        given-names: David A.
+        orcid: https://orcid.org/0000-0001-5433-4733
+      - family-names: Filho
+        given-names: Vilmar Picinatto
+        orcid: https://orcid.org/0000-0002-6634-5576
+      - family-names: Filho
+        given-names: Walter Mesquita
+        orcid: https://orcid.org/0000-0003-4695-9471
+      - family-names: Fitt
+        given-names: Robert N. L.
+        orcid: https://orcid.org/0000-0003-1210-095X
+      - family-names: Flechtmann
+        given-names: Carlos A. H.
+        orcid: https://orcid.org/0000-0001-6693-3610
+      - family-names: Fraser
+        given-names: William R.
+        orcid: https://orcid.org/0000-0003-4946-1783
+      - family-names: Fraser
+        given-names: Donna L.
+      - family-names: Freixas
+        given-names: Lídia
+        orcid: https://orcid.org/0009-0002-1314-0347
+      - family-names: Fryxell
+        given-names: John
+      - family-names: Fundakowski
+        given-names: Garrett J.
+        orcid: https://orcid.org/0009-0009-7135-3018
+      - family-names: Gabara
+        given-names: Scott Stanley
+        orcid: https://orcid.org/0000-0002-8891-3984
+      - family-names: Gallois
+        given-names: Elise
+        orcid: https://orcid.org/0000-0002-9402-1931
+      - family-names: Criado
+        given-names: Mariana García
+        orcid: https://orcid.org/0000-0001-7480-6144
+      - family-names: García‐Berthou
+        given-names: Emili
+        orcid: https://orcid.org/0000-0001-8412-741X
+      - family-names: Garrabou
+        given-names: Joaquim
+        orcid: https://orcid.org/0000-0001-9900-7277
+      - family-names: Gates
+        given-names: Andrew R.
+        orcid: https://orcid.org/0000-0002-2798-5044
+      - family-names: Gatti
+        given-names: Roberto Cazzolla
+        orcid: https://orcid.org/0000-0001-5130-8492
+      - family-names: Gavioli
+        given-names: Anna
+        orcid: https://orcid.org/0000-0001-8222-9287
+      - family-names: Gavriel
+        given-names: Tal
+        orcid: https://orcid.org/0000-0001-8657-0060
+      - family-names: Gendreau‐Berthiaume
+        given-names: Benoit
+      - family-names: Giam
+        given-names: Xingli
+        orcid: https://orcid.org/0000-0002-5239-9477
+      - family-names: Gjerdrum
+        given-names: Carina
+        orcid: https://orcid.org/0000-0002-4996-7074
+      - family-names: Glemnitz
+        given-names: Michael
+        orcid: https://orcid.org/0000-0002-6506-1889
+      - family-names: Godbold
+        given-names: Jasmin Annica
+        orcid: https://orcid.org/0000-0001-5558-8188
+      - family-names: Gómez‐Gras
+        given-names: Daniel
+        orcid: https://orcid.org/0000-0002-9738-6522
+      - family-names: Gonçalves
+        given-names: Rodrigo Barbosa
+        orcid: https://orcid.org/0000-0001-5623-0938
+      - family-names: Goold
+        given-names: Andy
+      - family-names: Gordon
+        given-names: Richard R.
+      - family-names: Goren
+        given-names: Menachem
+        orcid: https://orcid.org/0000-0003-1597-269X
+      - family-names: Goulart
+        given-names: Fernando Vilas Boas
+      - family-names: Gould
+        given-names: William A.
+        orcid: https://orcid.org/0000-0002-3720-9735
+      - family-names: Grabowski
+        given-names: Meagan M.
+        orcid: https://orcid.org/0000-0001-6653-6666
+      - family-names: Graham
+        given-names: Nicholas A. J.
+        orcid: https://orcid.org/0000-0002-0304-7467
+      - family-names: Graipel
+        given-names: Maurício Eduardo
+        orcid: https://orcid.org/0000-0001-5059-1919
+      - family-names: Grange
+        given-names: Laura J.
+        orcid: https://orcid.org/0000-0001-9222-6848
+      - family-names: Greenville
+        given-names: Aaron C.
+        orcid: https://orcid.org/0000-0002-0113-4778
+      - family-names: Grossman
+        given-names: Gary D.
+        orcid: https://orcid.org/0000-0002-4432-1645
+      - family-names: Guinder
+        given-names: Valeria A.
+        orcid: https://orcid.org/0000-0002-3852-9570
+      - family-names: Haase
+        given-names: Peter
+        orcid: https://orcid.org/0000-0002-9340-0438
+      - family-names: Haskins
+        given-names: Gary N.
+      - family-names: Havstad
+        given-names: Kris
+      - family-names: Hermanutz
+        given-names: Luise
+        orcid: https://orcid.org/0000-0003-0706-7067
+      - family-names: Hickford
+        given-names: Michael Julian Hames
+        orcid: https://orcid.org/0000-0002-0275-6632
+      - family-names: Hidalgo
+        given-names: Pamela
+        orcid: https://orcid.org/0000-0002-5872-7574
+      - family-names: Higuchi
+        given-names: Pedro
+        orcid: https://orcid.org/0000-0002-3855-555X
+      - family-names: Hoey
+        given-names: Andrew S.
+        orcid: https://orcid.org/0000-0002-4261-5594
+      - family-names: Van Hoey
+        given-names: Gert
+        orcid: https://orcid.org/0000-0003-2055-5292
+      - family-names: Hofgaard
+        given-names: Annika
+        orcid: https://orcid.org/0000-0001-6919-5537
+      - family-names: Holeck
+        given-names: Kristen T.
+        orcid: https://orcid.org/0000-0003-2784-8637
+      - family-names: Hollister
+        given-names: Robert D.
+        orcid: https://orcid.org/0000-0002-4764-7691
+      - family-names: Holmes
+        given-names: Richard T.
+        orcid: https://orcid.org/0000-0001-6705-6269
+      - family-names: Hoogenboom
+        given-names: Mia Odell
+        orcid: https://orcid.org/0000-0003-3709-6344
+      - family-names: Hortal
+        given-names: Joaquín
+        orcid: https://orcid.org/0000-0002-8370-8877
+      - family-names: Horton
+        given-names: Tammy
+        orcid: https://orcid.org/0000-0003-4250-1068
+      - family-names: Hsieh
+        given-names: Chih‐hao
+        orcid: https://orcid.org/0000-0001-5935-7272
+      - family-names: Huffard
+        given-names: Christine L.
+        orcid: https://orcid.org/0000-0002-2631-1021
+      - family-names: Huikkonen
+        given-names: Ida‐Maria
+      - family-names: Hurlbert
+        given-names: Allen H.
+        orcid: https://orcid.org/0000-0002-5678-9907
+      - family-names: Hynes
+        given-names: Julian
+      - family-names: Irz
+        given-names: Pascal
+        orcid: https://orcid.org/0000-0002-2066-8935
+      - family-names: Macedo Ivanauskas
+        given-names: Natalia
+        orcid: https://orcid.org/0000-0001-6643-8476
+      - family-names: Iwayama
+        given-names: Akemi
+      - family-names: James
+        given-names: Darren K.
+        orcid: https://orcid.org/0000-0002-9936-5549
+      - family-names: Jandt
+        given-names: Ute
+        orcid: https://orcid.org/0000-0002-3177-3669
+      - family-names: Jażdżewska
+        given-names: Anna M.
+        orcid: https://orcid.org/0000-0003-2529-0641
+      - family-names: Jocque
+        given-names: Merlijn
+        orcid: https://orcid.org/0000-0002-7196-7476
+      - family-names: Johnston
+        given-names: Sophie T.
+      - family-names: Jones
+        given-names: Samuel E. I.
+        orcid: https://orcid.org/0000-0002-8123-986X
+      - family-names: Jones
+        given-names: Faith A. M.
+        orcid: https://orcid.org/0000-0001-6571-714X
+      - family-names: Jones
+        given-names: Julia A.
+        orcid: https://orcid.org/0000-0001-9429-8925
+      - family-names: Jucevica
+        given-names: Edite
+        orcid: https://orcid.org/0000-0002-0710-9450
+      - family-names: Kagainis
+        given-names: Ugis
+        orcid: https://orcid.org/0000-0002-9921-2331
+      - family-names: Kagami
+        given-names: Maiko
+        orcid: https://orcid.org/0000-0003-3086-390X
+      - family-names: Kang
+        given-names: Jungwon
+      - family-names: Ke
+        given-names: Xuejia
+        orcid: https://orcid.org/0000-0002-4957-6428
+      - family-names: Keeley
+        given-names: Erin Colleen
+      - family-names: Kinnear
+        given-names: Rebecca
+      - family-names: Klanderud
+        given-names: Kari
+        orcid: https://orcid.org/0000-0003-1049-7025
+      - family-names: Klinck
+        given-names: Uwe
+      - family-names: van Klink
+        given-names: Roel
+        orcid: https://orcid.org/0000-0002-8125-1463
+      - family-names: Klotz
+        given-names: Stefan
+        orcid: https://orcid.org/0000-0003-4355-6415
+      - family-names: Knockaert
+        given-names: Carolien
+        orcid: https://orcid.org/0000-0002-9351-7695
+      - family-names: Knutsen
+        given-names: Halvor
+        orcid: https://orcid.org/0000-0002-7627-7634
+      - family-names: Koivula
+        given-names: Matti
+        orcid: https://orcid.org/0000-0001-6415-4904
+      - family-names: Kortz
+        given-names: Alessandra
+        orcid: https://orcid.org/0000-0002-7473-1987
+      - family-names: Kriegel
+        given-names: Peter
+        orcid: https://orcid.org/0000-0003-4099-5295
+      - family-names: Kuo
+        given-names: Chao‐Yang
+        orcid: https://orcid.org/0000-0002-5261-5045
+      - family-names: Kushner
+        given-names: David J.
+        orcid: https://orcid.org/0009-0008-4942-2956
+      - family-names: Kyerematen
+        given-names: Rosina
+        orcid: https://orcid.org/0000-0001-9671-9279
+      - family-names: Lagarde
+        given-names: Raphaël
+        orcid: https://orcid.org/0000-0001-9809-1673
+      - family-names: Lancaster
+        given-names: Lesley T.
+        orcid: https://orcid.org/0000-0002-3135-4835
+      - family-names: Landau
+        given-names: Ori Frid
+        orcid: https://orcid.org/0000-0003-2901-4900
+      - family-names: Van Landuyt
+        given-names: Wouter
+        orcid: https://orcid.org/0000-0002-1915-4486
+      - family-names: Larson
+        given-names: Eric R.
+        orcid: https://orcid.org/0000-0002-9232-5907
+      - family-names: Lazarus
+        given-names: Mai
+        orcid: https://orcid.org/0000-0001-6006-5605
+      - family-names: Lee
+        given-names: Cheol Min
+        orcid: https://orcid.org/0000-0001-9856-6974
+      - family-names: Lefcheck
+        given-names: Jonathan S.
+        orcid: https://orcid.org/0000-0002-8787-1786
+      - family-names: Lembrechts
+        given-names: Jonas J.
+        orcid: https://orcid.org/0000-0002-1933-0750
+      - family-names: Ferreira de Lima
+        given-names: Renato A.
+        orcid: https://orcid.org/0000-0002-1048-0138
+      - family-names: Lima
+        given-names: Romullo Guimarães
+        orcid: https://orcid.org/0000-0001-9394-7997
+      - family-names: Lima
+        given-names: Nathália G. S.
+      - family-names: Linares
+        given-names: Cristina
+        orcid: https://orcid.org/0000-0003-3855-2743
+      - family-names: Lindstrom
+        given-names: Sandra C.
+        orcid: https://orcid.org/0000-0001-5838-8595
+      - family-names: Lloret
+        given-names: Francisco
+        orcid: https://orcid.org/0000-0002-9836-4069
+      - family-names: Lloyd
+        given-names: John David
+        orcid: https://orcid.org/0000-0002-9143-3789
+      - family-names: Lobato
+        given-names: Cleonice Maria Cardoso
+        orcid: https://orcid.org/0000-0001-7306-2569
+      - family-names: Lodge
+        given-names: David M.
+        orcid: https://orcid.org/0009-0008-1287-2611
+      - family-names: Long
+        given-names: Peter Richard
+        orcid: https://orcid.org/0000-0003-1535-6141
+      - family-names: López‐Abbate
+        given-names: Celeste
+        orcid: https://orcid.org/0000-0003-0264-5833
+      - family-names: López‐Baucells
+        given-names: Adrià
+        orcid: https://orcid.org/0000-0001-8446-0108
+      - family-names: Louzada
+        given-names: Julio
+        orcid: https://orcid.org/0000-0002-1481-3112
+      - family-names: Louzao
+        given-names: Maite
+        orcid: https://orcid.org/0000-0002-9997-5144
+      - family-names: Lugliè
+        given-names: Antonella
+        orcid: https://orcid.org/0000-0001-6382-4208
+      - family-names: Luiz
+        given-names: Micheli Ribeiro
+        orcid: https://orcid.org/0000-0003-2169-9394
+      - family-names: Macdonald
+        given-names: S. Ellen
+        orcid: https://orcid.org/0000-0003-1750-1779
+      - family-names: Madin
+        given-names: Joshua S.
+        orcid: https://orcid.org/0000-0002-5005-6227
+      - family-names: Magalhães
+        given-names: André Lincoln Barroso
+        orcid: https://orcid.org/0000-0002-9463-1836
+      - family-names: Mahabir
+        given-names: Rajindra
+      - family-names: Maphisa
+        given-names: David
+        orcid: https://orcid.org/0000-0002-2248-5606
+      - family-names: Martin
+        given-names: Thomas Edward
+        orcid: https://orcid.org/0000-0003-2347-982X
+      - family-names: Martins
+        given-names: Marcio
+        orcid: https://orcid.org/0000-0001-8108-6309
+      - family-names: Martone
+        given-names: Patrick T.
+        orcid: https://orcid.org/0000-0002-6345-1023
+      - family-names: Matesanz
+        given-names: Silvia
+        orcid: https://orcid.org/0000-0003-0060-6136
+      - family-names: Matsuzaki
+        given-names: Shin‐ichiro S.
+        orcid: https://orcid.org/0000-0003-2744-1343
+      - family-names: Matthews
+        given-names: Thomas J.
+        orcid: https://orcid.org/0000-0002-7624-244X
+      - family-names: Matthews
+        given-names: Iain McCombe
+      - family-names: Maxwell
+        given-names: Connie J.
+        orcid: https://orcid.org/0009-0006-9137-9918
+      - family-names: McFarland
+        given-names: Kent P.
+        orcid: https://orcid.org/0000-0001-7809-5503
+      - family-names: McGill
+        given-names: Brian J.
+        orcid: https://orcid.org/0000-0002-0850-1913
+      - family-names: McKnight
+        given-names: Diane Marie
+        orcid: https://orcid.org/0000-0002-4171-1533
+      - family-names: McWilliam
+        given-names: Michael J.
+        orcid: https://orcid.org/0000-0001-5748-0859
+      - family-names: Meador
+        given-names: Jason
+      - family-names: Meesenburg
+        given-names: Henning
+        orcid: https://orcid.org/0000-0002-3035-4737
+      - family-names: Meier
+        given-names: Kristin
+        orcid: https://orcid.org/0009-0003-1966-9679
+      - family-names: Melecis
+        given-names: Viesturs
+        orcid: https://orcid.org/0000-0001-6933-7910
+      - family-names: Meserve
+        given-names: Peter L.
+        orcid: https://orcid.org/0000-0003-2679-0285
+      - family-names: Meyer
+        given-names: Christoph F. J.
+        orcid: https://orcid.org/0000-0001-9958-8913
+      - family-names: Michelsen
+        given-names: Anders
+        orcid: https://orcid.org/0000-0002-9541-8658
+      - family-names: Miiller
+        given-names: Natali Oliva Roman
+        orcid: https://orcid.org/0000-0003-0731-3088
+      - family-names: Milardi
+        given-names: Marco
+        orcid: https://orcid.org/0000-0001-6104-294X
+      - family-names: Milchakova
+        given-names: Nataliya
+        orcid: https://orcid.org/0000-0001-5407-7706
+      - family-names: Miller
+        given-names: Robert J.
+        orcid: https://orcid.org/0000-0002-8350-3759
+      - family-names: Millett
+        given-names: Jonathan
+        orcid: https://orcid.org/0000-0003-4701-3071
+      - family-names: Moens
+        given-names: Tom
+        orcid: https://orcid.org/0000-0001-6544-9210
+      - family-names: Montag
+        given-names: Luciano F. A.
+        orcid: https://orcid.org/0000-0001-9370-6747
+      - family-names: Moore
+        given-names: Jon
+        orcid: https://orcid.org/0000-0001-5592-3214
+      - family-names: Müller
+        given-names: Jörg
+        orcid: https://orcid.org/0000-0002-1409-1586
+      - family-names: Murali
+        given-names: Akhil
+        orcid: https://orcid.org/0000-0001-6149-6458
+      - family-names: Murray
+        given-names: Shauna Ann
+        orcid: https://orcid.org/0000-0001-7096-1307
+      - family-names: Myers‐Smith
+        given-names: Isla H.
+        orcid: https://orcid.org/0000-0002-8417-6112
+      - family-names: Myster
+        given-names: Randall W.
+      - family-names: Nakamura
+        given-names: Masahiro
+        orcid: https://orcid.org/0000-0002-9909-3977
+      - family-names: Nayar
+        given-names: Sasi
+        orcid: https://orcid.org/0000-0002-3730-6682
+      - family-names: Neat
+        given-names: Francis
+        orcid: https://orcid.org/0000-0003-0077-9088
+      - family-names: Nelson
+        given-names: James A.
+        orcid: https://orcid.org/0000-0003-4607-3953
+      - family-names: Nelson
+        given-names: Michael Paul
+      - family-names: Nikolov
+        given-names: Boris P.
+        orcid: https://orcid.org/0000-0001-8818-8607
+      - family-names: Nouioua
+        given-names: Rym
+        orcid: https://orcid.org/0000-0002-6023-9369
+      - family-names: Nsor
+        given-names: Collins Ayine
+        orcid: https://orcid.org/0000-0002-9516-7422
+      - family-names: O'Connor
+        given-names: Michael
+        orcid: https://orcid.org/0000-0003-0880-0486
+      - family-names: Obodai
+        given-names: Edward Adzesiwor
+      - family-names: Offland
+        given-names: Amy Marie
+      - family-names: Ogaya
+        given-names: Romà
+        orcid: https://orcid.org/0000-0003-4927-8479
+      - family-names: Ogura
+        given-names: Hisako
+      - family-names: Okey
+        given-names: Thomas A.
+        orcid: https://orcid.org/0000-0002-2556-0587
+      - family-names: Olden
+        given-names: Julian D.
+        orcid: https://orcid.org/0000-0003-2143-1187
+      - family-names: Oliveira‐Santos
+        given-names: Luiz Gustavo Rodrigues
+        orcid: https://orcid.org/0000-0001-9632-5173
+      - family-names: Oliver
+        given-names: Jeffrey C.
+        orcid: https://orcid.org/0000-0003-2160-1086
+      - family-names: Olsen
+        given-names: Esben Moland
+        orcid: https://orcid.org/0000-0003-3807-7524
+      - family-names: Onipchenko
+        given-names: Vladimir G.
+        orcid: https://orcid.org/0000-0002-1626-1171
+      - family-names: Oro
+        given-names: Daniel
+        orcid: https://orcid.org/0000-0003-4782-3007
+      - family-names: Ozolins
+        given-names: Davis
+        orcid: https://orcid.org/0000-0003-3752-2040
+      - family-names: Pabis
+        given-names: Krzysztof
+        orcid: https://orcid.org/0000-0002-9625-3453
+      - family-names: Padedda
+        given-names: Bachisio Mario
+        orcid: https://orcid.org/0000-0002-0988-5613
+      - family-names: Palacio
+        given-names: Facundo X.
+        orcid: https://orcid.org/0000-0002-6536-1400
+      - family-names: Paquette
+        given-names: Alain
+        orcid: https://orcid.org/0000-0003-1048-9674
+      - family-names: Pardede
+        given-names: Sinta Trilestari
+      - family-names: Paterson
+        given-names: David M.
+        orcid: https://orcid.org/0000-0003-1174-6476
+      - family-names: Pausina
+        given-names: Sarah
+        orcid: https://orcid.org/0000-0001-7845-0296
+      - family-names: Pélissier
+        given-names: Raphaël
+        orcid: https://orcid.org/0000-0003-4845-5090
+      - family-names: Pennings
+        given-names: Steven C.
+        orcid: https://orcid.org/0000-0003-4757-7125
+      - family-names: Penuelas
+        given-names: Josep
+        orcid: https://orcid.org/0000-0002-7215-0150
+      - family-names: Pereira
+        given-names: Felipe Walter
+        orcid: https://orcid.org/0000-0002-0888-8804
+      - family-names: Peroni
+        given-names: Nivaldo
+        orcid: https://orcid.org/0000-0002-6770-5377
+      - family-names: Picó
+        given-names: Sergio
+        orcid: https://orcid.org/0000-0002-4016-4670
+      - family-names: Pilotto
+        given-names: Francesca
+        orcid: https://orcid.org/0000-0003-1848-3154
+      - family-names: Pinheiro
+        given-names: Hudson Tercio
+        orcid: https://orcid.org/0000-0002-3143-1474
+      - family-names: Pizarro
+        given-names: Oscar
+        orcid: https://orcid.org/0000-0001-6612-2738
+      - family-names: Pizzolotto
+        given-names: Roberto
+        orcid: https://orcid.org/0000-0002-4587-3476
+      - family-names: Pomati
+        given-names: Francesco
+        orcid: https://orcid.org/0000-0002-9746-3735
+      - family-names: Pompeu
+        given-names: Paulo Santos
+        orcid: https://orcid.org/0000-0002-7938-1517
+      - family-names: Ponton
+        given-names: Dominique
+        orcid: https://orcid.org/0000-0003-2313-2543
+      - family-names: Post
+        given-names: Eric
+        orcid: https://orcid.org/0000-0002-9471-5351
+      - family-names: Poulet
+        given-names: Nicolas
+        orcid: https://orcid.org/0000-0002-5611-0749
+      - family-names: Pöyry
+        given-names: Juha
+        orcid: https://orcid.org/0000-0002-5548-1046
+      - family-names: Presley
+        given-names: Steven J.
+        orcid: https://orcid.org/0000-0002-5987-0735
+      - family-names: Prins
+        given-names: Herbert H. T.
+        orcid: https://orcid.org/0000-0003-1131-5107
+      - family-names: Provoost
+        given-names: Pieter
+        orcid: https://orcid.org/0000-0002-4236-0384
+      - family-names: Prudic
+        given-names: Kathleen L.
+        orcid: https://orcid.org/0000-0001-8242-7769
+      - family-names: Punjayil
+        given-names: Vignesh
+        orcid: https://orcid.org/0009-0004-7194-0259
+      - family-names: Pyšek
+        given-names: Petr
+        orcid: https://orcid.org/0000-0001-8500-442X
+      - family-names: Querner
+        given-names: Pascal
+        orcid: https://orcid.org/0000-0002-3537-0699
+      - family-names: Quimbayo
+        given-names: Juan Pablo
+        orcid: https://orcid.org/0000-0001-5346-3488
+      - family-names: Ramnarine
+        given-names: Indar W.
+      - family-names: Reed
+        given-names: Daniel C.
+        orcid: https://orcid.org/0000-0003-3015-8717
+      - family-names: Reich
+        given-names: Peter Bernard
+        orcid: https://orcid.org/0000-0003-4424-662X
+      - family-names: Remillard
+        given-names: Suzanne M.
+        orcid: https://orcid.org/0000-0002-0365-8866
+      - family-names: Richards
+        given-names: Cerren
+        orcid: https://orcid.org/0000-0003-0047-8023
+      - family-names: Richardson
+        given-names: Anthony James
+        orcid: https://orcid.org/0000-0002-9289-7366
+      - family-names: van Rijn
+        given-names: Itai
+      - family-names: Rivera‐Monroy
+        given-names: Victor H.
+        orcid: https://orcid.org/0000-0003-2804-4139
+      - family-names: Rixen
+        given-names: Christian
+        orcid: https://orcid.org/0000-0002-2486-9988
+      - family-names: Robinson
+        given-names: Kevin Peter
+        orcid: https://orcid.org/0000-0001-8085-9752
+      - family-names: Rocha
+        given-names: Ricardo
+        orcid: https://orcid.org/0000-0003-2757-7347
+      - family-names: Rodrigues
+        given-names: Ricardo R.
+        orcid: https://orcid.org/0000-0003-4818-0736
+      - family-names: Rodrigues
+        given-names: Cassy
+        orcid: https://orcid.org/0000-0002-6052-8910
+      - family-names: de Roos
+        given-names: Bjørn
+      - family-names: de Rossa‐Feres
+        given-names: Denise de C.
+        orcid: https://orcid.org/0000-0002-4537-9064
+      - family-names: Rosselli
+        given-names: Loreta
+        orcid: https://orcid.org/0000-0001-9306-8415
+      - family-names: Rothlisberg
+        given-names: Peter Charles
+        orcid: https://orcid.org/0000-0001-5632-5996
+      - family-names: Rubio
+        given-names: Ana
+        orcid: https://orcid.org/0000-0002-3943-3685
+      - family-names: Rudstam
+        given-names: Lars G.
+        orcid: https://orcid.org/0000-0002-3732-6368
+      - family-names: Ruz
+        given-names: Catalina S.
+        orcid: https://orcid.org/0000-0003-0379-8081
+      - family-names: Rybicki
+        given-names: Nancy B.
+        orcid: https://orcid.org/0000-0002-2205-7927
+      - family-names: Van Ryckegem
+        given-names: Gunther
+        orcid: https://orcid.org/0000-0001-8788-0001
+      - family-names: Rypel
+        given-names: Andrew L.
+        orcid: https://orcid.org/0000-0002-9812-8306
+      - family-names: Sadler
+        given-names: Jon P.
+        orcid: https://orcid.org/0000-0003-0443-4458
+      - family-names: Saito
+        given-names: Victor Satoru
+        orcid: https://orcid.org/0000-0001-6112-7249
+      - family-names: Sal
+        given-names: Sofia
+      - family-names: Salomão
+        given-names: Renato Portela
+        orcid: https://orcid.org/0000-0001-9826-7472
+      - family-names: Sanders
+        given-names: Nathan J.
+        orcid: https://orcid.org/0000-0001-6220-6731
+      - family-names: Santos
+        given-names: Flavio A. M.
+        orcid: https://orcid.org/0000-0002-4329-6214
+      - family-names: dos Santos
+        given-names: Tiago Gomes
+        orcid: https://orcid.org/0000-0003-4298-5656
+      - family-names: Sarker
+        given-names: Swapan Kumar
+        orcid: https://orcid.org/0000-0002-9933-0493
+      - family-names: Scanga
+        given-names: Sara E.
+        orcid: https://orcid.org/0000-0003-4022-4167
+      - family-names: Schaub
+        given-names: Marcus
+        orcid: https://orcid.org/0000-0002-0158-8892
+      - family-names: Schmidt
+        given-names: Jochen
+        orcid: https://orcid.org/0000-0002-1337-7304
+      - family-names: Schmidt
+        given-names: Inger Kappel
+        orcid: https://orcid.org/0000-0003-3880-2060
+      - family-names: Schooley
+        given-names: Robert L.
+        orcid: https://orcid.org/0000-0001-5951-2340
+      - family-names: Schultz
+        given-names: Alfred
+      - family-names: Scotti
+        given-names: Alberto
+        orcid: https://orcid.org/0000-0002-5861-7551
+      - family-names: Serpell‐Stevens
+        given-names: Amanda
+        orcid: https://orcid.org/0009-0009-1153-3033
+      - family-names: Serrano
+        given-names: Filipe C.
+        orcid: https://orcid.org/0000-0002-8568-678X
+      - family-names: Shadwick
+        given-names: Elizabeth H.
+        orcid: https://orcid.org/0000-0003-4008-3333
+      - family-names: Shaft
+        given-names: Matthew
+      - family-names: Sherry
+        given-names: Thomas W.
+        orcid: https://orcid.org/0000-0002-5602-2626
+      - family-names: Shimabukuro
+        given-names: Erika Mayumi
+        orcid: https://orcid.org/0000-0001-8377-1844
+      - family-names: Siciński
+        given-names: Jacek
+        orcid: https://orcid.org/0000-0002-5235-3188
+      - family-names: Sievers
+        given-names: Caya
+      - family-names: da Silva
+        given-names: Fernando Rodrigues
+        orcid: https://orcid.org/0000-0002-0983-3207
+      - family-names: da Silva
+        given-names: Ana Carolina
+        orcid: https://orcid.org/0000-0002-1285-640X
+      - family-names: Silveira
+        given-names: Juliana M.
+        orcid: https://orcid.org/0000-0001-6045-2138
+      - family-names: Siqueira
+        given-names: Tadeu
+        orcid: https://orcid.org/0000-0001-5069-2904
+      - family-names: Sivadasan
+        given-names: Arunkumar Kavidapadinjattathil
+        orcid: https://orcid.org/0009-0003-8261-6094
+      - family-names: Sivan
+        given-names: Prasad Theruvil Parambil
+        orcid: https://orcid.org/0000-0003-1943-6683
+      - family-names: Skuja
+        given-names: Agnija
+        orcid: https://orcid.org/0000-0003-2653-1144
+      - family-names: Slaughter
+        given-names: Amalia L.
+      - family-names: Slingsby
+        given-names: Jasper A.
+        orcid: https://orcid.org/0000-0003-1246-1181
+      - family-names: Smith
+        given-names: Joseph R.
+      - family-names: Soares
+        given-names: Bruno Eleres
+        orcid: https://orcid.org/0000-0001-5678-0403
+      - family-names: Solan
+        given-names: Martin
+        orcid: https://orcid.org/0000-0001-9924-5574
+      - family-names: Souza
+        given-names: Flaviana Maluf
+        orcid: https://orcid.org/0000-0002-6162-7849
+      - family-names: Souza
+        given-names: Gabriel B. G.
+        orcid: https://orcid.org/0000-0002-1770-8924
+      - family-names: Sprague
+        given-names: Joshua L.
+      - family-names: Stachow
+        given-names: Ulrich
+        orcid: https://orcid.org/0000-0003-0406-0812
+      - family-names: Stadt
+        given-names: J. John
+        orcid: https://orcid.org/0000-0003-3398-5646
+      - family-names: Stallings
+        given-names: Christopher D.
+        orcid: https://orcid.org/0000-0002-3410-4540
+      - family-names: Stanchev
+        given-names: Radoslav Hristov
+      - family-names: Stanley
+        given-names: Emily H.
+        orcid: https://orcid.org/0000-0003-4922-8121
+      - family-names: Starzomski
+        given-names: Brian M.
+        orcid: https://orcid.org/0000-0001-5017-5405
+      - family-names: Sterza
+        given-names: Jose Mauro
+      - family-names: Stevens
+        given-names: Maarten
+        orcid: https://orcid.org/0000-0003-2251-2878
+      - family-names: Stiles
+        given-names: F. Gary
+        orcid: https://orcid.org/0000-0003-2044-3733
+      - family-names: Stoll
+        given-names: Stefan
+        orcid: https://orcid.org/0000-0002-3656-417X
+      - family-names: Stuart‐Smith
+        given-names: Rick D.
+        orcid: https://orcid.org/0000-0002-8874-0083
+      - family-names: Súarez
+        given-names: Yzel Rondon
+        orcid: https://orcid.org/0000-0003-1226-4321
+      - family-names: Super
+        given-names: Laura
+        orcid: https://orcid.org/0000-0002-5259-8708
+      - family-names: Supp
+        given-names: Sarah R.
+        orcid: https://orcid.org/0000-0002-0072-029X
+      - family-names: Sutela
+        given-names: Tapio
+        orcid: https://orcid.org/0000-0003-4227-9399
+      - family-names: Suthers
+        given-names: Iain M.
+        orcid: https://orcid.org/0000-0002-9340-7461
+      - family-names: Suuronen
+        given-names: Anna
+      - family-names: Swadling
+        given-names: Kerrie M.
+        orcid: https://orcid.org/0000-0002-7620-841X
+      - family-names: Szydlowski
+        given-names: Daniel K.
+        orcid: https://orcid.org/0000-0003-3920-8776
+      - family-names: Taki
+        given-names: Hisatomo
+        orcid: https://orcid.org/0000-0002-2399-0049
+      - family-names: Taylor
+        given-names: Sara Jeanne Snell
+        orcid: https://orcid.org/0000-0002-0353-9613
+      - family-names: Tedesco
+        given-names: Pablo A.
+        orcid: https://orcid.org/0000-0001-5972-5928
+      - family-names: Teichert
+        given-names: Nils
+        orcid: https://orcid.org/0000-0002-8873-9613
+      - family-names: Terui
+        given-names: Akira
+        orcid: https://orcid.org/0000-0003-3774-2844
+      - family-names: Thiede
+        given-names: Gary P.
+        orcid: https://orcid.org/0009-0003-2382-7641
+      - family-names: Thimonier
+        given-names: Anne
+        orcid: https://orcid.org/0000-0002-4685-1957
+      - family-names: Thomas
+        given-names: Oliver
+        orcid: https://orcid.org/0000-0002-3443-2149
+      - family-names: Thompson
+        given-names: Peter Allan
+        orcid: https://orcid.org/0000-0002-9504-5433
+      - family-names: Thorn
+        given-names: Simon
+        orcid: https://orcid.org/0000-0002-3062-3060
+      - family-names: Tiemann
+        given-names: Jeremy S.
+        orcid: https://orcid.org/0000-0001-7635-1403
+      - family-names: Toledo
+        given-names: Luís Felipe
+        orcid: https://orcid.org/0000-0002-4929-9598
+      - family-names: Tolvanen
+        given-names: Anne
+        orcid: https://orcid.org/0000-0002-5304-7510
+      - family-names: Toniato
+        given-names: Maria Teresa Zugliani
+      - family-names: Torre
+        given-names: Ignasi
+        orcid: https://orcid.org/0000-0002-4803-9524
+      - family-names: Tortato
+        given-names: Marcos Adriano
+        orcid: https://orcid.org/0000-0003-4928-5150
+      - family-names: Totsu
+        given-names: Kumiko
+        orcid: https://orcid.org/0009-0004-0192-3904
+      - family-names: Trant
+        given-names: Andrew
+        orcid: https://orcid.org/0000-0003-3030-530X
+      - family-names: Twilley
+        given-names: Robert R.
+        orcid: https://orcid.org/0000-0002-6173-6033
+      - family-names: Urabe
+        given-names: Hirokazu
+        orcid: https://orcid.org/0000-0002-7771-6037
+      - family-names: Valade
+        given-names: Pierre
+        orcid: https://orcid.org/0000-0001-9744-6153
+      - family-names: Valdivia
+        given-names: Nelson
+        orcid: https://orcid.org/0000-0002-5394-2072
+      - family-names: Vallejo
+        given-names: Martha Isabel
+        orcid: https://orcid.org/0000-0003-1864-1052
+      - family-names: Valone
+        given-names: Thomas J.
+        orcid: https://orcid.org/0000-0002-7657-3126
+      - family-names: Vanaverbeke
+        given-names: Jan
+        orcid: https://orcid.org/0000-0003-2488-8609
+      - family-names: Vasconcelos
+        given-names: Tiago Silveira
+        orcid: https://orcid.org/0000-0002-5762-0513
+      - family-names: Vehanen
+        given-names: Teppo
+        orcid: https://orcid.org/0000-0003-3441-6787
+      - family-names: Venturoli
+        given-names: Fábio
+        orcid: https://orcid.org/0000-0002-2105-5081
+      - family-names: Verheye
+        given-names: Hans M.
+        orcid: https://orcid.org/0000-0002-3110-5695
+      - family-names: Vermeulen
+        given-names: Hendrik Jannes Wietse
+      - family-names: Verstraeten
+        given-names: Arne
+        orcid: https://orcid.org/0000-0002-8813-1261
+      - family-names: Vianna
+        given-names: Marcelo
+        orcid: https://orcid.org/0000-0001-5871-8152
+      - family-names: Vieira
+        given-names: Rui
+        orcid: https://orcid.org/0000-0001-8491-2565
+      - family-names: Vieira‐Alencar
+        given-names: João Paulo Santos
+        orcid: https://orcid.org/0000-0001-6894-6773
+      - family-names: Vilella
+        given-names: Marc
+        orcid: https://orcid.org/0000-0002-0732-0985
+      - family-names: Vitule
+        given-names: Jean Ricardo Simões
+        orcid: https://orcid.org/0000-0001-6543-7439
+      - family-names: Van Vu
+        given-names: Lien
+        orcid: https://orcid.org/0000-0003-2389-9402
+      - family-names: Waide
+        given-names: Robert B.
+        orcid: https://orcid.org/0000-0001-8127-8634
+      - family-names: Warren
+        given-names: Paige S.
+        orcid: https://orcid.org/0000-0003-0787-4635
+      - family-names: Wayman
+        given-names: Joseph Paul
+        orcid: https://orcid.org/0000-0002-3122-8070
+      - family-names: Webb
+        given-names: Sara L.
+      - family-names: Weigel
+        given-names: Benjamin
+        orcid: https://orcid.org/0000-0003-2302-5529
+      - family-names: Welti
+        given-names: Ellen A. R.
+        orcid: https://orcid.org/0000-0001-6944-3422
+      - family-names: West
+        given-names: Fritha
+        orcid: https://orcid.org/0009-0005-8930-5357
+      - family-names: Westermann
+        given-names: Fulgor
+      - family-names: Whalen
+        given-names: Matthew A.
+        orcid: https://orcid.org/0000-0002-5262-6131
+      - family-names: White
+        given-names: Ethan P.
+        orcid: https://orcid.org/0000-0001-6728-7745
+      - family-names: Widdicombe
+        given-names: Claire E.
+        orcid: https://orcid.org/0000-0002-1688-0212
+      - family-names: Williams
+        given-names: Richard
+      - family-names: Williamson
+        given-names: Mark
+      - family-names: Willig
+        given-names: Michael R.
+        orcid: https://orcid.org/0000-0001-6884-9957
+      - family-names: Wipf
+        given-names: Sonja
+        orcid: https://orcid.org/0000-0002-3492-1399
+      - family-names: Woehler
+        given-names: Eric J.
+        orcid: https://orcid.org/0000-0002-1125-0748
+      - family-names: Woldering
+        given-names: Alje
+      - family-names: Woods
+        given-names: Kerry D.
+        orcid: https://orcid.org/0000-0003-1029-6995
+      - family-names: Xu
+        given-names: Wu‐Bing
+        orcid: https://orcid.org/0000-0002-6566-4452
+      - family-names: Yahel
+        given-names: Ruthy
+        orcid: https://orcid.org/0000-0001-5408-8480
+      - family-names: Yang
+        given-names: Zeren
+      - family-names: Zawada
+        given-names: Kyle J. A.
+        orcid: https://orcid.org/0000-0002-4587-8138
+      - family-names: Zornosa‐Torres
+        given-names: Camila
+        orcid: https://orcid.org/0000-0001-7149-6611
+      - family-names: Zvuloni
+        given-names: Assaf
+    doi: 10.1111/geb.70003
+    identifiers:
+      - type: doi
+        value: 10.1111/geb.70003
+      - type: url
+        value: http://dx.doi.org/10.1111/geb.70003
+      - type: other
+        value: urn:issn:1466-822X
+    title: 'BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series'
+    url: http://dx.doi.org/10.1111/geb.70003
+    database: Crossref
+    date-published: 2025-05-01
+    year: 2025
+    month: 5
+    issn: 1466-822X
+    issue: '5'
+    journal: Global Ecology and Biogeography
+    languages:
+      - en
+    publisher:
+      name: Wiley
+    type: article
+    volume: '34'
+    notes: concat_authors

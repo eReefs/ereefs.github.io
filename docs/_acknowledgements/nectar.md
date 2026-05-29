@@ -6,7 +6,7 @@ logo_url_light: /assets/images/partners/Nectar-logo.svg
 in_kind_end: '2026-06-30'
 in_kind_start: '2014-01-16'
 ---
-Web hosting for the [*eReefs* Data Explorer](https://portal.ereefs.info/map) and related web application has been supported by the Nectar Research Cloud and by the [Queensland Cyber Infrastructure Foundation (QCIF)](https://www.qcif.edu.au/) and [Monash University](https://research.monash.edu/en/equipments/research-cloud) Nectar node operators since 2014.
+Web hosting for the [*eReefs* Data Explorer](https://portal.ereefs.org.au/map) and related web application has been supported by the Nectar Research Cloud and by the [Queensland Cyber Infrastructure Foundation (QCIF)](https://www.qcif.edu.au/) and [Monash University](https://research.monash.edu/en/equipments/research-cloud) Nectar node operators since 2014.
 
 The Nectar Research Cloud is a collaborative Australian research platform supported by the [NCRIS](https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris)-funded [Australian Research Data Commons](http://ardc.edu.au/) (ARDC).
 
