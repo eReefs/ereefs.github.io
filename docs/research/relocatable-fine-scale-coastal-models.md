@@ -7,20 +7,31 @@ title: Relocatable Coastal Modelling (RECOM)
 
 The RElocatable COastal Model (RECOM) is an interactive web based modelling tool developed by CSIRO. It allows users to define a fine-scale resolution grid in a local area of interest and is driven by the larger scale GBR4 and GBR1 models. It is full featured in terms of running the hydrodynamics, sediment transport and BGC models. Custom data, such as bathymetry, coastlines and flow data may be supplied by the user. The higher resolution (~100's of m) of the grids enables the model to capture more of the local dynamics that may be missing from the broader regional models.
 
-In the previous eReefs project, it has mostly been used as an offshore downscaling tool. [Here are some previous applications of RECOM](https://research.csiro.au/ereefs/models/models-about/recom/)
-
 The current phase of eReefs aims to extend RECOM to nearshore coastal and estuarine applications, with the ability to define the riverine features more accurately.
 
+The [RECOM web application](https://recom.ereefs.org.au/) is used to generate model grids and RECOM EMS Model Workspaces that use those grids:
 
 <figure>
     <img src="/assets/images/research/eReefs-RECOMv3.png" title="A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns" alt="A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns">
     <figcaption>
-        A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns
+        A screenshot of the RECOM3 web application showing the grid-generation interface for a fine-scale resolution grid off the coast of Cairns
     </figcaption>
 </figure>
 
+The RECOM workspaces must then be downloaded to a high-performance compute environment which is co-located with the RECOM forcing datasets to run the model.
+
+Earlier versions of RECOM were able to run small RECOM instances directly from the RECOM web application, but we are no longer able to provide compute resources for that purpose.
+
+# Who can use eReefs RECOM?
+
+Access to eReefs RECOM is restricted to authorised users who already have access to a supported compute environment.  At present, the only supported environment is [NCI Gadi](https://nci.org.au/infrastructure/hpc-systems), so all RECOM users must qualify for an [NCI Access Scheme](https://nci.org.au/users/how-access-nci).
+
+- If you are an existing RECOM user then you can [access the RECOM Grid Generation and Workspace Generation tools here](https://recom.ereefs.org.au/).
+- If you would like to *become* a RECOM user and you already have NCI Gadi access, please [contact the eReefs team here](https://research.csiro.au/ereefs/contact/) to apply for eReefs RECOM access and advice.
+
 # eReefs RECOM Case Studies
 
+RECOM has historically been used mostly as an offshore downscaling tool. The case studies listed below demonstrate some of those applications:
 <div style="display: flex; gap: 2em;"><div style="flex: 1;" markdown="1">
 
 ##  Down-scaled Hydrodynamics
@@ -64,17 +75,3 @@ Baird, M. E., K. Wild-Allen, J. Parslow, M. Mongin, B. Robson, J. Skerratt, F. R
 Baird, M. E., M. Mongin, F. Rizwi, L. K. Bay, N. E. Cantin, M. Soja-Wozniak and J. Skerratt (2018) A mechanistic model of coral bleaching due to temperature-mediated light-driven reactive oxygen build-up in zooxanthellae. Ecol. Model 386: 20-37.
 
 &nbsp;
-
-# Who can access eReefs RECOM?
-
-Access to eReefs RECOM is currently restricted to Australian researchers who already have both an oceanography background and access to a supported High Performance Compute (HPC) environment.
-
-We restrict access to researchers with an oceanography background because (as with any scientific model), the quality of the results depends on the quality of the model configuration, and so RECOM modellers must have enough background knowledge to be able to provide appropriate parameter values for the location of your model, and the skill to determine whether your results are valid.  The eReefs team does not have the capacity to provide coaching to students or other novice oceanographers.
-
-We restrict access to researchers who already have access to a supported HPC environment because although RECOM models are much smaller in both spatial range and time-scale than the eReefs GBR4 and GBR1 models that they are forced by, running them requires local access to many terrabytes of forcing data and significant computing power.  The only HPC environment currently supported for eReefs RECOM is [NCI Gadi](https://nci.org.au/infrastructure/hpc-systems), and all RECOM users must have already been approved for access to a compute project on that system.  The eReefs team is not not able to facilitate access to that system on your behalf.
-
-Earlier versions of RECOM were able to run small RECOM instances directly within the RECOM web application, but changes in cloud storage costs and cybersecurity requirements mean that we are no longer able to offer that service.
-
-- If you are an existing RECOM user, then you can access the RECOM Grid Generation and Workspace Generation tools online [here](https://recom.ereefs.org.au/).
-- If you would like to *become* a RECOM user and you meet the requirements listed above, please [contact the eReefs team here](https://research.csiro.au/ereefs/contact/) to apply.
-- If you are interested in commissioning a custom high-resolution model for a spatial location on the GBR, then please also [contact the eReefs team here](https://research.csiro.au/ereefs/contact/), as new collaborative projects with expert RECOM users may be possible.
