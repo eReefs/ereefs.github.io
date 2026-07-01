@@ -1,27 +1,37 @@
 ---
 classes: wide
 title: Relocatable Coastal Modelling (RECOM)
-#toc: true
 ---
 
 # About RECOM
 
 The RElocatable COastal Model (RECOM) is an interactive web based modelling tool developed by CSIRO. It allows users to define a fine-scale resolution grid in a local area of interest and is driven by the larger scale GBR4 and GBR1 models. It is full featured in terms of running the hydrodynamics, sediment transport and BGC models. Custom data, such as bathymetry, coastlines and flow data may be supplied by the user. The higher resolution (~100's of m) of the grids enables the model to capture more of the local dynamics that may be missing from the broader regional models.
 
-In the previous eReefs project, it has mostly been used as an offshore downscaling tool. [Here are some previous applications of RECOM](https://research.csiro.au/ereefs/models/models-about/recom/)
-
 The current phase of eReefs aims to extend RECOM to nearshore coastal and estuarine applications, with the ability to define the riverine features more accurately.
 
+The [RECOM web application](https://recom.ereefs.org.au/) is used to generate model grids and RECOM EMS Model Workspaces that use those grids:
 
 <figure>
     <img src="/assets/images/research/eReefs-RECOMv3.png" title="A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns" alt="A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns">
     <figcaption>
-        A screenshot of RECOM generating a fine-scale resolution grid off the coast of Cairns
+        A screenshot of the RECOM3 web application showing the grid-generation interface for a fine-scale resolution grid off the coast of Cairns
     </figcaption>
 </figure>
 
+The RECOM workspaces must then be downloaded to a high-performance compute environment which is co-located with the RECOM forcing datasets to run the model.
+
+Earlier versions of RECOM were able to run small RECOM instances directly from the RECOM web application, but we are no longer able to provide compute resources for that purpose.
+
+# Who can use eReefs RECOM?
+
+Access to eReefs RECOM is restricted to authorised users who already have access to a supported compute environment.  At present, the only supported environment is [NCI Gadi](https://nci.org.au/infrastructure/hpc-systems), so all RECOM users must qualify for an [NCI Access Scheme](https://nci.org.au/users/how-access-nci).
+
+- If you are an existing RECOM user then you can [access the RECOM Grid Generation and Workspace Generation tools here](https://recom.ereefs.org.au/).
+- If you would like to *become* a RECOM user and you already have NCI Gadi access, please [contact the eReefs team here](https://research.csiro.au/ereefs/contact/) to apply for eReefs RECOM access and advice.
+
 # eReefs RECOM Case Studies
 
+RECOM has historically been used mostly as an offshore downscaling tool. The case studies listed below demonstrate some of those applications:
 <div style="display: flex; gap: 2em;"><div style="flex: 1;" markdown="1">
 
 ##  Down-scaled Hydrodynamics
@@ -63,3 +73,5 @@ Baird ME, Green R, Lowe R, Mongin M, Bougeot E (2020) Optimising cool-water inje
 Baird, M. E., K. Wild-Allen, J. Parslow, M. Mongin, B. Robson, J. Skerratt, F. Rizwi, M. Soja-Woźniak, E. Jones, M. Herzfeld, N. Margvelashvili, J. Andrewartha, C. Langlais, M. Adams, N. Cherukuru, S. Hadley, P. Ralph, T. Schroeder, A. Steven, U. Rosebrock, L. Laiolo, M. Gustafsson, and D. Harrison (2020). CSIRO Environmental Modelling Suite (EMS): Scientific description of the optical and biogeochemical models (vB3p0). Geoscientific Model Development.13:4503-4553.
 
 Baird, M. E., M. Mongin, F. Rizwi, L. K. Bay, N. E. Cantin, M. Soja-Wozniak and J. Skerratt (2018) A mechanistic model of coral bleaching due to temperature-mediated light-driven reactive oxygen build-up in zooxanthellae. Ecol. Model 386: 20-37.
+
+&nbsp;
