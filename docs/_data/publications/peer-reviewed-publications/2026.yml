@@ -34,3 +34,62 @@ references:
     publisher:
       name: Springer Science and Business Media LLC
     type: article
+
+  - authors:
+      - family-names: Waterhouse
+        given-names: J
+      - family-names: Lewis
+        given-names: S
+      - family-names: Mongin
+        given-names: M
+      - family-names: Skerratt
+        given-names: J
+      - family-names: Pineda
+        given-names: M-C
+      - family-names: McCloskey
+        given-names: G
+      - family-names: Darr
+        given-names: S
+      - family-names: Sambrook
+        given-names: K
+      - family-names: Bainbridge
+        given-names: Z
+    title: >-
+      Scientific Report on the Great Barrier Reef Water Quality Targets
+    url: https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0028/429904/gbr-water-quality-targets.pdf
+    date-published: 2026-06-03
+    year: 2026
+    pages: 169
+    publisher:
+      name: Commonwealth of Australia (Department of Climate Change, Energy, the Environment and Water)
+    type: report
+
+  - authors:
+      - family-names: Waterhouse
+        given-names: J
+      - family-names: Lewis
+        given-names: S
+      - family-names: Mongin
+        given-names: M
+      - family-names: Skerratt
+        given-names: J
+      - family-names: Pineda
+        given-names: M-C
+      - family-names: McCloskey
+        given-names: G
+      - family-names: Darr
+        given-names: S
+      - family-names: Sambrook
+        given-names: K
+      - family-names: Bainbridge
+        given-names: Z
+    title: >-
+      Scientific Report on the Great Barrier Reef Water Quality Targets: Supplementary Information
+    url: https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0027/429903/gbr-water-quality-targets-supplementary-information.pdf
+    date-published: 2026-06-03
+    year: 2026
+    pages: 169
+    publisher:
+      name: Commonwealth of Australia (Department of Climate Change, Energy, the Environment and Water)
+    type: report
+
