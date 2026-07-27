@@ -5,7 +5,6 @@ authors:
     given-names: S-H
 title: "References"
 references:
-
   - authors:
       - family-names: Clements
         given-names: Matthew
@@ -93,3 +92,44 @@ references:
       name: Commonwealth of Australia (Department of Climate Change, Energy, the Environment and Water)
     type: report
 
+  - authors:
+      - family-names: Aiken
+        given-names: Christopher M
+        orcid: https://orcid.org/0000-0003-4274-3235
+      - family-names: Baird
+        given-names: Mark
+        orcid: https://orcid.org/0000-0003-4955-2298
+      - family-names: Theobald
+        given-names: Emma J
+        orcid: https://orcid.org/0000-0003-1324-2909
+      - family-names: Rula
+        given-names: Najeen Arabelle M
+        orcid: https://orcid.org/0000-0002-5711-6034
+      - family-names: Kelly
+        given-names: Jo
+      - family-names: Jackson
+        given-names: Emma L
+        orcid: https://orcid.org/0000-0003-1708-4776
+    doi: 10.1007/s10666-026-10147-0
+    identifiers:
+      - type: doi
+        value: 10.1007/s10666-026-10147-0
+      - type: url
+        value: http://dx.doi.org/10.1007/s10666-026-10147-0
+      - type: other
+        value: urn:issn:1420-2026
+    title: >-
+      Site Selection for Seaweed Biofilters Installation within the Great Barrier
+      Reef World Heritage Area
+    url: http://dx.doi.org/10.1007/s10666-026-10147-0
+    database: Crossref
+    date-published: 2026-07-04
+    year: 2026
+    month: 7
+    issn: 1420-2026
+    journal: Environmental Modeling &amp; Assessment
+    languages:
+      - en
+    publisher:
+      name: Springer Science and Business Media LLC
+    type: article
